@@ -134,6 +134,11 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+# MythAtlas
+frontend/node_modules/
+frontend/dist/
+backend/.venv/
+
 # Environments
 .env
 .envrc

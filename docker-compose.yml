@@ -1,0 +1,59 @@
+services:
+  db:
+    build:
+      context: ./docker/db
+    image: mythatlas-db:16-pgvector-postgis
+    environment:
+      POSTGRES_USER: mythatlas
+      POSTGRES_PASSWORD: mythatlas
+      POSTGRES_DB: mythatlas
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U mythatlas -d mythatlas"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+      start_period: 15s
+
+  backend:
+    build:
+      context: ./backend
+    environment:
+      DATABASE_URL: postgresql+asyncpg://mythatlas:mythatlas@db:5432/mythatlas
+      ADMIN_TOKEN: ${ADMIN_TOKEN:-dev-admin-change-me}
+      CORS_ORIGINS: ${CORS_ORIGINS:-http://localhost,http://127.0.0.1,http://localhost:80,http://localhost:8080,http://127.0.0.1:8080,http://localhost:5173,http://127.0.0.1:5173}
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          'python -c "import urllib.request; urllib.request.urlopen(''http://127.0.0.1:8000/api/health'')"',
+        ]
+      interval: 5s
+      timeout: 5s
+      retries: 30
+      start_period: 120s
+
+  frontend:
+    build:
+      context: ./frontend
+      args:
+        VITE_API_BASE: /api
+    ports:
+      - "8080:80"
+    depends_on:
+      backend:
+        condition: service_started
+    restart: unless-stopped
+
+volumes:
+  pgdata:
