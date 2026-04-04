@@ -8,6 +8,7 @@ import {
 } from "three";
 import type { Lang, StoryLight } from "@/types";
 import { useElementSize } from "@/hooks/useElementSize";
+import { formatCountryForDisplay } from "@/utils/countryDisplay";
 
 type StoryMarkerData = StoryLight & {
   __size: number;
@@ -19,7 +20,6 @@ type Props = {
   selectedId: number | null;
   onSelect: (id: number) => void;
   onHover: (story: StoryLight | null) => void;
-  showLabels: boolean;
   showLines: boolean;
   highlightCountry: string | null;
   /** When true (e.g. story panel open), only the selected story’s marker is rendered. */
@@ -91,7 +91,6 @@ export function GlobeView({
   selectedId,
   onSelect,
   onHover,
-  showLabels,
   showLines,
   highlightCountry,
   isolateStoryMarker = false,
@@ -172,23 +171,7 @@ export function GlobeView({
         emojiWrap.appendChild(badge);
       }
 
-      if (showLabels) {
-        const cap = document.createElement("div");
-        cap.textContent = s.country;
-        cap.style.marginTop = "4px";
-        cap.style.fontSize = "10px";
-        cap.style.color = "rgba(226,232,240,0.92)";
-        cap.style.maxWidth = "120px";
-        cap.style.textAlign = "center";
-        cap.style.whiteSpace = "nowrap";
-        cap.style.overflow = "hidden";
-        cap.style.textOverflow = "ellipsis";
-        cap.style.textShadow = "0 0 8px rgba(0,0,0,0.9)";
-        el.appendChild(emojiWrap);
-        el.appendChild(cap);
-      } else {
-        el.appendChild(emojiWrap);
-      }
+      el.appendChild(emojiWrap);
 
       el.onmouseenter = () => {
         emoji.style.transform = "scale(1.12)";
@@ -210,7 +193,7 @@ export function GlobeView({
 
       return el;
     },
-    [onHover, onSelect, showLabels, zoomIntoCluster],
+    [onHover, onSelect, zoomIntoCluster],
   );
 
   const onGlobeReady = useCallback(() => {
@@ -280,7 +263,9 @@ export function GlobeView({
       {highlightCountry ? (
         <div className="pointer-events-none absolute left-1/2 top-6 z-10 -translate-x-1/2 text-center">
           <div className="glass-panel px-4 py-2 text-xs text-slate-100 md:text-sm">
-            <div className="font-medium tracking-wide text-sky-200/90">{highlightCountry}</div>
+            <div className="font-medium tracking-wide text-sky-200/90">
+              {formatCountryForDisplay(highlightCountry)}
+            </div>
           </div>
         </div>
       ) : null}

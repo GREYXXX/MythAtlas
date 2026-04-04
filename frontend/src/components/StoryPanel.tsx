@@ -1,5 +1,6 @@
 import type { ReactNode } from "react";
 import type { Lang, StoryFull } from "@/types";
+import { formatCountryForDisplay } from "@/utils/countryDisplay";
 
 type Props = {
   story: StoryFull | null;
@@ -100,7 +101,7 @@ export function StoryPanel({ story, lang, onClose, onLang, loading, error }: Pro
                   <span className="mr-1.5 normal-case tracking-normal text-slate-400" aria-hidden>
                     📍
                   </span>
-                  {story.country}
+                  {formatCountryForDisplay(story.country)}
                 </p>
               ) : null}
               {story?.tags?.length ? (

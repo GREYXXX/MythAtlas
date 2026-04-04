@@ -33,11 +33,9 @@ type Props = {
   lang: "en" | "zh";
   theme: ThemeKey;
   era: EraKey;
-  showLabels: boolean;
   showLines: boolean;
   onTheme: (t: ThemeKey) => void;
   onEra: (e: EraKey) => void;
-  onToggleLabels: (v: boolean) => void;
   onToggleLines: (v: boolean) => void;
 };
 
@@ -45,11 +43,9 @@ export function FilterBar({
   lang,
   theme,
   era,
-  showLabels,
   showLines,
   onTheme,
   onEra,
-  onToggleLabels,
   onToggleLines,
 }: Props) {
   const L = (o: { en: string; zh: string }) => (lang === "zh" ? o.zh : o.en);
@@ -90,8 +86,7 @@ export function FilterBar({
           ))}
         </div>
         <div className="ml-auto flex items-center gap-3 border-l border-slate-700/60 pl-3">
-          <Toggle label="Labels" lang={lang} value={showLabels} onChange={onToggleLabels} />
-          <Toggle label="Lines" lang={lang} value={showLines} onChange={onToggleLines} />
+          <Toggle lang={lang} value={showLines} onChange={onToggleLines} />
         </div>
       </div>
     </div>
@@ -99,24 +94,15 @@ export function FilterBar({
 }
 
 function Toggle({
-  label,
   lang,
   value,
   onChange,
 }: {
-  label: string;
   lang: "en" | "zh";
   value: boolean;
   onChange: (v: boolean) => void;
 }) {
-  const text =
-    label === "Labels"
-      ? lang === "zh"
-        ? "标签"
-        : "Labels"
-      : lang === "zh"
-        ? "经纬线"
-        : "Lines";
+  const text = lang === "zh" ? "经纬线" : "Lines";
   return (
     <label className="flex cursor-pointer items-center gap-2 text-[11px] text-slate-400">
       <span>{text}</span>

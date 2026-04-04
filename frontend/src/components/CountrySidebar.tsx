@@ -1,5 +1,6 @@
 import { useMemo, useState } from "react";
 import type { CountryGroup, Lang, StoryLight } from "@/types";
+import { formatCountryForDisplay } from "@/utils/countryDisplay";
 
 type Props = {
   groups: CountryGroup[];
@@ -56,7 +57,9 @@ export function CountrySidebar({
               }`}
             >
               <div className="flex items-center justify-between gap-2">
-                <span className="text-sm font-medium text-slate-100">{g.country}</span>
+                <span className="text-sm font-medium text-slate-100">
+                  {formatCountryForDisplay(g.country)}
+                </span>
                 <span className="text-xs tabular-nums text-sky-300/90">{g.count}</span>
               </div>
               <div className="mt-2 h-1.5 overflow-hidden rounded-full bg-slate-800/80">

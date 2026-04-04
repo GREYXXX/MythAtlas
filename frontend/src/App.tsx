@@ -26,7 +26,6 @@ export default function App() {
 
   const [theme, setTheme] = useState<ThemeKey>("all");
   const [era, setEra] = useState<EraKey>("all");
-  const [showLabels, setShowLabels] = useState(true);
   const [showLines, setShowLines] = useState(false);
 
   const [selectedId, setSelectedId] = useState<number | null>(null);
@@ -208,7 +207,6 @@ export default function App() {
             selectedId={selectedId}
             onSelect={(id) => void openStory(id)}
             onHover={setHoverStory}
-            showLabels={showLabels}
             showLines={showLines}
             highlightCountry={highlightCountry}
             isolateStoryMarker={storyPanelOpen}
@@ -221,11 +219,9 @@ export default function App() {
             lang={langUI}
             theme={theme}
             era={era}
-            showLabels={showLabels}
             showLines={showLines}
             onTheme={setTheme}
             onEra={setEra}
-            onToggleLabels={setShowLabels}
             onToggleLines={setShowLines}
           />
         </div>
