@@ -212,6 +212,7 @@ export default function App() {
             showLines={showLines}
             highlightCountry={highlightCountry}
             isolateStoryMarker={storyPanelOpen}
+            lang={langUI}
           />
         )}
 
