@@ -16,6 +16,7 @@ export default {
           "Microsoft YaHei",
           "sans-serif",
         ],
+        story: ['"Merriweather"', '"Noto Serif SC"', "Georgia", "Times New Roman", "serif"],
       },
       colors: {
         glass: "rgba(15, 23, 42, 0.55)",
