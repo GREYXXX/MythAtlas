@@ -8,13 +8,14 @@
 
 ## About MythAtlas
 
-MythAtlas treats **place** as the spine of narrative: a legend belongs somewhere—an island, a capital, a mountain pass—so you can **browse the planet** the way travelers swap stories. The app is for anyone mapping *how* cultures explain the world: gods, tricksters, founding heroes, seasonal rites, and moral tales passed down outside formal history books.
+MythAtlas is an interactive globe for exploring myths and folklore from around the world.
+Each story is tied to a real place—an island, a capital, a mountain pass—so you can discover legends geographically, like travelers sharing stories across cultures.
 
-Content is **stored bilingually** (English / Chinese) in the database when you provide both; the globe and filters help you narrow by **country**, **theme** (e.g. dragon, love, flood), and **era tag**, with optional **semantic search** when embeddings are enabled.
+Browse by country, theme (e.g. dragon, love, flood), or era, and read each story in both English and Chinese. With optional semantic search, you can also explore connections between stories across different cultures.
 
 ### Folklore examples (illustrative)
 
-The kinds of traditions MythAtlas is meant to hold—not an exhaustive list, and your live dataset depends on seeds and imports:
+The types of stories MythAtlas is designed to hold. This is not exhaustive—your live dataset will grow with imports and AI-generated content.
 
 | Tradition | Tale (short hook) |
 | --- | --- |
