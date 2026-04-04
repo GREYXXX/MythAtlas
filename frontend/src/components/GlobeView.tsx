@@ -1,5 +1,5 @@
 import Globe, { type GlobeMethods } from "react-globe.gl";
-import { useCallback, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import {
   LinearFilter,
   LinearMipmapLinearFilter,
@@ -9,6 +9,11 @@ import {
 import type { Lang, StoryLight } from "@/types";
 import { useElementSize } from "@/hooks/useElementSize";
 import { formatCountryForDisplay } from "@/utils/countryDisplay";
+import {
+  englishPlaceName,
+  filterPlacesForAltitude,
+  type NEPlaceFeature,
+} from "@/utils/cityLabels";
 
 type StoryMarkerData = StoryLight & {
   __size: number;
@@ -99,6 +104,7 @@ export function GlobeView({
   const { ref: setContainer, size } = useElementSize<HTMLDivElement>();
   const globeRef = useRef<GlobeMethods | undefined>(undefined);
   const [camAltitude, setCamAltitude] = useState(2.2);
+  const [cityFeatures, setCityFeatures] = useState<NEPlaceFeature[]>([]);
 
   const visibleStories = useMemo(() => {
     if (isolateStoryMarker && selectedId != null) {
@@ -112,6 +118,32 @@ export function GlobeView({
     const step = gridStepForAltitude(camAltitude);
     return clusterStoriesForLod(visibleStories, step);
   }, [visibleStories, isolateStoryMarker, camAltitude]);
+
+  useEffect(() => {
+    let cancelled = false;
+    (async () => {
+      try {
+        const res = await fetch("/data/ne_110m_populated_places_simple.geojson");
+        if (!res.ok) return;
+        const geo = (await res.json()) as { features?: NEPlaceFeature[] };
+        if (!cancelled && Array.isArray(geo.features)) {
+          setCityFeatures(geo.features.filter((f) => f?.properties?.latitude != null));
+        }
+      } catch {
+        /* ignore missing / network */
+      }
+    })();
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  const labelsData = useMemo(() => {
+    if (isolateStoryMarker || cityFeatures.length === 0) return [];
+    return filterPlacesForAltitude(cityFeatures, camAltitude).filter(
+      (f) => englishPlaceName(f.properties).length > 0,
+    );
+  }, [cityFeatures, camAltitude, isolateStoryMarker]);
 
   const data = useMemo(
     () =>
@@ -226,6 +258,24 @@ export function GlobeView({
         globeImageUrl={globeImageUrl}
         bumpImageUrl={bumpImageUrl}
         globeCurvatureResolution={2}
+        labelsData={labelsData}
+        labelLat={(d: object) => (d as NEPlaceFeature).properties.latitude}
+        labelLng={(d: object) => (d as NEPlaceFeature).properties.longitude}
+        labelText={(d: object) => englishPlaceName((d as NEPlaceFeature).properties)}
+        labelColor={() => "rgba(226, 232, 240, 0.78)"}
+        labelAltitude={0.004}
+        labelSize={(d: object) => {
+          const pop = (d as NEPlaceFeature).properties.pop_max;
+          const base = Math.sqrt(Math.max(pop, 1)) * 2.1e-4;
+          return Math.min(0.42, Math.max(0.07, base));
+        }}
+        labelDotRadius={(d: object) => {
+          const pop = (d as NEPlaceFeature).properties.pop_max;
+          return Math.min(0.12, Math.sqrt(Math.max(pop, 1)) * 1.1e-4);
+        }}
+        labelIncludeDot
+        labelResolution={2}
+        labelsTransitionDuration={380}
         showAtmosphere
         atmosphereColor="rgba(56,189,248,0.22)"
         atmosphereAltitude={0.18}
@@ -267,6 +317,19 @@ export function GlobeView({
               {formatCountryForDisplay(highlightCountry)}
             </div>
           </div>
+        </div>
+      ) : null}
+      {labelsData.length > 0 ? (
+        <div className="pointer-events-none absolute bottom-[5.25rem] left-2 z-[21] max-w-[11rem] font-sans text-[9px] leading-tight text-slate-600 md:bottom-[5.75rem] md:text-[10px]">
+          <a
+            href="https://www.naturalearthdata.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="pointer-events-auto text-slate-500 underline decoration-slate-700 underline-offset-2 hover:text-slate-400"
+          >
+            Natural Earth
+          </a>
+          <span className="text-slate-600"> — populated places (English names)</span>
         </div>
       ) : null}
     </div>
