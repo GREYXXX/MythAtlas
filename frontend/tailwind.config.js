@@ -16,7 +16,10 @@ export default {
           "Microsoft YaHei",
           "sans-serif",
         ],
-        story: ['"Merriweather"', '"Noto Serif SC"', "Georgia", "Times New Roman", "serif"],
+        /** Chinese-first body (UI language 中文) */
+        storyZh: ['"Noto Serif SC"', "Georgia", "Times New Roman", "serif"],
+        /** English body: Source Serif 4 for comfortable long-form reading; CJK falls back to Noto */
+        storyEn: ['"Source Serif 4"', '"Noto Serif SC"', "Georgia", "serif"],
       },
       colors: {
         glass: "rgba(15, 23, 42, 0.55)",

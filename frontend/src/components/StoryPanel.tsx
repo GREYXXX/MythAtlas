@@ -45,7 +45,7 @@ function linkifyText(text: string): ReactNode[] {
   return out.length ? out : [text];
 }
 
-function StoryProse({ text }: { text: string }) {
+function StoryProse({ text, lang }: { text: string; lang: Lang }) {
   const blocks = text
     .trim()
     .split(/\n\s*\n/)
@@ -56,13 +56,15 @@ function StoryProse({ text }: { text: string }) {
     return null;
   }
 
+  const isEn = lang === "en";
+  const bodyClass = isEn
+    ? "font-storyEn text-[0.9375rem] font-normal leading-[1.72] tracking-[0.01em] text-slate-200/95 md:text-[1.0625rem] whitespace-pre-line text-pretty"
+    : "font-storyZh text-[0.9375rem] font-normal leading-[1.65] tracking-[0.01em] text-slate-200/95 md:text-base whitespace-pre-line";
+
   return (
     <div className="space-y-4 border-t border-slate-800/90 pt-5">
       {blocks.map((block, i) => (
-        <p
-          key={i}
-          className="font-story text-[0.9375rem] font-normal leading-[1.65] tracking-[0.01em] text-slate-200/95 md:text-base"
-        >
+        <p key={i} className={bodyClass} lang={isEn ? "en" : "zh-CN"}>
           {linkifyText(block)}
         </p>
       ))}
@@ -132,7 +134,7 @@ export function StoryPanel({ story, lang, onClose, onLang, loading, error }: Pro
             {error}
           </div>
         ) : (
-          <StoryProse text={body} />
+          <StoryProse text={body} lang={lang} />
         )}
 
         <footer className="mt-6 border-t border-slate-800/90 pt-4">
