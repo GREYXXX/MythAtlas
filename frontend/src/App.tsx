@@ -26,7 +26,6 @@ export default function App() {
 
   const [theme, setTheme] = useState<ThemeKey>("all");
   const [era, setEra] = useState<EraKey>("all");
-  const [showLabels, setShowLabels] = useState(true);
   const [showLines, setShowLines] = useState(false);
 
   const [selectedId, setSelectedId] = useState<number | null>(null);
@@ -124,6 +123,8 @@ export default function App() {
     return filtered.filter((s) => s.country === selectedCountry);
   }, [filtered, selectedCountry]);
 
+  const storyPanelOpen = detailLoading || detail !== null || detailError !== null;
+
   const sidebarGroups = useMemo(() => {
     const m = new Map<string, StoryLight[]>();
     for (const s of sidebarStories) {
@@ -206,9 +207,10 @@ export default function App() {
             selectedId={selectedId}
             onSelect={(id) => void openStory(id)}
             onHover={setHoverStory}
-            showLabels={showLabels}
             showLines={showLines}
             highlightCountry={highlightCountry}
+            isolateStoryMarker={storyPanelOpen}
+            lang={langUI}
           />
         )}
 
@@ -217,11 +219,9 @@ export default function App() {
             lang={langUI}
             theme={theme}
             era={era}
-            showLabels={showLabels}
             showLines={showLines}
             onTheme={setTheme}
             onEra={setEra}
-            onToggleLabels={setShowLabels}
             onToggleLines={setShowLines}
           />
         </div>
@@ -257,6 +257,15 @@ export default function App() {
           </button>
         </div>
       </div>
+
+      {storyPanelOpen ? (
+        <button
+          type="button"
+          className="fixed inset-0 z-[29] cursor-default border-0 bg-slate-950/75 p-0 backdrop-blur-[2px] transition-opacity"
+          aria-label={langUI === "zh" ? "关闭故事" : "Close story"}
+          onClick={closeStory}
+        />
+      ) : null}
 
       <StoryPanel
         story={detail}
