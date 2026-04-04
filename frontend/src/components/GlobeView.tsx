@@ -11,6 +11,8 @@ type Props = {
   showLabels: boolean;
   showLines: boolean;
   highlightCountry: string | null;
+  /** When true (e.g. story panel open), only the selected story’s marker is rendered. */
+  isolateStoryMarker?: boolean;
 };
 
 export function GlobeView({
@@ -21,16 +23,24 @@ export function GlobeView({
   showLabels,
   showLines,
   highlightCountry,
+  isolateStoryMarker = false,
 }: Props) {
   const { ref: setContainer, size } = useElementSize<HTMLDivElement>();
 
+  const visibleStories = useMemo(() => {
+    if (isolateStoryMarker && selectedId != null) {
+      return stories.filter((s) => s.id === selectedId);
+    }
+    return stories;
+  }, [stories, isolateStoryMarker, selectedId]);
+
   const data = useMemo(
     () =>
-      stories.map((s) => ({
+      visibleStories.map((s) => ({
         ...s,
         __size: s.id === selectedId ? 1.65 : 1.15,
       })),
-    [stories, selectedId],
+    [visibleStories, selectedId],
   );
 
   const htmlElement = useCallback(

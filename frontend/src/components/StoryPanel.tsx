@@ -17,7 +17,7 @@ export function StoryPanel({ story, lang, onClose, onLang, loading, error }: Pro
 
   return (
     <div className="pointer-events-none fixed inset-x-0 bottom-0 z-30 flex justify-center p-3 md:p-6">
-      <div className="glass-panel pointer-events-auto max-h-[min(70vh,560px)] w-full max-w-lg overflow-y-auto p-4 shadow-2xl md:p-5">
+      <div className="glass-panel pointer-events-auto max-h-[min(70vh,560px)] w-full max-w-lg overflow-y-auto border-slate-700/90 bg-slate-950/95 p-4 shadow-2xl backdrop-blur-xl md:p-5">
         <div className="mb-3 flex items-start justify-between gap-3">
           <div className="flex items-start gap-3">
             <div className="text-3xl leading-none md:text-4xl">{story?.emoji ?? "📖"}</div>
