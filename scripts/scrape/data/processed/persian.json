@@ -1,0 +1,1177 @@
+{
+  "meta": {
+    "region": "Persian",
+    "count": 68,
+    "generated": "2026-04-11",
+    "note": "Scraped from Wikipedia, summarized with a local Qwen model via Ollama."
+  },
+  "stories": [
+    {
+      "title_en": "Aban Yasht",
+      "title_zh": "阿巴恩赞歌",
+      "summary_en": "The Aban Yasht, a hymn from the ancient Zoroastrian texts of Iran, celebrates the waters and their protector Anahita. The poem vividly describes how Anahita guards the rivers and lakes, ensuring they flow freely to nourish the land and its people. It speaks of her power over water and her role in maintaining the balance of nature.",
+      "summary_zh": "阿巴恩赞歌是伊朗古代琐罗亚斯德教文献中的颂歌，歌颂水域及其守护者安赫塔。诗歌生动地描绘了安赫塔如何保护河流和湖泊，确保它们自由流淌以滋养大地与人民。它讲述了她对水的掌控以及维持自然平衡的角色。",
+      "country": "Iran 伊朗",
+      "emoji": "💧",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "iranian"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Aban_Yasht"
+    },
+    {
+      "title_en": "Airyanem Vaejah",
+      "title_zh": "埃里安温贾",
+      "summary_en": "In Zoroastrianism, Airyanem Vaejah was believed to be the sacred homeland of the early Iranians where Zarathustra received his divine revelation from Ahura Mazda. This mythical land was considered one of the sixteen perfect realms created by the deity for the Iranian people. Scholars once searched for its historical location in regions like Khwarezm, but modern interpretations now view it more as a symbolic place rather than a specific geographical entity.",
+      "summary_zh": "在琐罗亚斯德教中，埃里安温贾被认为是早期伊朗人的神圣故土，在这里，札拉图斯特拉从阿胡拉·马兹达那里获得了神启。这个神话中的土地被认为是创世神为伊朗人创造的十六个完美地域之一。学者曾经试图在如花剌子模等地寻找它的历史位置，但现代研究更多将其视为一种象征性的地方而非具体的地理实体。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "iranian mythology"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Airyanem_Vaejah"
+    },
+    {
+      "title_en": "Amir Arsalan",
+      "title_zh": "阿米尔·阿尔萨兰",
+      "summary_en": "Amir Arsalan is a beloved epic from Iran, where the story was shared with Nasser al-Din Shah Qajar by Mohammad Ali Naqib ol-Mamalek in the 19th century. The tale follows Amir Arsalan, a prince who embarks on adventures and battles evil forces to protect his kingdom. His wisdom and valor are celebrated throughout the narrative, making him a symbol of courage and righteousness in Persian folklore.",
+      "summary_zh": "阿米尔·阿尔萨兰是伊朗的一部著名史诗，19世纪时由莫罕默德·阿里·纳吉布·奥尔-马马莱克向纳赛尔丁沙王讲述。故事讲述了阿米尔·阿尔萨兰王子的冒险经历和他为保护王国而与邪恶势力斗争的故事。他的智慧和勇气在叙事中广受赞美，成为勇敢和正义的象征。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Amir_Arsalan"
+    },
+    {
+      "title_en": "Apam Napat",
+      "title_zh": "阿帕姆·纳帕特",
+      "summary_en": "In the ancient Indo-Iranian pantheon, Apam Napat was revered as a deity associated with water and creation. His name, meaning 'child of the waters,' reflects his connection to the life-giving force of rivers and oceans. In Vedic texts, he is often invoked alongside Agni, the god of fire, suggesting a balance between elements. Though primarily a title for various gods, Apam Napat's essence as a creator and protector of water endures in Zoroastrianism where he is known as Burz, a yazad symbolizing purity and highness.",
+      "summary_zh": "在古代印度-伊朗神系中，阿帕姆·纳帕特被视为与水和创造相关的神明。他的名字“水之子”反映了他对河流和海洋的生命力的关联。在吠陀文献中，他经常被与火神阿格尼一起提及，暗示了元素之间的平衡。尽管主要是对各种神灵的称号，但阿帕姆·纳帕特作为创造者和水保护者的本质在琐罗亚斯德教中得以延续，被称为布兹，象征着纯洁和崇高。",
+      "country": "Iran 印度-伊朗",
+      "emoji": "💧",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "water",
+        "creation",
+        "proto-indo-european"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Apam_Napat"
+    },
+    {
+      "title_en": "Ashkbous",
+      "title_zh": "阿什克波斯",
+      "summary_en": "In the epic of Shahnameh, Ashkbous, a valiant hero from Kashan, fought bravely in the Battle of Kamous-e Kashani. He first defeated Rohham but was ultimately slain by Rostam, who fought on foot without his horse Rakhsh. This battle became a celebrated scene in Persian miniature art, symbolizing the valor and tragedy of Ashkbous.",
+      "summary_zh": "在《王书》中，阿什克波斯是卡尚的勇士，在卡姆奥斯之战中英勇作战。他首先击败了罗哈姆，但最终被脚踏实地、未骑战马拉赫什的鲁斯塔م所杀。阿什克波斯与鲁斯塔姆的这场战斗成为波斯细密画中的经典场景，象征着阿什克波斯的英勇与悲剧。",
+      "country": "Iran 伊朗",
+      "emoji": "⚔️",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "heroism",
+        "battle"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ashkbous"
+    },
+    {
+      "title_en": "Atar",
+      "title_zh": "阿塔尔",
+      "summary_en": "Atar, in Zoroastrianism, is the concept of holy fire and a manifestation of Ahura Mazda's Asha through the Yazata. The rituals for purifying this sacred flame are performed 1,128 times annually. In Avestan, ātar symbolizes sources of heat and light, with its Middle Persian form ādar or ādur representing fire itself in Zoroastrian symbolism. This divine fire is central to purification rites and represents the visible presence of Ahura Mazda.",
+      "summary_zh": "阿塔尔在琐罗亚斯德教中是圣火的概念，是阿胡拉·马兹达的阿莎通过耶扎坦的表现。每年为净化这种神圣之火要进行1,128次仪式。在阿维斯塔语中，阿塔尔象征着热源和光源，其米底波斯语形式阿达尔或阿杜尔代表琐罗亚斯德教符号中的火焰本身。这种神圣之火是阿胡拉·马兹达的可见表现。",
+      "country": "Iran 伊朗",
+      "emoji": "🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "religion"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Atar"
+    },
+    {
+      "title_en": "Avestan Period",
+      "title_zh": "阿维斯陀时期",
+      "summary_en": "The Avestan period, spanning from around 1500 to 400 BCE, was a pivotal era in the development of Zoroastrianism and Iranian culture. During this time, the sacred texts known as the Avesta were composed, reflecting significant religious and mythological advancements. The period is marked by two distinct linguistic layers: Old Avestan, associated with Zarathustra (Zoroaster), and Young Avestan, which spans a longer timeframe. This era laid the foundation for much of what would later become known as Zoroastrian tradition and literature.",
+      "summary_zh": "阿维斯陀时期从公元前1500年至前400年左右，是琐罗亚斯德教和伊朗文化的形成和发展的重要阶段。这一时期产生了神圣的阿维斯陀文本，反映了宗教和神话的重大进步。该时期分为两个不同的语言层：旧阿维斯陀与扎拉图斯特拉（琐罗亚斯德）时代相关；而年轻的阿维斯陀则涵盖了更长的时间段。这一时期奠定了后来成为琐罗亚斯德教传统和文学的基础。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "religion",
+        "mythology"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Avestan_period"
+    },
+    {
+      "title_en": "Axtya",
+      "title_zh": "阿赫蒂亚 (Axtiya)",
+      "summary_en": "In Zoroastrian mythology, Axtya was an evil sorcerer who posed deadly riddles to those who could not answer them. The righteous man Yōšt-ī Friyān sought the help of Aredvi Sura Anahita and managed to solve all 33 questions. In a final twist, Yōšt asked three questions that Axtya could not answer. Faced with defeat, Axtya was ritually slain by Yōšt, marking a victory for good over evil in the ancient Persian tale.",
+      "summary_zh": "在琐罗亚斯德教神话中，阿赫蒂亚是一位邪恶的巫师，他向那些无法回答其谜语的人提出致命挑战。正直的男子尤什特-伊-弗里安寻求了阿瑞迪维苏拉安娜希塔的帮助，并成功解答了全部33个问题。在最后关头，尤什特问了三个问题，而阿赫蒂亚无法回答。面对失败，尤什特将阿赫蒂亚以仪式的方式处决，从而在古代波斯的故事中取得了善战胜恶的胜利。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Axtya"
+    },
+    {
+      "title_en": "Bahman-nameh",
+      "title_zh": "巴赫曼名史",
+      "summary_en": "The Bahman-nameh is a Persian epic poem that recounts the adventures and battles of Kay Bahman, son of Esfandiyar. Set in a world filled with conflict and intrigue, the story mirrors the socio-political issues of its time through the struggles between Bahman and Rostam's family. Written by Iranshan ibn Abi'-Khayr around 1092-1108, it serves as both an epic tale and a counsel to the Seljuk Sultan Muhammad I Tapar on how to manage his realm amidst ceaseless warfare.",
+      "summary_zh": "巴赫曼名史是波斯史诗，讲述了埃夫桑迪亚尔之子巴赫曼的冒险和战斗。故事通过巴赫曼与罗斯特姆家族之间的斗争反映了当时的社会政治问题。伊朗沙·本·阿比-哈伊尔于1092年至1108年左右创作此诗篇，既是一部史诗，也是对塞尔柱苏丹穆罕默德一世如何在无尽的战争中管理其领土的一些建议。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Bahman-nameh"
+    },
+    {
+      "title_en": "Bānu Goshasp",
+      "title_zh": "宝努·古沙斯普",
+      "summary_en": "In Iranian mythology, Bānu Goshasp is a legendary heroine who embodies the virtues of wisdom and courage. Daughter of the mighty Rustam and wife to Giv, she plays a pivotal role in several epic tales. Known for her strategic mind and unwavering loyalty, Bānu Goshasp often assists her husband in his quests, using her wit to outsmart their enemies and protect their kingdom from peril.",
+      "summary_zh": "在伊朗神话中，宝努·古沙斯普是一位智慧与勇气兼具的女英雄。她是勇士鲁斯塔姆的女儿，丈夫是盖夫。她在多个史诗故事中扮演着重要角色，以其机智和忠诚帮助丈夫克服困难，保护王国免受威胁。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "heroine",
+        "wisdom",
+        "courage"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Banu_Goshasp"
+    },
+    {
+      "title_en": "Bibi Seshanbe",
+      "title_zh": "星期二夫人",
+      "summary_en": "In the mystical traditions of Iran, particularly among the Sistanian people, Bibi Seshanbe is revered as a holy angel who can intervene on behalf of those in need. When called upon by the desperate and poor, she is said to bring healing and salvation. Her name translates to 'The Queen of Tuesday,' reflecting her association with this day of the week in local folklore.",
+      "summary_zh": "在伊朗的神秘传统中，特别是在锡斯坦人中间，星期二夫人被视为一位圣洁的天使，能够为有需要的人带来拯救和治愈。当穷人和绝望者呼唤她时，她会应召而来。她的名字意为‘星期二夫人’，反映了她在当地传说中的星期二之主的地位。",
+      "country": "Iran 伊朗",
+      "emoji": "🙏🏼✨",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "healing",
+        "saint",
+        "poverty"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Bibi_Seshanbe"
+    },
+    {
+      "title_en": "Bijan and Manijeh",
+      "title_zh": "比詹与曼伊泽赫",
+      "summary_en": "In the ancient Persian epic Shahnameh, Bijan, a valiant knight from Iran, falls in love with Manijeh, the daughter of Afrasiab, the king of Turan. Despite their families' longstanding enmity, Bijan and Manijeh vow to be together. Their love is tested by trials and tribulations, but they remain steadfast. The story celebrates their enduring bond and the power of true love over conflict.",
+      "summary_zh": "在波斯史诗《王书》中，比詹是伊朗的一名英勇骑士，他爱上了 Afrasiab 的女儿曼伊泽赫。尽管他们家族之间长期敌对，比詹和曼伊泽赫仍誓言相爱。他们的爱情经历了种种考验，但他们始终不变。这个故事歌颂了真爱的力量，能够超越冲突。",
+      "country": "Iran 伊朗",
+      "emoji": "💖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "love",
+        "conflict"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Bijan_and_Manijeh"
+    },
+    {
+      "title_en": "Bizhan Nama",
+      "title_zh": "比赞名目",
+      "summary_en": "The Bizhan Nama is a Persian epic that recounts the legendary adventures of Bīžan, son of Giv. In this tale, Bīžan embarks on a quest to rescue his beloved Manīža from the clutches of the evil Afrasiyab. Along the way, he faces numerous challenges and battles fierce monsters, ultimately triumphing with the help of his loyal companions. The epic borrows heavily from Ferdowsi's Shahnameh but adds its own unique twists, making it a fascinating blend of traditional Persian mythology and heroic adventure.",
+      "summary_zh": "比赞名目是波斯史诗，讲述了比赞·吉夫之子的传奇冒险。在这个故事中，比赞踏上了一段营救他的爱人曼尼扎免受阿弗拉西阿卜魔爪的旅程。在旅途中，他面临了无数挑战，并与强大的怪物进行了激烈的战斗，最终在他的忠诚同伴的帮助下取得了胜利。这部史诗借鉴了费尔杜西的王书，但加入了自己独特的转折，使其成为传统波斯神话和英雄冒险的精彩结合。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "medieval"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Bizhan_Nama"
+    },
+    {
+      "title_en": "Borzu Nama",
+      "title_zh": "波尔祖纳玛",
+      "summary_en": "In the ancient Persian epic poem Borzu Nama, the legendary hero Borzu, son of Sohrab and grandson of Rostam, embarks on a series of daring adventures. With his unmatched bravery and skill in combat, Borzu faces numerous challenges, including battles against fierce enemies and quests to retrieve lost treasures. His tales are filled with epic battles, clever strategies, and the unwavering loyalty of his companions. Through these trials, Borzu proves himself as a true descendant of Rostam, embodying honor and valor in every deed.",
+      "summary_zh": "波尔祖纳玛是古代波斯的一部史诗，讲述了传奇英雄波尔祖的故事。他是索哈布之子、罗斯塔姆的孙子，在一系列惊心动魄的冒险中，波尔祖凭借无与伦比的勇气和战斗技巧战胜了众多敌人，并完成了许多艰巨的任务。他的故事充满了激烈的战斗、巧妙的战略以及对同伴坚定不移的忠诚。通过这些考验，波尔祖证明自己是罗斯塔姆真正的后裔，以荣誉和勇气在每一件事上都表现得淋漓尽致。",
+      "country": "Iran 伊朗",
+      "emoji": "⚔️",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "epic",
+        "heroic",
+        "adventure"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Borzu_Nama"
+    },
+    {
+      "title_en": "Chamrosh",
+      "title_zh": "昌洛什",
+      "summary_en": "In Persian mythology, Chamrosh is a majestic creature that dwells atop Mount Alborz. With the body of a wolf and the wings and head of an eagle, it plays a crucial role in sowing seeds across the land. Each year, as the Senmurv descends from its sacred tree, Chamrosh ensures that the ripe seeds are scattered far and wide, nurturing new life on Earth. When Persia is threatened by invaders every three years, the angel Burj calls upon Chamrosh to protect the land, sending it to snatch away the enemies with its powerful talons.",
+      "summary_zh": "昌洛什是波斯神话中的神鸟，栖息于阿尔伯兹山之巅。它拥有狼的身体和鹰的翅膀与头颅，在每年春暖花开之际，当神圣之树上的仙鸟辛穆尔飞下时，昌洛什就会摇动树枝，将成熟的种子撒向大地，滋养着万物生长。每当波斯每隔三年遭受外敌侵扰之时，天使布尔吉都会召唤昌洛什，让它飞到最高的山巅，用其锋利的爪子抓走入侵者。",
+      "country": "Iran 伊朗",
+      "emoji": "🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "bird",
+        "protection",
+        "seeds"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Chamrosh"
+    },
+    {
+      "title_en": "Cup of Jamshid",
+      "title_zh": "贾姆希德之杯",
+      "summary_en": "In Persian mythology, the Cup of Jamshid was a mystical artifact believed to possess the power of divination and immortality. It was said that this seven-ringed cup could reveal the secrets of the universe, reflecting all seven heavens within its crystal depths. The cup's elixir of life was thought to grant eternal youth and wisdom to those who drank from it. Legends tell of Jamshid, the mythical king, using the cup to gaze upon the divine and make crucial decisions for his empire. The cup became a symbol of power and knowledge, inspiring poets and writers across centuries, including Omar Khayyam and Allama Iqbal, who used its imagery in their works to explore themes of mortality and perception.",
+      "summary_zh": "在波斯神话中，贾姆希德之杯是一种神秘的神器，据说拥有占卜和长生不老的力量。人们相信，这个七环杯子可以揭示宇宙的秘密，在其水晶深处映射出七个天穹。据说杯中的长生酒能赋予饮用者永葆青春与智慧。传说中，贾姆希德这位神话国王曾用此杯窥视神明，做出关乎帝国命运的重要决策。这把杯子成为了权力和知识的象征，激励了无数诗人和作家，如奥玛·海亚姆和伊克巴尔，在他们的作品中运用这一意象探讨生命与感知的主题。",
+      "country": "Iran 伊朗",
+      "emoji": "💎",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology",
+        "divination",
+        "immortality"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cup_of_Jamshid"
+    },
+    {
+      "title_en": "Cypress of Kashmar",
+      "title_zh": "卡什马尔的柏树",
+      "summary_en": "In ancient Iran, a sacred cypress tree was planted by Zoroaster in honor of King Vishtaspa's conversion to Zoroastrianism. The tree symbolized the spread of this creed and its branches were revered. In 861 AD, Caliph al-Mutawakkil ordered the tree felled and transported to Baghdad for his personal use. Despite villagers' pleas and offers, the caliph remained resolute. Before the cypress reached Baghdad, al-Mutawakkil was murdered, sparing the sacred tree from destruction.",
+      "summary_zh": "在古代伊朗，一位先知将一棵柏树栽种于卡什马尔，以纪念国王维斯塔帕皈依琐罗亚斯德教。这棵树象征着这一信仰的传播，并受到人们的尊敬。公元861年，哈里发阿穆特瓦克勒下令砍伐此树并将其运往巴格达供个人使用。尽管村民们请求并提供了金钱保护树木，但哈里发仍坚持己见。在柏树抵达巴格达之前，阿穆特瓦克勒遇刺身亡，从而保全了这棵圣树。",
+      "country": "Iran 伊朗",
+      "emoji": "🌳",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "sacred tree",
+        "Zoroastrianism"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cypress_of_Kashmar"
+    },
+    {
+      "title_en": "Mount Qaf",
+      "title_zh": "卡夫山",
+      "summary_en": "In Persian mythology, Mount Qaf stands as a colossal mountain that reaches into the heavens, its peak touching the dome of heaven itself. It is said to be made of shining emerald and is the home of the jinn, beings with immense power and knowledge. The mountain’s base is believed to encircle the entire world, providing a natural barrier between the earthly realm and the domain of the supernatural. Legends tell that brave souls could climb its slopes to glimpse the wonders beyond, but few ever returned from such journeys unscathed.",
+      "summary_zh": "卡夫山是波斯神话中的巨峰，其顶点直指天穹。据说这座山是由闪耀的翡翠构成，并且是精灵居住的地方。传说中，卡夫山环绕着整个世界，成为人类与超自然领域之间的天然屏障。勇敢的人们可以攀登它的山坡，一窥超越之境的奇观，但很少有人能完好无损地返回。",
+      "country": "Iran 伊朗",
+      "emoji": "-mountains:",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Mount_Qaf"
+    },
+    {
+      "title_en": "Darab-nama",
+      "title_zh": "大拉伯名聞錄",
+      "summary_en": "In the Darab-nama, a Persian romance from the 12th century, King Darab, a Kayanid ruler, embarks on a series of heroic adventures. He battles monsters and saves damsels in distress, showcasing his valor and wisdom as he defends his realm against invaders. The epic tale blends elements of chivalry with Iranian folklore, celebrating the virtues of courage and justice.",
+      "summary_zh": "《大拉伯名聞錄》是12世纪的一部波斯浪漫史诗，讲述了卡延德国王大拉伯的英雄事迹。他与怪物搏斗，拯救受困的少女，展现了其勇气和智慧，保卫自己的领土免遭入侵者侵害。这部史诗融合了骑士精神与伊朗民间传说，颂扬勇敢和正义的价值。",
+      "country": "Iran 印度",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "iranian",
+        "adventure",
+        "chivalry"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Darab-nama"
+    },
+    {
+      "title_en": "Div-e Sepid",
+      "title_zh": "白恶魔",
+      "summary_en": "In the Persian epic of Shahnameh, Div-e Sepid, the chieftain of the demon realm, rose up against Kay Kavus. With his magical powers, he conjured a storm of hail and boulders that decimated the king's army. Capturing Kay Kavus and his warriors, he blinded them and imprisoned them in a dungeon. The legendary hero Rostam embarked on his 'Seven Labors' to free his sovereign. After defeating Div-e Sepid in battle, Rostam used the demon's heart and blood to heal the king and his men. He took Div-e Sepid's head as a helmet, symbolizing victory over evil.",
+      "summary_zh": "在波斯史诗《王书》中，白恶魔作为恶魔之首起兵反抗卡亚·卡夫苏斯。凭借魔法力量，他召唤了一场冰雹和巨石的风暴，摧毁了国王的军队。将卡亚及其战士俘虏后，他使他们失明并囚禁在地牢里。传奇英雄罗斯塔姆开始了他的‘七苦功’来解救他的君主。经过战斗，罗斯塔姆用白恶魔的心脏和血液治愈了国王和他的士兵。他将白恶魔的头颅作为头盔，象征着战胜邪恶。",
+      "country": "Iran 伊朗",
+      "emoji": "魔龙",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Div-e_Sepid"
+    },
+    {
+      "title_en": "Duzakh",
+      "title_zh": "杜扎克",
+      "summary_en": "In Persian mythology, Duzakh is a terrifying realm where souls are punished for their sins in an endless, narrow well filled with darkness and stench. The smallest of harmful creatures, as large as mountains, roam and torment the damned. Ahriman, the demon lord, resides here along with other malevolent beings. Punishments are tailored to the specific crimes committed by the souls, emphasizing sexual transgressions but also other ethical violations in Zoroastrian teachings.",
+      "summary_zh": "杜扎克是波斯神话中的地狱，是一个狭窄、黑暗且充满恶臭的深井。最小的有害生物如山般巨大，在这里肆虐折磨着被诅咒的灵魂。阿胡拉·马兹达之敌阿瑞曼及其恶魔们在此居住。惩罚根据灵魂所犯的具体罪行而定，特别强调性犯罪，但也包括其他道德上的过失。",
+      "country": "Iran 伊朗",
+      "emoji": "🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "religion"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Duzakh"
+    },
+    {
+      "title_en": "Faramarz",
+      "title_zh": "弗拉马尔兹",
+      "summary_en": "In the Shahnameh, Faramarz was a legendary hero and son of Rostam, known for his immense strength and valor. Despite his prowess, he met his end at the hands of Kay Bahman in a fierce battle. His story is celebrated in the Faramarz-nama, an epic written centuries after Ferdowsi's masterpiece, which recounts his heroic deeds and tragic fate.",
+      "summary_zh": "在《王书》中，弗拉马尔兹是罗斯塔姆之子，以其超凡的力量和英勇著称。尽管如此，在与凯巴汗的激烈战斗中，他最终还是陨落了。弗拉马尔兹的故事被记载于后世所作的《弗拉马尔兹史诗》，这部作品详述了他的英雄事迹及其悲壮的命运。",
+      "country": "Iran 伊朗",
+      "emoji": "-hero",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "heroic"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Faramarz"
+    },
+    {
+      "title_en": "Farbod",
+      "title_zh": "法尔博德",
+      "summary_en": "Farbod was a legendary protector and warrior in ancient Iran during the time of Zoroastrianism. Known for his bravery, he safeguarded the glory of the Persian Empire against invaders. His name symbolized hope and protection among the people, embodying the virtues of valor and loyalty that were cherished by the Zoroastrians.",
+      "summary_zh": "法尔博德是古代伊朗时期琐罗亚斯德教时期的传奇保护者和战士。他以其勇敢而闻名，守护着波斯帝国的荣耀免受入侵者的侵害。他的名字象征着希望与保护，在人民中代表着勇气和忠诚等美德。",
+      "country": "Iran 伊朗",
+      "emoji": "🛡️",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "protector",
+        "warrior",
+        "Zoroastrianism"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Farbod"
+    },
+    {
+      "title_en": "Farhad",
+      "title_zh": "法拉赫德",
+      "summary_en": "In Persian folklore, Farhad was a devoted lover who fell in love with Shirin, the queen of Khosrow. Driven by his passion, he carved away a mountain to create a water channel for her garden, only to be betrayed and executed by Khosrow's order. This tragic tale of forbidden love has become a symbol of devotion and sacrifice in Persian culture.",
+      "summary_zh": "法拉赫德是波斯传说中的一个忠贞爱人，他爱上了国王科斯罗伊斯的王后希琳。为了她花园里的水源，他不惜用刀砍掉了山峰。然而，在科斯罗伊斯的命令下，他的爱情最终被背叛和牺牲了。这个禁恋悲剧成为了波斯文化中忠诚与牺牲的象征。",
+      "country": "Iran 伊朗",
+      "emoji": "💔",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "love",
+        "sacrifice",
+        "mythology"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Farhad_(Persian_literature)"
+    },
+    {
+      "title_en": "Fereydun",
+      "title_zh": "费里登",
+      "summary_en": "In ancient Iranian mythology, Fereydun was a mighty king from the Pishdadian dynasty, known for his wisdom and justice. He defeated the evil Zohak and divided the world among his three sons—Bahram, Siamak, and Tur. However, jealousy led Bahram to challenge his father, which resulted in a great battle. Fereydun was victorious but spared his son's life, teaching him the value of humility and justice.",
+      "summary_zh": "在古代伊朗神话中，费里登是皮舍达亚王朝的一位英明的国王，以智慧和公正著称。他击败了邪恶的佐哈克，并将世界分给了他的三个儿子——巴赫拉姆、西玛克和图尔。然而，嫉妒使巴赫拉姆向父亲发起了挑战，导致了一场大战。费里登获胜，但饶恕了儿子的生命，教给他谦逊与公正的价值。",
+      "country": "Iran 伊朗",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "justice",
+        "heroism",
+        "divine-right-of-king"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Fereydun",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/費里頓"
+    },
+    {
+      "title_en": "Fulad-zereh",
+      "title_zh": "弗拉德-泽雷赫",
+      "summary_en": "In the Persian epic of Amir Arsalan, Fulad-zereh, a giant demon with steel armor and wings, terrorized women by abducting them from their homes. Once his mother, a powerful witch, enchanted him to be invulnerable except to one sword. Eventually, Zoroastrian deity Milad defeated both Fulad-zereh and his mother, bringing peace to the land.",
+      "summary_zh": "在阿米尔·阿尔萨兰的波斯史诗中，弗拉德-泽雷赫是一位拥有钢铁盔甲和翅膀的巨大恶魔，他通过从家中劫持女性来恐吓人们。他的母亲是一位强大的女巫，用魔法使他只对一把剑刀刃无效。最终，琐罗亚斯德教神明米尔达击败了弗拉德-泽雷赫和他的母亲，恢复了这片土地的和平。",
+      "country": "Iran 印度",
+      "emoji": "魔龙",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "epic",
+        "demon",
+        "sword"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Fulad-zereh"
+    },
+    {
+      "title_en": "Gaokerena",
+      "title_zh": "加奥克雷那",
+      "summary_en": "In ancient Persian mythology, Gaokerena was a legendary plant with miraculous healing powers and the ability to grant immortality. This sacred Haoma plant held within its fruit the essence of all trees on Earth. When consumed by the resurrected dead, it restored their bodies to life and vigor. The name 'Gaokerena' translates to 'ox horn' or 'cow ear,' hinting at its powerful nature.",
+      "summary_zh": "在古代波斯神话中，加奥克雷那是一种具有神奇治愈力量和赋予永生能力的传奇植物。这种神圣的哈瓦玛植物内含有地球上所有树木的精髓。当被复活的死者食用其果实时，它能恢复他们的身体活力。‘加奥克雷那’这个名字意为‘牛角’或‘牛耳’，暗示着它的强大。",
+      "country": "Iran 伊朗",
+      "emoji": "🌱✨",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Gaokerena"
+    },
+    {
+      "title_en": "Garshasp-nama",
+      "title_zh": "加尔沙普纳玛",
+      "summary_en": "Garshasp-nama, an epic poem by Asadi Tusi, tells the tale of Garshasp, a valiant warrior and grandson of Tur. The story begins with Jamshid's fall from grace at Zahhak's hands and his exile to Zabolistan. There, he falls in love with Kurang's daughter and sires Tur. Tur's lineage eventually leads to Garshasp, whose valorous deeds form the core of this narrative. Through battles and adventures, Garshasp upholds honor and justice, embodying the ideals of Persian chivalry.",
+      "summary_zh": "加尔沙普纳玛是阿塞迪·图西创作的一部史诗，讲述了加尔沙普这位英勇的战士及其作为吐尔的曾孙的故事。故事始于贾姆希德因被扎赫克推翻而流亡至扎布尔斯坦，在那里他与库朗国王的女儿相爱并生下了吐尔。吐尔的后代最终成为加尔沙普，他在一系列战斗和冒险中维护荣誉与正义，体现了波斯骑士精神的核心。",
+      "country": "Iran 伊朗",
+      "emoji": "⚔️",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "epic",
+        "hero",
+        "chivalry"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Garshasp-nama"
+    },
+    {
+      "title_en": "Haftvād",
+      "title_zh": "哈夫瓦德",
+      "summary_en": "In the legendary tale of Haftvād, a valiant warrior who fought for Ardashir I against the Parthian Empire in the third century CE. Haftvād was known for his immense strength and unwavering loyalty to Ardashir. During one fateful battle, he single-handedly defended Ardashir's position against overwhelming odds, his mighty sword slicing through enemy ranks with ease. His bravery became a symbol of the new Sassanid dynasty’s rise to power, inspiring future generations with tales of his valor and dedication.",
+      "summary_zh": "哈夫瓦德是萨珊王朝创始人阿达希尔一世麾下的勇士，在公元3世纪与帕提亚帝国的战斗中，他以巨大的力量和对阿达希尔的忠诚著称。在一次关键战役中，他独自一人坚守阵地，抵挡了敌人的猛烈进攻，他的巨剑轻易劈开了敌军的防线。哈夫瓦德的英勇事迹成为了新萨珊王朝崛起的象征，激励着后世讲述他的勇敢与奉献。",
+      "country": "Iran 伊朗",
+      "emoji": "⚔️",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "warrior",
+        "loyalty",
+        "rise of dynasty"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Haftvād"
+    },
+    {
+      "title_en": "Haoma",
+      "title_zh": "哈莫亚 (Hāmoyà)",
+      "summary_en": "In Zoroastrianism, Haoma was a divine plant that played a crucial role in rituals and offerings to the gods. The priests would prepare sacred preparations from its leaves, which were believed to purify and heal. Legends tell of how Haoma's nectar-like juice could grant immortality and wisdom, making it a revered entity among Zoroastrians and later Persian cultures.",
+      "summary_zh": "哈莫亚是琐罗亚斯德教中的神圣植物，在仪式和对神的献祭中扮演着重要角色。祭司会用其叶子制作圣洁的准备物，认为这些能够净化并治愈信徒。传说哈莫亚的汁液像甘露一样，能赐予不朽与智慧，因此在琐罗亚斯德教徒及后来的波斯文化中备受尊崇。",
+      "country": "Iran 伊朗",
+      "emoji": "🌿",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "religion"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Haoma"
+    },
+    {
+      "title_en": "Homay-nameh",
+      "title_zh": "霍玛伊名ه",
+      "summary_en": "In the ancient Persian epic Homay-nameh, Homay, daughter of Kay Bahman, embarks on a quest to rescue her father from a treacherous vizier. Guided by a mysterious voice and aided by a loyal horse, she overcomes numerous challenges, including a fierce dragon. Her bravery and wisdom lead to the restoration of peace and prosperity in the land. This epic poem, composed in the 6th century AH, captures the essence of Persian heroism and chivalry.",
+      "summary_zh": "霍玛伊名史诗讲述了霍玛伊，卡伊巴赫曼之女，在一位神秘声音的指引下，踏上解救父亲免遭奸诈首相迫害的征程。在忠诚坐骑的帮助下，她克服了重重困难，最终战胜了一条凶猛的龙。她的勇敢和智慧使得国家恢复了和平与繁荣。这部于6世纪创作的史诗捕捉了波斯英雄主义和骑士精神的本质。",
+      "country": "Iran 伊朗",
+      "emoji": "💎",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "heroism",
+        "chivalry",
+        "quest"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Homay-nameh"
+    },
+    {
+      "title_en": "House of Goudarz",
+      "title_zh": "戈达尔兹家族",
+      "summary_en": "The House of Goudarz, descendants of the legendary blacksmith Kave, played a pivotal role in the Persian epic Shahnameh. Known for their valor and independence, they fought bravely against various adversaries, often refusing to be defeated or captured. Their tales of heroism and loyalty continue to inspire through the ages.",
+      "summary_zh": "戈达尔兹家族是传说中的铁匠卡夫的后裔，在波斯史诗《王书》中扮演了重要角色。他们以勇敢和独立著称，多次在对抗各种敌人的战斗中表现出色，常常拒绝被击败或俘虏。他们的英雄事迹和忠诚精神至今仍激励着人们。",
+      "country": "Iran 伊朗",
+      "emoji": "⚔️",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "heroism",
+        "loyalty",
+        "legend"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/House_of_Goudarz"
+    },
+    {
+      "title_en": "House of Nowzar",
+      "title_zh": "诺佐尔家族",
+      "summary_en": "In ancient Persia, Nowzar ruled for seven years with wisdom and justice. Upon his death, his sons Tous and Gostaham were expected to inherit the throne. However, the grandees of Iran disregarded their claims and instead bestowed the crown upon the Kayanian dynasty. The House of Nowzar was thus supplanted by a new lineage, leaving behind tales of a just ruler and the intrigue that followed.",
+      "summary_zh": "在古代波斯，诺佐尔王统治了七年，以智慧和公正著称。在他去世后，他的儿子图斯和古斯塔姆本应继承王位。然而，伊朗的权贵们却无视他们的要求，将王冠赐予了凯亚尼安王朝。诺佐尔家族因此被新的世系取代，留下了关于一位公正君主及其继任者间斗争的故事。",
+      "country": "Iran 伊朗",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "royalty",
+        "succession",
+        "justice"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/House_of_Nowzar"
+    },
+    {
+      "title_en": "House of Viseh",
+      "title_zh": "维塞家族",
+      "summary_en": "The House of Viseh was a prominent Turanian clan during the epic era of Persia, as depicted in the Shahnameh. Descended from Tur, father of Zadashm and grandfather of Viseh himself, this family played a crucial role in the legendary Iran-Turan wars. Viseh's first significant conflict was with Qaren, marking the beginning of his clan’s prominence. Though their descendants continued to influence Persian history, both Viseh and Qaren were not mentioned after their initial battle, leaving behind a legacy of conflict and valor.",
+      "summary_zh": "维塞家族是波斯神话和《王书》中最重要的图兰氏族之一。他们是图尔的后代，图尔的父亲是扎达什姆，祖父则是维塞本人。维塞家族在伊朗与图兰之间的战争中扮演了重要角色。维塞最初与卡伦的战斗标志着其家族显赫地位的确立。尽管维塞和卡伦之后未再被提及，但他们的子孙继续影响着波斯历史，留下了冲突与勇气的传奇。",
+      "country": "Iran 伊朗",
+      "emoji": "⚔️",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "legendary",
+        "conflict",
+        "clan"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/House_of_Viseh"
+    },
+    {
+      "title_en": "Huma Bird",
+      "title_zh": "哈玛鸟",
+      "summary_en": "In Iranian mythology, the Huma bird soars eternally in the sky without ever touching the ground. This majestic creature is a symbol of good fortune and divine protection, often depicted in Sufi poetry as a guardian angel that brings blessings to those who are pure of heart. The Huma's invisible flight above the earth represents its otherworldly nature and its connection to the spiritual realm.",
+      "summary_zh": "在伊朗神话中，哈玛鸟永远翱翔于天空之中，从不落地。这尊贵的飞禽是吉祥与神佑的象征，在苏菲派诗歌中常被描绘为守护天使，为纯洁心灵的人带来祝福。哈玛鸟无形地飞翔于大地之上，代表着其超凡脱俗和与灵界相连。",
+      "country": "Iran 伊朗",
+      "emoji": "✨",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythical creatures"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Huma_bird"
+    },
+    {
+      "title_en": "Jahangirnama",
+      "title_zh": "贾汉吉尔纳玛",
+      "summary_en": "Jahangirnama is an epic poem written in Persian by Qasim Madih Harawi, depicting the story of Jahangir, son of Rostam. Born and raised among the Turanians, Jahangir unknowingly fights against his Iranian homeland. Recognized by his people at last, he joins their army but later meets a tragic end when killed by a demon while hunting. The poem, composed in Herat, imitates the Borzu Nama and showcases significant Islamic influence through its Arabic loanwords.",
+      "summary_zh": "贾汉吉尔纳玛是用波斯语写成的一部史诗，由卡西姆·马迪赫哈拉维所作。它讲述了贾汉吉尔的故事，他是罗斯塔姆的儿子。在塔里安人中长大后，贾汉吉尔误以为自己是在与伊朗同胞作战。最终被自己的人民认出后，他加入了他们的军队，但后来在一次狩猎中被恶魔杀死。这首诗模仿了波鲁兹纳玛，并通过大量阿拉伯借词展示了明显的伊斯兰影响。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "epic"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Jahangirnama_(Qasim_Madih_Harawi)"
+    },
+    {
+      "title_en": "Kashvad",
+      "title_zh": "卡什瓦德",
+      "summary_en": "In the epic Shahnameh of Iran, Kashvad is a legendary hero known for his valor and leadership. He serves under Kay Qobad and Nouzar in their long wars against Turanians led by Afrasiab. Noted as 'the vanquisher of armies,' Kashvad fights alongside Rostam and Fariburz in crucial battles, most notably the liberation of Iranian captives from Turan. His loyalty and bravery are celebrated, and his legacy is carried on by his son Goudarz.",
+      "summary_zh": "在伊朗史诗《王书》中，卡什瓦德是一位以勇气和领导力著称的传奇英雄。他效忠于凯库巴德和努扎尔，在与塔兰人的长期战争中对抗阿弗拉西阿伯。被称为‘军队征服者’的卡什瓦德与罗斯塔姆和法比鲁兹并肩作战，特别是在解救被塔兰人俘虏的伊朗人时发挥了关键作用。他的忠诚、勇气和领导力备受赞誉，并由其子古达尔兹继承。",
+      "country": "Iran 伊朗",
+      "emoji": "⚔️",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "heroism",
+        "warfare",
+        "legendary"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kashvad"
+    },
+    {
+      "title_en": "Kaveh the Blacksmith",
+      "title_zh": "卡夫黑铁匠",
+      "summary_en": "In ancient Iran, Kaveh, a blacksmith, led a rebellion against Zahak, an evil foreign ruler who had killed his two sons. Frustrated by Zahak's tyranny and the loss of his children, Kaveh rallied the people to fight for their freedom. They sought out Fereydun, who agreed to lead them in battle. The forces of Zahak were defeated with little resistance, and Zahak was overthrown. Kaveh raised a leather apron on a spear as a symbol of their victory; this became known as Derafsh Kaviani, the flag of Persian sovereignty for centuries.",
+      "summary_zh": "在古代伊朗，卡夫黑是一位铁匠。他因失去两个儿子而对邪恶的外族暴君扎哈克感到愤怒，并领导人民反抗他的统治。卡夫黑号召人们起来斗争，最终找到了年轻的费里登，后者同意带领大家对抗扎哈克。扎哈克的军队几乎没有抵抗就被打败了，扎哈克被推翻。卡夫黑将一块皮革围裙插在长矛上作为胜利的象征，这就是后来被称为达拉夫什·卡维亚尼的旗帜，成为波斯主权的标志数个世纪之久。",
+      "country": "Iran 伊朗",
+      "emoji": "🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "resistance",
+        "sovereignty"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kaveh_the_Blacksmith"
+    },
+    {
+      "title_en": "Kay Kāvus",
+      "title_zh": "卡伊·卡乌斯",
+      "summary_en": "Kay Kāvus, a long-reigning shah of Iran in the mythical history, is known for his often reluctant but ultimately beneficial alliance with Rostam, the legendary hero. For one hundred and fifty years, Kāvus rules with varying degrees of assistance from Rostam, who saves him from numerous dangers. Despite his initial grudgingness, their relationship grows stronger over time, leading to a more harmonious partnership by the end of Kāvus's reign.",
+      "summary_zh": "卡伊·卡乌斯是伊朗传说中的国王，在长达一百五十年的统治期间，他与传奇英雄罗斯塔姆的关系经历了从最初的勉强到最终的合作。起初，卡乌斯对罗斯塔姆的帮助并不情愿，但随着时间的推移，他们的关系变得更为和谐，最终形成了更紧密的合作。",
+      "country": "Iran 伊朗",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "heroic",
+        "iranian mythology"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kay_Kāvus"
+    },
+    {
+      "title_en": "Kayanian Dynasty",
+      "title_zh": "凯亚尼王朝",
+      "summary_en": "The Kayanians were an ancient Iranian dynasty symbolizing the union of wisdom and power, marking the beginning of the Iranian Heroic Cycle. Their legacy is intertwined with both the Avesta, the sacred texts of Zoroastrianism, and the Shahnameh, Iran's national epic. The Kiani Crown serves as a tangible reminder of their significance in Iranian history and identity.",
+      "summary_zh": "凯亚尼王朝是伊朗古代的一个王族，象征着智慧与权力的结合，标志着伊朗英雄周期的开始。他们的遗产既体现在《阿维斯塔》，即琐罗亚斯德教的经典文本中，也体现在伊朗的民族史诗《王书》中。凯亚尼皇冠是他们历史和身份的重要象征。",
+      "country": "Iran 伊朗",
+      "emoji": "👑",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "heroic cycle"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kayanian_dynasty"
+    },
+    {
+      "title_en": "Khosrow and Shirin",
+      "title_zh": "高斯鲁与希琳",
+      "summary_en": "In ancient Persia, Khosrow II, the powerful king of the Sasanian Empire, fell in love with a Christian princess named Shirin. Despite their different backgrounds, they were secretly married, but Khosrow's jealous minister ordered Shirin to be executed. Just as she was about to die, Khosrow intervened and saved her life, making her his queen consort. Their love story became legendary, celebrated for its passion and the enduring power of true love over societal norms.",
+      "summary_zh": "在古代波斯，萨珊王朝的国王高斯鲁二世爱上了基督教公主希琳。尽管两人出身不同，他们仍秘密结为夫妇。但高斯鲁的嫉妒大臣下令处决希琳。就在她即将被处死之际，高斯鲁及时干预，救下了她的性命，并册封她为王后。他们的爱情故事流传至今，成为一段关于真爱超越社会规范的传奇。",
+      "country": "Iran 伊朗",
+      "emoji": "❤️",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "romance",
+        "love",
+        "royalty"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Khosrow_and_Shirin"
+    },
+    {
+      "title_en": "Kush Nama",
+      "title_zh": "库什名",
+      "summary_en": "Kush Nama is a Persian epic poem that recounts the legendary history of Iran. Composed by Hakim Iranshah ibn Abu l-Khayr in the early 12th century, it tells tales of ancient heroes and their battles against supernatural foes. The narrative weaves together mythological stories with historical events, painting a vivid picture of Iran's past through poetic verses.",
+      "summary_zh": "库什名是伊朗的一部波斯史诗，讲述了伊朗的传奇历史。由伊朗沙·本·阿布·拉基在12世纪初创作而成，它通过诗歌描绘了古代英雄与超自然敌人的战斗故事，并将神话传说与历史事件交织在一起，勾勒出一幅生动的伊朗过去图景。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "iranian",
+        "epic",
+        "mythology"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kush_Nama"
+    },
+    {
+      "title_en": "Kātouzian",
+      "title_zh": "卡托齐安",
+      "summary_en": "In ancient Iran, during the reign of King Jamshid, the Kātouzians were a class of priests who worshipped Hormozd. They lived in remote mountainous regions, dedicating their lives to prayer and seeking wisdom. Jamshid divided his subjects into four castes: Kātouzians, Neysārians (warriors), Nāsoudians (farmers), and Hotokhoshians (artisans). The Kātouzians were set apart for sacred duties, ensuring the worship of Hormozd in peace and quiet. Their isolation allowed them to focus on spiritual matters, while other castes managed daily life.",
+      "summary_zh": "在伊朗古代，国王贾姆希德统治时期，卡托齐安是祭祀荷莫兹的祭司。他们居住在偏远的山区，致力于祈祷和寻求智慧。贾姆希德将臣民分为四个阶层：卡托齐安、尼萨亚人（武士）、纳苏迪安（农民）和霍托科希安（工匠）。卡托齐安被分开从事神圣职责，确保荷莫兹在宁静中受到崇拜。他们的隔离使他们能够专注于精神事务，而其他阶层则管理日常生活。",
+      "country": "Iran 伊朗",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "iranian mythology"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kātouzian"
+    },
+    {
+      "title_en": "Magic Carpet",
+      "title_zh": "神毯",
+      "summary_en": "In the tales of ancient Persia, the magic carpet was more than just a means of transportation; it was a portal to adventure and wonder. With a flick of a wand or a whispered incantation, the carpet would rise from the ground, carrying its riders across vast distances in an instant. One such story tells of a young prince who, on his quest for a magical gem, boarded a shimmering blue carpet that took him over deserts, through forests, and above rivers. The carpet's journey was filled with marvels: singing birds, dancing flowers, and friendly spirits guiding the way. When the prince finally reached his destination, the carpet gently set him down, leaving behind only a faint trail of glittering dust before vanishing back into the air.",
+      "summary_zh": "在古代波斯的传说中，神毯不仅是一种交通工具，更是冒险和奇迹的门户。只要挥动魔杖或轻声念出咒语，神毯就会从地面升起，瞬间载着乘客穿越千里之遥。有一个故事讲述了一位年轻王子，在寻找一颗神奇宝石的过程中，乘坐了一块闪烁着蓝色光芒的神毯，飞越沙漠、森林和河流。旅程中充满了奇迹：歌唱的鸟儿、跳舞的花朵以及友好的精灵引领着他前行。当王子终于到达目的地时，神毯轻柔地将他放下，只留下一道微光闪闪的尘埃，然后消失在空中。",
+      "country": "Iran 伊朗",
+      "emoji": "💎",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "magic",
+        "transportation",
+        "adventure"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Magic_carpet"
+    },
+    {
+      "title_en": "Marzban-nama",
+      "title_zh": "马尔兹班纳玛",
+      "summary_en": "The Marzban-nama is a 13th-century Persian book filled with moral stories and fables, written by Sa'ad al-Din Varavini for Abu'l-Qasem Harun, the vizier of Muzaffar al-Din Uzbek. It serves as a guide to right conduct, illustrating virtues through tales. The manuscript, dated 1299, features unique illustrations drawn before the text was written, depicting Muhammad, the author, and the patron.",
+      "summary_zh": "马尔兹班纳玛是一部13世纪的波斯著作，由萨德丁瓦拉维尼为阿布·卡塞姆哈伦撰写，后者是穆扎法尔丁乌兹贝格的首相。这部作品通过寓言和故事来指导正确的行为，描绘了美德。最早的现存手稿（1299年）中的插图是在文本书写之前绘制的，展示了穆罕默德、作者以及赞助人。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "prose",
+        "morality",
+        "iran"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Marzban-nama"
+    },
+    {
+      "title_en": "Nasu",
+      "title_zh": "纳苏",
+      "summary_en": "In ancient Iranian mythology, Nasu, also known as Druj Nasu or Nasa, is a female demon of corpse matter in Zoroastrianism. She resides in the north and takes the form of a fly, symbolizing decay and contamination. Upon death, she inhabits the body, accelerating decomposition. Nasu's influence extends to funeral rites and burial practices, reflecting the deep-seated fear of corpse pollution among Zoroastrians.",
+      "summary_zh": "在古代伊朗神话中，纳苏是琐罗亚斯德教中的女妖精，主管尸体腐烂。她居住在北方，并以苍蝇的形象出现，象征着腐败和污染。当有人死亡时，纳苏会占据尸体，加速其分解过程。纳苏的影响延伸到葬礼仪式和埋葬实践，反映了琐罗亚斯德教徒对尸体污染的深深恐惧。",
+      "country": "Iran 伊朗",
+      "emoji": "🧟‍♀️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "demon",
+        "corpse",
+        "pollution"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Nasu_(Zoroastrianism)"
+    },
+    {
+      "title_en": "One Thousand and One Nights",
+      "title_zh": "一千零一夜",
+      "summary_en": "In ancient Persia, King Shahryar, heartbroken by his wife's infidelity, marries a new woman each night only to have her executed the next morning. Princess Scheherazade, a clever and resourceful young woman, volunteers to be the king’s bride. She tells him a story every night, leaving it incomplete so she must continue the tale the following evening. Over 1001 nights, Scheherazade weaves together an endless tapestry of magical adventures, enchanting stories, and moral lessons that captivate the king and save her life. The tales are a rich blend of fantasy, romance, and wisdom, reflecting the cultural diversity of the Middle East during the Islamic Golden Age.",
+      "summary_zh": "在古代波斯，国王沙里亚尔因妻子不贞而心碎，每天晚上娶一个新妃子，第二天清晨便将其处死。聪明机智的少女谢赫拉查德主动请求成为国王的新妃。她每晚给国王讲述一个故事，但总是让故事在次日继续时戛然而止。这样，国王必须等到第二天才能得知故事的结局，从而不得不让她继续讲述。经过1001个夜晚，谢赫拉查德编织了一个又一个神奇冒险、浪漫爱情和道德教诲的故事，深深吸引着国王，最终拯救了她的生命。这些故事反映了伊斯兰黄金时代中东文化的多样性。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/一千零一夜"
+    },
+    {
+      "title_en": "Parī",
+      "title_zh": "帕里",
+      "summary_en": "In Persian folklore, the parī is a beautiful and elusive creature with wings, often depicted as a member of an ethereal society akin to humans. These beings can be both benevolent and malevolent; they are known for their enchanting beauty but also for abducting people to their home-world, Parīstān. The parīs have evolved from early evil spirits into morally complex figures with a positive connotation, reflecting the rich and dynamic nature of Persian mythology.",
+      "summary_zh": "在波斯传说中，帕里是一种拥有翅膀的美丽生物，它们的社会结构与人类相似。这些生物既可能是善良的也可能是邪恶的；它们以其迷人的美貌著称，但也据说会诱拐人们前往他们的家园世界——帕里斯坦。从早期的邪灵到后来具有复杂道德观的形象，帕里的形象反映了波斯神话的丰富和动态。",
+      "country": "Iran 伊朗",
+      "emoji": "✨",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "beauty",
+        "supernatural"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Parī"
+    },
+    {
+      "title_en": "Persian Cat",
+      "title_zh": "波斯猫",
+      "summary_en": "The Persian cat, a long-haired traditional breed, originated in Iran and was exported to Europe during the 19th century. Known for its round face and petite muzzle, it became popular among cat fanciers in North-West Europe by the 19th century. Selective breeding led to the development of various coat colors but also created flat-faced cats with health issues like breathing difficulties. Some breeders are now working to preserve the traditional type with a more pronounced muzzle.",
+      "summary_zh": "波斯猫是一种长毛的传统品种，起源于伊朗，并在19世纪被出口到欧洲。这种猫咪以其圆润的脸庞和小巧的鼻梁而闻名，在北欧地区受到了养猫爱好者的喜爱。经过选择性繁殖，波斯猫发展出了各种颜色的毛发，但也出现了扁脸的问题，带来了呼吸困难等健康问题。一些育种者现在正在努力保留传统的类型，即拥有更突出鼻梁的猫咪。",
+      "country": "Iran 伊朗",
+      "emoji": "🐱",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Persian_cat"
+    },
+    {
+      "title_en": "Pishdadian Dynasty",
+      "title_zh": "皮什达迪王朝",
+      "summary_en": "The Pishdadian dynasty, a mythical line of primordial kings in Persian mythology, ruled for over two thousand years before being succeeded by the Kayanians. Keyumars, the first human and Zoroastrian Adam, was followed by his descendants who fought demons and improved humanity's lot through new knowledge and skills. Notable among them was Jamshid, who established civilization but fell to Zahhak due to pride. After a popular uprising against Zahhak, Fereydun divided the world between his sons, with Iraj receiving Iran. However, envy from other descendants led to a series of wars that eventually brought down the dynasty.",
+      "summary_zh": "皮什达迪王朝是波斯神话中的一系远古君王，统治了超过两千年的时光。开姆尔斯，作为第一个人类和琐罗亚斯德教的亚当，之后他的后裔们与恶魔战斗，并通过传授新的知识和技术改善了人类的生活。其中最著名的继承者贾姆希德建立了文明，但因骄傲而被邪恶暴君扎哈克推翻。在人民起义反对扎哈克之后，费里登将世界分给了他的三个儿子，伊瑞亚得到了伊朗。然而，其他后裔的嫉妒导致了一系列战争，最终摧毁了这个王朝。",
+      "country": "Iran 伊朗",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "iranian mythology"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Pishdadian_dynasty"
+    },
+    {
+      "title_en": "Rakhsh",
+      "title_zh": "拉赫什",
+      "summary_en": "In the Persian epic Shahnameh, Rakhsh is a legendary stallion belonging to the hero Rostam. With skin as rose petals on saffron, his strength rivals that of an elephant and his loyalty unmatched. Only Rostam can ride him; no other master dares to mount this mighty colt. Despite his immense power, Rakhsh's life is marked by divine favor but ultimately ends tragically when Rostam falls victim to the treachery of his half-brother Shaghad.",
+      "summary_zh": "在波斯史诗《王书》中，拉赫什是英雄罗斯塔姆的战马。它的皮肤如同玫瑰花瓣铺展于藏红花之上，力量堪比大象，忠诚无双。只有罗斯塔姆能够驾驭它；无人敢骑。尽管拥有巨大的力量，拉赫什的生命因神恩而格外长久，但最终还是在半兄沙格哈德的背叛中悲惨地死去。",
+      "country": "Iran 伊朗",
+      "emoji": "🐎",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "medieval"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Rakhsh"
+    },
+    {
+      "title_en": "Rohham",
+      "title_zh": "罗哈姆",
+      "summary_en": "In the Persian epic Shahnameh, Rohham is a valiant paladin who serves under King Kay Kavus and later King Kay Khosrow. Known for his unwavering loyalty and exceptional military skills, Rohham fights bravely in numerous battles, including the defense of the city against invaders. His courage and dedication make him a respected figure among the House of Goudarz.",
+      "summary_zh": "在波斯史诗《王书》中，罗哈姆是高德尔兹家族的一名英勇的骑士，在卡夫苏斯国王和后来的科索罗斯国王手下服役。以其坚定不移的忠诚和卓越的军事才能而闻名，罗哈姆在多场战斗中奋勇作战，特别是在抵御入侵者时保卫城市。他的勇气和奉献使他在高德尔兹家族中备受尊敬。",
+      "country": "Iran 伊朗",
+      "emoji": "🛡️",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "hero",
+        "paladin",
+        "defense"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Rohham"
+    },
+    {
+      "title_en": "Rostam's Seven Labours",
+      "title_zh": "罗斯塔姆的七件功绩",
+      "summary_en": "In the ancient Persian epic tradition, Rostam, the heroic son of Zal and Rudabeh, embarked on seven formidable labors. The first six were undertaken alone with his loyal steed Rakhsh, while for the seventh, he was joined by Olad, a renowned warrior. Each labor tested not only his strength but also his wisdom and courage. From slaying the monstrous Goshnasp to rescuing Queen Tahmina from the demon Zalmand, Rostam's deeds were legendary, showcasing his unwavering valor and dedication.",
+      "summary_zh": "在古代波斯史诗传统中，罗斯塔姆，扎尔和鲁达贝之子，在七项艰巨的任务中展现了非凡的勇气与智慧。前六项任务他独自一人，骑着忠诚的坐骑拉赫什完成；而第七项任务则有著名勇士奥拉德相伴。从斩杀怪兽古什纳斯普到营救被恶魔札尔曼德囚禁的王后塔米娜，罗斯塔姆的壮举令人赞叹不已。",
+      "country": "Iran 伊朗",
+      "emoji": "-hero-",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "heroic",
+        "medieval"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Rostam's_Seven_Labours"
+    },
+    {
+      "title_en": "Royal Stars",
+      "title_zh": "皇家之星",
+      "summary_en": "In ancient Persia, four bright stars—Aldebaran, Regulus, Antares, and Fomalhaut—were revered as celestial guardians of the sky. These stars were not just astronomical markers but also played a significant role in Zoroastrian cosmology, symbolizing divine entities that watched over the seasons and guided the people through time. The Persians believed these stars protected the cardinal directions and marked the transitions between seasons, ensuring the balance of nature and the harmony of the universe.",
+      "summary_zh": "在古代波斯，四颗明亮的星星——阿尔德巴兰、雷古勒斯、半人马座α星和富卡赫，被视为天空的守护者。这些星星不仅是天文标记，还在琐罗亚斯德教宇宙观中占有重要地位，象征着守护四季和引导人们穿越时间的神圣存在。波斯人相信这些星星保护着四个方向，并标志着季节转换的时间，确保自然界的平衡与宇宙和谐。",
+      "country": "Iran 伊朗",
+      "emoji": "-stars:",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "astronomy",
+        "astrology",
+        "seasons"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Royal_stars"
+    },
+    {
+      "title_en": "Rudaba",
+      "title_zh": "鲁达巴",
+      "summary_en": "In the Persian epic Shahnameh, Rudaba is a princess from Kabul who captures the heart of Zal, a man with golden hair. Despite their love, Zal's deformity and Rudaba’s father Mehrab's disapproval create tension. Eventually, they marry and have two children, including Rostam, destined to become the greatest hero in Persian legend. Their story is a tale of forbidden love and destiny.",
+      "summary_zh": "在波斯史诗《王书》中，鲁达巴是喀布尔的公主，她爱上了金发的扎勒。尽管他们相爱，但扎勒的畸形和鲁达巴的父亲梅哈布的反对使他们的关系充满矛盾。最终，两人还是结为夫妇，并生下了两个孩子，包括注定要成为波斯最伟大英雄的罗斯塔姆。他们的故事是关于禁忌之爱与命运的故事。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "legendary",
+        "heroic",
+        "love"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Rudaba"
+    },
+    {
+      "title_en": "Scheherazade",
+      "title_zh": "沙赫拉兹黛",
+      "summary_en": "In a kingdom where King Shahryar executes his wives each morning after their wedding night, Scheherazade, the daughter of the royal vizier and a master storyteller, volunteers to marry him. Each night, she weaves tales so captivating that he cannot bear to cut her short. For 1,001 nights, Scheherazade’s stories transform the king from one driven by vengeance into a just ruler, saving countless women from his wrath. Her intelligence and eloquence shape not only the narratives but also the destiny of the kingdom.",
+      "summary_zh": "在一位国王每天清晨处死新婚妻子的王国里，沙赫拉兹黛，王室顾问的女儿和一位杰出的故事讲述者，主动提出与国王成婚。每晚她都会编织出如此迷人的故事，让国王无法忍心打断。经过1,001个夜晚，沙赫拉兹黛的故事不仅改变了国王的心灵，也拯救了无数女性的生命，最终使他从复仇走向公正。她的智慧和口才不仅塑造了故事，还重塑了整个王国的命运。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Scheherazade"
+    },
+    {
+      "title_en": "Shahbaz",
+      "title_zh": "沙赫布兹",
+      "summary_en": "In the fabled lands of Greater Iran, the Shahbaz, a majestic bird with an eagle's body and the size of a hawk or falcon, was revered as a divine guide. It roamed the skies above the Zagros, Alborz, and Caucasus mountains, aiding the Iranian peoples in their quests and leading the Faravahar spirit to the sacred lands. This noble creature symbolized guidance and protection for the ancient Iranians.",
+      "summary_zh": "在伊朗大地上空翱翔的沙赫布兹，是一只拥有鹰的身体却比鹰或猎鹰更大的神鸟。它游弋于扎格罗斯山脉、阿尔borz山脉和高加索山之间，为古伊朗人指引方向并护送法拉瓦尔的灵魂来到圣土。这只高贵的飞禽象征着指导与保护。",
+      "country": "Iran 伊朗",
+      "emoji": "🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "bird",
+        "guidance",
+        "protection"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Shahbaz_(bird)"
+    },
+    {
+      "title_en": "Shahnameh",
+      "title_zh": "王书 (Wángrú)",
+      "summary_en": "The Shahnameh, written by Persian poet Ferdowsi over two decades in the 10th century, is a vast epic that spans the legendary and historical past of Iran. It narrates the tales of ancient kings from the creation of the world to the fall of the Sasanian Empire under Muslim conquest. The poem weaves together myths, legends, and historical events into an intricate tapestry, celebrating the heroic deeds of figures like Rustam, whose strength and valor are legendary. Through its grand narrative, the Shahnameh serves as a cornerstone of Persian identity and cultural heritage.",
+      "summary_zh": "《王书》是波斯诗人费尔杜西在10世纪历时二十余载创作的长篇史诗。它讲述了伊朗从创世之初到萨珊王朝灭亡的传奇与历史，涵盖了从鲁斯塔姆等英雄人物的英勇事迹到穆斯林征服的故事。这部作品将神话、传说和历史事件编织在一起，构成了一幅宏大的叙事画卷，成为波斯文化的基石和民族认同的重要标志。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "myth",
+        "legend",
+        "heroism"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Shahnameh",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/列王紀_(伊朗)"
+    },
+    {
+      "title_en": "Shahrasb",
+      "title_zh": "沙赫拉斯普",
+      "summary_en": "In the Persian epic Shahnameh, Shahrasb was a wise advisor to King Tahmuras. With his guidance, the king learned the right path and became virtuous, earning Khvarenah, a symbol of divine favor. Shahrasb's teachings transformed the ruler from a sinner into a righteous leader.",
+      "summary_zh": "在波斯史诗《王书》中，沙赫拉斯普是国王塔赫穆拉斯的智者顾问。在他的引导下，国王学会了正确的道路，变得正直，并获得了霍瓦尔纳赫——一种神圣恩典的象征。沙赫拉斯普的教诲将这位统治者从罪人转变为了正义的领导者。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "epic"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Shahrasb_(Shahnameh)"
+    },
+    {
+      "title_en": "Shahriyarnameh",
+      "title_zh": "沙赫里亚尔名著",
+      "summary_en": "Shahriyarnameh is an epic poem from Iran that tells the tales of Shahriyar, a descendant of Rostam. Set in Hend, Send, and Sarandip, it chronicles his adventures and those of his kin. The story, though incomplete, captures the spirit of heroic deeds and royal lineage, dedicated to the Ghaznavid ruler Mas'ud III.",
+      "summary_zh": "沙赫里亚尔名著是伊朗的一部史诗，讲述了沙赫里亚尔及其后裔的故事。故事发生在亨德、森德和萨兰迪普等地，描绘了他们的英雄事迹和王室传承。尽管不完整，但这部作品捕捉到了英雄主义和皇族血统的精神，并献给加兹纳维王朝的统治者马苏德三世。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "epic"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Shahriyarnameh"
+    },
+    {
+      "title_en": "Shamshir-e Zomorrodnegār",
+      "title_zh": "宝石剑祖莫尔登加尔",
+      "summary_en": "In the Persian epic Shahnameh, the legendary sword Shamshir-e Zomorrodnegār was forged by Kave for Prince Milad. After his death, it fell into the hands of a demon named Fulad-zereh, who wore it to protect himself from harm. The invincible demon was eventually defeated by Amir Arsalan, who acquired the sword and used it to slay the beast. This magical weapon could only be neutralized by a potion made with Fulad-zereh's brain, highlighting its unique power.",
+      "summary_zh": "在波斯史诗《王书》中，宝石剑祖莫尔登加尔由卡夫为米尔德王子锻造。米尔德死后，这把宝剑落入恶魔富拉兹雷赫之手，他佩戴此剑以抵御伤害。最终，阿米尔·阿尔萨兰英雄获得此剑，并用它击败了这个无敌的恶魔。这把神奇的武器只能通过一种特殊的药剂来中和，这种药剂需要使用富拉兹雷赫的大脑制成。",
+      "country": "Iran 伊朗",
+      "emoji": "⚔️",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology",
+        "swords",
+        "demons"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Shamshir-e_Zomorrodnegar"
+    },
+    {
+      "title_en": "Sindukht",
+      "title_zh": "辛杜赫特",
+      "summary_en": "In the Persian epic Shahnameh by Ferdowsi, Sindukht was the wife of Mehrab Kaboli and mother to Roodabeh. Initially upset upon learning that her daughter had fallen in love with Zāl, she feared their union would cause conflict due to their differing religious beliefs. However, when Zāl successfully convinced both Sām and Manuchehr, Sindukht and Mehrab supported the marriage. As a wise and beautiful woman, Sindukht played a crucial role in facilitating the union that led to the birth of Rostam.",
+      "summary_zh": "在波斯史诗《王书》中，辛杜赫特是梅哈布·卡波利的妻子，鲁达贝的母亲。当她得知女儿爱上了扎尔时，起初因担心宗教信仰不同以及梅哈布属于扎赫赫后代而引发冲突，表示反对。但当扎尔说服了萨姆和曼丘赫尔后，辛杜赫特和梅哈布最终支持了这段婚姻。作为一位智慧且美丽的女性，辛杜赫特在促成这对姻缘、为鲁斯特姆的诞生铺平道路的过程中发挥了重要作用。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "iranian",
+        "love",
+        "marriage",
+        "conflict"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Sindukht"
+    },
+    {
+      "title_en": "Sohrab",
+      "title_zh": "索罗德",
+      "summary_en": "In the Shahnameh, Sohrab is a legendary warrior and son of Rostam, the great Iranian hero. Orphaned at birth, he grows up unaware of his true identity until fate brings him into battle with his father. In a tragic duel, Rostam mortally wounds Sohrab, only realizing their kinship as death claims the young warrior. The story explores themes of destiny and the pain of familial estrangement.",
+      "summary_zh": "索罗德是《王书》中的传奇战士，也是伊朗英雄鲁斯塔姆之子。他自幼失怙，直到命运将他带入与父亲的决斗中才知晓自己的身世。在一场悲剧性的战斗中，鲁斯塔姆误伤了索罗德，直至对方倒下时才意识到彼此的关系。这个故事探讨了宿命和家庭隔阂带来的痛苦。",
+      "country": "Iran 伊朗",
+      "emoji": "⚔️",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "tragedy",
+        "identity",
+        "fate"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Sohrab"
+    },
+    {
+      "title_en": "Tahmina",
+      "title_zh": "塔赫米娜",
+      "summary_en": "In the Persian epic Shahnameh, Tahmina is a complex character who appears as both Rostam's wife and daughter of Samanganshah. Her story intertwines with that of her son Sohrab, leading to a tragic confrontation where she must choose between her husband and son. The tale explores themes of loyalty, duty, and the complexities of family bonds in ancient Iran.",
+      "summary_zh": "在波斯史诗《王书》中，塔赫米娜既是罗斯塔姆的妻子，又是萨曼甘沙赫的女儿。她的故事与儿子索拉布交织在一起，最终导致她必须在丈夫和儿子之间做出选择。这个故事探讨了忠诚、责任以及古代伊朗家庭关系中的复杂性。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "epic"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tahmina"
+    },
+    {
+      "title_en": "Vis and Rāmin",
+      "title_zh": "维斯与拉敏",
+      "summary_en": "In the classical Persian tale Vis and Rāmin, a young nobleman named Rāmin falls in love with Vis, a princess of great beauty. Despite their families' objections, they vow to meet secretly under a tree by the riverbank. One night, as they are about to embrace, a group of bandits led by Rāmin's jealous uncle attacks them. Vis is killed, and Rāmin, in his grief, vows revenge. He slays the bandits and avenges Vis's death. The tale reflects the themes of forbidden love, loyalty, and retribution in ancient Persian culture.",
+      "summary_zh": "在古典波斯故事《维斯与拉敏》中，贵族青年拉敏爱上了美丽的公主维斯。尽管两家都反对这段恋情，他们还是秘密约定在河边的一棵树下相见。就在他们即将相拥时，拉敏的嫉妒叔叔带领一伙强盗袭击了他们。维斯被杀，拉敏悲痛欲绝，发誓复仇。他杀死强盗，为维斯报仇。这个故事反映了古代波斯文化中的禁忌之爱、忠诚和复仇的主题。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "romance",
+        "revenge",
+        "classical"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Vis_and_Rāmin"
+    },
+    {
+      "title_en": "Zabulistan",
+      "title_zh": "扎布尔斯坦",
+      "summary_en": "Zabulistan was an ancient region that spanned southern Afghanistan and southeastern Iran, known as the birthplace of Rostam in Ferdowsi's Shahnameh. The area, stretching from the Hamun Oasis to the Indus River, was a frontier between Khorasan and India by the tenth century. In the Tarikh-i Sistan, Zabol was considered part of Sistan, which included present-day Nimroz, Helmand, Zabul, and parts of Iran's Sistan and Baluchestan Province.",
+      "summary_zh": "扎布尔斯坦是古代阿富汗南部和伊朗东南部的一个地区，被认为是法尔斯的萨曼王朝诗人费尔杜西的《王书》中罗斯塔姆的出生地。该区域从哈蒙绿洲延伸至印度河，是古时科尔索桑与印度之间的边界地带。在《史丹历史记》中，扎布尔被视为锡斯坦的一部分，包括现在的尼姆鲁兹、赫拉特、扎布尔和伊朗的部分锡斯坦与俾路支斯坦省。",
+      "country": "Iran 伊朗",
+      "emoji": "🌍",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "medieval"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Zabulistan"
+    },
+    {
+      "title_en": "Zafarnamah",
+      "title_zh": "扎法尔名哈 (Záfärmínhá)",
+      "summary_en": "Zafarnamah is an epic poem by Hamdallah Mustawfi, a Persian historian and geographer. Composed in over 75,000 couplets, the work narrates Iranian history from the Arab conquest to the Mongol era. It serves as both a literary masterpiece and a historical document, chronicling the rise and fall of empires and the cultural transformations that shaped Iran's past.",
+      "summary_zh": "扎法尔名哈是波斯诗人、历史学家和地理学家贺马达拉赫·穆斯塔菲所作的一部史诗诗篇，共75000余行。这部作品从阿拉伯征服时期到蒙古时代，详述了伊朗的历史。它既是文学杰作也是历史文献，记录了帝国的兴衰以及文化变迁对伊朗过去的影响。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Zafarnamah_(Mustawfi)"
+    },
+    {
+      "title_en": "Zaratosht-nama",
+      "title_zh": "扎拉图斯特拉之书",
+      "summary_en": "In the thirteenth century, Kay Kavus pur-i Khosrow composed Zaratosht-nama, a poetic epic that recounts the life of Zoroaster, the prophet who founded Zoroastrianism. The poem, written in Persian and following the meter of Ferdowsi's Shahnameh, weaves together oral narratives into a vivid tale of wisdom, struggle, and divine revelation. Through its 600 distichs, it captures the essence of Zoroaster’s teachings and his journey from humble beginnings to becoming a revered prophet.",
+      "summary_zh": "13世纪，凯卡夫斯·库斯罗一世创作了《扎拉图斯特拉之书》，这部诗体史诗讲述了琐罗亚斯德教的创始人扎拉图斯特拉的一生。这部长达600行的作品以波斯语写成，并遵循费尔多西的《王书》韵律，将口头传说编织成一个充满智慧、斗争和神启的故事。通过这些诗句，作品捕捉了琐罗亚斯德教义的核心及其从平凡生活到成为受人尊敬的先知的旅程。",
+      "country": "Iran 伊朗",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "religion",
+        "poetry",
+        "oral tradition"
+      ],
+      "lat": 32.43,
+      "lng": 53.69,
+      "wiki_en": "https://en.wikipedia.org/wiki/Zaratosht-nama"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "meta": {
+    "region": "Mesopotamian",
+    "count": 17,
+    "generated": "2026-04-11",
+    "note": "Scraped from Wikipedia, summarized with a local Qwen model via Ollama."
+  },
+  "stories": [
+    {
+      "title_en": "Ain Samiya Goblet",
+      "title_zh": "艾因萨米亚杯",
+      "summary_en": "The Ain Samiya Goblet, a silver cup from ancient Mesopotamia, tells an intricate tale of creation and triumph. Carved with scenes depicting a double-headed deity planting crops while holding the remnants of a serpent, it hints at early mythological narratives. The goblet showcases influences from Babylonian culture, specifically the Enuma Elish, which recounts Marduk's victory over Tiamat. This artifact bridges the gap between Mesopotamian and Proto-Canaanite traditions, offering insights into the religious and cultural exchanges of the time.",
+      "summary_zh": "艾因萨米亚杯是一件来自古代美索不达米亚的银杯，上面雕刻着一个双头神正在种植作物，并且手持一条被斩首的蛇的形象。这些图案暗示了早期神话叙事的存在。杯子展示了巴比伦文化的影响，特别是 Enuma Elish 这个创世史诗，讲述了马杜克战胜提amat的故事。这件文物连接了美索不达米亚和前迦南文化的传统，为我们提供了宗教与文化交流方面的洞见。",
+      "country": "Iraq 伊拉克",
+      "emoji": "🏺",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology",
+        "creation",
+        "Mesopotamia"
+      ],
+      "lat": 31.98416667,
+      "lng": 35.33305556,
+      "wiki_en": "https://en.wikipedia.org/wiki/'Ain_Samiya_goblet"
+    },
+    {
+      "title_en": "Underworld",
+      "title_zh": "冥界",
+      "summary_en": "In ancient Mesopotamian mythology, the underworld was a dark, dreary cavern beneath the earth where souls continued their earthly lives in a diminished form. The ruler of this realm was Ereshkigal, who resided in Ganzir palace. Her consort varied; she was initially married to Gugalanna but later to Nergal after the Akkadian period. Seven gates guarded by Neti led into this domain where Dumuzid spent half his year and Geshtinanna the other, alternating roles as underworld inhabitants. Demons like Lamashtu, Pazuzu, and galla also roamed here, awaiting souls to drag down.",
+      "summary_zh": "在古代美索不达米亚神话中，冥界是一个位于地下的黑暗洞穴，在这里亡灵继续着他们地上生活的一种减缩形式。冥界的统治者是埃reshkigal，她居住在Ganzir宫殿里。她的配偶后来变成了Nergal。通往这里的七个大门由Neti看守。Dumuzid一年中有半年时间在这里度过，另一半时间则由他的妹妹Geshtinanna代替。这里还有诸如Lamashtu、Pazuzu和galla等恶魔出没，等待着将灵魂拖入冥界。",
+      "country": "Iraq 伊拉克",
+      "emoji": "🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "underworld"
+      ],
+      "lat": 33.22,
+      "lng": 43.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ancient_Mesopotamian_underworld"
+    },
+    {
+      "title_en": "Bel",
+      "title_zh": "贝尔",
+      "summary_en": "Bel was a title used in Mesopotamian religion to refer to various gods, most notably Marduk, the chief deity of Babylon. In this role, he was often called Bel or Lord. His spouse Sarpanit was also known as Beltis, 'Lady.' Bel's mother, Ninhursag, was sometimes referred to as Belit-ili, 'Lady of the Gods.' Other gods like Malak-bel and Zeus Belus were also associated with this title, though not identical to Marduk. The name persisted in later religious contexts, such as in Mandaean cosmology where Jupiter was called Bil.",
+      "summary_zh": "贝尔是美索不达米亚宗教中用来指代各种神祇的称号，其中最著名的是巴比伦主神马杜克。作为这一角色，他被称为贝尔或主人。他的配偶萨帕尼特也被称作贝利特，意为‘女士’。贝尔的母亲宁胡尔萨格有时也被称为贝利特-伊里，即‘众神之母’。其他如马拉克-贝尔和宙斯贝尔乌等神祇也曾与这一称号相关联，但并非完全相同于马杜克。该名称在后来的宗教中仍然存在，例如在曼达教中，木星被称为比尔。",
+      "country": "Iraq 伊拉克",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "sumerian",
+        "babylonian"
+      ],
+      "lat": 33.22,
+      "lng": 43.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Bel_(mythology)",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/柏尔_(神话)"
+    },
+    {
+      "title_en": "Genesis Creation Narrative",
+      "title_zh": "创世记创造叙事",
+      "summary_en": "In the beginning, God created the heavens and the Earth in six days, commanding light to be separated from darkness, dry land from water, and filling the world with plants, sun, moon, stars. On the sixth day, He formed Adam from dust and placed him in Eden, where all animals were brought for Adam to name. From one of Adam's ribs, God created Eve as his companion. Together they lived blissfully until eating forbidden fruit led them to be expelled from paradise. This narrative, a composite of two ancient sources, affirms the monotheistic belief that only one God exists and critiques polytheism.",
+      "summary_zh": "起初，上帝用六天创造了天地，命令光与暗、陆地与水域分开，并赋予世界以植物、太阳、月亮和星星。第六日，祂从尘土中造出了亚当，并将他置于伊甸园，在那里所有动物都被带来让亚当命名。从亚当的一根肋骨中，上帝创造了夏娃作为他的伴侣。他们共同生活在乐园之中，直到违背神的禁令吃下了禁果，被逐出天堂。这一叙事由两个古代来源组成，肯定了唯一神存在的信念，并批判了多神论。",
+      "country": "Iraq 伊拉克",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "monotheism",
+        "creation",
+        "biblical"
+      ],
+      "lat": 33.22,
+      "lng": 43.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Genesis_creation_narrative"
+    },
+    {
+      "title_en": "Gudea Cylinders",
+      "title_zh": "古迪亚圆柱",
+      "summary_en": "In ancient Mesopotamia, Gudea, a ruler of Lagash, commissioned two large terracotta cylinders to honor his patron deity Ningirsu. The cylinders were inscribed with a myth describing the construction of Ningirsu's temple. These artifacts, discovered in Telloh (ancient Girsu), Iraq, are among the largest cuneiform cylinders ever found and contain the longest known text written in Sumerian. They serve as a testament to both Gudea’s devotion and the rich literary heritage of ancient Mesopotamia.",
+      "summary_zh": "古迪亚是古代拉伽什的统治者，他委托制作了两根大型陶土圆柱来歌颂他的庇护神宁尔苏。这些圆柱上刻有描述宁尔苏神庙建造过程的神话。这些文物在伊拉克的特洛霍（古代吉苏）被发现，并现藏于法国卢浮宫。它们是迄今为止发现的最大尺寸的楔形文字圆柱之一，也是已知最长的用苏美尔语书写的文本。古迪亚圆柱不仅是古迪亚对神灵的虔诚表达，也见证了古代两河流域丰富的文学遗产。",
+      "country": "Iraq 伊拉克",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 33.22,
+      "lng": 43.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Gudea_cylinders"
+    },
+    {
+      "title_en": "Hursag",
+      "title_zh": "乌鲁萨格",
+      "summary_en": "In ancient Sumerian mythology, Hursag is a term that signifies the foothills or headwaters of the valleys. This concept held great significance in Mesopotamian religion, associated with deities such as Anu and Enlil. The first written word on tablets found at Nippur, dating back to the third millennium BCE, Hursag may be the oldest surviving written text in the world, symbolizing the sacred mountains that were believed to connect heaven and earth.",
+      "summary_zh": "在古代苏美尔神话中，乌鲁萨格指的是山谷的源头或山脚。这一概念在美索不达米亚宗教中具有重要意义，与安努和恩利尔等神祇相关联。乌鲁萨格是最早出现在尼普尔城泥板上的文字之一，可追溯到公元前第三千纪，可能是世界上最古老的书面文本之一，象征着被认为连接天地的神圣山脉。",
+      "country": "Iraq 伊拉克",
+      "emoji": "-mountains:",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mesopotamia"
+      ],
+      "lat": 33.22,
+      "lng": 43.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Hursag"
+    },
+    {
+      "title_en": "Magilum Boat",
+      "title_zh": "玛吉鲁姆船",
+      "summary_en": "In ancient Sumerian religion, the Magilum Boat was a sacred vessel associated with the netherworld. According to legend, it was seized by Ninurta, the patron god of Lagash, and hung on his chariot as a trophy. In The Epic of Gilgamesh, this boat is described as the final resting place for all living creatures, symbolizing death and the afterlife. When the boat sinks, life ceases, marking the end of existence.",
+      "summary_zh": "在古代苏美尔宗教中，玛吉鲁姆船与冥界相关。据传说，这艘船被拉格什的守护神尼努尔塔夺取，并悬挂在了他的战车上作为战利品。在《吉尔伽美什史诗》中，这艘船被认为是所有有生命的生物最终的归宿，象征着死亡和来世。当玛吉鲁姆船沉没时，生命就会终结，标志着存在的结束。",
+      "country": "Iraq 伊拉克",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "death",
+        "afterlife"
+      ],
+      "lat": 33.22,
+      "lng": 43.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Magilum_boat"
+    },
+    {
+      "title_en": "Me (rituals)",
+      "title_zh": "美 (me)",
+      "summary_en": "In ancient Mesopotamia, the rituals known as Me were sacred and integral to the lives of gods and mortals alike. These rituals were believed to embody the divine presence, allowing the gods to manifest in human form through those who performed them. The correct execution of these rites at the temples was crucial for maintaining cosmic order and ensuring the prosperity of society. Without proper adherence to Me, chaos would reign, threatening the very fabric of civilization.",
+      "summary_zh": "在古代美索不达米亚，被称为“美”的仪式是神与人类之间的重要纽带。这些仪式被认为蕴含了神灵的存在，使诸神能够在执行它们的人身上显现。正确地在庙宇中举行这些仪式对于维持宇宙秩序和确保社会繁荣至关重要。若忽视对美的遵守，混乱将取代秩序，威胁到文明的根基。",
+      "country": "Iraq 伊拉克",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient"
+      ],
+      "lat": 33.22,
+      "lng": 43.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Me_(mythology)"
+    },
+    {
+      "title_en": "Mullissu",
+      "title_zh": "穆利士",
+      "summary_en": "In ancient Mesopotamia, Mullissu was a goddess who served as the consort to Asshur, the chief god of Assyria. Her name echoes that of Ninlil, wife of Enlil in Sumerian mythology, suggesting a deep connection between the pantheons of different regions. In Neo-Assyrian times, Mullissu was also associated with Ishtar of Nineveh, highlighting her role as a powerful deity. The name 'Mullissu' is believed to have evolved from Mylitta, an epithet for Aphrodite in Greek mythology, indicating the cultural exchange and syncretism among ancient Near Eastern religions.",
+      "summary_zh": "在古代美索不达米亚，穆利士是阿什尔的妻子，阿什尔是亚述的主神。她的名字与苏美尔神话中的尼林有关，尼林是恩利尔的妻子，这表明不同地区的神祇之间有着深刻的联系。在新亚述时期，穆利士还被认作尼尼微的伊斯塔尔，凸显了她作为强大神祇的角色。'穆利士'的名字被认为源于希腊神话中阿佛洛狄特的别名米莉塔，显示了古代近东宗教之间的文化交流和融合。",
+      "country": "Iraq 伊拉克",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "sumerian",
+        "assyrian",
+        "syncretism"
+      ],
+      "lat": 33.22,
+      "lng": 43.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Mullissu"
+    },
+    {
+      "title_en": "Panbabylonism",
+      "title_zh": "泛巴比伦主义",
+      "summary_en": "Panbabylonism was a scholarly theory that proposed the cultures and religions of the ancient Near East were interconnected, with Babylonian myths serving as their foundation. This idea suggested that these civilizations borrowed or adapted Babylonian astronomical knowledge to create their own mythologies. Scholars believed that by understanding Babylonian astronomy, one could unlock the secrets behind other ancient cultures' religious practices.",
+      "summary_zh": "泛巴比伦主义是一种学术理论，认为古代近东的文化和宗教相互关联，巴比伦神话构成了它们的基础。这一观点提出，这些文明借用或借鉴了巴比伦的天文知识来创造自己的神话。学者们相信，通过理解巴比伦的天文学，可以揭示其他古代文化宗教实践的秘密。",
+      "country": "Iraq 伊拉克",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "scholarship"
+      ],
+      "lat": 33.22,
+      "lng": 43.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Panbabylonism"
+    },
+    {
+      "title_en": "Sacred Bull",
+      "title_zh": "神牛",
+      "summary_en": "The sacred bull holds a significant place in ancient religions and mythologies across the world. In Sumerian mythology, Marduk is known as the 'Bull of Utu,' symbolizing strength and power. In Hinduism, Nandi, Shiva's faithful steed, represents devotion and wisdom. The constellation Taurus, depicting a bull, has been revered for millennia, embodying both lunar and solar energies in different cultures.",
+      "summary_zh": "神牛在世界各地的古代宗教和神话中占有重要地位。在苏美尔神话中，马杜克被称为‘乌图之牛’，象征着力量与权力。而在印度教中，湿婆的坐骑纳迪代表着虔诚与智慧。代表这一形象的牧夫座自古以来就被人们崇拜，它既体现了月神的力量也象征了太阳的能量。",
+      "country": "Iraq 伊拉克",
+      "emoji": "🐂",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "solar",
+        "lunar"
+      ],
+      "lat": 33.22,
+      "lng": 43.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Sacred_bull"
+    },
+    {
+      "title_en": "Sharur",
+      "title_zh": "沙鲁尔",
+      "summary_en": "Sharur, the mighty weapon of Ninurta, the Sumerian god of war and agriculture, was known for its enchanted powers. This talking mace could speak and offer strategic advice to its wielder. Legends tell that Sharur smashed countless enemies in battle, earning its name 'smasher of thousands.' Its presence on the battlefield was a symbol of Ninurta's divine strength and wisdom.",
+      "summary_zh": "沙鲁尔是苏美尔战神尼努尔塔的武器，以其神奇的力量而闻名。这把会说话的战锤不仅能发出声音，还能提供战术建议。传说中，沙鲁尔在战场上击溃了无数敌人，因此得名‘千军粉碎者’。它的存在象征着尼努尔塔的神圣力量与智慧。",
+      "country": "Iraq 伊拉克",
+      "emoji": "⚔️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "weapon",
+        "god"
+      ],
+      "lat": 33.22,
+      "lng": 43.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Sharur_(mythological_weapon)"
+    },
+    {
+      "title_en": "Star of Ishtar",
+      "title_zh": "伊什塔尔之星",
+      "summary_en": "In ancient Mesopotamia, Ishtar was revered as a powerful goddess associated with love, war, and fertility. She was often depicted holding the Star of Ishtar, a symbol that shone brightly in the night sky, representing her connection to Venus. The owl, another sacred animal, perched by her side, adding to her mysterious allure. Worshipers believed that through offerings and rituals, they could gain favor from this formidable deity who ruled over both heaven and earth.",
+      "summary_zh": "在古代美索不达米亚，伊什塔尔被视为一位强大的女神，与爱情、战争和生育相关。她经常手持伊什塔尔之星，这颗闪耀的星星象征着她与金星的联系。猫头鹰作为另一只神圣的动物，常伴其侧，增添了她的神秘魅力。崇拜者相信通过献祭和仪式可以获得这位统治天堂与大地的强大女神的恩宠。",
+      "country": "Iraq 伊拉克",
+      "emoji": "🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "goddess",
+        "star",
+        "owl"
+      ],
+      "lat": 33.22,
+      "lng": 43.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Star_of_Ishtar"
+    },
+    {
+      "title_en": "Strong Copper",
+      "title_zh": "强铜",
+      "summary_en": "In Sumerian mythology, Strong Copper was a precious item seized by Ninurta, the patron god of Lagash. After defeating his enemies, Ninurta hung this valuable spoil on the inside pole pin of his chariot as a symbol of victory and power. This act not only demonstrated Ninurta's might but also underscored the importance of Strong Copper in Sumerian culture.",
+      "summary_zh": "在苏美尔神话中，强铜是纳布塔击败敌人后夺得的珍贵物品。他将这件宝物悬挂在战车内的横杆上，以此彰显自己的力量与荣耀。这一举动不仅展示了纳布塔的强大，也突显了强铜在苏美尔文化中的重要性。",
+      "country": "Iraq 伊拉克",
+      "emoji": "✨",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "sacred object"
+      ],
+      "lat": 33.22,
+      "lng": 43.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Strong_copper"
+    },
+    {
+      "title_en": "Sukkal",
+      "title_zh": "苏凯勒 (Sukkal)",
+      "summary_en": "In ancient Mesopotamia, the term Sukkal referred to both high-ranking officials and divine servants. These individuals were crucial in executing royal commands and serving as intermediaries between gods and humans. One of the most notable deities associated with this title was Ninshubur, who acted as a faithful advisor and messenger for the great goddess Inanna. The office of Sukkal spread beyond Mesopotamia to regions like Alalakh and Mari, where it played an integral role in both secular and religious life.",
+      "summary_zh": "在古代美索不达米亚，苏凯勒一词既指高级官员也指神明的仆从。这些人物在执行王命和作为神与人类之间的中介方面起着至关重要的作用。其中最著名的便是尼辛布尔，她作为女神伊南娜忠诚的顾问和使者。苏凯勒这一职位不仅在美索不达米亚内部广泛存在，在阿拉拉赫、马里等地也发挥着重要作用，并且被融入了胡里安宗教中，许多主要神祇如库迈比或赫巴特都常与他们的苏凯勒相伴。",
+      "country": "Iraq 伊拉克",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "divine servants",
+        "Mesopotamian pantheon"
+      ],
+      "lat": 33.22,
+      "lng": 43.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Sukkal"
+    },
+    {
+      "title_en": "Tablet of Destinies",
+      "title_zh": "命运之板",
+      "summary_en": "In Mesopotamian mythology, the Tablet of Destinies was a sacred clay tablet inscribed with cuneiform and seals, symbolizing Enlil's supreme authority. This powerful artifact allowed Enlil to reshape destiny itself, transforming current circumstances back into their original state. The tablet played a crucial role in myths like Ninurta and the Turtle, where it demonstrated Enlil’s divine power over other gods.",
+      "summary_zh": "在美索不达米亚神话中，命运之板是一块刻有楔形文字并印有印章的神圣黏土板，象征着恩利尔至高无上的权威。这块强大的神器允许恩利尔重塑命运本身，将当前的状态恢复到原始状态。命运之板在《尼努尔塔与乌龟》等神话中扮演了重要角色，展示了恩利尔对其他神祇的神圣权力。",
+      "country": "Iraq 伊拉克",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "sumerian",
+        "akkadian"
+      ],
+      "lat": 33.22,
+      "lng": 43.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tablet_of_Destinies"
+    },
+    {
+      "title_en": "Ukkin",
+      "title_zh": "乌金",
+      "summary_en": "In ancient Mesopotamia, Ukkin referred to a divine council where gods gathered in assembly. This concept was later adopted by various cultures including Akkadian and Hittite societies. The term Puḫru or Puḫrum signified not only the gathering of deities but also public assemblies involving both gods and humans. It symbolized the totality of life, reflecting a profound connection between divine and human realms in Sumerian and subsequent Mesopotamian traditions.",
+      "summary_zh": "在古代美索不达米亚，乌金指的是众神集会的神圣议会。这一概念后来被阿卡德和赫梯等文化所采用。Puḫru 或 Puḫrum 不仅指神祇的聚会，还涉及人类参与的公共集会。它象征着生命的整体性，反映了苏美尔及其后继文明中天界与人间的深刻联系。",
+      "country": "Iraq 伊拉克",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "divine council"
+      ],
+      "lat": 33.22,
+      "lng": 43.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ukkin"
+    }
+  ]
+}

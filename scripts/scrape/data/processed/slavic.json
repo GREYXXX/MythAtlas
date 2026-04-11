@@ -1,0 +1,754 @@
+{
+  "meta": {
+    "region": "Slavic",
+    "count": 44,
+    "generated": "2026-04-11",
+    "note": "Scraped from Wikipedia, summarized with a local Qwen model via Ollama."
+  },
+  "stories": [
+    {
+      "title_en": "Babay",
+      "title_zh": "巴拜",
+      "summary_en": "In Slavic folklore, Babay is a night spirit who terrifies misbehaving children into good behavior by threatening to take them away. Parents would warn their kids of the dangers of staying up late or being naughty, as Babay lurks in the shadows, ready to snatch them if they disobey.",
+      "summary_zh": "在斯拉夫民间传说中，巴拜是一个夜间精灵，他恐吓不听话的孩子们，让他们变得规矩。父母会警告孩子们不要熬夜或捣蛋，因为巴拜会在暗处徘徊，如果孩子不听话就会把他们带走。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🌙",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "slavic"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Babay_(Slavic_folklore)"
+    },
+    {
+      "title_en": "Bauk",
+      "title_zh": "鲍克",
+      "summary_en": "In Serbian mythology, Bauk is an elusive creature that dwells in dark and abandoned places, waiting to snatch its unsuspecting prey. Its presence can be deterred by light and noise. The clumsy gait of the bauk, known as bauljanje, and its onomatopoeia 'bau' hint at its bear-like nature, which was once common but now only exists in legend.",
+      "summary_zh": "在塞尔维亚神话中，鲍克是一种生活在黑暗和废弃之地的神秘生物，等待着不知情的猎物。它的存在可以通过光亮和噪音来驱赶。鲍克笨拙的步伐被称为baujanje，其拟声词‘bau’让人联想到熊的形态，这种动物过去在该地区较为常见，但现在仅存在于传说中。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🐻",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Bauk_(mythology)"
+    },
+    {
+      "title_en": "Black Arab",
+      "title_zh": "黑阿拉伯人",
+      "summary_en": "In Balkan folklore, the Black Arab is a malevolent figure often depicted as a dark-skinned ruffian who kidnaps women and girls. He is also portrayed as a chthonic demon, a replacement for the devil in some tales. In Serbian legends, Krali Marko battles against this fearsome character, while other heroes like Sider Voevoda and Strahil Voevoda are known to fight him too. Some stories even describe an Arab who, after being slain in battle, escapes with his head held in one arm, adding a gruesome twist to the legend.",
+      "summary_zh": "在巴尔干半岛的民间传说中，黑阿拉伯人是一个邪恶的角色，常被描绘为一个皮肤黝黑、劫掠妇女和女孩的恶棍。他还是地府恶魔的一种替代形象，在一些故事中充当魔鬼的角色。塞尔维亚传说中的卡良·马科与这个可怕的敌人战斗，而西德·沃瓦达和斯特哈尔·沃瓦达等著名民族英雄也以对抗黑阿拉伯人著称。有些故事甚至描述了一个被斩首后仍然能手持头颅逃走的阿拉伯人，给这个传奇增添了恐怖的一笔。",
+      "country": "Serbia 塞尔维亚",
+      "emoji": "🧟‍♂️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "demon",
+        "balkan"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Black_Arab_(mythology)"
+    },
+    {
+      "title_en": "Blue Stone",
+      "title_zh": "蓝石",
+      "summary_en": "In Russia, particularly among Eastern Slavic and Volga Finnic tribes like the Merya and Muroma, Blue Stones were revered as sacred objects. Unlike Sledovik stones which had significant hallowed areas, these simpler stones were honored by pouring water over them or leaving food offerings. The most famous of these is Sin-Kamen, a 12-ton boulder near Lake Pleshcheyevo that turns blue when wet. Once venerated on Bald Hill, it was later moved to the Pereslavl Monastery and then submerged in Lake Pleshcheyevo before being rediscovered by neopagans.",
+      "summary_zh": "在俄罗斯，特别是在东斯拉夫和沃尔加芬尼族部落中，蓝石被视为神圣的物体。与具有重要圣域的Sledovik石头不同，这些简单的石头通过倒水或献上食物来表达敬意。最著名的蓝石是Sin-Kamen，位于普列谢耶沃湖附近的12吨重的岩石，在下雨后会变成蓝色。这座石头曾经在秃山顶被崇拜，后来被移到佩雷沙尔夫斯基修道院，最终沉入湖中，直到19世纪被当地新教徒重新发现。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "sacred stones",
+        "paganism"
+      ],
+      "lat": 56.78416667,
+      "lng": 38.82416667,
+      "wiki_en": "https://en.wikipedia.org/wiki/Blue_Stone_(Russia)"
+    },
+    {
+      "title_en": "Božić",
+      "title_zh": "博济奇",
+      "summary_en": "In Slavic mythology, Božić is a creature symbolizing new beginnings and youth. During Christmas celebrations in Russia, it appears alongside a golden-horned deer and a pig, embodying the spirit of renewal as the old year dies and the new one is born. This figure reflects the ancient cult of Svarog, the sun god, whose annual rebirth mirrors the cycle of nature. The traditions surrounding Božić have been integrated into Christian celebrations, with Slavic peoples still referring to Christmas as 'Božić'.",
+      "summary_zh": "在斯拉夫神话中，博济奇象征着新生和青春。在俄罗斯的圣诞节庆祝活动中，它伴随着一只金色角的鹿和一头猪出现，代表着更新与重生的理念，正如旧的一年消逝而新的一年诞生一样。这个形象反映了古时对太阳神斯瓦罗格的崇拜，其一年一度的重生体现了自然界的循环。博济奇的传统已经融入了基督教节日中，斯拉夫人仍然将圣诞节称为“博济奇”。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Božić_(mythology)"
+    },
+    {
+      "title_en": "Chut",
+      "title_zh": "胡特",
+      "summary_en": "In Belarusian folklore, Chut is a household spirit who blesses his hosts with wealth and prosperity. However, if neglected or not properly fed, he can unleash terrible curses upon them. The villagers knew well to keep him contented by offering food and drink, for the consequences of his displeasure were dire indeed.",
+      "summary_zh": "在白俄罗斯的民间传说中，胡特是一种家庭精灵，他会给主人带来财富和成功。但如果被忽视或没有得到应有的款待，他会施加可怕的诅咒。村民们深知要让胡特满意，必须提供食物和饮料，否则后果不堪设想。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🏠",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "belarusian mythology"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Chut_(Belarusian_mythology)"
+    },
+    {
+      "title_en": "Ded Moroz",
+      "title_zh": "戴德·莫罗兹 (Дед Мороз)",
+      "summary_en": "In the frosty lands of Russia, Ded Moroz, or Grandfather Frost, roams with his magic stick and troika, bringing joy to children on New Year's Eve. Wearing a red or blue fur coat and valenki, he travels from Veliky Ustyug, spreading gifts to those who have been good throughout the year. Accompanied by Snegurochka, the Snow Maiden, Ded Moroz has become an integral part of Russian culture, even surviving communist bans during the Soviet era.",
+      "summary_zh": "在俄罗斯寒冷的土地上，戴德·莫罗兹带着他的魔法拐杖和雪橇，在新年前夜为孩子们带来欢乐。他穿着红色或蓝色的皮大衣和瓦列尼卡靴子，从维亚济马出发，向全年表现良好的孩子分发礼物。斯妮古洛奇卡，雪姑娘，陪伴在他的身边，成为俄罗斯文化的重要组成部分，即使在苏联时期也曾经历过共产党的禁令。",
+      "country": "Russia 俄罗斯",
+      "emoji": "❄️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "modern"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ded_Moroz",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/严寒老人"
+    },
+    {
+      "title_en": "Devil Boruta",
+      "title_zh": "地狱波鲁塔",
+      "summary_en": "In Polish mythology, Devil Boruta is a swamp spirit who transformed from the pagan Slavic leshy after Christianization. He was often depicted as a nobleman, known for corrupting other nobles while leaving peasants to be tempted by Rokita, another devil. Some scholars suggest that this portrayal of Boruta as a nobleman might have been created in the 19th century and reintroduced into folklore.",
+      "summary_zh": "在波兰神话中，地狱波鲁塔是一种沼泽精怪，源自斯拉夫人的莱什。基督教化后，他常被描绘成一位贵族，专门引诱其他贵族堕落，而让农民则由罗基塔这样的恶魔诱惑。一些学者认为，将波鲁塔塑造成贵族的形象可能是19世纪创造并重新引入民间传说的。",
+      "country": "Poland 波兰",
+      "emoji": "🧛‍♂️",
+      "type": "folklore",
+      "tags": [
+        "medieval",
+        "slavic",
+        "swamp",
+        "nobleman"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Devil_Boruta"
+    },
+    {
+      "title_en": "Dobrynya Nikitich",
+      "title_zh": "杜布林娜·尼基季奇",
+      "summary_en": "Dobrynya Nikitich, a legendary bogatyr from Kievan Rus', was the son of the voivode Nikita. Known for his valor and cunning, he served as a trusted courtier to Prince Vladimir, undertaking sensitive missions and completing challenging tasks. A skilled archer, swimmer, and wrestler, Dobrynya also played the gusli and was renowned for his courtesy. His tales reflect the noble warrior class of medieval Russia, embodying both strength and diplomacy.",
+      "summary_zh": "杜布林娜·尼基季奇是基辅罗斯时期的一位传奇勇士，他是诺基塔的子嗣。作为王子弗拉基米尔的近臣，他执行了许多敏感和外交任务，并完成了许多艰巨的任务。作为一名弓箭手、游泳健将和摔跤高手，杜布林娜还擅长弹奏古斯里琴，并以其礼貌著称。他的故事反映了中世纪俄罗斯贵族战士的形象，既展现了力量也体现了外交手腕。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🛡️",
+      "type": "epic",
+      "tags": [
+        "medieval",
+        "bogatyr",
+        "knight",
+        "bylina"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Dobrynya_Nikitich"
+    },
+    {
+      "title_en": "Dukljan",
+      "title_zh": "杜克兰",
+      "summary_en": "In Serbian mythology, Dukljan is a figure embodying the Roman emperor Diocletian. He is depicted as an adversary of God due to his persecution of Christians. Legends tell of him founding the town of Duklja and constructing milestones that he once threw at his fleeing brother and sister. A folk song recounts how Dukljan once removed the Sun from the sky, but Saint John restored it with a trick. The story goes that Dukljan is still alive, chained in the Morača River near Duklja, where he gnaws at his chains each year around Christmas, nearly breaking free to destroy the world until four Gypsy blacksmiths reforge them.",
+      "summary_zh": "杜克兰是塞尔维亚神话中罗马皇帝戴克里先的化身，因其迫害基督徒而成为上帝的敌人。传说他建立了杜尔卡镇，并建造了里程碑，曾将它们扔向逃亡的兄弟和姐妹。一首民谣讲述了杜克兰曾经移走了太阳，但圣约翰用计将其恢复的故事。传说中，杜克兰仍然活着，在莫拉察河附近被 chains 锁着，每年圣诞节前后他几乎能够挣脱锁链毁灭世界，直到四个吉普赛铁匠重新锻造了这些锁链。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "serbian mythology"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Dukljan"
+    },
+    {
+      "title_en": "Dziwożona",
+      "title_zh": "迪沃佐娜",
+      "summary_en": "In Slavic folklore, Dziwożona is a fearsome swamp demon who haunts the marshes and swamps, preying on vulnerable souls. Midwives, old maids, unmarried mothers, pregnant women who die before giving birth, and abandoned children are particularly at risk of becoming her prey. The tales warn of her malevolent nature, teaching caution to those who venture near these dark waters.",
+      "summary_zh": "迪沃佐娜是斯拉夫神话中的沼泽女妖，出没于湿地和沼泽地带，专门猎杀脆弱的灵魂。特别是助产士、老姑娘、未婚母亲、在分娩前去世的孕妇以及被遗弃的私生子最容易成为她的猎物。这些传说告诫人们远离这些阴暗之地。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🧟‍♀️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "Slavic mythology"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Dziwożona"
+    },
+    {
+      "title_en": "Fern Flower",
+      "title_zh": "蕨花",
+      "summary_en": "In the mystical forests of Slavic and Baltic lands, the fern flower is said to bloom only once a year. Legends tell that this rare and magical blossom appears at midnight under the light of the full moon. Those who find it are granted visions of their future or the secrets of nature itself. However, the fern flower is elusive; its presence can only be sensed by those pure in heart and mind. The flower's beauty is said to vanish as soon as a mortal sets eyes upon it, leaving behind only a faint fragrance that lingers in the air.",
+      "summary_zh": "在斯拉夫和波罗的海森林中，蕨花只会在满月之夜绽放一次。传说中，只有心灵纯净的人才能感受到它的存在，并获得预知未来或自然奥秘的能力。然而，蕨花极为罕见，一旦被凡人看见，其美丽便会消失，仅留下淡淡的香气在空气中飘荡。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🌸",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Fern_flower"
+    },
+    {
+      "title_en": "First Humans in Slavic Mythology",
+      "title_zh": "斯拉夫神话中的人类起源",
+      "summary_en": "In Slavic folklore, the creation of humans often echoes biblical narratives rather than preserving original pagan myths. According to these tales, after a great flood or cosmic upheaval, the gods created the first humans from clay or wood. These beings were given life and taught skills for survival. Over time, they multiplied and spread across the land, becoming the ancestors of all Slavic peoples.",
+      "summary_zh": "斯拉夫神话中，人类的起源往往借鉴了圣经中的叙述。传说在一次大洪水或宇宙变迁之后，诸神用泥土或木头创造了第一批人类，并赋予他们生命并教授生存技能。随着时间的推移，这些人类繁衍生息，遍布各地，成为所有斯拉夫人祖先。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🧝‍♂️🧝‍♀️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/First_humans_in_Slavic_mythology"
+    },
+    {
+      "title_en": "Folklore of Sarajevo",
+      "title_zh": "萨拉热窝民间传说",
+      "summary_en": "The folklore of Sarajevo is rich and diverse, reflecting the city's history through various tales. One of the earliest stories is that of the Goat's Bridge. An old goat herder discovered a hidden treasure while tending his goats by the Miljacka River, which he used to build a bridge for travelers heading to Istanbul. More recent is the tragic tale of Boško Brkić and Admira Ismić, who died in Sniper Alley during the Serbian siege of Sarajevo in 1993. Their story became legendary as they chose to stay together even after the boy was killed by a sniper. Nasrudin Hodža is also popular, with many stories about his interactions with the city and its people, showcasing the wisdom and humor of this wise man.",
+      "summary_zh": "萨拉热窝的民间传说丰富多彩，反映了这座城市的历史。最古老的故事之一是羊桥的故事。一位老牧羊人发现河岸边埋藏了宝藏，用这些财富建起了一座横跨米尔雅察河的大桥，供前往伊斯坦布尔的旅人使用。更近的是博什科·布克奇和阿德米拉·伊斯米奇的爱情悲剧，在1993年塞族对萨拉热窝的围城中，这对塞尔维亚男孩与波斯尼亚女孩决定逃离这座城市，但最终在狙击手巷“无人地带”殉情。纳苏丁·霍查也是传说中的常客，关于他与城市及人民互动的故事展现了这位智者的智慧和幽默。",
+      "country": "Bosnia and Herzegovina 波斯尼亚和黑塞哥维那",
+      "emoji": "❤️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "modern"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Folklore_of_Sarajevo"
+    },
+    {
+      "title_en": "Geira",
+      "title_zh": "盖伊拉",
+      "summary_en": "Geira was a powerful Wendish princess in the late 10th century, ruling over lands near the German frontier before her marriage to the young king Óláfr Tryggvason. Her story is told through Norse sagas and reflects the political alliances between Germanic and Scandinavian rulers during this period of Viking history.",
+      "summary_zh": "盖伊拉是10世纪晚期的一位维京公主，统治着靠近日耳曼边界的领土。她在年轻国王奥拉夫·特罗伊古松的求婚后，成为了他的妻子。她的故事通过北欧传奇流传下来，反映了这一时期日耳曼与斯堪的纳维亚联盟的政治局势。",
+      "country": "Russia 俄罗斯",
+      "emoji": "👑",
+      "type": "legend",
+      "tags": [
+        "medieval",
+        "viking"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Geira"
+    },
+    {
+      "title_en": "Golosov Ravine",
+      "title_zh": "戈洛索夫洼地",
+      "summary_en": "In the heart of Moscow lies Golosov Ravine, a deep and mystical place where ancient stones are said to hold sacred power. The ravine, nestled between two hills, is home to Neopagan shrines that attract visitors seeking spiritual solace. Efforts in recent years have transformed this once wild landscape into a safer haven for those who wish to connect with the earth's energy, ensuring its continued significance in modern times.",
+      "summary_zh": "莫斯科中心地带的戈洛索夫洼地，是一个充满神秘气息的地方。这里矗立着两块被奉为神圣之石的古老巨岩，并设有新教派的神社，吸引着寻求心灵慰藉的人们前来探访。近年来，人们努力将这片原始景观改造成一个更加安全的场所，使其继续在现代生活中发挥重要作用。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "modern"
+      ],
+      "lat": 55.66305556,
+      "lng": 37.66277778,
+      "wiki_en": "https://en.wikipedia.org/wiki/Golosov_Ravine"
+    },
+    {
+      "title_en": "Ignác Jan Hanuš",
+      "title_zh": "伊纳兹·扬·汉乌什",
+      "summary_en": "Ignác Jan Hanuš, a philosopher from Prague, dedicated his life to the preservation and study of Czech literature. His work as a librarian allowed him to delve into the rich cultural heritage of Bohemia, contributing significantly to the understanding and appreciation of Czech folklore and history.",
+      "summary_zh": "伊纳兹·扬·汉乌什是来自布拉格的哲学家，一生致力于捷克文学的保存和研究。作为图书管理员，他深入探究了波希米亚丰富的文化遗产，对捷克民间传说和历史的理解与欣赏做出了重要贡献。",
+      "country": "Czechia 捷克",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "medieval",
+        "cultural preservation"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ignác_Jan_Hanuš"
+    },
+    {
+      "title_en": "Interpretatio Slavica",
+      "title_zh": "斯拉夫异教同名现象",
+      "summary_en": "Interpretatio slavica refers to the practice among ancient Slavic peoples to equate their gods with those of neighboring cultures, often adopting names and attributes from other pantheons. For example, they might associate a local deity named Perun with Zeus or Jupiter, thereby integrating foreign deities into their own religious practices without fully abandoning their original beliefs. This cultural exchange allowed for the adaptation of new ideas while maintaining traditional Slavic spiritual practices.",
+      "summary_zh": "古代斯拉夫人将邻近文化中的神灵与自己的神灵相联系，这种现象被称为斯拉夫异教同名现象。例如，他们可能会将本地的佩尔金神与宙斯或朱庇特神联系起来，从而在保留传统信仰的同时融入外来宗教观念。这种文化交流使得新思想得以传播，同时又保持了斯拉夫人的精神实践。",
+      "country": "Russia 俄罗斯",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "religion",
+        "cultural exchange"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Interpretatio_slavica"
+    },
+    {
+      "title_en": "Korochun",
+      "title_zh": "卡拉钦",
+      "summary_en": "In Slavic folklore, Korochun is both a name for the Christmas season and an evil spirit that brings sudden death. The curse 'Let Karachun take you!' was used to wish someone misfortune or a swift end to their life. This figure embodies the perilous nature of winter and the unpredictable dangers lurking in the dark months.",
+      "summary_zh": "在斯拉夫神话中，卡拉钦既是圣诞节的名称，也是一个带来突然死亡的邪恶精灵。人们常用‘愿卡拉钦带走你！’来诅咒某人遭遇不幸或突然死亡。这个形象体现了冬天的危险和黑暗月份中的不可预知的威胁。",
+      "country": "Russia 俄罗斯",
+      "emoji": "❄️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "slavic"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Korochun"
+    },
+    {
+      "title_en": "Bald Mountain",
+      "title_zh": "秃山",
+      "summary_en": "In Slavic folklore, Bald Mountains are sacred grounds where witches gather for their Sabbath. These barren peaks, shrouded in mystery and superstition, serve as a meeting place for dark magic practitioners. The legend speaks of how these mountains come alive with the night, as witches fly on broomsticks to celebrate their rituals under the moonlight. Tales of eerie winds and strange happenings add to the allure and fear surrounding these mystical heights.",
+      "summary_zh": "在斯拉夫民间传说中，秃山是女巫们聚会施魔法的圣地。这些荒凉的山顶被神秘和迷信所笼罩，是黑暗巫术实践者集会的地方。据说每当夜幕降临，这些山峰就会变得生机勃勃，女巫们骑着扫帚飞来参加她们的秘密仪式，在月光下庆祝。关于这些神秘高地的传说充满了诡异的风声和奇怪的事情，为它们增添了更多的魅力与恐惧。",
+      "country": "Russia 俄罗斯",
+      "emoji": "✨",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "witchcraft",
+        "sabbath",
+        "mythology"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Bald_Mountain_(folklore)"
+    },
+    {
+      "title_en": "Kyi, Shchek and Khoryv",
+      "title_zh": "基伊、什切克和霍尔耶夫兄弟",
+      "summary_en": "In ancient Russia, Kyi, Shchek, and Khoryv were legendary brothers who, according to the Primary Chronicle, founded the city of Kiev. This city eventually became the capital of Kievan Rus' and is now Ukraine's capital. Some scholars suggest that Kyi was also a prince from the Polan tribe, establishing what would be known as the Kyi dynasty. The founding of Kiev by these three brothers remains a significant myth in Russian history, symbolizing the beginning of a great Slavic civilization.",
+      "summary_zh": "在古代俄罗斯，基伊、什切克和霍尔耶夫是三位传说中的兄弟。据《原始编年史》记载，他们建立了基辅这座城市，最终成为基辅罗斯的首都，并且现在是乌克兰的首都。一些学者认为基伊也是波兰部落的一位王子，建立了后来被称为基伊王朝的家族。基伊、什切克和霍尔耶夫建立基辅的故事在俄罗斯历史中具有重要意义，象征着伟大斯拉夫文明的开端。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🏰",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kyi,_Shchek_and_Khoryv"
+    },
+    {
+      "title_en": "Leđan",
+      "title_zh": "莱丹",
+      "summary_en": "Leđan was an ancient and magical city in Croatian folklore, known for its mysterious allure and hidden treasures. In the tales of Ivana Brlić-Mažuranić's collection, Leđan stood as a place where magic and wonder intertwined with danger. It was said that only those who possessed pure hearts could find their way to this enchanted city, which lay hidden from the eyes of the unworthy. Legends spoke of its golden spires and crystal-clear waters, but also of the perils that awaited those who dared to venture too deep into its secrets.",
+      "summary_zh": "莱丹是克罗地亚 folklore 中一个古老而充满魔法的城市，以其神秘的魅力和隐藏的宝藏闻名。在伊万娜·布利奇-马祖拉尼亚奇编撰的故事集中，莱丹是一个魔法与奇迹交织的地方，但也是危险潜伏之地。传说中，只有那些拥有纯洁心灵的人才能找到这座被魔法遮蔽的城市，它以金色的尖塔和清澈的水域著称，但也警告着深入其秘密区域的风险。",
+      "country": "Croatia 克罗地亚",
+      "emoji": "🌟",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "treasure",
+        "magic"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Leđan"
+    },
+    {
+      "title_en": "Lidérc",
+      "title_zh": "利德赫尔 (Líděr)",
+      "summary_en": "In Hungarian folklore, the lidérc is a supernatural being that can take three forms: as a miracle chicken, a tiny devil, or an incubus. The most common form is the miracle chicken, which hatches from a black hen's egg and becomes a lover to its owner, though it often causes harm by sitting on the body and sucking blood. This form brings wealth but also illness. Another version of the lidérc is a small being that grants sudden riches but can be dangerous. The third form is an incubus-like entity that appears as a fiery light or bird, causing sickness and death. It can only be defeated by performing impossible tasks or using protective measures like burning incense.",
+      "summary_zh": "在匈牙利的民间传说中，利德赫尔有三种形态：奇迹鸡、小恶魔和夜魔。最常见的形式是奇迹鸡，从黑母鸡的第一个蛋孵化而出，成为主人的情人，但会压在身上吸血并导致疾病。另一种形式的小恶魔能带来突然的财富但也可能带来危险。第三种形式是像夜魔一样的存在，以火焰或鸟的形式出现，造成疾病和死亡。这种利德赫尔只能通过完成不可能的任务或使用保护措施如燃烧香草来击败。",
+      "country": "Hungary 匈牙利",
+      "emoji": "🧛‍♂️",
+      "type": "folklore",
+      "tags": [
+        "medieval",
+        "supernatural",
+        "incubus",
+        "nightmare"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Lidérc"
+    },
+    {
+      "title_en": "Mikula Selyaninovich",
+      "title_zh": "米库拉·塞利尼诺维奇",
+      "summary_en": "In the Russian epic tradition, Mikula Selyaninovich, a humble plowman from Novgorod, proves his strength and valor through various challenges. When other bogatyrs fail to lift their heavy plows or bags, Mother Earth herself testifies that she loves him more than any warrior. This tale celebrates the common man's virtue and the power of simple virtues over martial might.",
+      "summary_zh": "在俄罗斯史诗中，米库拉·塞利尼诺维奇是一位来自诺夫哥罗德的普通农夫。他通过各种考验证明了自己的力量和勇气。当其他武士无法举起沉重的犁或袋子时，大地之母亲自证实她更爱他胜过任何战士。这个故事颂扬了普通人美德的力量，以及朴素品质超越武力。",
+      "country": "Russia 俄罗斯",
+      "emoji": "✍️",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "medieval"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Mikula_Selyaninovich"
+    },
+    {
+      "title_en": "Misizla",
+      "title_zh": "米西兹拉",
+      "summary_en": "In the Wendish mythology of medieval Russia, Misizla was a godlike hero and warrior-musician. Wearing sword and armor, he played his bagpipe with great skill. Some believe he was actually Misizlaw, a real-life figure from the 10th century who sought to revive Slavic pagan beliefs. His dual role as both a brave warrior and a skilled musician made him a legendary figure among the Wendish people.",
+      "summary_zh": "在中世纪俄罗斯的温地神话中，米西兹拉是一位神似英雄和战士音乐家。他身披剑甲，熟练地吹奏着他的风笛。有人认为他就是10世纪的米西兹劳，一位试图复兴斯拉夫异教信仰的实际人物。作为勇敢的战士兼出色的乐手，米西兹拉成为了温地人的传奇英雄。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🎶🗡️",
+      "type": "folklore",
+      "tags": [
+        "medieval",
+        "warrior",
+        "musician",
+        "paganism"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Misizla"
+    },
+    {
+      "title_en": "Moryana",
+      "title_zh": "摩里亚娜",
+      "summary_en": "In Slavic folklore, Moryana is a sea spirit, daughter of the Sea Tsar, who rules over the winds and poses a threat to ships. She is sometimes identified with Morana, the goddess of death, adding an eerie dimension to her character. Her name resonates with fear and the unknown depths of the ocean.",
+      "summary_zh": "摩里亚娜是斯拉夫神话中的海灵，她是海洋沙皇的女儿，并掌管着风。她对船只构成威胁，有时还被认作死亡之神莫拉娜的化身，增添了她的神秘色彩。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🌊",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "sea",
+        "death",
+        "mythology"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Moryana"
+    },
+    {
+      "title_en": "Nav",
+      "title_zh": "纳薇亚",
+      "summary_en": "In Slavic mythology, Nav is both a term for the souls of the dead and a name for an underworld realm. This dark domain lies beneath the earth, ruled by Veles, who oversees the passage of spirits to their final resting place. The concept of Nav intertwines with that of Vyraj, another world beyond life, suggesting a complex network of realms and deities in Slavic belief.",
+      "summary_zh": "纳薇亚是斯拉夫神话中亡灵的代名词，也是阴间世界的名称。这个黑暗的世界位于地底之下，由维里斯统治，负责管理亡灵的归宿。纳薇亚的概念与维雅尔相联系，后者代表另一个超脱于生命之外的世界，表明斯拉夫信仰中的复杂多层宇宙和众多神祇。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🧛‍♂️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "slavic"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Nav_(Slavic_folklore)"
+    },
+    {
+      "title_en": "Perun",
+      "title_zh": "佩尔金",
+      "summary_en": "In Slavic mythology, Perun is the supreme god who rules over the sky, thunder, lightning, and storms. He is also associated with law, war, fertility, and oak trees. As the god of fire, mountains, wind, iris, eagle, and firmament, Perun was revered as a powerful deity in Kievan Rus' during the 9th to 10th centuries. Warriors invoked him for protection and victory on the battlefield, while farmers sought his blessings for fertile lands and bountiful harvests.",
+      "summary_zh": "在斯拉夫神话中，佩尔金是天空、雷电和风暴的最高神。他也是法律、战争、生育和橡树之神。作为火、山岳、风、虹、鹰和天穹的守护者，佩尔金在9至10世纪的基辅罗斯受到人们的崇拜。战士们祈求他在战场上保护他们并赐予胜利，而农民则祈求他为土地带来肥沃和丰收。",
+      "country": "Russia 俄罗斯",
+      "emoji": "⚡️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "slavic"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Perun"
+    },
+    {
+      "title_en": "Prince Marko",
+      "title_zh": "马尔科王",
+      "summary_en": "Prince Marko was a Serbian ruler in the late 14th century, known for his bravery and justice. His father, King Vukašin, co-ruled with Tsar Stefan Uroš V until their defeat at the Battle of Maritsa in 1371. Marko then became king but faced resistance from independent Serbian nobles. He eventually aligned himself with the Ottoman Empire as a vassal and constructed the Monastery of Saint Demetrius, known today as Marko's Monastery. Marko is celebrated in Balkan folklore for his valor against injustice and the Turks.",
+      "summary_zh": "马尔科王是14世纪末塞尔维亚的一位统治者，以勇敢和公正著称。他的父亲瓦卡辛国王与斯蒂凡乌罗什五世沙皇共同执政直到在1371年的马拉提萨战役中失败。随后，马尔科成为国王，但面对独立的塞尔维亚贵族的抵制。最终，他作为奥斯曼帝国的附庸臣服，并建造了圣狄米特里修道院，即今日所知的马尔科修道院。在巴尔干民间传说中，马尔科因其对抗不公和土耳其人的英勇而备受尊敬。",
+      "country": "Serbia 塞尔维亚",
+      "emoji": "🛡️",
+      "type": "folklore",
+      "tags": [
+        "medieval",
+        "bravery",
+        "justice",
+        "resistance"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Prince_Marko",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/馬爾科·姆爾尼亞夫切維奇"
+    },
+    {
+      "title_en": "Slavic Creation Myths",
+      "title_zh": "斯拉夫创世神话",
+      "summary_en": "In Slavic mythology, the world was born from chaos and water. One version tells of how a 'good god' and a 'bad god' cooperated to create the Earth by diving into an oceanic abyss for seeds. Another speaks of a Cosmic Egg that hatched to form the universe, with a World Tree standing at its center. A third myth describes the world emerging from the dismembered body of a primordial being, symbolizing the eternal cycle of creation and destruction.",
+      "summary_zh": "斯拉夫神话中，世界诞生于混沌与水域。一种说法是‘善神’和‘恶神’合作，从海洋深渊中捞取种子创造大地。另一种说法提到一个宇宙蛋孵化出整个宇宙，并以一棵世界之树为中心。第三个故事则描述世界源自原始生物的肢解，象征着永恒的创造与毁灭循环。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🌳",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "earth-diver",
+        "cosmic-egg",
+        "dismemberment"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Slavic_creation_myths"
+    },
+    {
+      "title_en": "Slavic Water Spirits",
+      "title_zh": "斯拉夫水精灵",
+      "summary_en": "In the folklore of Slavic paganism, water spirits known as Navki, Rusalki, and Vily inhabit rivers, lakes, and woods. These female beings are often depicted as beautiful, half-naked girls with long hair or as birds that soar through the skies. They enchant young men with their singing and music, luring them to their deaths by drawing them into water. Beneath their beauty lies a tragic past: they are spirits of dead children or young women who haunt the waters seeking revenge.",
+      "summary_zh": "斯拉夫民间传说中的水精灵，如纳维、鲁萨尔卡和薇莉，居住在河流、湖泊和森林中。这些美丽的女性被描绘成半裸的少女，长发飘逸，或像飞翔于天空中的鸟儿。她们用歌声和音乐诱惑年轻男子，将他们引诱到水中致死。她们美丽之下隐藏着悲剧：这些亡灵是死去的孩子或年轻女子的灵魂，徘徊在水边寻求复仇。",
+      "country": "Russia 俄罗斯",
+      "emoji": "💧",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "slavic",
+        "water spirits"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Slavic_water_spirits"
+    },
+    {
+      "title_en": "Sledovik",
+      "title_zh": "脚印石",
+      "summary_en": "In Slavic pagan practices, Sledovik are large granite boulders with hollows that resemble footprints, venerated as sacred stones. These hollows may have been naturally formed or artificially deepened. Legends often attribute the footprints to Jesus, Mary, or saints, but in some cases, they are associated with the Devil and considered impure. The water collected in these hollows was believed to be blessed and used in rituals. Even today, pilgrims visit such stones, leaving offerings like food, icons, and burning candles, hoping for blessings.",
+      "summary_zh": "在斯拉夫的异教传统中，脚印石是具有类似足迹凹痕的巨大花岗岩巨石，被视为神圣之物。这些凹痕可能是自然形成的，也可能是人工加深的。关于这些凹痕的故事往往归因于耶稣、玛丽亚或圣徒，但在某些情况下，它们被认为是魔鬼留下的痕迹，并被认为不纯净。收集在这些凹痕中的水被认为被祝福了，并用于仪式中。即使到现在，朝圣者也会访问这样的石头，留下食物、圣像和点燃蜡烛，希望获得祝福。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "ritual",
+        "paganism"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Sledovik"
+    },
+    {
+      "title_en": "Supernatural Beings in Slavic Religion",
+      "title_zh": "斯拉夫宗教中的超自然生物",
+      "summary_en": "In the ancient Slavic religion, a myriad of supernatural beings roamed the forests and rivers, each with their own unique powers. These spirits could be benevolent or malevolent, often influencing human lives through omens and signs. The Leshy, for instance, was a forest spirit who could take on many forms, sometimes protecting travelers but also luring them into danger. The Rusalka, water nymphs, were known to enchant swimmers with their beauty before pulling them underwater to their doom. These beings were integral to Slavic folklore, shaping beliefs and superstitions that continue to resonate in modern times.",
+      "summary_zh": "在古代斯拉夫宗教中，各种超自然生物活跃于森林和河流之间，每一种都有独特的力量。这些灵体可能是善良的也可能是邪恶的，常常通过预兆和征兆影响人类的生活。例如，莱什（Леш）是森林精灵，可以变化多端，有时保护旅者，但也会引诱他们陷入危险之中。鲁萨尔卡（Русалка），水仙女，则以她们的美貌诱惑游泳者，然后将他们拉入水中致死。这些生物在斯拉夫民间传说中至关重要，塑造了信仰和迷信，并一直延续至今。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🌳💧🧛‍♂️🧚‍♀️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "forest",
+        "water",
+        "spirit"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Supernatural_beings_in_Slavic_religion"
+    },
+    {
+      "title_en": "Svyatogor",
+      "title_zh": "斯维亚托戈尔",
+      "summary_en": "Svyatogor, a mythical bogatyr from Russian byliny, is known for his immense strength and the earth's inability to support his weight. After becoming a bogatyr of Vladimir the Bright Sun, Ilya Muromets encounters Svyatogor on a journey. Despite warnings, Ilya strikes Svyatogor three times with his mace, but only wakes him up. They become friends and travel together until they find a giant stone coffin. Svyatogor closes it over himself, passing some of his strength to Ilya before sealing the coffin.",
+      "summary_zh": "斯维亚托戈尔是俄罗斯民间传说中的勇士，以其巨大的力量著称。成为弗拉基米尔红日的勇士后，伊利亚穆罗梅茨在旅途中遇到了斯维亚托戈尔。尽管有人警告他不要这样做，但伊利亚还是用他的锤子击打了斯维亚托戈尔三次，只是把他唤醒了。他们成为了朋友并一起旅行，直到发现一个巨大的石棺。斯维亚托戈尔合上了盖子，将一部分力量传给了伊利亚，然后封住了石棺。",
+      "country": "Russia 俄罗斯",
+      "emoji": "-hero",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "epic",
+        "bogatyr",
+        "strength"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Svyatogor"
+    },
+    {
+      "title_en": "Tintilinić",
+      "title_zh": "丁提林尼克",
+      "summary_en": "In the Croatian folklore, Tintilinić roams the night, a mischievous demon child in a red cap, haunting houses and playing pranks. This spectral figure is said to be the soul of an unbaptized child, wandering the earth seeking redemption or comfort. The legend has been popularized by Ivana Brlić-Mažuranić, who immortalized Tintilinić in her tales for children, blending the eerie and the whimsical into a enduring story.",
+      "summary_zh": "丁提林尼克是克罗地亚民间传说中的夜行者，他戴着红色的帽子，在夜晚游荡于房屋之间，制造恶作剧。人们认为他是未受洗礼的孩子的灵魂，在寻找赎罪或安慰。伊万娜·布里奇-马兹尤拉尼奇在她的《远古故事集》中将丁提林尼克描绘成一个既恐怖又充满童趣的形象，这一传说因此广为流传。",
+      "country": "Russia 俄罗斯",
+      "emoji": "👻",
+      "type": "folklore",
+      "tags": [
+        "medieval",
+        "souls",
+        "unbaptized"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tintilinić"
+    },
+    {
+      "title_en": "Tur",
+      "title_zh": "特尔 特尔 (Tè'ěr)",
+      "summary_en": "In the myths of central Bosnia and Herzegovina, Tur is a colossal bull that supports the Earth on its mighty back. This giant creature's horns are so powerful that when he shakes them, earthquakes rock the land. Should Tur ever decide to shift his massive form, it would spell the end of the world itself. The people of the region fear and revere this mythical beast, believing that his movements control the very forces of nature.",
+      "summary_zh": "在波斯尼亚和黑塞哥维那中部的传说中，特尔是一头巨大的公牛，它用强壮的背部支撑着大地。这只巨兽的角力量惊人，每当他摇晃时，都会引发地震。如果有一天特尔移动了它的庞大身躯，这将预示着世界的终结。当地人既敬畏又恐惧这位神话中的生物，相信他的行动掌控着自然的力量。",
+      "country": "Russia 俄罗斯",
+      "emoji": "赑",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tur_(Bosnian-Slavic_mythology)"
+    },
+    {
+      "title_en": "Unclean Force",
+      "title_zh": "不洁之物",
+      "summary_en": "In the folklore of Russia, unclean forces encompass a wide array of mythological creatures such as chorts, demons, werewolves, and the undead. These beings are considered malevolent and associated with the 'unclean' world beyond our own. Villagers feared these supernatural entities, particularly those who worked in blacksmithing, shepherding, or witchcraft, suspecting them of having ties to these dark forces. The unclean force is a pervasive presence, haunting the edges of human society, ready to bring misfortune and chaos upon unsuspecting individuals.",
+      "summary_zh": "在俄罗斯的民间传说中，不洁之物包括邪灵、恶魔、狼人和不死生物等。这些生物被认为是邪恶的，并与‘不洁’的世界相关联，属于另一个世界的一部分。村民们害怕这些超自然存在，尤其是那些从事铁匠、牧羊或巫术工作的人，怀疑他们与这些黑暗力量有所牵连。不洁之物无处不在，徘徊在人类社会的边缘，随时准备给不知情的人带来不幸和混乱。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🧟‍♂️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "medieval"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Unclean_force"
+    },
+    {
+      "title_en": "Veda Slovena",
+      "title_zh": "斯拉夫吠陀",
+      "summary_en": "Veda Slovena, compiled by Bosnian Croat folklorist Stjepan Verković in the late 19th century, is a collection of songs and legends that purportedly capture Slavic mythology. However, it was later revealed to be a forgery. The work aimed to preserve Slavic cultural heritage but instead became a controversial piece of folklore scholarship.",
+      "summary_zh": "斯拉夫吠陀是由波斯尼亚克罗地亚民俗学家斯特潘·韦尔科维奇在19世纪末编纂的一部歌谣和传说集，声称反映了斯拉夫神话。然而后来被证实为伪造品。这部作品旨在保存斯拉夫文化遗产，但最终成为争议性的民俗学研究。",
+      "country": "Russia 俄罗斯",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "forgery"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Veda_Slovena"
+    },
+    {
+      "title_en": "Vesna",
+      "title_zh": "春神维斯娜",
+      "summary_en": "In the rich tapestry of Slavic mythology, Vesna, the goddess of spring and youth, dances through the fields with her companion Vesnik. As winter's grip loosens, they usher in a season of vibrant renewal, bringing flowers to bloom and life to flourish. Villagers celebrate their arrival with joyous rituals, honoring the return of warmth and fertility to the land.",
+      "summary_zh": "在斯拉夫神话中，春神维斯娜与她的伴侣维斯尼科一起，在田野间翩翩起舞。随着冬天的消退，她们带来了生机盎然的春天，让花朵绽放，生命复苏。村民们欢庆她们的到来，庆祝温暖和丰饶再次降临大地。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🌸",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "spring",
+        "youth",
+        "renewal"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Vesna_(mythology)"
+    },
+    {
+      "title_en": "Vlastislav",
+      "title_zh": "瓦尔斯特夫 (Vlastislav)",
+      "summary_en": "In the ancient legends of Bohemia, Prince Vlastislav ruled over Lucko, a principality within the Přemyslid dynasty. According to some chronicles, he was the son of legendary prince Vojen and brother to Vnislav. The Chronicles of Dalimil and Cosmas offer conflicting accounts of his reign: while Dalimil suggests Vlastislav received Bohemia from his father, Cosmas claims Lucko's rule passed to Vnislav after Vojen’s death. In a later Slovak novel, Vlastislav is portrayed as a worshiper of the god Cernobon, who grants him the power to transform into a wolf in exchange for loyalty.",
+      "summary_zh": "在捷克古代传说中，瓦尔斯特夫是卢科公国的统治者，属于普瑞梅斯利德王朝。根据一些编年史记载，他是传奇王子沃金的儿子，并且是瓦尼斯特夫的兄弟。达利米尔编年史认为瓦尔斯特夫从父亲那里获得了波希米亚，而科马斯编年史则声称在沃金去世后，卢科的统治权转给了瓦尼斯特夫。而在后来的一部斯洛伐克小说中，瓦尔斯特夫被描绘为崇拜神祇切诺邦的信徒，并因此获得了一种忠诚换来的狼形变身能力。",
+      "country": "Czech Republic 捷克",
+      "emoji": "🐺",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology",
+        "prince",
+        "wolf"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Vlastislav_(mythological_prince)"
+    },
+    {
+      "title_en": "Volga Svyatoslavich",
+      "title_zh": "沃尔加斯维亚托斯拉维奇",
+      "summary_en": "Volga Svyatoslavich was a legendary hero from the Novgorod Republic, known for his bravery and strength. In one tale, he faced a giant who had stolen a precious artifact from a local temple. With the help of his loyal horse, Volga fought the giant in a fierce battle by the banks of the Volga River. Using his immense strength, Svyatoslavich overcame the giant, retrieving the artifact and restoring peace to the region.",
+      "summary_zh": "沃尔加斯维亚托斯拉维奇是诺夫哥罗德共和国的一位传奇英雄，以勇敢和力量著称。在一个故事中，他与一个偷走了当地寺庙珍贵文物的巨人作斗争。在伏尔加河畔，沃尔加骑着忠诚的坐骑与巨人展开了激烈的战斗。凭借巨大的力量，沃尔加斯维亚托斯拉维奇战胜了巨人，夺回了文物，并恢复了该地区的和平。",
+      "country": "Russia 俄罗斯",
+      "emoji": "-hero",
+      "type": "epic",
+      "tags": [
+        "medieval",
+        "bogatyr",
+        "bylina"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Volga_Svyatoslavich"
+    },
+    {
+      "title_en": "Zagovory",
+      "title_zh": "咒语",
+      "summary_en": "In the mystical traditions of Eastern Slavic folklore, zagovory are powerful verbal spells used by individuals to influence events or people through incantations. These ancient practices involve reciting intricate and often secret words that can protect, heal, or even harm those targeted. The power of zagovory lies in their ability to transform spoken language into a potent form of magic, reflecting the deep-rooted belief in the supernatural within Russian culture.",
+      "summary_zh": "在东斯拉夫民俗和神话中，咒语是一种强大的口头巫术形式。使用者通过念诵复杂的咒文来影响事件或他人。这些古老的实践涉及吟唱秘密的词语，以保护、治愈甚至伤害被施咒的人。咒语的力量在于将口语转化为一种强大的魔法，反映了俄罗斯文化中对超自然现象的深深信仰。",
+      "country": "Russia 俄罗斯",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "magic",
+        "verbal",
+        "slavic"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Zagovory"
+    },
+    {
+      "title_en": "Zbruch Idol",
+      "title_zh": "兹布鲁奇偶像",
+      "summary_en": "The Zbruch Idol is a 9th-century limestone sculpture that once stood as a testament to pre-Christian Slavic beliefs, possibly depicting the deity Svetovit. Carved in three tiers, it symbolized the underworld, mortal world, and heavenly realm. After the Christianization of Kievan Rus' in 966, this idol was likely buried or discarded. Rediscovered in 1848 during a drought near Lychkivtsi, the idol now resides in the Archaeological Museum of Kraków, Poland.",
+      "summary_zh": "兹布鲁奇偶像是一尊9世纪的石灰石雕塑，象征着斯拉夫人在基督教化之前对神灵的信仰。雕像分为三层，分别代表地狱、人间和天堂。在基辅罗斯于966年接受基督教后，这尊偶像很可能被埋葬或丢弃了。1848年，在赫西亚廷北部的利克基茨村附近的一次干旱中重新发现了它，并现收藏于波兰克拉科夫考古博物馆。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🙏",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "idol",
+        "Slavic",
+        "religion"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Zbruch_Idol"
+    },
+    {
+      "title_en": "Zlydzens",
+      "title_zh": "兹柳登斯",
+      "summary_en": "In the folklore of Belarus and Ukraine, Zlydzens are mischievous hunchbacked creatures that dwell beneath the hearth stones in homes. They are known for causing mischief and spreading fear among families. These small beings often play tricks on unsuspecting humans, sometimes leading to accidents or illnesses within the household.",
+      "summary_zh": "在白俄罗斯和乌克兰的民间传说中，兹柳登斯是一种住在火炕下的驼背小妖精。它们常常给家庭带来麻烦和恐惧，喜欢捉弄人们，有时会导致家庭成员发生意外或生病。",
+      "country": "Russia 俄罗斯",
+      "emoji": "🧛‍♂️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "medieval"
+      ],
+      "lat": 55.75,
+      "lng": 37.62,
+      "wiki_en": "https://en.wikipedia.org/wiki/Zlydzens"
+    }
+  ]
+}

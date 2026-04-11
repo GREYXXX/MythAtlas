@@ -1,7 +1,7 @@
 {
   "meta": {
     "region": "Korean",
-    "count": 15,
+    "count": 28,
     "generated": "2026-04-11",
     "note": "Scraped from Wikipedia, summarized with a local Qwen model via Ollama."
   },
@@ -259,6 +259,231 @@
       "lat": 35.91,
       "lng": 127.77,
       "wiki_en": "https://en.wikipedia.org/wiki/Korean_creation_narratives"
+    },
+    {
+      "title_en": "Korean Mythology",
+      "title_zh": "韩国神话",
+      "summary_en": "Korean mythology encompasses both written and oral traditions, reflecting the rich cultural heritage of Korea. The most famous myth is that of Dangun Wanggeom, who founded Gojoseon in ancient times. According to legend, he was born from the union of a celestial deity and a bear-woman transformed into a human. This myth has become the national founding narrative for both North and South Korea. Shamanic myths, performed by shamans or priestesses (mansin), include stories like Jeseok bon-puri, where a girl impregnated by a Buddhist priest gives birth to three gods, and Princess Bari, who revives her parents with a flower of life. These narratives are deeply rooted in Korean culture and continue to be performed today.",
+      "summary_zh": "韩国神话包括书面和口头两种传统，反映了韩国丰富的文化传承。最著名的神话是檀君王建的故事，他创立了高句丽王国。传说中，他是天神与熊女化身的人类结合的产物。这一神话已成为朝鲜半岛南北两国的民族创世叙事。巫师或女巫（曼辛）所表演的萨满神话包括如杰索克宝普里这样的故事：一个女孩被一位佛教僧侣（可能是天空之神）所怀上，生下了三位神灵；以及关于公主巴里的故事，她因是女孩而被父亲遗弃，后来用生命之花复活了她的父母。这些叙事深深植根于韩国文化中，并一直延续至今。",
+      "country": "Korea 韩国",
+      "emoji": "📖✨",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "oral tradition",
+        "shamanism",
+        "founding myths"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Korean_mythology",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/朝鮮神話"
+    },
+    {
+      "title_en": "Life Replacement Narratives",
+      "title_zh": "换命故事",
+      "summary_en": "In the life replacement narratives of Korea, a man is warned by a skull about his impending death and makes offerings to the chasa, gods of death. The chasa accept the gifts but cannot kill him because they are bound by their own rules. Instead, they choose another human or animal to take his place in the afterlife. In one version, a hunter becomes wealthy through a benevolent skull's advice; in another, an unpleasant miser is saved by his daughter-in-law's dream interpretation. These stories highlight the power of gifts and human empathy over divine judgment, serving as crucial elements in Korean shamanic rituals.",
+      "summary_zh": "在韩国的换命故事中，一个人因骷髅而得知自己即将死亡，并向死神之神——诸沙做出供奉。诸沙接受了这些礼物，但因为自己的规则无法杀他。相反，他们选择另一个人或动物代替他在死后世界生活。在一个版本中，一个猎人通过善良的骷髅得到了财富；在另一个版本中，一个吝啬的老人因孙媳妇的梦境解释而获救。这些故事强调了礼物和人性怜悯的力量胜过神明的判决，在韩国萨满教仪式中具有重要意义。",
+      "country": "Korea 韩国",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "death",
+        "gifts",
+        "shamanism"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Life_replacement_narratives"
+    },
+    {
+      "title_en": "Mausoleum of Tangun",
+      "title_zh": "檀君陵",
+      "summary_en": "The Mausoleum of Tangun, located near Pyongyang, Korea, is a grand complex dedicated to the legendary founder of Gojoseon. Built in 1994, it features a step pyramid-shaped grave and stone blocks symbolizing the year of its construction. The site, spanning nearly two square kilometers, includes restoration areas, statue zones, and Tangun's tomb. According to North Korean historians, this burial ground is over five thousand years old, marking the beginning of Korean history.",
+      "summary_zh": "檀君陵位于朝鲜平壤附近，是为纪念传说中的高句丽开国者檀君而建的宏伟遗址。1994年建成的陵墓形似阶梯金字塔，并用石块象征建造之年份。该遗址占地近两平方公里，包括修复区、雕像区和檀君的坟墓。根据朝鲜历史学家的说法，这座陵墓已有五千年以上的历史，标志着朝鲜历史的开端。",
+      "country": "Korea 韩国",
+      "emoji": "🙏",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 39.154782,
+      "lng": 126.054382,
+      "wiki_en": "https://en.wikipedia.org/wiki/Mausoleum_of_Tangun"
+    },
+    {
+      "title_en": "Mountain God",
+      "title_zh": "山神",
+      "summary_en": "In Korean mythology, the Mountain God is a revered deity who watches over the peaks and valleys. Worshipped in shrines across Korea, this god embodies the spirit of nature, protecting both the physical landscape and the people who live within it. The Mountain God's influence extends beyond mere protection; he is also believed to bring blessings for good harvests and health. Revered by all, from commoners to royalty, the Mountain God holds a central place in Korean folklore as a symbol of strength and resilience.",
+      "summary_zh": "在韩国神话中，山神是一位受人尊敬的天神，守护着高山和幽谷。人们在韩国各地的庙宇里供奉他，山神代表着自然的精神，不仅保护着自然景观，也庇佑着居住在这里的人们。山神的影响远不止于此；他还被认为能带来丰收的好运和健康。从平民到王室，山神在韩国民间故事中占据着核心地位，象征着力量与坚韧。",
+      "country": "Korea 韩国",
+      "emoji": "-mountains:",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "nature",
+        "protection",
+        "harvest"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Mountain_God"
+    },
+    {
+      "title_en": "Myth of General Sinui",
+      "title_zh": "辛未将军的故事",
+      "summary_en": "In a time when death was not easily accepted, General Sineui attempted an audacious feat: cheating his own demise. As the story goes, he sought out ancient herbs and rituals to prolong his life, hoping to evade the natural cycle of birth and death. Despite his best efforts, fate proved unyielding. In the end, even as he lay on his deathbed, General Sineui realized that true immortality was a myth, and with a heavy heart, he accepted his final moments.",
+      "summary_zh": "在古代，人们对于死亡尚不完全接受。将军辛未试图通过寻找古老的草药和仪式来延长自己的寿命，希望逃避生老病死的自然规律。尽管他竭尽全力，但命运却毫不妥协。当他在病榻上奄奄一息时，辛未终于意识到真正的长生不老只是传说。怀着沉重的心情，他接受了生命的终结。",
+      "country": "Korea 韩国",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "immortality"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Myth_of_General_Sinui"
+    },
+    {
+      "title_en": "Naewat-dang Shamanic Paintings",
+      "title_zh": "内瓦堂神像画",
+      "summary_en": "The Naewat-dang shamanic paintings are ten ancient portraits of village patron gods, once hung in a shrine on Jeju Island. These vibrant works, painted with mineral pigments and ink brushes, depict six male and four female deities, each dressed uniquely and often holding fans. The attire of the gods reflects their mythological origins, such as one god wearing an unusual turban-like hat said to come from Central Asia. Despite a history of persecution, these paintings survived until the 19th century when the shrine was destroyed. Today, they are preserved at Jeju National University and offer unique insights into Jeju Island's shamanic traditions.",
+      "summary_zh": "内瓦堂神像画是济州岛内瓦堂神社曾经悬挂的十幅古朴的村社守护神画像。这些用矿物质颜料和毛笔绘制的作品描绘了六位男性和四位女性神祇，每位神祇都穿着独特的服饰，并且通常手持扇子。神祇们的服饰反映了他们的神话起源，例如一位神祇戴着一个据说来自中亚地区的类似头巾的帽子。尽管经历了迫害，这些画像一直保存到19世纪，当时神社被摧毁。如今，它们在济州国立大学得以保存，为了解济州岛的萨满传统提供了独特的视角。",
+      "country": "Korea 韩国",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "shamanism",
+        "Jeju Island"
+      ],
+      "lat": 33.50833333,
+      "lng": 126.51111111,
+      "wiki_en": "https://en.wikipedia.org/wiki/Naewat-dang_shamanic_paintings"
+    },
+    {
+      "title_en": "Semin-hwangje bon-puri",
+      "title_zh": "善民王上宝经",
+      "summary_en": "In the Semin-hwangje bon-puri, Emperor Taizong of Tang, after his death and resurrection as a beggar, learns from Maeil and Jangsang about true charity. Impressed by their kindness, he resolves to live a moral life and sends a monk to retrieve the Buddhist canon from the divine realm. The story blends elements of the original Buddhist tale with local shamanic traditions, emphasizing Taizong's human qualities over his imperial status.",
+      "summary_zh": "善民王上天后，以乞丐的身份重新回到人间。他从 Maeil 和 Jangsang 那里了解到真正的慈善，并决定过一种道德的生活。他派遣一位僧人去极乐世界取回佛教经典。这个故事融合了原版佛教传说和地方萨满教传统，突出了善民王作为普通人的品质而非其帝王身份。",
+      "country": "Korea 韩国",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "buddhism",
+        "charity",
+        "myth"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Semin-hwangje_bon-puri"
+    },
+    {
+      "title_en": "Seng-gut Narrative",
+      "title_zh": "僧伽儒特叙事诗",
+      "summary_en": "The Seng-gut narrative is an intricate Korean shamanic tale that weaves together the deeds of various deities, or 'sages,' from the creation of the world to the founding of a Buddhist temple. In one segment, Seokga seizes control from the original creator and crafts animals from deer meat. He then destroys an extra sun and moon. Later, Gangbangdek, a carpenter, builds a palace for the gods but loses a wager with a woman, becoming the god of the household. A boy who remains silent until ten years old founds a new Buddhist temple, melting down a baby to forge a bell. Finally, a priest avenges an insult by destroying a rich man and then elevates his sons as gods of fertility. The narrative reflects strong Buddhist influences.",
+      "summary_zh": "僧伽儒特叙事诗是朝鲜半岛萨满教中的一部复杂故事，讲述了多位被称为‘圣者’的神祇从创世到建立佛教寺庙的故事。其中一段描述了Seokga 接手原始创造者并用鹿肉创造了动物，然后摧毁了一个多余的太阳和月亮。后来，一个木匠Gangbangdek 为诸神建造了一座宫殿，但输掉了一场与女性的比赛，成为了家庭之神。另一个男孩在十岁前一直沉默，最终建立了新的佛教寺庙，并将一个小婴儿熔化成铁铸造了寺庙的钟。最后，一位僧侣因受到侮辱而报复了一个富人，并将其三个儿子封为生育之神。这部叙事诗反映了强烈的佛教影响。",
+      "country": "Korea 韩国",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology",
+        "buddhism",
+        "shamanism"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Seng-gut_narrative"
+    },
+    {
+      "title_en": "Seonangdang",
+      "title_zh": "善堂",
+      "summary_en": "In the heart of Korea's mountain villages, Seonangdang stands as a sacred shrine dedicated to Seonangshin, the guardian deity of these communities. These stone cairns or trees are revered for their spiritual significance and serve as a focal point for local rituals and prayers, ensuring prosperity and protection for the villagers.",
+      "summary_zh": "在韩国山区村落的心脏地带，善堂作为供奉守护神善堂神的圣地而存在。这些石堆或树木因其精神意义而受到尊敬，并成为当地仪式和祈祷的焦点，为村民带来繁荣与保护。",
+      "country": "Korea 韩国",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "korean folklore"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Seonangdang"
+    },
+    {
+      "title_en": "Seonangsin",
+      "title_zh": "善浪神",
+      "summary_en": "Seonangsin, the patron deity of villages in Korean mythology, watches over the boundaries and safety of communities. In times of war, she rallies villagers to defend their homes with courage and unity. Her presence ensures that villages thrive under her protective gaze, making Seonangsin a revered figure among the people who seek her blessings for prosperity and security.",
+      "summary_zh": "善浪神是韓國民間傳說中的村莊保護神，掌管著村落的邊界和安全。在戰爭時期，她鼓舞村民們團結奮鬥，共同守護自己的家園。善浪神的存在確保了村落能夠在他的庇佑下繁榮昌盛，因此受到村民們的崇敬，祈求她的保佑以獲得財富與平安。",
+      "country": "Korea 韩国",
+      "emoji": "🙏🏼",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "korean mythology"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Seonangsin"
+    },
+    {
+      "title_en": "Song of Dorang-seonbi and Cheongjeong-gaksi",
+      "title_zh": "多郎善比和青淨閣氏之歌",
+      "summary_en": "In the ancient Korean province of Hamgyeong, a man named Dorang-seonbi marries a woman called Cheongjeong-gaksi. Tragically, he dies shortly after their wedding. Devastated, Cheongjeong-gaksi pleads with a Buddhist priest for guidance to reunite with her husband in the afterlife. She is given a series of arduous tasks: tearing out her hair and weaving it into a rope, boring holes in her palms, drenching her fingers in oil and setting them on fire, and paving a treacherous mountain path bare-handed. After completing these trials, she is briefly reunited with Dorang-seonbi, but he departs again. In the end, Cheongjeong-gaksi chooses to die, ensuring eternal union with her beloved. This myth highlights the sorrow of separation between life and death, yet offers hope through ritual and devotion.",
+      "summary_zh": "在古代的咸镜道，多郎善比娶了青淨閣氏为妻。然而，他很快便去世了。青淨閣氏悲痛欲绝，向一位佛教僧侣祈求帮助以与丈夫在来世重逢。她被赋予了一系列艰难的任务：拔掉头发编织成绳子、用手指钻孔并穿线、将手指浸入油中点燃，以及徒手铺设崎岖的山路。完成这些考验后，她短暂地与多郎善比团聚，但他再次离开。最终，青淨閣氏选择自杀以确保永远与丈夫在一起。",
+      "country": "Korea 韩国",
+      "emoji": "🙏🏼📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "funeral ritual",
+        "patriarchy",
+        "afterlife"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Song_of_Dorang-seonbi_and_Cheongjeong-gaksi"
+    },
+    {
+      "title_en": "Sosamshin",
+      "title_zh": "生牛神",
+      "summary_en": "In Korean mythology, Sosamshin is a Gashin, or household deity, who oversees the birth of cattle. Revered by farmers and herders, she ensures that cows are born healthy and strong, much like Samshin watches over human childbirth. Her blessings bring prosperity to those who honor her, making her an essential figure in rural life.",
+      "summary_zh": "在韩国神话中，生牛神是负责牛犊出生的家神。农民和牧民都敬奉她，祈求牛犊健康强壮地降生。如同萨姆神守护人类分娩一样，生牛神的祝福为她所庇护的人带来了繁荣。",
+      "country": "Korea 韩国",
+      "emoji": "🐄",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "agriculture"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Sosamsin"
+    },
+    {
+      "title_en": "Tan'gun",
+      "title_zh": "檀君",
+      "summary_en": "Tan'gun, the legendary founder of Gojoseon, Korea's first kingdom, was born to a bear and a heavenly prince. He ruled from 2333 BC, establishing his capital in the northern part of the Korean Peninsula. Tan'gun is celebrated annually on October 3 as National Foundation Day, honoring the founding of Gojoseon.",
+      "summary_zh": "檀君是朝鲜半岛第一个王国高句丽的创始人，他由一头熊和天神之子所生。檀君于公元前2333年开始统治，并在半岛北部建立了首都。每年10月3日，朝鲜人民都会庆祝檀君建立高句丽的日子。",
+      "country": "Korea 韩国",
+      "emoji": "是韩国的创世英雄",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "legendary",
+        "creation",
+        "kingdom"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tan'gun",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/檀君"
     }
   ]
 }

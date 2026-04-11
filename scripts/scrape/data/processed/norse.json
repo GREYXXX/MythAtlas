@@ -1,0 +1,518 @@
+{
+  "meta": {
+    "region": "Norse",
+    "count": 30,
+    "generated": "2026-04-11",
+    "note": "Scraped from Wikipedia, summarized with a local Qwen model via Ollama."
+  },
+  "stories": [
+    {
+      "title_en": "Atter",
+      "title_zh": "埃特尔 (Eitr)",
+      "summary_en": "In Norse mythology, atter refers to venom and poison, often associated with creatures like the sea serpent Jörmungandr and the dragon Fáfnir. It symbolizes destruction and death, both literal and metaphorical. In folklore, it is also linked to the stoor worm of Orkney, which was slain by Assipattle after being burned from within. The term carries a deep symbolic weight, representing not just physical harm but moral corruption and evil influences.",
+      "summary_zh": "在北欧神话中，埃特尔代表毒液和毒素，常与海蛇约姆朗格德拉德和龙法夫尼相关联。它象征着破坏和死亡，既是字面意义上的，也是隐喻意义上的。民间传说中，埃特尔还与奥克尼的斯图尔蠕虫有关，后者被阿西帕特杀死后化作了冰岛、奥克尼群岛、设得兰群岛和法罗群岛。这个术语不仅代表身体上的伤害，还象征着道德腐败和邪恶的影响。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "🐉",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "poison",
+        "dragon",
+        "venom"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Atter"
+    },
+    {
+      "title_en": "Dog King",
+      "title_zh": "狗王",
+      "summary_en": "In Norse tradition, a foreign conqueror appointed a dog as king of a Scandinavian land after subjugating it. The story is told in various texts like Gesta Danorum and Heimskringla, each placing the event in different regions. Despite his lowly status, the dog ruled with dignity, earning respect from his subjects until a human king eventually reclaimed the throne.",
+      "summary_zh": "北欧传说中，征服者在占领一个斯堪的纳维亚地区后，将一只狗立为国王。这一故事出现在《丹麦史》等文献中，每个版本都将事件发生地置于不同的区域。尽管地位卑微，这只狗仍以尊严统治着他的子民，赢得了人们的尊敬，直到后来一位人类国王重新夺回王位。",
+      "country": "Norse 北欧",
+      "emoji": "🐶👑",
+      "type": "legend",
+      "tags": [
+        "medieval"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Dog_king"
+    },
+    {
+      "title_en": "Edda",
+      "title_zh": "埃达",
+      "summary_en": "The Edda consists of two works: the Prose Edda, a guide to Norse mythology written by Snorri Sturluson in the 13th century, and the Poetic Edda, an anthology of Old Norse poems. These texts are invaluable for understanding Norse myths, including tales of gods like Odin and Thor, and provide insight into the poetic traditions of medieval Iceland. The stories within these works have shaped our modern perception of Norse mythology.",
+      "summary_zh": "埃达由两部分组成：《散文埃达》，13世纪斯诺里·斯图鲁松所著，旨在指导北欧神话；以及《诗体埃达》，包含许多古老的挪威语诗歌。这些文本对于理解北欧神话至关重要，包括奥丁和 Thor 等神祇的故事，并揭示了中世纪冰岛的诗歌传统。这些故事塑造了我们对北欧神话现代认知的基础。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Edda",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/埃达"
+    },
+    {
+      "title_en": "Einar",
+      "title_zh": "埃纳尔",
+      "summary_en": "Einar is a name derived from Old Norse, meaning 'one who fights valiantly' or 'a warrior in Valhalla'. In Norse mythology, Einar symbolizes the valor and bravery of those who fought bravely on the battlefield. These warriors were believed to be chosen by Odin himself to join his hall in Asgard, where they feasted and prepared for Ragnarök.",
+      "summary_zh": "埃纳尔是北欧语中一个名字，意为‘勇敢的战士’或‘瓦尔哈拉中的勇士’。在北欧神话中，埃纳尔象征着那些英勇作战的战士们。他们被认为会被奥丁选择，进入瓦尔哈拉殿堂，在那里享受盛宴并为诸神之末日做准备。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "⚔️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "valour",
+        "warriors"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Einar"
+    },
+    {
+      "title_en": "Einherjar",
+      "title_zh": "英灵战士",
+      "summary_en": "In Norse mythology, after a valiant battle, warriors are taken to Valhalla by Valkyries. There they feast on the nightly resurrected beast Sæhrímnir and drink mead from Heiðrún's udder. Each day, these einherjar prepare for Ragnarök, the great final battle where they will fight alongside Odin in Vígríðr.",
+      "summary_zh": "北欧神话中，英勇战死的战士被瓦尔基里带往瓦尔哈拉。他们以复活的野猪塞希姆尼尔为食，并喝着海迪伦奶牛的乳汁。每天，这些英灵战士都在准备雷神之怒——最终大战，在那里他们会与奥丁一同战斗。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "⚔️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "norse mythology"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Einherjar"
+    },
+    {
+      "title_en": "Family Trees of the Norse Gods",
+      "title_zh": "北欧神祇家族谱系",
+      "summary_en": "The family trees of the Norse gods depict complex kinship relations among the pantheon, with Odin at the center as the All-Father. His sons Víðarr and Viðar are known for their strength and loyalty, while Thor is celebrated for his might in battling giants. Freyr and Freyja represent fertility and prosperity, respectively. These trees reflect Eddic portrayals but vary between sources due to differing interpretations over time and region.",
+      "summary_zh": "北欧神祇家族谱系展示了诸神之间的复杂亲缘关系，奥丁作为全体之父居于中心。他的儿子维达和维达尔以其力量和忠诚著称，而 Thor 因其与巨人的战斗而闻名。Freyr 和 Freyja 分别代表生育和繁荣。这些谱系反映了埃达的描述，但由于时间和地域的不同解释而有所差异。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "🌍",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "gods",
+        "norse mythology",
+        "kinship"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Family_trees_of_the_Norse_gods"
+    },
+    {
+      "title_en": "Game of the Gods",
+      "title_zh": "诸神的游戏",
+      "summary_en": "In the golden age of Norse myth, when peace reigned among the Æsir gods, they gathered to play Tafl, a game resembling chess. This pastime symbolized their contentment and prosperity. But as three powerful giant maidens from Jötunheim disrupted this harmony, conflict and struggle began to tear through the fabric of Asgard. The game pieces, now scattered in the grass, became a poignant reminder of better times as the gods faced Ragnarök. Yet, even amidst destruction, hope lingered; for when the new earth rose from the sea, Baldr and Hödr returned, their bond unbroken, bringing with them the memory of the old gods and their games.",
+      "summary_zh": "在北欧神话的黄金时代，当诸神之间充满和平时，他们聚集在一起玩Tafl，一种类似于国际象棋的游戏。这象征着他们的幸福与繁荣。但随着来自巨人之地Jötunheim的三位强大女巨人的到来，和谐被打破，冲突和斗争开始撕裂阿斯加德的天空。如今，游戏的棋子散落在草地上，成为了对昔日美好时光的怀念。即使在灾难中，希望依然存在；当新的大地从海中升起时，Baldr与Hödr重逢，他们的纽带未被打破，并带来了旧神的记忆。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "🎲",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "game",
+        "regeneration",
+        "ragnarok"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Game_of_the_Gods"
+    },
+    {
+      "title_en": "Gangr",
+      "title_zh": "冈格尼尔",
+      "summary_en": "In Norse mythology, Gangr was a giant who lived in Jötunheimr alongside his brother Þjazi and sister Iði. Known for his cunning and treachery, Gangr played a pivotal role in the events leading to the death of the god Freyr. When Freyr fell in love with Gerd, Gangr and Þjazi conspired against him, setting a trap that ultimately led to Freyr's downfall at the hands of the giant Suttungr.",
+      "summary_zh": "在北欧神话中，冈格尼尔是居住在巨人之域的巨人的儿子之一，他的兄弟是Þjazi，妹妹是Iði。以狡猾著称的冈格尼尔与弟弟Þjazi和妹妹Iði密谋反对弗雷。当弗雷爱上格尔德时，他们设下陷阱，最终导致弗雷被巨人苏特努格杀死。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "🧝‍♂️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "giant",
+        "trickery"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Gangr"
+    },
+    {
+      "title_en": "Hamr",
+      "title_zh": "哈姆 (Hamr)",
+      "summary_en": "In Norse mythology, the Hamr is a magical ability that allows a being to transform into any shape or form. This power was often used for disguise and could be employed by gods like Odin to travel incognito. The transformation was not just physical but also allowed the mind to separate from the body during dreams or ecstasies, giving the user insight into other realms. This ability was a key part of shapeshifting folklore in rural Scandinavian beliefs.",
+      "summary_zh": "在北欧神话中，哈姆是一种神奇的能力，可以让生物变成任何形状或形式。这种能力常被用于伪装，如奥丁等神祇利用它化身为普通人秘密出行。变形不仅仅是身体上的变化，还允许灵魂与肉体分离，在梦中或狂喜时探索其他领域。这一能力是北欧农村地区关于变形的传说中的重要组成部分。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "🪐",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "shapeshifting",
+        "mythology",
+        "transformations"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Hamr_(folklore)"
+    },
+    {
+      "title_en": "Hug",
+      "title_zh": "胡格",
+      "summary_en": "In Norse mythology, 'hug' represents the mind or soul, encompassing thoughts, feelings, and will. This concept is personified in Odin's two ravens, Huginn and Muninn, who fly across the world daily to gather information for their wise king. These birds symbolize the power of thought and perception, reflecting how deeply 'hug' was integrated into Norse beliefs about the mind and its role in understanding the world.",
+      "summary_zh": "在北欧神话中，‘胡格’代表心灵或灵魂，包括思想、情感和意志。这个概念体现在奥丁的两只乌鸦——胡格和穆尼恩身上，它们每天飞遍世界为他们的智者之王收集信息。这些鸟象征着思考和感知的力量，反映了‘胡格’在北欧信仰中对心灵及其在理解世界中的作用的理解。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": " Ravens ",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Hug_(folklore)"
+    },
+    {
+      "title_en": "Hörgr",
+      "title_zh": "霍格尔",
+      "summary_en": "In Norse mythology, a hörgr was an altar or cult site, often marked by a heap of stones rather than a roofed hall like the hof. These sacred places were used for rituals and sacrifices to honor various gods and goddesses, serving as a focal point for worship in the open air. The term is found in Old Norse literature and sagas, reflecting its importance in religious practices.",
+      "summary_zh": "在北欧神话中，霍格尔是一种祭坛或崇拜场所，通常由石堆组成，而不是像霍夫那样的屋顶大厅。这些神圣的地方用于祭祀和献祭各种神祇和女神，在露天进行宗教仪式。这一术语出现在古诺斯文学和传说中，反映了其在宗教实践中的重要性。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "norse religion"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Hörgr"
+    },
+    {
+      "title_en": "Leeds Cross",
+      "title_zh": "利兹十字架",
+      "summary_en": "The Leeds Cross is an intricate stone sculpture from the tenth century, now displayed at Leeds Minster. Crafted primarily of sandstone with a mix of Anglo-Scandinavian and Anglo-Saxon influences, it features a rectangular pillar adorned with figural imagery and floral carvings. Notable figures include Weland and Beaduhild from Anglo-Saxon folklore alongside Christian symbols possibly representing the Four Evangelists. This cross stands as an important artifact illustrating the cultural fusion of the era.",
+      "summary_zh": "利兹十字架是公元十世纪的石雕艺术品，现位于利兹大教堂。它由砂岩制成，融合了盎格鲁-诺斯和盎格鲁-撒克逊两种风格，以矩形支柱为特色，雕刻有浮雕图案和花卉装饰。其中描绘的人物包括盎格鲁-萨克逊传说中的瓦伦德和贝多希尔，以及可能代表四位福音书作者的基督教符号。这座十字架是文化融合时期的珍贵文物。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "✍️",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "sculpture",
+        "fusion",
+        "Anglo-Saxon"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Leeds_Cross"
+    },
+    {
+      "title_en": "Muspilli",
+      "title_zh": "穆斯比利",
+      "summary_en": "In the dark halls of Valhalla, the soul of a warrior faces judgment as the world crumbles around him. The Muspilli describes the fate of souls immediately after death and at the Last Judgment. As the earth shakes and fire engulfs the heavens, the soul must navigate the trials that await it in the afterlife. This ancient Germanic poem, though incomplete, offers a vivid glimpse into Norse beliefs about the end times.",
+      "summary_zh": "在瓦尔哈拉的黑暗殿堂中，一名战士的灵魂面对着审判，而世界在他周围崩塌。《穆斯比利》描述了灵魂在死亡后和末日审判时的命运。随着大地颤抖，火焰吞噬天空，灵魂必须穿越等待它的考验。尽管这部古老的德意志诗歌不完整，但它仍为人们提供了对北欧关于末日的观点的一瞥。",
+      "country": "Norse 北欧",
+      "emoji": "🔥✍️",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "judgment",
+        "afterlife"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Muspilli"
+    },
+    {
+      "title_en": "Nibelung",
+      "title_zh": "尼贝龙人",
+      "summary_en": "The Nibelungs were a royal family in Germanic legend, particularly known for their connection to the Burgundian kings Gunther and his brothers. They played a pivotal role in the death of Siegfried at the hands of Kriemhild, who later avenged him by destroying the Gibichung court with an army. The Nibelungs also featured prominently in Richard Wagner's operas, where they were depicted as dwarfs guarding immense treasures. Their story is a tale of power, betrayal, and revenge that has captivated audiences for centuries.",
+      "summary_zh": "尼贝龙人在日耳曼传说中是伯爵家族，特别是与古尔丁国王冈特及其兄弟密切相关。他们因在克里姆希尔德之手丧生的西格弗里德而闻名，她后来通过一支军队摧毁了吉比丘法庭来为他报仇。尼贝龙人还在理查德·瓦格纳的歌剧中被描绘成守护巨大财宝的小矮人。他们的故事是关于权力、背叛和复仇的故事，已经吸引了几个世纪以来的观众。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "💎",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "epic",
+        "dwarfs",
+        "treasure",
+        "revenge"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Nibelung"
+    },
+    {
+      "title_en": "Norrœna Society",
+      "title_zh": "诺斯雷纳学会",
+      "summary_en": "The Norrœna Society was a publishing house in early 20th-century Scandinavia that dedicated itself to preserving and promoting the rich cultural heritage of Northern Europe. It reprinted classic works from the 19th century, including translations of Old Norse literature, historical texts, folklore, and medieval literature. These beautifully produced editions were sought after by scholars and enthusiasts alike, ensuring the continuation of ancient stories like those of Odin, Thor, and Loki for future generations.",
+      "summary_zh": "诺斯雷纳学会是20世纪初北欧的一个出版社，致力于保存和弘扬北欧丰富的文化遗产。它重新印刷了19世纪的经典作品，包括古诺斯语文学、历史文献、民间传说和中世纪文学的翻译版本。这些精美制作的版面深受学者和爱好者追捧，确保了奥丁、索尔和洛基等古代故事得以传承给后代。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "medieval",
+        "northern europe"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Norrœna_Society"
+    },
+    {
+      "title_en": "Norse Cosmology",
+      "title_zh": "北欧宇宙观",
+      "summary_en": "In Norse cosmology, the universe is structured around a great ash tree called Yggdrasil. Nine realms exist in this cosmos: Asgard, home of the gods; Midgard, where humans dwell; and Jotunheim, land of the giants. The tree's roots stretch into these worlds, connecting them through its branches and leaves. Ragnarok, the doom of the world, is prophesied when a great winter comes, and the tree will be shaken. Despite this, life continues in a new, better world after the destruction.",
+      "summary_zh": "北欧宇宙观中，世界围绕着一棵巨大的梣树——伊格德拉西尔。九个领域环绕在这棵树周围：阿斯加德是诸神的居所；米德加德是人类居住的地方；约顿海姆则是巨人的领地。这棵树的根须延伸至各个领域，通过枝叶将它们连接在一起。预言中的世界末日——拉格纳洛克即将到来，当一场严冬降临之时，这棵树会被撼动。尽管如此，在毁灭之后，一个新的、更美好的世界将会到来。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "🌳",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "cosmology"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Norse_cosmology"
+    },
+    {
+      "title_en": "Norse Mythology",
+      "title_zh": "北欧神话",
+      "summary_en": "Norse mythology, the body of myths belonging to the North Germanic peoples, tells tales of gods and heroes like Thor, Odin, and Freyja. These stories revolve around the plights of the gods and their interactions with humans and jötnar. The cosmos is personified through deities and beings, and a creation myth describes the world's birth from Ymir’s flesh. Ragnarök, the immense battle between gods and enemies, foretells the end of the world to be reborn anew. This mythology has captivated scholars since the 17th century and continues to influence modern culture.",
+      "summary_zh": "北欧神话是诺斯克人信仰的神祇和英雄的故事，如雷神托尔、智慧之王奥丁和爱与美的女神弗莉嘉。这些故事围绕着诸神的命运以及他们与人类和巨人之间的互动展开。宇宙通过神祇和生物被拟人化，并描述了世界从原始巨神伊米尔肉身中诞生的创世神话。雷神劫（Ragnarök）预示着诸神将与敌人进行巨大战斗，最终世界毁灭重生。自17世纪以来，学者们对这一神话产生了浓厚兴趣，它至今仍影响着现代文化。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "✨",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "gods",
+        "cosmos",
+        "creation"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Norse_mythology"
+    },
+    {
+      "title_en": "Numbers in Germanic Paganism",
+      "title_zh": "北欧异教中的数字",
+      "summary_en": "In ancient Germanic paganism, the numbers three and nine held significant spiritual importance. These numerals appeared frequently in myths and rituals, often symbolizing divine order or cosmic harmony. For instance, the gods were often depicted in trios, and sacrifices were made in multiples of three to honor them. The number 27, a multiple of three, was also integral to their lunar calendar, further emphasizing its sacredness.",
+      "summary_zh": "在古代北欧异教中，数字三和九具有重要的精神意义。这些数字经常出现在神话和仪式中，常象征着神圣的秩序或宇宙和谐。例如，诸神常常被描绘为三重组合，而祭品也多以三的倍数献上以敬奉他们。数字27（即3的三次方）也是其月历中的重要组成部分，进一步突显了它的神圣性。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "✨",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Numbers_in_Germanic_paganism"
+    },
+    {
+      "title_en": "Níð",
+      "title_zh": "尼ð",
+      "summary_en": "In Norse society, níð was a social stigma that marked someone as a villain and a disgrace. Those labeled with this term were often outcasts, stripped of their honor and treated with disdain by the community. The concept of níð went beyond mere personal dishonor; it also encompassed acts of betrayal or cowardice in battle, making one unworthy of respect among peers.",
+      "summary_zh": "在北欧社会中，尼ð是一种社会耻辱的标签，用来指称那些被视为恶棍和无耻之徒的人。被贴上这种标签的人往往会被排斥在外，失去荣誉，并受到社区的鄙视。尼ð不仅仅涉及个人的羞耻感；它还包含了背叛或战场上的怯懦行为，使一个人在同侪中失去了尊重。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "🚫",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "scandanavian"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Níð"
+    },
+    {
+      "title_en": "Poetic Edda",
+      "title_zh": "诗体埃达",
+      "summary_en": "The Poetic Edda is a collection of Old Norse narrative poems that vividly recount the tales of gods and heroes, their battles, and their fates. Composed in alliterative verse, these poems offer insights into Norse mythology and culture. The most famous among them is 'Völuspá,' which tells the story of the creation of the world, the prophesied end times (Ragnarök), and the fate of the gods. These verses are preserved primarily through the medieval Icelandic manuscript Codex Regius, a treasure trove for scholars studying Norse literature.",
+      "summary_zh": "诗体埃达是北欧古代叙事诗的集合，以四音节押头韵的形式讲述了诸神和英雄的故事、他们的战斗与命运。其中最著名的《沃尔松加预言》讲述了世界的创造、末日审判（拉古纳克）以及诸神的命运。这些诗歌主要通过中世纪冰岛的手稿《皇家手稿》得以保存，是研究北欧文学的重要资料。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology",
+        "poetry"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Poetic_Edda"
+    },
+    {
+      "title_en": "Reginnaglar",
+      "title_zh": "雷吉纳格拉尔",
+      "summary_en": "Regninaglar is a mysterious term from Norse mythology, derived from 'reginn' meaning powers or gods and 'naglar' meaning nails. Scholars debate its exact meaning, suggesting it might provide insights into ancient Nordic religious practices. Despite its rarity in texts, the word's enigmatic nature continues to intrigue researchers.",
+      "summary_zh": "雷吉纳格拉尔是北欧神话中的一个神秘术语，由‘reginn’意为神祇或权力和‘naglar’意为钉子组成。学者们对其确切含义存在广泛争议，认为它可能揭示古代北欧宗教实践的线索。尽管这个词在文献中极为罕见，但其神秘性仍令研究者着迷。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Reginnaglar"
+    },
+    {
+      "title_en": "Rök Runestone",
+      "title_zh": "罗克石碑",
+      "summary_en": "The Rök runestone stands as a testament to Norse craftsmanship and literacy, carved with an inscription that tells the story of a warrior's death in battle. The stone, one of the longest known runic inscriptions, marks the beginning of Swedish literature and provides insights into early Scandinavian history. It is now displayed beside the church in Rök, Sweden, where it has stood for centuries, silently narrating tales of old.",
+      "summary_zh": "罗克石碑是北欧工艺和文字成就的象征，上面刻着一位战士在战斗中死亡的故事。这块石碑以其最长的符文铭文之一而闻名，标志着瑞典文学的开端，并提供了早期斯堪的纳维亚历史的见解。如今它矗立在瑞典罗克教堂旁，静静地讲述着古老的故事。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "runes",
+        "history"
+      ],
+      "lat": 58.295,
+      "lng": 14.77555556,
+      "wiki_en": "https://en.wikipedia.org/wiki/Rök_runestone"
+    },
+    {
+      "title_en": "Sacred Tree at Uppsala",
+      "title_zh": "乌普萨拉神树",
+      "summary_en": "In the late 11th century, near the Temple at Uppsala in Sweden stood a mysterious evergreen tree with widespread branches that were always green year-round. This sacred tree was believed to be a copy of Yggdrasil, the world tree from Norse mythology, and its location next to a spring made it a site for pagan sacrifices. When Svein, a king's brother-in-law, proposed to sacrifice a horse in exchange for the Swedish throne, the people agreed. The horse was cut up, and its blood smeared on the sacred tree. This act marked the return of paganism and the abandonment of Christianity among the Swedes.",
+      "summary_zh": "在11世纪末的瑞典乌普萨拉附近，有一棵神秘的常青神树，其枝叶常年葱绿。这棵树被认为与北欧神话中的世界之树Yggdrasil相似，并且它旁边有一个泉水，成为了异教徒献祭的地方。当国王的妹夫Svein提出用牺牲一匹马来换取王位时，人们同意了他的提议。他们将马肢解并涂上鲜血，然后将其血涂抹在神树上。这一行为标志着北欧的异教信仰再次盛行，并且基督教在瑞典被抛弃。",
+      "country": "Norse 北欧",
+      "emoji": "🌳",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "norse mythology"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Sacred_tree_at_Uppsala"
+    },
+    {
+      "title_en": "Skald",
+      "title_zh": "吟游诗人",
+      "summary_en": "The skalds were skilled poets who composed elaborate verses to honor kings during the Viking Age, often using complex kennings and heiti that required knowledge of Norse mythology. These poems were both ex tempore and part of longer works, with many surviving verses attributed to unknown authors. The earliest known skald was Bragi Boddason, a Norwegian from the 9th century. Skaldic poetry flourished in Iceland during the Viking Age and continued into the Late Middle Ages, with Snorri Sturluson's Prose Edda serving as a guide for aspiring poets.",
+      "summary_zh": "吟游诗人是维京时代为国王创作复杂诗歌的诗人，经常使用需要了解北欧神话的知识才能理解的隐喻和正式名词。这些诗歌既即兴创作又属于更长的作品的一部分，许多幸存下来的诗句归因于未知的作者。最早已知的吟游诗人是9世纪的挪威人布拉吉·博达松。吟游诗人在冰岛维京时代盛行，并持续到晚期中世纪，《埃达》一书为有志成为诗人的诗人提供了指导。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "chants",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "poetry",
+        "norse"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Skald"
+    },
+    {
+      "title_en": "Triskaidekaphobia",
+      "title_zh": "十三恐惧症",
+      "summary_en": "Triskaidekaphobia is the fear of the number thirteen, a superstition that has permeated cultures for centuries. This phobia often manifests in avoidance behaviors and can even extend to the infamous Friday the 13th, which combines the unlucky day with the unlucky number. The term was coined by Isador Coriat in his 1910 work on abnormal psychology, capturing a phenomenon that continues to influence modern superstitions and societal norms.",
+      "summary_zh": "十三恐惧症是对数字十三的恐惧，这种迷信已经贯穿了数个世纪。这一恐惧常常表现为回避行为，并且甚至扩展到了臭名昭著的“星期五的第十三天”，这一天结合了不吉利的日子与不吉利的数字。该术语由伊萨多尔·科里亚特在1910年的异常心理学著作中提出，捕捉到了一个至今仍影响着现代迷信和社会规范的现象。",
+      "country": "北欧",
+      "emoji": "😱",
+      "type": "folklore",
+      "tags": [
+        "medieval",
+        "superstition"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Triskaidekaphobia",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/十三恐懼症"
+    },
+    {
+      "title_en": "Valþjófsstaður Door",
+      "title_zh": "瓦尔Þ约夫斯塔德门",
+      "summary_en": "The Valþjófsstaður door, a medieval masterpiece from Iceland, tells the tale of a knight who slays a dragon and befriends a lion. This story, similar to that of Yvain and other chivalric sagas, is carved in pine with intricate details. The Romanesque door features an iron ring inlaid with silver at its center, while a rune at the bottom may mark the work of the master-carver. This unique artifact offers insight into medieval Norse craftsmanship and storytelling.",
+      "summary_zh": "瓦尔Þ约夫斯塔德门是冰岛的一件中世纪木雕作品，讲述了一位骑士斩杀巨龙并与狮子结伴的故事。这个故事与伊韦恩和一些冰岛骑士传奇相似。这扇罗马式风格的门由松木雕刻而成，中央镶嵌着一个银饰的铁环。底部的一个符文可能标记了大师工匠的名字。这件独特的文物展示了中世纪北欧的手工艺和技术。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "🧧",
+      "type": "epic",
+      "tags": [
+        "medieval",
+        "chivalry",
+        "dragon",
+        "lion"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Valþjófsstaður_door"
+    },
+    {
+      "title_en": "Viking",
+      "title_zh": "维京",
+      "summary_en": "In Norse mythology, Viking is a legendary figure who fathered Thorsten and Thorer. He is part of an ancient family lineage that spans multiple sagas, including Frithiof's Saga. His name echoes through the tales of Scandinavia, linking generations with a shared heritage.",
+      "summary_zh": "维京是北欧神话中的一位传奇人物，他生下了Thorsten和Thorer。他是跨越多个传说的古老家族的一部分，包括弗里乔夫传说。他的名字在斯堪的纳维亚半岛上回响，连接着代代相传的血统。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "🧝‍♂️",
+      "type": "legend",
+      "tags": [
+        "ancient"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Viking_(Norse_mythology)"
+    },
+    {
+      "title_en": "Völsung Cycle",
+      "title_zh": "沃尔松传说",
+      "summary_en": "The Völsung Cycle is a rich tapestry of Norse myths and legends, centered around the Volsungs and their nemesis, the Nibelungs. The cycle begins with the birth of Sigmund and his sister Signy, who are raised by the wise Regin. After Sigmund kills Regin's father, Fafnir, he takes possession of Fafnir’s cursed treasure and ring. Years later, Sigmund marries Hjordis and their son Sigurd inherits a magical sword from his mother. With this blade, Sigurd slays the dragon Fafnir and rescues the princess Gudrun, marrying her to Atli (Etzel). The cycle ends with Sigurd’s death at the hands of Hagen, a Nibelung, setting off a chain of revenge killings that echoes through the sagas.",
+      "summary_zh": "沃尔松传说讲述了沃尔松家族及其与尼贝龙根家族的恩怨。故事始于西格蒙德和他妹妹辛吉被智慧的雷金抚养长大，之后西格蒙德杀死了雷金的父亲法夫尼尔并获得了他的诅咒财宝和戒指。多年后，西格蒙德娶了希奥尔迪丝，并且他们的儿子西格弗里德继承了一把魔剑。凭借这把剑，西格弗里德斩杀了巨龙法夫尼尔，并解救了公主古德伦，最终与她结为夫妻。故事以西格弗里德在海根（尼贝龙根）的阴谋下被杀而结束，引发了一系列复仇杀戮，贯穿于诸多传说之中。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": " Saga",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Völsung_Cycle"
+    },
+    {
+      "title_en": "Wyrd",
+      "title_zh": " wyrd 瓦尔德 (注：此翻译可能不准确，因瓦尔德在中文中没有直接对应词)",
+      "summary_en": "In the ancient Norse culture, Wyrd represented a powerful and unchangeable force that determined the destiny of individuals. It was personified as Urðr, one of the Norns who gathered at the well Urðarbrunnr to shape fate. The concept of Wyrd influenced every aspect of life, from birth to death, reflecting the belief in an inevitable and predetermined path for each soul.",
+      "summary_zh": "在北欧古代文化中，瓦尔德代表了一种不可改变的力量，决定了个人的命运。它被表现为乌尔德，一位聚集在乌尔达布鲁恩井旁的尼orns之一，塑造命运。瓦尔德的概念影响了生活的方方面面，从出生到死亡，反映了每个灵魂都有既定路径的信念。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "destiny",
+        "fate",
+        "norns"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Wyrd"
+    },
+    {
+      "title_en": "Öndvegissúlur",
+      "title_zh": "奥恩维吉斯鲁尔 (Öndvegissúlur)",
+      "summary_en": "In the early days of Icelandic settlement, high-seat pillars were brought from Norway by the first settlers. These wooden poles, placed on either side of the head seat in a Viking-period house, held great significance. According to legend, the first farm was established where these pillars washed ashore after being thrown overboard upon sighting land. One saga recounts that Thorolf Most-Beard carved an image of Thor into one pillar and used it as part of his temple construction. These pillars symbolized power and were imbued with spiritual significance for the settlers.",
+      "summary_zh": "在冰岛早期定居时期，第一批移民从挪威带来了高座柱。这些木制的立柱被放置在维京时期房屋中的主位两侧，意义重大。传说中，第一个农场就是在这些立柱被抛入海后漂到岸边的地方建立起来的。一个传说提到，Thorolf Most-Beard 在其中一根立柱上雕刻了雷神索尔的形象，并将其用作他所建寺庙的一部分。这些立柱象征着权力并承载着精神上的意义。",
+      "country": "Norse / Scandinavia 北欧",
+      "emoji": "🧯",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "settlement",
+        "mythical",
+        "wooden"
+      ],
+      "lat": 59.91,
+      "lng": 10.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Öndvegissúlur"
+    }
+  ]
+}

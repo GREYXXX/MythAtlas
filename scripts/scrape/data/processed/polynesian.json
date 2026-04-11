@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "region": "Polynesian",
+    "count": 19,
+    "generated": "2026-04-11",
+    "note": "Scraped from Wikipedia, summarized with a local Qwen model via Ollama."
+  },
+  "stories": [
+    {
+      "title_en": "Aitu",
+      "title_zh": "阿伊图",
+      "summary_en": "In Polynesian mythology, Aitu are spirits or gods that often manifest as animals or plants, known for their malevolence and cruelty. In Tonga, they were lesser gods associated with specific villages and families, feared for their mischievous nature. The word also denotes sickness, calamity, and demons in Māori culture. Legends tell of Aitu tribes who settled on islands like Aitutaki and Mangaia, where some were sacrificed to appease the gods, leaving behind eerie remnants such as the umu Aitu oven at Mangaia.",
+      "summary_zh": "在波利尼西亚神话中，阿伊图是作为动物或植物出现的灵或者神祇，以邪恶和残忍著称。在汤加，它们是与特定村庄和家庭相关的次级神明，因其恶作剧而令人畏惧。这个词在毛利文化中还表示疾病、灾难和恶魔。传说中，阿伊图部落曾定居于如阿伊图塔基和 Mangaia 等岛屿，在那里一些人被献祭以安抚诸神，留下了诸如 Manaia 的 umu Aitu 烤炉等令人毛骨悚然的遗迹。",
+      "country": "Polynesia 波利尼西亚",
+      "emoji": "👻",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "ghosts",
+        "spirits",
+        "sacrifice"
+      ],
+      "lat": -17.73,
+      "lng": -168.32,
+      "wiki_en": "https://en.wikipedia.org/wiki/Aitu"
+    },
+    {
+      "title_en": "Atua",
+      "title_zh": "阿图 (Atua)",
+      "summary_en": "In Polynesian cultures like Māori and Hawaiian, Atua are deities representing various aspects of nature and human life. Tāne Mahuta governs the forest and its creatures; Tāwhirimātea controls wind and storms; Haumia-tiketike oversees uncultivated foods; Rongo-mā-Tāne ensures agriculture and peace; Tangaroa rules the sea; Tūmatauenga is the god of war and humans; Rūaumoko causes earthquakes; and Whiro-te-tipua embodies darkness, evil, and death. These gods reflect the interconnectedness of nature and spirituality in Polynesian belief systems.",
+      "summary_zh": "波利尼西亚文化中的阿图是自然和人类生活各个方面的神。塔内·玛胡塔统治森林及其生物；塔威里马泰控制风和风暴；哈乌米亚蒂凯特伊监督未耕种的食物；罗诺·马塔内确保农业与和平；塔朗哥拉统治海洋；吐姆塔恩盖是战争和人类之神；鲁阿姆库科引起地震；而维罗-提普乌则代表黑暗、邪恶和死亡。这些神明反映了波利尼西亚信仰体系中自然与精神的相互关联。",
+      "country": "Polynesia 波利尼西亚",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "nature",
+        "spirituality"
+      ],
+      "lat": -17.73,
+      "lng": -168.32,
+      "wiki_en": "https://en.wikipedia.org/wiki/Atua"
+    },
+    {
+      "title_en": "Fanuankuwel",
+      "title_zh": "双尾鲸之地",
+      "summary_en": "In Polynesian mythology, Fanuankuwel is a mystical place associated with the twin-tailed whale. It plays a crucial role in traditional celestial navigation techniques of the Caroline Islands, part of an intricate mnemonic system involving triggerfish tied together. This ghostly island serves as both a navigational aid and a symbol of ancient wisdom passed down through generations.",
+      "summary_zh": "在波利尼西亚神话中，Fanuankuwel 是一条双尾鲸的神秘之地。它在查林群岛的传统天体导航技术中占据重要地位，是触发鱼系在一起的记忆辅助系统的一部分。这个鬼岛既是导航之助，也是代代相传古老智慧的象征。",
+      "country": "Polynesia 波利尼西亚",
+      "emoji": "-navigation:",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "navigation",
+        "mythology",
+        "caroline islands"
+      ],
+      "lat": -17.73,
+      "lng": -168.32,
+      "wiki_en": "https://en.wikipedia.org/wiki/Fanuankuwel"
+    },
+    {
+      "title_en": "Ghost Sickness",
+      "title_zh": "鬼病",
+      "summary_en": "In Polynesian cultures, particularly among indigenous peoples in North America and the Pacific Islands, ghost sickness is a condition where individuals are deeply preoccupied with the deceased. This malady manifests through physical symptoms like weakness, loss of appetite, and suffocating sensations, as well as psychological distress such as recurring nightmares and intense fear. The belief holds that these symptoms are caused by ghosts or, less commonly, witches and witchcraft. Communities often seek spiritual healers to exorcise the spirits and alleviate the sufferer's condition.",
+      "summary_zh": "在波利尼西亚文化中，特别是在北美洲和太平洋岛屿的土著人民中间，鬼病是一种人们被亡者深深困扰的情况。这种病症表现为身体上的虚弱、食欲不振以及窒息感，还伴随着心理上的恐惧和反复出现的噩梦。人们相信这些症状是由鬼魂引起的，偶尔也可能是巫术所致。社区通常会寻求精神治疗师来驱除鬼魂并缓解患者的病情。",
+      "country": "Polynesia 波利尼西亚",
+      "emoji": "👻",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "beliefs",
+        "spirits",
+        "ghosts"
+      ],
+      "lat": -17.73,
+      "lng": -168.32,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ghost_sickness"
+    },
+    {
+      "title_en": "Hawaiki",
+      "title_zh": "哈瓦伊基",
+      "summary_en": "In Polynesian mythology, Hawaiki is the ancestral homeland from which Polynesians originated before dispersing across the Pacific. It holds a special place in Māori stories as both an earthly paradise and the underworld. When British explorer James Cook arrived in New Zealand, he brought with him Tupaia, a navigator from Raiatea (Havaiʻi). Tupaia's presence seemed to confirm prophecies about Hawaiki, linking it to the ancient homeland of Māori ancestors.",
+      "summary_zh": "哈瓦伊基是波利尼西亚神话中的始祖之地，波利尼西亚人在此起源后才分散到太平洋各地。在毛利人的传说中，它既是人间的乐园也是阴间。当英国探险家詹姆斯·库克首次到达新西兰时，他带去了来自拉亚特阿的航海者图帕亚（Havaiʻi）。图帕亚的存在似乎证实了关于哈瓦伊基的预言，将其与毛利人的祖先故乡联系起来。",
+      "country": "Polynesia 波利尼西亚",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": -17.73,
+      "lng": -168.32,
+      "wiki_en": "https://en.wikipedia.org/wiki/Hawaiki"
+    },
+    {
+      "title_en": "Hotu-iti",
+      "title_zh": "霍图伊提",
+      "summary_en": "In the southeastern part of Easter Island, the area known as Hotu-iti was home to a powerful clan during the 15th and 16th centuries. This land, rich with historical significance, includes Rano Raraku crater, Ahu Tongariki, and a small bay. The Hotu-iti clan thrived here, playing a crucial role in the island's history before the arrival of European explorers.",
+      "summary_zh": "霍图伊提位于复活节岛东南部，是15至16世纪一个强大氏族的家园。这片土地因包括拉诺拉拉库火山口、通加里基神坛和一个小海湾而充满历史意义。霍图伊提氏族在这里繁盛一时，在欧洲探险家到来之前在岛上扮演了重要角色。",
+      "country": "Polynesia 波利尼西亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "island"
+      ],
+      "lat": -17.73,
+      "lng": -168.32,
+      "wiki_en": "https://en.wikipedia.org/wiki/Hotu-iti"
+    },
+    {
+      "title_en": "Kafeŕoor",
+      "title_zh": "卡费罗尔岛",
+      "summary_en": "In Polynesian mythology, Kafeŕoor was a mythical vanishing island used in traditional celestial navigation techniques of the Caroline Islands. It was part of an intricate mnemonic system involving triggerfish tied together, helping sailors navigate through the vast Pacific Ocean with precision and accuracy. Sometimes grouped with Fanuankuwel as a 'ghost island,' Kafeŕoor symbolized both the challenges and mysteries of oceanic travel.",
+      "summary_zh": "卡费罗尔岛是波利尼西亚神话中的一个传说中消失的岛屿，用于卡拉林群岛的传统天体导航技术。它是触发鱼系在一起的记忆系统的一部分，帮助航海者精确而准确地穿越广阔的太平洋。有时与范努安库威尔一起被归类为‘鬼岛’，卡费罗尔象征着海洋旅行中的挑战和神秘。",
+      "country": "Polynesia 波利尼西亚",
+      "emoji": "🌊",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "navigation",
+        "island",
+        "celestial"
+      ],
+      "lat": -17.73,
+      "lng": -168.32,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kafeŕoor"
+    },
+    {
+      "title_en": "Karihi-Nui",
+      "title_zh": "卡里希-努伊",
+      "summary_en": "In Polynesian mythology, Karihi-Nui was the brother of Tahaki in Tuamotuan legend. Together with his sibling, they ventured to heaven to court the beautiful goddess Sina. Their journey was fraught with challenges and tests, but their unwavering love and devotion led them to finally win Sina's heart.",
+      "summary_zh": "在波利尼西亚神话中，卡里希-努伊是图阿莫图传说中的塔哈基的兄弟。他们一起前往天界追求美丽的女神西娜。他们的旅程充满了挑战和考验，但凭借坚定不移的爱情与忠诚，最终赢得了西娜的心。",
+      "country": "Polynesia 波利尼西亚",
+      "emoji": "🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "love",
+        "heaven",
+        "goddess"
+      ],
+      "lat": -17.73,
+      "lng": -168.32,
+      "wiki_en": "https://en.wikipedia.org/wiki/Karihi-Nui"
+    },
+    {
+      "title_en": "Kuamoʻo Moʻokini",
+      "title_zh": "库阿莫欧·莫奥基尼",
+      "summary_en": "Kuamoʻo Moʻokini, a revered priest of ancient Hawaii, is said to have built the first heiau (sacred temple) on the Big Island. His story tells of his divine inspiration and dedication to creating a place where Hawaiians could worship their gods in peace. Kuamoʻo Moʻokini's legacy lives on through the Mo'okini Heiau, which still stands as a testament to his piety and wisdom.",
+      "summary_zh": "库阿莫欧·莫奥基尼是古夏威夷的一位受人尊敬的祭司，据说他建成了大岛上的第一个神庙——莫奥基尼神庙。他的故事讲述了他受到神灵启示，并致力于建立一个供夏威夷人和平崇拜诸神的地方。库阿莫欧·莫奥基尼的遗产至今仍通过莫奥基尼神庙得以体现，这座神庙见证了他对虔诚和智慧的追求。",
+      "country": "Polynesia 波利尼西亚",
+      "emoji": "🙏",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "heiau",
+        "worship"
+      ],
+      "lat": -17.73,
+      "lng": -168.32,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kuamoʻo_Moʻokini"
+    },
+    {
+      "title_en": "Kurangaituku",
+      "title_zh": "库朗盖图库",
+      "summary_en": "In Māori mythology, Kurangaituku is a part-woman, part-bird supernatural being who cared for birds but was betrayed and defeated by the young Te Arawa man Hatupatu. Some versions of the legend portray her sympathetically as a nurturing caretaker, while others describe her as an ogress or witch. She is associated with numerous New Zealand places and has inspired various artworks and literature.",
+      "summary_zh": "库朗盖图库是毛利神话中的半人半鸟的超自然生物，她以照顾鸟类而闻名。然而，她被年轻的特阿瓦人哈图帕图背叛并击败。在某些版本的故事中，她被描绘成一个富有同情心的养育者；而在其他版本中，则描述为女巫或食人魔。库朗盖图库与新西兰多个地方有关联，并启发了各种艺术作品和文学创作。",
+      "country": "New Zealand 新西兰",
+      "emoji": "(*)(鸟)",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology",
+        "supernatural",
+        "bird"
+      ],
+      "lat": -17.73,
+      "lng": -168.32,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kurangaituku"
+    },
+    {
+      "title_en": "Laka",
+      "title_zh": "拉卡",
+      "summary_en": "In Hawaiian mythology, Laka is a brave warrior who seeks to avenge his father's murder by sailing to Hawaii. Despite facing obstacles from the forest gods, he makes offerings to the great gods and receives two sturdy outriggers. With these divine gifts, Laka and his companions successfully retrieve his father’s bones from the cave of Kai-kapu, setting the stage for future adventures.",
+      "summary_zh": "在夏威夷神话中，拉卡是一位勇敢的战士，他要为父亲报仇，前往夏威夷。尽管遇到了森林神灵的阻挠，但他向众神献祭，并得到了两艘坚固的独木舟。凭借这些神圣的礼物，拉卡和他的同伴成功从凯-kapu的洞穴中取回了他父亲的遗骨，为未来的冒险铺平了道路。",
+      "country": "Polynesia 波利尼西亚",
+      "emoji": "🙏",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "avenging",
+        "voyage"
+      ],
+      "lat": -17.73,
+      "lng": -168.32,
+      "wiki_en": "https://en.wikipedia.org/wiki/Laka"
+    },
+    {
+      "title_en": "Polynesian Mythology",
+      "title_zh": "波利尼西亚神话",
+      "summary_en": "Polynesian mythology is a vast oral tradition that spans across numerous island cultures in the Pacific Ocean. It includes stories of gods and goddesses, creation myths, and legends about voyagers who navigated the vast ocean using stars and natural signs. These tales often emphasize the interconnectedness of all living things and the importance of respecting nature.",
+      "summary_zh": "波利尼西亚神话是太平洋岛屿文化中广泛流传的口头传统，包括关于诸神和女神、创世神话以及航海者利用星辰和其他自然迹象穿越广阔海洋的故事。这些故事强调了所有生灵之间的联系，并强调尊重自然的重要性。",
+      "country": "Polynesia 波利尼西亚",
+      "emoji": "🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "ocean",
+        "navigation",
+        "nature"
+      ],
+      "lat": -17.73,
+      "lng": -168.32,
+      "wiki_en": "https://en.wikipedia.org/wiki/Polynesian_mythology"
+    },
+    {
+      "title_en": "Pulotu",
+      "title_zh": "普洛图",
+      "summary_en": "In Polynesian mythology, Pulotu is a realm where the souls of the deceased rest in darkness and silence. It lies beyond the world of light and life, a place of eternal slumber for those who have passed on. The journey to Pulotu is a mysterious one, often shrouded in mist and shadow, leading the spirits away from their earthly lives into an unknown but peaceful existence.",
+      "summary_zh": "在波利尼西亚神话中，普洛图是亡灵安息的地方，那里一片黑暗与寂静。它位于光明与生命的世界之外，是那些逝去的灵魂永恒的安眠之地。前往普洛图的旅程充满神秘和迷雾，引领着灵魂远离尘世生活，进入一个虽未知但宁静的世界。",
+      "country": "Polynesia 波利尼西亚",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "death",
+        "afterlife"
+      ],
+      "lat": -17.73,
+      "lng": -168.32,
+      "wiki_en": "https://en.wikipedia.org/wiki/Pulotu"
+    },
+    {
+      "title_en": "Tapu",
+      "title_zh": "塔普 (塔普)",
+      "summary_en": "In Polynesian cultures, the concept of tapu is central to spiritual life and social order. It signifies both sacredness and prohibition, creating a complex web of rules that govern behavior in daily life. For instance, certain individuals or objects could be declared tapu, rendering them off-limits for common use. This practice ensured respect for the divine and maintained harmony within communities.",
+      "summary_zh": "塔普是波利尼西亚文化中一个核心的概念，既表示神圣性也表示禁止。它通过一系列规则来规范人们的行为，确保对神灵的尊重并维持社区和谐。例如，某些个人或物品可能会被宣布为塔普，从而限制它们的使用。",
+      "country": "Polynesia 波利尼西亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "sacred",
+        "prohibition",
+        "ritual"
+      ],
+      "lat": -17.73,
+      "lng": -168.32,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tapu_(Polynesian_culture)"
+    },
+    {
+      "title_en": "Te Ao Mārama",
+      "title_zh": "泰奥玛拉马",
+      "summary_en": "In the Polynesian culture, Te Ao Mārama represents the physical world where humans live. It is a realm of knowledge and understanding, symbolizing enlightenment and clarity in the face of life's challenges. This concept guides Māori people to seek wisdom and truth in their daily lives.",
+      "summary_zh": "泰奥玛拉马是波利尼西亚文化中人类居住的物质世界，象征着知识和理解。这一概念引导毛利人寻求日常生活中的智慧与真理。",
+      "country": "Polynesia 波利尼西亚",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "knowledge",
+        "understanding",
+        "polynesian"
+      ],
+      "lat": -17.73,
+      "lng": -168.32,
+      "wiki_en": "https://en.wikipedia.org/wiki/Te_Ao_Mārama"
+    },
+    {
+      "title_en": "Arioi",
+      "title_zh": "阿里奥伊",
+      "summary_en": "The Arioi were a secretive religious order in Tahiti, dedicated to the war god Oro. They held elaborate rituals and ceremonies, with men and women of all social classes participating, though males dominated. The Arioi believed Oro was their founder and savior, weaving his worship into their cultural fabric. Their esoteric practices and hierarchical structure made them a powerful force within Polynesian society.",
+      "summary_zh": "阿里奥伊是塔希提岛上一个秘密的宗教团体，致力于战神奥罗。他们举行复杂的仪式和典礼，所有社会阶层的男人和女人都参与其中，但男性占主导地位。阿里奥伊认为奥罗是他们的创始人和救世主，将他的崇拜融入了他们的文化之中。他们的神秘实践和等级制度使他们在波利尼西亚社会中成为一股强大的力量。",
+      "country": "Polynesia 波利尼西亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "polynesian"
+      ],
+      "lat": -17.73,
+      "lng": -168.32,
+      "wiki_en": "https://en.wikipedia.org/wiki/Arioi"
+    },
+    {
+      "title_en": "Tiki",
+      "title_zh": "提基",
+      "summary_en": "In Māori mythology, Tiki was the first man created by either Tūmatauenga or Tāne. Found in a pond by Tiki, Marikoriko became his wife and together they had Hine-kau-ataata. Tiki represents the origin of humanity and is often depicted as a carved figure, symbolizing both creation and ancestral reverence.",
+      "summary_zh": "在毛利神话中，提基由塔马图阿内加或塔内创造。他在一个池塘里发现了玛里科里科，并与她结为夫妇，生下了希妮-考-阿塔塔。提基象征着人类的起源，通常被雕刻成人物形象，代表着创世和祖先崇拜。",
+      "country": "Polynesia 波利尼西亚",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "creation",
+        "ancestral_reverence"
+      ],
+      "lat": -17.73,
+      "lng": -168.32,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tiki"
+    },
+    {
+      "title_en": "Tu'i Pulotu",
+      "title_zh": "图伊普洛图",
+      "summary_en": "The Tu'i Pulotu was a revered figure who led an ancient group to settle on the Fiji islands during the Lapita period, around 1500 BC. This leader ruled over the islands from late BC until approximately 800 AD and is believed to have originated from the same region as Burotu, the paradise underworld in Fijian religion. The term 'Burotu' suggests a spiritual island near Matuku in the Lau Islands, linking the earthly Tu'i Pulotu with the divine realm of the afterlife.",
+      "summary_zh": "图伊普洛图是传说中带领一个古老群体在拉皮塔时期（约公元前1500年）定居斐济群岛的领导人。他统治着岛屿直到大约公元800年，并被认为来自斐济宗教中的天堂 underworld Burotu，即Burotukula（灵岛）。Burotu 意味着靠近马图库岛的拉乌群岛的一个精神之岛，将人间的图伊普洛图与死后世界的神圣领域联系起来。",
+      "country": "Polynesia 波利尼西亚",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "legend",
+        "island",
+        "spiritual"
+      ],
+      "lat": -17.73,
+      "lng": -168.32,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tu'i_Pulotu",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/图伊普洛图"
+    },
+    {
+      "title_en": "Tuvaluan Mythology",
+      "title_zh": "图瓦卢神话",
+      "summary_en": "In Tuvaluan mythology, the islands were created by te Pusi (the eel) and te Ali (the flounder). Te Ali is credited with forming the flat atolls that make up Tuvalu, while te Pusi inspired the coconut palms essential to Tuvaluan life. This belief has led to moray eels being considered sacred and not eaten. The stories reflect the close relationship between the people of Tuvalu and their environment.",
+      "summary_zh": "图瓦卢神话讲述了岛屿是由鳗鱼（te Pusi）和扁头鱼（te Ali）共同创造的。扁头鱼形成了构成图瓦卢的平坦环礁，而鳗鱼则启发了椰子树的存在，这是图瓦卢人生活中不可或缺的一部分。这种信仰导致鳗鱼被视为神圣之物而不被食用。这些故事反映了图瓦卢人民与自然环境之间的密切关系。",
+      "country": "Polynesia 波利尼西亚",
+      "emoji": "🌊",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "island",
+        "creation",
+        "coconut"
+      ],
+      "lat": -17.73,
+      "lng": -168.32,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tuvaluan_mythology"
+    }
+  ]
+}

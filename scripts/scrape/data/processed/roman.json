@@ -1,0 +1,724 @@
+{
+  "meta": {
+    "region": "Roman",
+    "count": 42,
+    "generated": "2026-04-11",
+    "note": "Scraped from Wikipedia, summarized with a local Qwen model via Ollama."
+  },
+  "stories": [
+    {
+      "title_en": "Acron (King of the Caeninenses)",
+      "title_zh": "阿克龙（卡伊尼内斯国王）",
+      "summary_en": "When Acron, king of the Caeninenses, refused to allow intermarriage with Rome as proposed by Romulus, the Roman leader responded by abducting Latin and Sabine women in what became known as the Rape of the Sabine Women. Enraged, Acron allied with Antemnae, Crustumerium, and Cures under Titus Tatius to attack Rome. In a fierce battle, Romulus defeated Acron in single combat, killing him and taking his armor. Following this victory, Romulus conquered Caenina, forcing the locals to abandon their weapons and relocate many of their adult males to Rome as hostages.",
+      "summary_zh": "当卡伊尼内斯国王阿克龙拒绝与罗马人通婚时，罗慕路斯领导下的罗马人绑架了拉丁和萨宾妇女，史称‘萨宾妇女之劫’。阿克龙愤怒之下联合安特姆纳、库斯特穆里乌姆和塔提乌斯共同对抗罗马。在激烈的战斗中，罗慕路斯击败并杀死了阿克龙，并夺取了他的盔甲。随后，罗慕路斯征服了卡伊尼内斯，强迫当地人放弃武器，并将许多成年男性作为人质永久迁往罗马。",
+      "country": "Italy 意大利",
+      "emoji": "⚔️",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "romance",
+        "war"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Acron_(King_of_the_Caeninenses)"
+    },
+    {
+      "title_en": "Aetnaeus",
+      "title_zh": "阿埃纳厄斯",
+      "summary_en": "Aetnaeus was an epithet for various gods associated with Mount Aetna in Sicily, including Zeus and Hephaestus. The mountain itself was believed to be the home of the Cyclops, blacksmiths of the gods. Festivals called Aetnaea were held on the slopes of the volcano, where a statue of Zeus stood as a testament to his connection with this sacred peak.",
+      "summary_zh": "阿埃纳厄斯是与意大利西西里岛上的埃特纳火山有关的诸神的绰号，包括宙斯和赫菲斯托斯。人们相信这座火山是巨人的家，他们是众神的铁匠。在火山斜坡上举行的埃特纳亚节上，矗立着一座宙斯的雕像，以此证明他与这座神圣之峰的关系。",
+      "country": "Italy 意大利",
+      "emoji": "🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "volcano"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Aetnaeus"
+    },
+    {
+      "title_en": "Ages of Man",
+      "title_zh": "人类的四个时代",
+      "summary_en": "In Greek mythology, the Ages of Man describe four distinct epochs in human history, each symbolized by a metal: Golden, Silver, Bronze, and Iron. The Golden Age was one of perfect harmony and divine favor, where humans lived without toil or suffering. As time passed, humanity descended into the Silver Age, marked by luxury and excess, followed by the Bronze Age, characterized by war and strife. Finally, in the Iron Age, humans faced constant hardship and pain, reflecting a decline from their original state of grace.",
+      "summary_zh": "在希腊神话中，人类的四个时代分别代表了四个不同的历史阶段：金、银、铜和铁。金的时代是和谐与神恩的象征，人们无需劳作或受苦。随着时间流逝，人类进入了银的时代，那里充满了奢华和放纵；随后是铜的时代，战争和纷争成为常态。最后，在铁的时代，人们面对着无尽的苦难和痛苦，反映了他们从最初状态的衰落。",
+      "country": "Greece 希腊",
+      "emoji": "🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "metal ages"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ages_of_Man"
+    },
+    {
+      "title_en": "Alastor, or The Spirit of Solitude",
+      "title_zh": "阿拉斯特，或孤独之灵",
+      "summary_en": "In Shelley’s poem Alastor, a young poet embarks on a solitary journey to seek inspiration and truth. Haunted by the specter of his own creation, he wanders through desolate landscapes, battling inner demons and societal pressures. Eventually, he encounters a beautiful woman who embodies his idealized vision of perfection but is ultimately unattainable. The poem explores themes of artistic struggle, isolation, and the pursuit of knowledge in solitude.",
+      "summary_zh": "雪莱的诗作《阿拉斯特，或孤独之灵》讲述了一位年轻诗人踏上孤独之旅以寻求灵感与真理的故事。他被自己创作的幽灵所困扰，在荒凉的风景中徘徊，对抗内心的恶魔和社会的压力。最终，他遇到了一位美丽女子，她代表着诗人理想化的完美形象，但却遥不可及。这首诗探讨了艺术挣扎、孤立以及在孤独中追求知识的主题。",
+      "country": "Italy 意大利",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "poetry",
+        "solitude",
+        "struggle"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Alastor,_or_The_Spirit_of_Solitude"
+    },
+    {
+      "title_en": "Ancile",
+      "title_zh": "安奇勒 (Ancile)",
+      "summary_en": "In ancient Rome, during the reign of King Numa Pompilius, a sacred shield known as the ancile fell from heaven and was kept in the Temple of Mars. The original shield was considered one of the pignora imperii, symbols that ensured Rome's sovereignty. To protect it, eleven copies were made with a unique 'figure of eight' shape inspired by Mycenaean art. These shields were safeguarded by the Salii, twelve priests who carried them in rituals during March and October, beating their shields with staves as they danced and sang hymns.",
+      "summary_zh": "在古罗马，第二任国王努马·波皮利乌斯统治时期，一个神圣的盾牌——安奇勒从天而降，并被存放在火星神庙中。这个原盾被认为是pignora imperii之一，象征着罗马的主权。为了保护它，制作了十一面具有独特‘八字形’形状的副本，灵感源自迈锡尼艺术。这些盾牌由十二位祭司——萨利乌斯保管，在三月和十月举行的仪式中被举过头顶，他们用棍棒敲击盾牌，并伴随着舞蹈吟唱颂歌。",
+      "country": "Italy 意大利",
+      "emoji": "🛡️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "ritual",
+        "shield"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ancile"
+    },
+    {
+      "title_en": "Avernus",
+      "title_zh": "阿韦尼乌斯",
+      "summary_en": "Avernus, a volcanic crater near Cumae, Italy, was an ancient site of mystery and myth. It was believed to be the entrance to the underworld, where heroes like Orpheus sought to descend in search of their loved ones. The lake within, Lago d'Averno, echoed with tales of spirits and ghosts. Its dark waters and eerie silence made it a place of both fear and fascination for ancient Romans.",
+      "summary_zh": "阿韦尼乌斯是意大利库迈附近的一个火山口，被认为是通往阴间的入口。奥菲欧等英雄曾试图穿越这片神秘的土地，寻找他们的爱人。湖中的拉哥·达·阿维诺回荡着关于幽灵和鬼魂的故事。它的深水和诡异的寂静使其成为古罗马人既恐惧又敬畏的地方。",
+      "country": "Italy 意大利",
+      "emoji": "🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "underworld"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Avernus"
+    },
+    {
+      "title_en": "Carmen",
+      "title_zh": "坎塔姆",
+      "summary_en": "In ancient Rome, a carmen was more than just a verse; it was a powerful incantation or prayer used in rituals and ceremonies. The Carmen Arvale, for instance, was a sacred hymn sung by the Flamines Martialis to honor Mars on the Ides of March. These chants held mystical power, believed to influence the gods and ensure their favor. The Carmen Saliare, chanted by the Salii priests during the Lupercalia festival, invoked the protection of Mars for Rome’s safety.",
+      "summary_zh": "在古罗马时期，坎塔姆不仅是一首诗，更是一种具有强大魔力的咒语或祈祷文，在仪式和典礼中使用。例如，坎塔姆·阿瓦莱（Carmen Arvale）是弗拉明斯·马蒂利乌斯为祭祀马尔斯而在三月十五日吟唱的一首圣歌。这些颂歌蕴含着神秘的力量，被认为能够影响诸神并确保他们的恩宠。坎塔姆·萨里亚尔（Carmen Saliare），由萨利乌斯祭司在卢佩拉利亚节期间诵念，祈求马尔斯保护罗马的安全。",
+      "country": "Italy 意大利",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "rituals",
+        "sacred texts"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Carmen_(verse)"
+    },
+    {
+      "title_en": "Carmentalia",
+      "title_zh": "卡门蒂亚节",
+      "summary_en": "Carmentalia, celebrated on January 11th and 15th in ancient Rome, honored the goddess Carmenta. She was revered as both Antevorta (looking forward) and Postvorta (looking back), embodying foresight and hindsight. The festival was a women's event, rich with rituals that underscored the importance of these divine attributes in Roman society.",
+      "summary_zh": "卡门蒂亚节在古罗马的1月11日和15日举行，祭拜女神卡门塔。她被尊为Antevorta（预见未来）和Postvorta（回顾过去），象征着前瞻与回溯的能力。该节日主要是女性参与，充满了各种仪式，突显了这些神圣特质在罗马社会中的重要性。",
+      "country": "Italy 意大利",
+      "emoji": "🌸",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "rituals",
+        "goddess"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Carmentalia"
+    },
+    {
+      "title_en": "Casa Romuli",
+      "title_zh": "罗慕路斯的小屋",
+      "summary_en": "The Casa Romuli, or Hut of Romulus, was the humble dwelling where the legendary founder and first king of Rome, Romulus, lived. Situated on the south-western corner of the Palatine Hill, this traditional single-roomed hut with a straw roof and wattle-and-daub walls stood as a symbol of simplicity and the early days of Roman history. It was here that Romulus is said to have planned his city's founding, setting the stage for Rome’s grand future.",
+      "summary_zh": "罗慕路斯的小屋是罗马传说中第一位国王罗慕路斯的简陋住所。这座传统的单间小屋位于帕拉蒂尼山的西南角，屋顶覆盖着稻草，墙壁由树枝和泥土建造而成。这所小屋象征着早期罗马历史的简朴与单纯，在这里罗慕路斯策划了城市的建立，为罗马的伟大未来奠定了基础。",
+      "country": "Italy 意大利",
+      "emoji": "🏠",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology",
+        "founder",
+        "kingdom"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Casa_Romuli"
+    },
+    {
+      "title_en": "Coins for the Dead",
+      "title_zh": "死者之錢",
+      "summary_en": "In ancient Italy, people believed that the dead needed to pay a ferryman with coins to cross the river Styx in the underworld. This practice evolved over time and still persists today, where visitors often leave small change on the gravestones of deceased military personnel as a sign of respect and remembrance.",
+      "summary_zh": "古羅馬時期，人們相信死者需要用錢支付船夫過冥河斯堤克斯。這一習俗歷代相傳，直到今日，在意大利和其他國家，人們仍會在已故軍人的墓碑上留下硬幣作為敬意和追思。",
+      "country": "Italy 意大利",
+      "emoji": "🙏",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "ritual",
+        "burial"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Coins_for_the_dead"
+    },
+    {
+      "title_en": "Cornucopia",
+      "title_zh": "丰饶之角",
+      "summary_en": "In ancient Greece, the horn of Amalthea was a symbol of abundance and nourishment. Legend has it that this magical horn belonged to Amalthea, who had nursed Zeus as an infant after he was hidden from his father Cronus. When Amalthea accidentally broke one of Zeus's favorite goat horns, she was rewarded with the miraculous cornucopia, which could always be filled with whatever food and drink its owner desired. The horn became a symbol of prosperity and was often depicted overflowing with fruits, flowers, and nuts.",
+      "summary_zh": "在古希腊，丰饶之角是繁荣和滋养的象征。传说中，这个神奇的角属于喂养宙斯长大的羊奶娘阿玛尔忒亚。当阿玛尔忒亚不小心摔碎了宙斯最喜欢的山羊角时，她被赐予了丰饶之角，只要主人想要什么，它就能源源不断地提供食物和饮料。这根角成为了繁荣的象征，并经常被描绘成盛满水果、花朵和坚果。",
+      "country": "Greece 希腊",
+      "emoji": "🌱",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "abundance",
+        "nourishment",
+        "horn"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cornucopia"
+    },
+    {
+      "title_en": "Corona Australis",
+      "title_zh": "南冕座",
+      "summary_en": "In ancient Greek astronomy, Corona Australis was seen as a wreath worn by the centaur Chiron or by the archer Sagittarius. This constellation, part of the 48 constellations cataloged by Ptolemy, is faint but distinctive with its oval shape and variable stars. It lies in the Southern Celestial Hemisphere, near the Milky Way, and contains a star-forming region known as the Corona Australis Molecular Cloud, which is one of the closest such regions to our Solar System.",
+      "summary_zh": "古希腊天文学中，南冕座被视为赫拉克勒斯之箭或半人马喀戎佩戴的花环。这个星座是波斯尼乌斯编目中的48个星座之一，尽管较暗淡但因其独特的椭圆形和变星而引人注目。它位于银河附近，并包含一个距离太阳系最近的恒星形成区——南冕座分子云。",
+      "country": "Greece 希腊",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "constellation"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Corona_Australis",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/南冕座"
+    },
+    {
+      "title_en": "Crinisus",
+      "title_zh": "克里尼苏斯",
+      "summary_en": "In Roman mythology, Crinisus was a river god who fathered Acestes by a Trojan woman in the form of a dog. Acestes later founded Segesta, named after his mother. The city's coins depicted a dog and a woman’s head, symbolizing their divine origins. This tale weaves together themes of transformation, parentage, and founding myths.",
+      "summary_zh": "在罗马神话中，克里尼苏斯是一位河流之神，在变成狗的形态时与一位特洛伊女子生下了阿克特斯。阿克特斯后来建立了塞格斯塔，并以母亲的名字命名了这座城市。该城的钱币上常刻有狗和女人头像，象征着他们的神圣起源。",
+      "country": "Italy 意大利",
+      "emoji": "🌊",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Crinisus"
+    },
+    {
+      "title_en": "Double Heroides",
+      "title_zh": "双赫罗狄斯诗集",
+      "summary_en": "The Double Heroides are a set of six epistolary poems, each depicting a heroic lover from Greek or Roman mythology writing to his absent beloved, and the response from the heroine. These poems follow Ovid's earlier work, the Heroides, which also featured letters from mythological women. While the authorship is uncertain, these works continue Ovid's exploration of love and longing through the voices of legendary figures.",
+      "summary_zh": "双赫罗狄斯诗集是六首书信体诗歌，每首诗中，一位来自希腊或罗马神话的英雄向他的心上人倾诉思念之情，而心上人也回信表达自己的情感。这些作品紧随奥维德早前的作品《赫罗狄斯》之后，后者也是由神话中的女性书写的情书。虽然作者身份存疑，但这些作品延续了奥维德通过传奇人物的声音探索爱与渴望的主题。",
+      "country": "Italy 意大利",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "love",
+        "mythology"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Double_Heroides"
+    },
+    {
+      "title_en": "Etruscan Religion",
+      "title_zh": "埃特鲁里亚宗教",
+      "summary_en": "The Etruscan religion, deeply rooted in ancient Italy and heavily influenced by Greek mythology, was a complex system of beliefs and rituals. It included gods like Turms, the god of towers, and Uni, the goddess associated with fertility and marriage. As the Etruscan civilization declined and was absorbed into the Roman Republic around 400 BC, many of their deities were incorporated into Roman pantheon, preserving some of their unique practices and stories within Roman culture.",
+      "summary_zh": "埃特鲁里亚宗教是古意大利地区复杂而独特的信仰体系，深受希腊神话的影响。该宗教包括诸如塔尔穆斯（守护神塔楼）和尤尼（与生育和婚姻相关的女神）等众神。随着埃特鲁里亚文明在公元前4世纪被罗马共和国吞并，许多他们的神祇也被纳入了罗马的神系中，保留了一些独特的仪式和故事。",
+      "country": "Italy 意大利",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "religion"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Etruscan_religion"
+    },
+    {
+      "title_en": "Ficus Ruminalis",
+      "title_zh": "鲁米纳利亚橡树",
+      "summary_en": "Near the Lupercal cave at the foot of Palatine Hill in ancient Rome stood a sacred fig tree, known as Ficus Ruminalis. It was here that the cradle of Romulus and Remus washed ashore on the Tiber River. Nursed by a she-wolf, the twins were later found by Faustulus. The tree was venerated as a guardian of breastfeeding mothers and their infants, dedicated to Rumina, a deity who watched over nurturing. Even St. Augustine spoke of Jupiter Ruminus, linking this sacred site with divine protection.",
+      "summary_zh": "在古罗马的帕拉蒂尼山脚下，靠近卢佩尔卡洞穴的地方生长着一棵神圣的无花果树——鲁米纳利亚橡树。相传罗慕路斯和雷穆斯的摇篮被冲上特比河岸后，由一头母狼哺育长大，后来又被福斯图斯发现。这棵树被视为哺乳母亲及其婴儿的守护神，献祭给保护养育之神鲁米娜。甚至圣奥古斯丁也提到了朱庇特·鲁米纳，将这个神圣之地与神祇的庇护联系在一起。",
+      "country": "Italy 意大利",
+      "emoji": "🌳",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "lupercalia",
+        "foundlings",
+        "she-wolf"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ficus_Ruminalis"
+    },
+    {
+      "title_en": "Founding of Rome",
+      "title_zh": "罗马的建立",
+      "summary_en": "According to Roman myth, Romulus and Remus, twin sons of Mars and Rhea Silvia, were abandoned on the Tiber River as infants. They were suckled by a she-wolf until they were found by Faustulus, who raised them. After avenging their uncle Amulius and restoring Numitor to power, the brothers debated where to build Rome. Their argument ended with Remus's death at Romulus's hands, leading Romulus to establish the city on the Palatine Hill in 753 BC. Despite modern historians' skepticism, this legendary founding remains a cornerstone of Roman identity.",
+      "summary_zh": "罗马神话中，战神马尔斯与贞女瑞亚·西莉娅所生的双胞胎罗慕路斯和雷穆斯幼年被遗弃在台伯河中。他们被一只母狼哺育长大，并最终被牧羊人法乌斯特收养。兄弟俩为报答叔叔阿穆利乌斯之仇，恢复了努米托尔的权力后，争论着要在何处建立新城市。争吵以雷穆斯死于罗慕路斯之手而告终，罗慕路斯在帕拉蒂尼山上建立了罗马城，时间定为公元前753年。尽管现代史学家对此持怀疑态度，但这个传奇性的创始仍然构成了罗马身份认同的重要部分。",
+      "country": "Italy 意大利",
+      "emoji": "rome",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "legendary",
+        "founder",
+        "city"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Founding_of_Rome"
+    },
+    {
+      "title_en": "Roman Mythology",
+      "title_zh": "罗马神话",
+      "summary_en": "Roman mythology is a rich tapestry woven from the traditions and stories of ancient Rome. It reflects the culture's deep connection with its history, politics, and moral values. Like their Greek counterparts, Roman gods were often personified as key figures in the lives of ordinary citizens, influencing their daily rituals and public ceremonies. The Romans saw their deities as active participants in human affairs, shaping destinies through divine intervention and prophecy. Though heavily influenced by Greek mythology, particularly during the Hellenistic period, Roman myths also retained unique elements that distinguished them from their eastern neighbors. These stories, preserved in literature and art, continue to captivate modern audiences with tales of heroism, love, betrayal, and the eternal struggle between gods and mortals.",
+      "summary_zh": "罗马神话是古罗马文化的重要组成部分，反映了罗马人对历史、政治和道德价值观的深刻认识。罗马诸神常常被描绘为普通公民生活中的关键人物，影响着他们的日常仪式和公共庆典。罗马人认为众神在其人间事务中扮演着积极角色，通过预言和干预塑造命运。尽管在希腊化时期受到了希腊神话的强烈影响，但罗马神话仍然保留了许多独特的元素，使其与东方邻居区分开来。这些故事被保存在文学和艺术中，至今仍以英雄主义、爱情、背叛以及诸神与凡人之间的永恒斗争为题吸引着现代观众。",
+      "country": "Italy 意大利",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Roman_mythology"
+    },
+    {
+      "title_en": "Battle of Lacus Curtius",
+      "title_zh": "拉奎勒湖畔之争",
+      "summary_en": "In ancient Rome, after a mass abduction of Sabine women by Romulus and his men to secure their brides, tensions escalated into armed conflict. The final battle was fought near the future site of the Roman Forum at Lacus Curtius. This confrontation marked the end of the war between Rome and the Sabines, solidifying Romulus' rule over a united city-state.",
+      "summary_zh": "在古罗马，罗慕路斯及其部下大规模劫掠萨宾妇女作为妻子后，两国之间的紧张关系升级为武装冲突。最终决战发生在未来的罗马论坛所在地拉奎勒湖畔。这场战斗标志着罗马与萨宾人的战争结束，巩固了罗慕路斯对统一城邦的统治。",
+      "country": "Italy 意大利",
+      "emoji": "🤝",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "romance",
+        "conflict"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Battle_of_Lacus_Curtius"
+    },
+    {
+      "title_en": "De astronomia",
+      "title_zh": "天文学纲要",
+      "summary_en": "Written during the reign of Augustus, De astronomia by Hyginus details 47 constellations, weaving Greek and Roman myths around them. The text describes how gods and heroes were immortalized in the night sky through these star formations, blending astronomy with ancient mythology to create a celestial narrative that has fascinated generations.",
+      "summary_zh": "在奥古斯都统治时期，Hyginus 的《天文学纲要》描述了47个星座，并围绕它们编织了希腊和罗马的神话。文本通过这些星群将天文学与古代神话融为一体，创造出一个令人着迷的天文叙事。",
+      "country": "Italy 意大利",
+      "emoji": "🌟",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/De_astronomia"
+    },
+    {
+      "title_en": "Golden Bough",
+      "title_zh": "金枝",
+      "summary_en": "In Virgil's epic poem, Aeneas, a Trojan hero on his journey to found Rome, must enter the Underworld with divine favor. With his mother Venus' help, he finds and removes the Golden Bough from an ancient forest. This bough acts as proof of his mission ordained by fate. As Aeneas plucks it, the branch briefly hesitates before yielding, symbolizing both death and immortality. The episode reflects Virgil's exploration of themes like virtue and mortality, drawing on various cultural symbols.",
+      "summary_zh": "在维吉尔的史诗《埃涅阿斯纪》中，特洛伊英雄埃涅阿斯踏上前往罗马的旅程时必须进入冥界。在他的母亲维纳斯的帮助下，他在一片古老的森林里找到了并摘下了金枝。这根金枝是证明他命中注定要完成使命的证据。当埃涅阿斯摘下它时，树枝犹豫了一下才松开，象征着生与死。这一情节反映了维吉尔对美德和命运主题的探索，借鉴了各种文化符号。",
+      "country": "Italy 意大利",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology",
+        "underworld",
+        "immortality"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Golden_Bough_(Aeneid)"
+    },
+    {
+      "title_en": "Greek and Roman Mythology",
+      "title_zh": "希腊和罗马神话",
+      "summary_en": "In the realm of ancient Greece and Rome, gods and heroes roamed the earth, shaping destinies with their divine interventions and heroic deeds. Zeus, king of the gods, wielded thunderbolts from his throne on Mount Olympus. His son Achilles fought bravely in the Trojan War, his strength and courage legendary. The fates spun the threads of life, while mortals sought to appease the gods through sacrifices and rituals. Love and jealousy played out among the deities, leading to tragic outcomes for humans below.",
+      "summary_zh": "在古希腊和罗马，神祇与英雄们共同生活在这个世界上。宙斯作为众神之王，在奥林匹斯山上的宝座上挥舞着雷电。他的儿子阿喀琉斯在特洛伊战争中英勇作战，其力量和勇气广为人知。命运女神编织着人类的命运线，而凡人则通过祭献和仪式来祈求诸神的庇佑。神祇之间的爱恨情仇影响着人类的命运，导致了许多悲剧。",
+      "country": "Greece 希腊",
+      "emoji": "🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "gods",
+        "heroes",
+        "tragedy"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Griechische_und_römische_Götter-_und_Heldensage"
+    },
+    {
+      "title_en": "Gubernaculum",
+      "title_zh": "舵",
+      "summary_en": "In classical times, a gubernaculum was the rudder of a ship, guiding its course through turbulent waters. This simple yet crucial tool symbolized control and direction in both maritime navigation and governance. Just as a skilled helmsman steers his vessel with precision, so too did leaders steer their states and peoples towards stability and prosperity.",
+      "summary_zh": "在古典时期，舵是船舶的舵，引导船只穿越汹涌的波浪。这个简单但至关重要的工具象征着控制和方向，在航海导航和治理中都至关重要。正如熟练的船长能够精准地操控他的船只一样，领导者也引领着国家和人民走向稳定与繁荣。",
+      "country": "Italy 意大利",
+      "emoji": "🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "navigation",
+        "government"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Gubernaculum_(classical)"
+    },
+    {
+      "title_en": "Heroides",
+      "title_zh": "赫罗狄斯 (Heroides)",
+      "summary_en": "The Heroides, composed by Ovid, is a collection of fifteen elegiac poems written from the perspective of aggrieved heroines in Greek and Roman mythology to their heroic lovers. These letters depict scenarios where the lovers have mistreated or abandoned them, such as Penelope to Odysseus and Dido to Aeneas. The work showcases Ovid's innovative use of epistolary poetry, creating a new genre that explores complex emotions and narratives through the voices of legendary heroines.",
+      "summary_zh": "《赫罗狄斯》是奥维德创作的一组十五首哀歌诗，从希腊和罗马神话中受挫的女性英雄的角度描绘了她们与英勇爱人之间的故事。这些信件描述了爱人对他们施加虐待或抛弃的情景，例如帕涅洛佩写给奥德修斯，狄多写给埃涅阿斯。这部作品展示了奥维德对书信体诗歌的独特运用，创造了一种新的文学形式，通过传奇女英雄的声音探索复杂的情感和叙事。",
+      "country": "Italy 意大利",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "epistolary",
+        "mythology"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Heroides"
+    },
+    {
+      "title_en": "Interpretatio Graeca",
+      "title_zh": "希腊化宗教解释",
+      "summary_en": "Interpretatio Graeca is a practice where ancient Greeks identified foreign deities with their own gods, using Greek religious concepts and myths to understand other cultures. This approach was used by historians like Herodotus and writers such as Plutarch, who documented Roman cults under Greek names. The Romans also adapted Greek myths in their own religious practices, creating a unique Gallo-Roman religion. This practice facilitated the spread of Hellenistic ideas and contributed to religious syncretism during the pre-Christian era.",
+      "summary_zh": "希腊化宗教解释是指古希腊人将异国神明与自己的神祇相联系，通过使用希腊的宗教概念和神话来理解其他文化。这一做法被历史学家如希罗多德以及作家普鲁塔克所采用，他们记录了罗马崇拜活动并以希腊名字命名。罗马人也适应了希腊神话，在自己的宗教实践中创造了独特的高卢-罗马宗教。这种做法促进了赫勒斯滂时代的理念传播，并为前基督教时期的宗教融合做出了贡献。",
+      "country": "Greece 希腊",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "syncretism"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Interpretatio_graeca"
+    },
+    {
+      "title_en": "Kings of Alba Longa",
+      "title_zh": "阿尔巴长靴的国王",
+      "summary_en": "The kings of Alba Longa were a series of legendary rulers in Latium, bridging the gap between Aeneas' arrival in Italy and Rome's founding. The line culminated with Numitor, grandfather to Romulus and Remus. After their time, Gaius Cluilius was mentioned but his connection to the original lineage is uncertain. Eventually, Alba Longa was destroyed by Tullus Hostilius, who relocated its inhabitants to Rome’s daughter city.",
+      "summary_zh": "阿尔巴长靴的国王们是拉提姆的一系列传说中的统治者，他们填补了埃涅阿斯来到意大利与罗马建立之间的空白。这一谱系最终以努米托尔结束，他是罗慕路斯和雷穆斯的祖父。后来提到的加图·克利乌斯与其原始谱系的关系不明。最终，在图里乌斯·霍斯提利乌斯统治下，阿尔巴长靴被摧毁，并将其居民迁移到了罗马的女儿城。",
+      "country": "Italy 意大利",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "legendary",
+        "roman",
+        "founders"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kings_of_Alba_Longa"
+    },
+    {
+      "title_en": "Lacus Curtius",
+      "title_zh": "库尔提乌斯湖",
+      "summary_en": "In ancient Rome, the Lacus Curtius was a mysterious pit in the Forum Romanum, believed to have been once a lake. Legends say it marked the spot where a Sabine girl named Cornelia was abducted by Romulus, leading to a truce between Romans and Sabines. The story of her abduction and the subsequent peace treaty is etched into Rome’s early history, symbolizing unity and reconciliation.",
+      "summary_zh": "在古罗马的福米乌姆广场上，库尔提乌斯湖是一个神秘的坑洞，据传曾是一片湖泊。传说中，这里埋藏着一个名叫科尔内莉亚的萨宾少女被罗慕路斯劫走的故事，这导致了罗马人与萨宾人的和解。这个故事象征着团结与和解，深深植根于罗马早期的历史之中。",
+      "country": "Italy 意大利",
+      "emoji": "🤝",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 41.8923973,
+      "lng": 12.4850177,
+      "wiki_en": "https://en.wikipedia.org/wiki/Lacus_Curtius"
+    },
+    {
+      "title_en": "Lake of Cutilia",
+      "title_zh": "库蒂利乌斯湖",
+      "summary_en": "In ancient times, Lake of Cutilia was a sacred site for the Sabines. Revered as the navel of Italy by Varro, who hailed from Reate, this lake held spiritual significance and was believed to be at the center of the Italian peninsula. Pilgrims would journey here to seek blessings or perform rituals in honor of their gods.",
+      "summary_zh": "库蒂利乌斯湖在古代是萨宾人的圣地。瓦罗来自雷特，称其为意大利的脐带。人们相信该湖位于意大利半岛的中心地带，朝圣者会前来祈求祝福或祭祀神灵。",
+      "country": "Italy 意大利",
+      "emoji": "💧",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "sacred site"
+      ],
+      "lat": 42.3823,
+      "lng": 13.0139,
+      "wiki_en": "https://en.wikipedia.org/wiki/Lake_of_Cutilia"
+    },
+    {
+      "title_en": "Lupae",
+      "title_zh": "母狼",
+      "summary_en": "In Roman mythology, the term 'lupa' often refers to the goddess Artemis or Diana in her wolf form. She is said to have nursed Romulus and Remus as infants after they were abandoned by their mother. The legend tells of two she-wolves who suckled the orphan twins until they were found by a shepherd. This tale symbolizes the founding of Rome, where lupa represents both nature and divine protection.",
+      "summary_zh": "在罗马神话中，‘lupa’常指女神阿尔忒弥斯或狄安娜的狼形。传说她曾以母狼的身份哺育了被遗弃的罗慕路斯和雷穆斯双胞胎。这个故事讲述了两头母狼如何抚养这两个孤儿直到他们被牧羊人发现。这一传奇象征着罗马的建立，其中lupa既代表自然也象征神灵的保护。",
+      "country": "Italy 意大利",
+      "emoji": "🐺",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "wolf",
+        "foundling",
+        "mythology"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Lupae"
+    },
+    {
+      "title_en": "Lupercal",
+      "title_zh": "狼穴",
+      "summary_en": "In the myth of Rome's founding, twin infants Romulus and Remus were abandoned in a cave known as Lupercal. There, they were miraculously suckled by a she-wolf until they were discovered by Faustulus, a kind shepherd who raised them. The cave became sacred to the priests of Faunus, the Luperci, who celebrated the festival of Lupercalia there for centuries. This legend symbolizes Rome's origins in nature and the divine protection of its founders.",
+      "summary_zh": "罗马建城的神话中，孪生婴儿罗慕路斯和雷穆斯被遗弃在狼穴。在那里，他们被一只母狼哺乳直到被善良的牧羊人法乌斯图斯发现并抚养长大。这个洞穴后来成为福恩神的祭司们——卢佩尔基——庆祝 Lupercalia 节日的地方，这一习俗持续了数个世纪之久。这个传说象征着罗马起源于自然，并且其创始人受到了神灵的庇护。",
+      "country": "Italy 意大利",
+      "emoji": "rome",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "founders",
+        "she-wolf"
+      ],
+      "lat": 41.8881,
+      "lng": 12.4844,
+      "wiki_en": "https://en.wikipedia.org/wiki/Lupercal"
+    },
+    {
+      "title_en": "Palladium",
+      "title_zh": "帕拉得乌斯像",
+      "summary_en": "In Greek and Roman mythology, the Palladium was a sacred wooden statue of Pallas Athena that protected Troy and later Rome. According to Virgil's Aeneid, Odysseus and Diomedes stole it from Troy, and Aeneas brought it to Italy where it served as a talisman for Rome. The Romans believed this statue kept their city safe until the object was eventually cared for by the Vestal Virgins. Over time, the term 'palladium' came to symbolize any protective object or relic, especially in Christian contexts during military campaigns.",
+      "summary_zh": "在希腊和罗马神话中，帕拉得乌斯像是雅典娜的木制雕像，它保护着特洛伊城并后来保护了罗马。维吉尔的《埃涅阿斯纪》记载，奥德修斯和狄俄墨得斯从特洛伊偷走了这尊雕像，并由埃涅阿斯带到了意大利，在那里它成为了罗马的安全象征。罗马人相信这尊雕像守护着他们的城市。直到后来，这尊雕像才由贞女祭司们保管。随着时间的推移，“帕拉得乌斯”一词开始象征任何保护性的物体或圣物，尤其是在军事行动中为整个城市、人民或国家提供保护的神圣遗物。",
+      "country": "Italy 意大利",
+      "emoji": "🛡️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "protective",
+        "statue"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Palladium_(classical_antiquity)",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/帕拉斯神像"
+    },
+    {
+      "title_en": "Palus Caprae",
+      "title_zh": "卡普瑞沼泽",
+      "summary_en": "In ancient Rome, the Palus Caprae, a marshy area within the Campus Martius, held a sacred significance for Romulus. After establishing Rome and leading his people to victory in numerous battles, Romulus was said to have ascended into divine status here, marking his transformation from mortal king to god. The site became a place of reverence, where Romans would offer sacrifices and prayers, believing that their wishes could be heard by the now-godly Romulus.",
+      "summary_zh": "在古罗马，卡普瑞沼泽位于马尔斯田地内，是罗穆卢斯升天成神的地方。作为罗马的奠基者和无数胜利的统帅，罗穆卢斯在这里完成了从凡人国王到神祇的转变。该地点成为人们献祭祈愿之地，相信自己的愿望可以通过这位现世之神得到回应。",
+      "country": "Italy 意大利",
+      "emoji": "🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "ascension",
+        "godhood"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Palus_Caprae"
+    },
+    {
+      "title_en": "Parabiago Plate",
+      "title_zh": "帕巴亚盘",
+      "summary_en": "The Parabiago plate is an ancient Roman circular silver dish depicting the goddess Cybele and her consort Attis amidst a cosmic scene, including sun, moon, earth, sea, time, and seasons. Found in 1907 near Milan, this enigmatic artifact has puzzled scholars due to its classicizing style that suggests it could be from the 2nd century CE but stylistic analyses point towards a later date between the 4th and 5th centuries. Its purpose remains uncertain, though it was initially thought to have been used as a lid for a funerary amphora.",
+      "summary_zh": "帕巴亚盘是一件古罗马时期的圆形银盘，描绘了女神西贝勒和她的伴侣阿提斯在宇宙场景中。这幅盘子于1907年在米兰附近被发现，因其古典风格，最初被认为可能来自公元2世纪，但后来的样式分析表明其制作时间可能是4至5世纪之间。尽管如此，关于它的用途仍然存在争议，起初人们认为它曾用作一个葬礼瓮的盖子。",
+      "country": "Italy 意大利",
+      "emoji": "🏺",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology",
+        "funerary art",
+        "cosmology"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Parabiago_Plate"
+    },
+    {
+      "title_en": "Pergamea",
+      "title_zh": "佩加马",
+      "summary_en": "In Virgil's epic poem, Aeneas and his crew encountered a series of misfortunes while attempting to found the city of Pergamea on Crete. Guided by Apollo’s oracle, they were meant to establish their new home in Italy. Misinterpreting the prophecy, Aeneas and his men began construction only to be plagued with illness. In a dream, Apollo revealed their error and directed them to continue their journey to Italy, where true destiny awaited.",
+      "summary_zh": "在维吉尔的史诗《埃涅阿斯纪》中，埃涅阿斯和他的船员们试图在克里特岛上建立佩加马城时遭遇了一系列不幸。根据阿波罗的预言，他们应该在意大利建立新的家园。但埃涅阿斯和他的同伴误解了预言，并开始在那里建造城市，却遭到了疾病侵袭。在梦中，阿波罗向他揭示了错误，并指示他们继续前往意大利，在那里真正的命运等待着他们。",
+      "country": "Italy 意大利",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology",
+        "epic poetry"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Pergamea"
+    },
+    {
+      "title_en": "Pignora Imperii",
+      "title_zh": "帝权的保证物",
+      "summary_en": "In ancient Rome, certain sacred objects were believed to ensure the imperium or rule of the city. Among them was the Palladium, a wooden statue of Athena said to have been saved from Troy and kept by the Vestals; the eternal fire of Vesta tended by priestesses; and the shields of Mars used in religious processions. These items held symbolic value well into the Roman Empire, with their maintenance seen as crucial for preserving Rome's traditional religion against Christian influence. In late antiquity, some accounts suggest that Emperor Constantine moved these objects to Constantinople, symbolizing a shift in power and religious dominance.",
+      "summary_zh": "在古代罗马，一些神圣的物品被认为确保了城市的统治权。其中最著名的是帕拉迪乌姆，这是一尊据说从特洛伊救出的雅典娜木像，由贞女们保管；维斯塔神庙中不灭的圣火，由女祭司看守；以及用于宗教游行的马尔斯盾牌。这些物品在罗马帝国时期仍然具有象征意义，其维护被视为保护罗马传统宗教免受基督教影响的关键。在晚期罗马帝国时期，一些记载称皇帝君士坦丁将这些物品转移到了君士坦丁堡，象征着权力和宗教主导地位的转变。",
+      "country": "Italy 意大利",
+      "emoji": "🔥",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "religion",
+        "empire"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Pignora_imperii"
+    },
+    {
+      "title_en": "Rape of the Sabine Women",
+      "title_zh": "抢夺萨宾妇女",
+      "summary_en": "In ancient Rome, after many years of peace and prosperity under Romulus, the city faced a crisis as its population dwindled. The Romans had run out of women to marry, leaving young men without wives or heirs. Romulus devised a clever plan: he invited neighboring Sabine tribes to a festival in Rome. During the festivities, the Roman men seized the Sabine women, leading to a tense standoff between the two groups until they eventually reconciled and united as one people under the leadership of both Romulus and Titus Tatius.",
+      "summary_zh": "在古罗马，罗慕路斯统治时期经过多年的和平与繁荣后，罗马城面临人口锐减的危机。由于缺少女性结婚，年轻的罗马男性没有妻子和继承人。罗慕路斯想出了一个巧妙的计划：他邀请邻近的萨宾部落参加罗马的节日庆典，在庆典上，罗马男子趁机抢走了萨宾妇女，导致双方紧张对峙。最终在调解下，两族和平共处，并由罗慕路斯与提图斯·塔蒂乌斯共同领导了一个统一的新国家。",
+      "country": "Italy 意大利",
+      "emoji": "🤝",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "marriage",
+        "peace"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Rape_of_the_Sabine_women"
+    },
+    {
+      "title_en": "Remuria",
+      "title_zh": "雷穆里亚",
+      "summary_en": "In Roman mythology, Remuria is a legendary site associated with the founding of Rome by twin brothers Romulus and Remus. According to legend, it was here that Remus observed six birds landing, which he interpreted as an auspicious sign for building the future city. Some versions also claim that after Romulus killed his brother in a dispute over who should rule, Remus was buried at this sacred place. The site remains shrouded in mystery and is often seen as a symbol of conflict and sacrifice.",
+      "summary_zh": "在罗马神话中，雷穆里亚是罗慕路斯和雷慕斯两位孪生兄弟建立罗马城的传说地点。据说在这里，雷慕斯观察到六只鸟降落，他将此视为建城的好兆头。一些版本还提到，在一场关于谁应统治的争执后，罗慕路斯杀死了他的弟弟雷慕斯，并将其埋葬于此地。这个遗址充满神秘色彩，常被视为冲突和牺牲的象征。",
+      "country": "Italy 意大利",
+      "emoji": "🏛️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "legendary founding of cities"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Remoria"
+    },
+    {
+      "title_en": "Śuri",
+      "title_zh": "苏里",
+      "summary_en": "Śuri was an ancient Etruscan god associated with volcanic fire and the sun. He was depicted in various forms: as a young man wielding a spear or bow, an elderly bearded figure wearing a wolf-skin cap, or even as a winged monster holding a sledgehammer. Revered by Italic peoples including Capenates, Faliscans, Latins, and Sabines, Śuri was later adopted into Roman religion.",
+      "summary_zh": "苏里是古埃特鲁斯坎时期的神祇，与火山之火和太阳有关。他以多种形象出现：手持长矛或弓箭的年轻男子、头戴狼皮帽的老年男子，甚至是一个手持铁锤的人形怪物。苏里被卡佩内人、法尔西克人、拉丁人和萨宾人等意大利部族所崇拜，并后来被罗马宗教所接纳。",
+      "country": "Italy 意大利",
+      "emoji": "🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "volcanic",
+        "solar"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Śuri"
+    },
+    {
+      "title_en": "Barbette Spaeth",
+      "title_zh": "巴贝特·斯帕思",
+      "summary_en": "Barbette Spaeth, an American academic and expert on Roman mythology, delved into the enigmatic world of Ceres, the goddess of agriculture. Her scholarly work at Tulane University and later at the College of William and Mary has earned her recognition in the field. Through her research, Spaeth brought new insights to the ancient myths, enriching our understanding of Roman religious practices.",
+      "summary_zh": "巴贝特·斯帕思是一位美国学者，专注于罗马神话研究。她深入探讨了谷物女神塞蕾斯的神秘世界，并在塔尔努夫大学和威廉玛丽学院任教期间取得了丰硕成果。她的学术工作为古罗马宗教实践的研究带来了新的见解，丰富了我们对罗马神话的理解。",
+      "country": "Italy 意大利",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Barbette_Spaeth"
+    },
+    {
+      "title_en": "Roman Charity",
+      "title_zh": "罗马慈善",
+      "summary_en": "In the ancient tale of Roman Charity, Pero, a young woman, secretly nurses her father Cimon, who is imprisoned and sentenced to death by starvation. When discovered, her devotion moves the authorities so deeply that they pardon her and release her father. This story became a symbol of filial piety in Roman culture and was often depicted in Baroque art.",
+      "summary_zh": "罗马慈善故事中，波罗（Pero）秘密地照顾被囚禁并被判绝食处死的父亲基蒙（Cimon）。当事情败露后，她的孝心感动了当局，不仅赦免了她，还释放了她的父亲。这个故事成为了古罗马文化中孝道的象征，并在巴洛克艺术中频繁出现。",
+      "country": "Italy 意大利",
+      "emoji": "❤️",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "pietas",
+        "filial piety"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Roman_Charity"
+    },
+    {
+      "title_en": "Roman Theology of Victory",
+      "title_zh": "罗马胜利神学",
+      "summary_en": "The Roman theology of victory was a concept that linked divine favor and military success to political legitimacy. This belief suggested that a ruler's right to govern could be validated by their victories in battle, serving as a legitimizing force when traditional institutions faltered or failed.",
+      "summary_zh": "罗马胜利神学认为，统治者的合法地位可以通过军事上的胜利来证明。这种信仰在传统机构失效或缺失时，为政治权威提供了合法性支持。",
+      "country": "Italy 意大利",
+      "emoji": "🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "religion",
+        "politics"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Roman_theology_of_victory"
+    },
+    {
+      "title_en": "Sibylline Books",
+      "title_zh": "西比莉神谕",
+      "summary_en": "In ancient Rome, the Sibylline Books were a collection of oracular verses purchased by King Tarquinius Superbus from a sibyl. These prophetic texts guided Roman leaders through critical moments in history. Though only fragments remain today, their influence on Roman politics and culture was profound.",
+      "summary_zh": "在古罗马时期，西比莉神谕是一组由塔克文·超级布斯国王从女巫处购买的预言诗。这些预言指导了罗马领导人在关键时刻的决策。尽管今天仅存片段，但它们对罗马政治和文化的影响深远。",
+      "country": "Italy 意大利",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "prophesy"
+      ],
+      "lat": 41.87,
+      "lng": 12.57,
+      "wiki_en": "https://en.wikipedia.org/wiki/Sibylline_Books",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/西卜林书"
+    }
+  ]
+}

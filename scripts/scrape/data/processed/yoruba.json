@@ -1,0 +1,371 @@
+{
+  "meta": {
+    "region": "Yoruba",
+    "count": 21,
+    "generated": "2026-04-11",
+    "note": "Scraped from Wikipedia, summarized with a local Qwen model via Ollama."
+  },
+  "stories": [
+    {
+      "title_en": "Abiku",
+      "title_zh": "阿比库",
+      "summary_en": "In Yoruba folklore, Abiku are spirits of children who die young. Parents often believe their child is an Abiku if they experience repeated deaths in the family. To prevent this, parents must appease these restless souls by offering sacrifices and ensuring the child's proper burial. If not, the child may return to haunt the family as a vengeful spirit.",
+      "summary_zh": "在约鲁巴神话中，阿比库是指那些夭折的儿童的灵魂。如果父母发现家中多次出现孩子早逝的情况，他们可能会认为自己的孩子是阿比库。为了防止这种情况，父母必须通过祭献和确保孩子的妥善安葬来安抚这些不安静的灵魂。否则，孩子可能会以怨魂的形式返回家庭。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "death",
+        "spirits"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Abiku"
+    },
+    {
+      "title_en": "Aganjú",
+      "title_zh": "阿甘朱 (Aganjú)",
+      "summary_en": "Aganjú, a primordial deity in Yoruba religion and its diaspora traditions, is revered for his association with the sun, fire, and untamed wilderness. In the Cuban Santería tradition, he is syncretized with Saint Christopher. Legend has it that Aganjú was once an Alaafin of Oyo Empire, a nephew to Shango, and son of Ajaka. He embodies the fierce spirit of nature and ancestral wisdom, guiding his people through both light and darkness.",
+      "summary_zh": "阿甘朱是约鲁巴宗教及其美洲后裔传统中的原始神灵，与太阳、火焰和未驯化的自然相关联。在古巴桑特里亚教中，他与圣克里斯托弗合而为一。传说中，阿甘朱曾是奥约帝国的阿拉法因（Alaafin），是尚高（Shango）的侄子，艾贾卡（Ajaka）的儿子。他代表着自然的野性和祖先智慧，引领着他的人民穿越光明与黑暗。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Aganju"
+    },
+    {
+      "title_en": "Ajilesoro Royal Dynasty",
+      "title_zh": "阿吉塞罗王族",
+      "summary_en": "The Ajilesoro Royal Dynasty in Ile-Ife, Nigeria, traces its roots back to ancient rulers like Obalufon Ogbogbodirin. After the reign of Oduduwa, the first Ooni of Ife, two successive kings, Osangangan Obamakin and Ogun, led the kingdom for over 4,000 years. Their legacy continues as the Ooni of Ife remains a paramount traditional ruler among the Yoruba people today.",
+      "summary_zh": "尼日利亚伊费的阿吉塞罗王族可追溯至远古时期的统治者，如奥巴鲁丰·奥布戈布迪林。在奥杜祖瓦之后，相继有奥斯安甘甘·奥巴马金和奥gun两位国王领导王国达4000多年。他们的遗产至今仍在延续，奥尼伊费作为约鲁巴人的最高传统统治者仍然存在。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "👑",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "royal",
+        "legends"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ajilesoro"
+    },
+    {
+      "title_en": "Ajagunda",
+      "title_zh": "阿雅古娜",
+      "summary_en": "In the Lukumi pantheon, Ajagunda is the youthful manifestation of Obatala, the Sky Father. Armed with a scimitar, he embarked on a journey to Asia where he fought fierce battles against his enemies and took their heads as proof of victory. Despite being known for peace, this avatar of Obatala displayed a fierce determination to bring about tranquility through domination.",
+      "summary_zh": "阿雅古娜是奥巴塔拉天父在卢基米教中的年轻化身，手持弯刀。他远征亚洲，在那里与敌人作战，并将他们的头颅作为胜利的证据带走。尽管以和平著称，但这位奥巴塔拉的化身展现了通过征服来实现和平的决心。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "myth"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ayagunna"
+    },
+    {
+      "title_en": "Ayelala",
+      "title_zh": "阿耶拉拉",
+      "summary_en": "In the Yoruba lands of southwestern Nigeria, Ayelala is revered as a fearsome deity of justice, known for her swift and severe punishments. She protects the innocent and punishes the guilty, often invoked by those seeking truth or revenge. With powers to expose lies and root out social vices like armed robbery and witchcraft, she ensures that wrongdoers face retribution. Her influence extends beyond her homeland, spreading to Benin and Edo State where she continues to be a powerful figure in local folklore.",
+      "summary_zh": "在尼日利亚西南部约鲁巴人的土地上，阿耶拉拉被视为一位可怕的正义女神，以其迅速而严厉的惩罚著称。她保护无辜者并惩罚罪犯，常被寻求真相或复仇的人所祈求。凭借揭露谎言和根除社会恶行如武装抢劫和巫术的力量，她确保了作恶多端者受到制裁。她的影响力超越了自己的家园，扩展到贝宁和埃do州，在当地民间传说中仍是一个强大的人物。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "✍️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "truth",
+        "justice",
+        "retribution"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ayelala"
+    },
+    {
+      "title_en": "Cowrie-shell Divination",
+      "title_zh": "贝壳占卜",
+      "summary_en": "In the mystical rituals of West African religions, cowrie shells are used as a means to divine the will of the gods. Priests and priestesses toss these small, intricately marked shells onto a cloth or ground. The patterns formed by the open and closed sides of the shells provide guidance for decisions and insights into the future. This practice is not only integral to religious ceremonies but also deeply embedded in cultural traditions across various regions, from Nigeria to India.",
+      "summary_zh": "在西非宗教仪式中，贝壳占卜是一种通过掷贝来预测神意的方法。祭司和女巫将这些小巧、图案复杂的贝壳抛向布料或地面，贝壳的开口面和闭合面形成的图案为决策提供指导，并揭示未来的信息。这种做法不仅在宗教仪式中至关重要，在各个地区如尼日利亚和印度的文化传统中也根深蒂固。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "🔮",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "rituals",
+        "divination",
+        "cultural tradition"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cowrie-shell_divination"
+    },
+    {
+      "title_en": "Egbere",
+      "title_zh": "埃格贝瑞 (Egbere)",
+      "summary_en": "In Yoruba mythology, Egbere are mischievous and malevolent spirits that dwell in the woods and are active only at night. They are described as small in stature, often seen riding sheep or causing disease among them. Legend has it that whoever can take an Egbere's mat of wealth will be showered with unimaginable riches. These creatures are known for their constant weeping, though their tears may not be genuine.",
+      "summary_zh": "在约鲁巴神话中，埃格贝瑞是居住在森林中的邪恶灵体，只在夜间活动。它们身材矮小，常被描述为骑着羊或给羊带来疾病。传说中，能够夺走埃格贝瑞的财富之垫的人将会获得无法想象的财富。这些生物以不停地哭泣著称，但其眼泪的真实性值得怀疑。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "🌳",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "supernatural",
+        "woods"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Egbere"
+    },
+    {
+      "title_en": "Elegua",
+      "title_zh": "埃莱古阿 (Èlèguā)",
+      "summary_en": "Elegua is a Yoruba deity who guards the crossroads, serving as a messenger between humans and the Orishas. He is often depicted with two faces: one smiling and welcoming, the other fierce and protective. Elegua ensures that prayers are properly directed to the appropriate deities, acting as both a gatekeeper and a guide in the spiritual world.",
+      "summary_zh": "埃莱古阿是约鲁巴教中的神祇，守护着十字路口，作为人类与奥里沙之间的使者。他通常被描绘成两个面孔：一个微笑并欢迎，另一个则凶猛而保护。埃莱古阿确保祈祷能够正确地传达给相应的神祇，在灵界中既是守门人也是向导。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "religion"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Elegua"
+    },
+    {
+      "title_en": "Emere",
+      "title_zh": "埃梅雷",
+      "summary_en": "In traditional Yoruba culture, an Emere is a child who can traverse between the physical and spiritual worlds at will. Often seen as a mischievous spirit in disguise, these children are believed to embody the envy of heaven towards Earth's joys. They appear beautiful and seductive but are considered more powerful than witches. An Emere’s life is often cut short on days filled with joy, such as weddings or graduations, as they support heaven's interests while on earth, upsetting the balance between worlds.",
+      "summary_zh": "在传统的约鲁巴文化中，埃梅雷是能够自由穿梭于物质世界和精神世界的儿童。他们通常被视为伪装成精灵的恶作剧者，被认为是比巫师更强大的存在。埃梅雷美丽而诱人，但他们的生命往往会在充满喜悦的日子里结束，如婚礼或毕业典礼当天，因为他们支持天堂的利益，从而破坏了天地之间的平衡。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "straleness",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "spirit",
+        "witchcraft",
+        "balance"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Emere"
+    },
+    {
+      "title_en": "Eshu",
+      "title_zh": "埃舒",
+      "summary_en": "Eshu is a trickster god in Yoruba mythology, often depicted as a messenger and enforcer of divine laws at crossroads. He navigates the duality of good and evil, using his wit to mediate between humans and deities. Eshu's mischievous nature and ability to communicate across worlds make him both feared and revered by worshippers.",
+      "summary_zh": "埃舒是约鲁巴神话中的一个弄鬼神，常被描绘为在十字路口传递信息和执行天命的使者。他穿梭于善恶之间，以其机智调解人与诸神之间的关系。埃舒的淘气本性和跨界的沟通能力使他在信徒中既受敬畏又受尊敬。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "🙏🏾",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Eshu"
+    },
+    {
+      "title_en": "Iroko",
+      "title_zh": "伊罗科木 (ìrókò)",
+      "summary_en": "In the forests of West Africa, the Iroko tree stands tall and strong, its wood prized for its durability and beauty. Revered by the Yoruba people, this ancient hardwood is believed to possess healing properties. The Iroko's deep roots run through time, connecting the present with a rich history that spans centuries.",
+      "summary_zh": "在西非的森林中，伊罗科木巍然挺立，其木材以其耐用性和美丽而备受推崇。伊罗科木被约鲁巴人视为神圣之物，被认为具有疗愈功效。这种古老的硬木深深扎根于历史之中，将现在与跨越世纪的丰富传承相连。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "🌳",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "healing",
+        "wood"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Iroko"
+    },
+    {
+      "title_en": "Iya Nla",
+      "title_zh": "伊雅·纳拉 (Ìyá Nlá)",
+      "summary_en": "In Yoruba cosmology, Iya Nla, meaning 'Great Mother,' is the primordial spirit and source of all existence. She embodies the female principle in nature and is revered as the mother of all things, including deities. As the ultimate creator force, she connects human beings to their origins through a shared maternal lineage. Her influence permeates Yoruba culture, symbolizing the nurturing essence that sustains life.",
+      "summary_zh": "伊雅·纳拉 (Ìyá Nlá) 是约鲁巴宇宙学中至高的母性精神和一切存在的源泉。她代表自然界中的女性原则，并被视为所有事物的母亲，包括神祇。作为终极创造力量，她通过共享的母系血缘将人类与起源联系起来。她的影响渗透在约鲁巴文化中，象征着滋养万物的生命之源。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "♀️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "primordial",
+        "motherhood"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Iya_Nla"
+    },
+    {
+      "title_en": "Letter of the Year",
+      "title_zh": "一年之信",
+      "summary_en": "In Yorubaland and parts of Latin America, babalawos (wise men) issue a 'letter of the year' every December or during the Odun Ifá Festival in June. This letter contains predictions and advice for the coming year, often issued by councils of these wise men. In Cuba, two national councils of babalawos provide such letters, sometimes leading to controversial interpretations, especially when they predict global political upheavals.",
+      "summary_zh": "在约鲁巴地区和拉丁美洲部分地区，巫医（babalawo）会在每年的12月或奥杜因伊法节期间发布‘一年之信’。这封信包含对未来一年的预测和建议，通常由这些巫医组成的委员会发布。在古巴，有两个国家级的巫医委员会提供这样的信件，有时会引起争议性解释，尤其是在他们预言全球政治动荡时。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "advice",
+        "predictions",
+        "rituals"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Letra_del_año"
+    },
+    {
+      "title_en": "Obalumo",
+      "title_zh": "奥巴卢莫",
+      "summary_en": "In the ancient kingdom of Igbomina, Obalumo was a revered monarch whose reign marked the zenith of Yoruba royalty. His rule, dating back to at least the 12th century, was characterized by wisdom and justice, earning him a place in the pantheon of legendary rulers. The people looked up to him not just as a king but as a symbol of unity and prosperity. Obalumo's legacy endures through tales that speak of his benevolence and the profound impact he had on the Igbomina clan.",
+      "summary_zh": "在古老的伊戈宾马王国中，奥巴卢莫是一位受人尊敬的君主，他的统治标志着约鲁巴王权的顶峰。他至少从12世纪起就担任国王，以其智慧和公正而著称，赢得了部落中的崇敬地位。人们不仅把他视为一位国王，更视其为团结与繁荣的象征。奥巴卢莫的故事流传至今，讲述了他的仁慈以及他对伊戈宾马部族的影响。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "👑",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "royalty",
+        "unity",
+        "prosperity"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Obalumo"
+    },
+    {
+      "title_en": "Obi Divination",
+      "title_zh": "奥比占卜",
+      "summary_en": "In traditional Yoruba culture, Obi divination involves the use of palm or kola nuts to seek divine guidance and insight into the future. This practice is deeply intertwined with Ifá and Iwa Pele, two other important elements in Yoruba religious life. Through a series of ritualized questions and responses, the diviner interprets the outcome to provide advice and wisdom to those seeking answers.",
+      "summary_zh": "奥比占卜是约鲁巴文化中一种寻求神谕和未来指导的仪式。它通常使用棕榈或腰果进行，与伊法和伊瓦佩勒等其他重要宗教元素紧密相连。通过一系列礼仪化的问题和回应，占卜者会解释结果以提供建议和智慧给寻求答案的人。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "ritual",
+        "divination"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Obi_divination"
+    },
+    {
+      "title_en": "Oduduwa",
+      "title_zh": "奥杜尔瓦",
+      "summary_en": "Oduduwa was a divine king and progenitor of the Yoruba people, credited with founding the Ife Empire in Nigeria during the Classical Period. According to legend, he emerged from the village of Oke Ora and ruled briefly before establishing numerous royal dynasties across Yorubaland. In spiritual belief, Oduduwa is seen as a divine figure alongside Obatala, who are believed to have played a role in the creation of the world. His legacy continues to be revered by the Yoruba people.",
+      "summary_zh": "奥杜尔瓦是约鲁巴人的神王，被认为是尼日利亚伊费帝国的缔造者。据传说，他从奥克欧拉村出现并短暂统治后建立了多个约鲁巴王国的王室血统。在精神信仰中，奥杜尔瓦被视为与奥巴塔拉齐名的创世神灵之一，据说他们参与了世界的创造。他的遗产至今仍被约鲁巴人所敬仰。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "legendary",
+        "creation",
+        "king"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Oduduwa"
+    },
+    {
+      "title_en": "Ofinran",
+      "title_zh": "奥菲兰",
+      "summary_en": "Ofinran, a 16th-century king of the Oyo Empire, ascended to power after his predecessor Onigbogi went into exile in Borgu. Ofinran and his followers were initially well-treated but soon faced hostility. They fled to Kusu, where they embraced Ifá divinity and initiated Alado to protect them from ill fortune. This period also saw the emergence of Egungun festivities among the Yoruba people. After a series of misfortunes, Ofinran died and was buried in Saki.",
+      "summary_zh": "奥菲兰是16世纪奥约帝国的国王，继位后他的前任翁比戈基流亡至博尔古。起初他们受到善待，但很快遭遇敌对情绪。他们逃往库苏，并接受了伊法神谕，由阿尔阿多进行仪式以保护他们免受不幸。这一时期也见证了埃贡Gun节庆在约鲁巴地区的兴起。最终，奥菲兰去世并在萨基安葬。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "👑",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology",
+        "divination",
+        "festivals"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ofinran"
+    },
+    {
+      "title_en": "Oko",
+      "title_zh": "奥科",
+      "summary_en": "Oko, a revered Orisha in Yoruba religion, was once a powerful hunter and farmer who fought against sorcery. He is celebrated for his role in the annual harvest of white yams. In Brazilian Candomblé, he symbolizes agriculture alongside Ogum. Though not prominently featured in rituals, Oko's influence endures through syncretism with Saint Isidore in Santería practices.",
+      "summary_zh": "奥科是约鲁巴宗教中的一位受尊敬的奥基沙，曾是一位强大的猎人和农民，并与巫术作斗争。他因在收获白木薯时的角色而受到崇拜。在巴西坎东布尔教派中，他象征着农业，与奥古姆一起。尽管在他的仪式中并不突出，但奥科通过桑特里亚中的圣伊西多罗的融合而持续影响着。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "🌾",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "agriculture",
+        "sorcery",
+        "syncretism"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Oko_(orisha)"
+    },
+    {
+      "title_en": "Yoruba Religion",
+      "title_zh": "约鲁巴宗教",
+      "summary_en": "The Yoruba religion is a complex spiritual system practiced by the Yoruba people of West Africa, particularly in Nigeria. It involves the worship of Orisha, deities that are believed to control various aspects of nature and human life. Rituals often include offerings, dances, and songs. This belief system has spread globally through diaspora communities, influencing practices like Santería and Candomblé.",
+      "summary_zh": "约鲁巴宗教是西非尼日利亚等地约鲁巴人信仰的复杂精神体系，涉及对奥里萨（Orisha）神明的崇拜，这些神明被认为控制着自然和人类生活的各个方面。仪式通常包括祭品、舞蹈和歌曲。这一信仰系统通过非洲裔 diaspora 社区传播到世界各地，并影响了如桑特里亚和坎东布雷等实践。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "modern"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Yoruba_religion",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/约鲁巴宗教"
+    },
+    {
+      "title_en": "Orangun",
+      "title_zh": "奥朗古恩",
+      "summary_en": "Orangun is the title of the paramount ruler in Igbomina kingdoms, a subgroup of Yoruba people in southwestern Nigeria. The origin of this title traces back to the mythology of Oduduwa, the progenitor of the Yoruba race. When Oduduwa needed an heir, his fourth child was chosen to lead their journey from Ile-Ife. With only a machete-like tool and a royal staff, they settled in Ìlá-Kòló, where the staff was first placed, marking it as their new home.",
+      "summary_zh": "奥朗古恩是尼日利亚西南部约鲁巴人伊博米纳王国的最高统治者。这个称号的起源可以追溯到约鲁巴族始祖奥杜都瓦的神话。当奥杜都瓦需要继承人时，他的第四子被选中带领他们从伊莱出发。仅带着一把类似砍刀的工具和一根象征性的权杖，他们在伊拉-科洛定居下来，因为权杖首先被放置在那里，标志着他们的新家园。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "yoruba",
+        "kingdoms"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Orangun"
+    },
+    {
+      "title_en": "Orungan",
+      "title_zh": "奥鲁甘",
+      "summary_en": "In the Yoruba religion of Nigeria, Orungan was the son of the water goddess Yemaja and the earth deity Aganju. One fateful night, as he attempted to ravish his mother once again, she fell and burst open, releasing the fifteen powerful Orisha deities from her body. This act marked a pivotal moment in their creation, establishing the pantheon that would come to govern various aspects of life and nature.",
+      "summary_zh": "在尼日利亚的约鲁巴宗教中，奥鲁甘是水女神伊梅贾和大地神阿甘朱的儿子。一天夜晚，当他再次试图侵犯母亲时，她突然倒下并破裂开来，从她的身体里释放出了十五位强大的奥什亚神灵。这一事件标志着这些神灵的诞生，并确立了他们分别掌管生命和自然各个方面的地位。",
+      "country": "Nigeria 尼日利亚",
+      "emoji": "🌊",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "nigerian mythology"
+      ],
+      "lat": 9.08,
+      "lng": 8.68,
+      "wiki_en": "https://en.wikipedia.org/wiki/Orungan"
+    }
+  ]
+}

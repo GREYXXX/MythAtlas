@@ -1,0 +1,1513 @@
+{
+  "meta": {
+    "region": "Maori",
+    "count": 88,
+    "generated": "2026-04-11",
+    "note": "Scraped from Wikipedia, summarized with a local Qwen model via Ollama."
+  },
+  "stories": [
+    {
+      "title_en": "Aitu",
+      "title_zh": "阿伊图",
+      "summary_en": "In Polynesian mythology, Aitu are malevolent spirits or gods that often take the form of plants or animals. They are associated with sickness, calamity, and misfortune in Māori culture, while in Tonga they are lesser gods that can bring trouble to specific villages. According to tradition, some Aitu tribes settled on islands like Aitutaki, Atiu, and Mangaia but were eventually destroyed or driven away due to their malevolent nature.",
+      "summary_zh": "在波利尼西亚神话中，阿伊图是邪恶的精灵或神灵，常以植物或动物的形式出现。它们与毛利人的疾病、灾难和不幸相关联，在汤加，它们是会给特定村庄带来麻烦的小神。据传统记载，一些阿伊图部落定居在如阿伊图塔基、阿提乌和 Mangaia 等岛屿上，但最终因邪恶的本性而被消灭或驱逐。",
+      "country": "New Zealand 新西兰",
+      "emoji": "👻",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "spirits",
+        "gods"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Aitu"
+    },
+    {
+      "title_en": "Aotea (canoe)",
+      "title_zh": "奥特亚号",
+      "summary_en": "In Māori mythology, Aotea was a legendary canoe that carried the ancestors of many tribes to New Zealand's North Island. The vessel sailed across the Pacific Ocean under the guidance of skilled navigators, bringing with it the seeds and knowledge needed for settlement. Upon arrival, the people of Aotea established themselves in Taranaki and Whanganui regions, forming the basis of Ngāti Ruanui, Ngāruahine, and other tribes that still hold Aotea dear to their heritage.",
+      "summary_zh": "奥特亚号是毛利神话中的一艘传奇独木舟，它载着许多部落的祖先来到新西兰北岛。这艘船在熟练航海者的引领下穿越太平洋，带来了种子和定居所需的知识。抵达后，奥特亚号上的乘客在塔拉纳基和惠安古地区建立了家园，并形成了如Ngāti Ruanui、Ngāruahine等部落，这些部落至今仍珍视奥特亚号的历史。",
+      "country": "New Zealand 新西兰",
+      "emoji": "-initialized:",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Aotea_(canoe)"
+    },
+    {
+      "title_en": "Aotearoa (canoe)",
+      "title_zh": "奥特劳号（独木舟）",
+      "summary_en": "In Māori tradition, Aotearoa was a legendary canoe that played a crucial role in the settlement of New Zealand. Captained by Mokotōrea or Mokoterea, this vessel carried brave voyagers across vast oceans to find a new land. Upon reaching the coast of Waikato, it was ceremonially buried at Aotea, marking the arrival and establishment of the first settlers on these shores.",
+      "summary_zh": "在毛利人的传统中，奥特劳号是一艘传奇的独木舟，在新西兰定居过程中扮演了关键角色。由莫科托雷亚或莫科特雷拉指挥，这艘船载着勇敢的航海者横渡浩瀚的海洋寻找新的土地。当抵达怀卡托海岸时，它被庄严地埋在奥特亚附近，标志着第一批定居者的到来和建立。",
+      "country": "New Zealand 新西兰",
+      "emoji": "-initialized:",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Aotearoa_(canoe)"
+    },
+    {
+      "title_en": "Apakura",
+      "title_zh": "阿帕库拉",
+      "summary_en": "In Māori mythology, Apakura is the wife of Tūhuruhuru, a son of Tinirau. She bore several children including Tūwhakararo, Mairatea, Reimatua, and Whakatau. In another tale, she marries Tūwhakararo, who was born from his father Rātā's girdle thrown into the ocean, which transformed into a child by a sea deity. This story illustrates the complex family ties and supernatural elements in Māori mythology.",
+      "summary_zh": "在毛利神话中，阿帕库拉是提胡鲁胡鲁的妻子，提胡鲁胡鲁是廷内鲁的儿子。她生下了多个孩子，包括图瓦卡罗、梅莱塔亚、雷伊马图亚和瓦卡陶。另一个传说中，她嫁给了图瓦卡罗，他是从他父亲拉塔的腰带扔进海洋后由海神变成的孩子。这个故事展示了毛利神话中的复杂家庭关系和超自然元素。",
+      "country": "New Zealand 新西兰",
+      "emoji": " kupu ",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Apakura"
+    },
+    {
+      "title_en": "Arahura (canoe)",
+      "title_zh": "阿拉胡拉号独木舟",
+      "summary_en": "Arahura, a divine canoe made from pounamu, played a significant role in Ngāi Tahu mythology. It carried eight chiefs to New Zealand: Peki(te)tahua, Rongokahe, Rangitatau, Hineraho, Te Rangitamau, Taewhenua, Te Mikimiki (Te Mingimingi), Atua-whakanihoniho, and Te Atua-whakataratara. The chiefs journeyed to establish their presence in the new land, guided by the sacred vessel that also carried a deity, ensuring their success.",
+      "summary_zh": "阿拉胡拉号独木舟是毛利神话中Ngāi Tahu族的神圣船只，由绿石制成。这艘船载着八位酋长前往新西兰：佩基(特)塔胡亚、罗冈加赫、兰吉塔乌、希纳霍、特朗吉塔莫、泰·威亨努阿、提米基米基（提明明基）、阿图瓦卡尼霍和阿图瓦卡塔拉塔拉。这些酋长在神圣的船只带领下，携带着一位神祇前往新土地，确保了他们的成功。",
+      "country": "New Zealand 新西兰",
+      "emoji": "cano️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "canoe",
+        "mythology",
+        "pounamu"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Arahura_(canoe)"
+    },
+    {
+      "title_en": "Arautauta",
+      "title_zh": "阿拉乌塔塔号",
+      "summary_en": "In Māori tradition, Arautauta was one of the legendary ocean-going canoes that carried brave voyagers to settle New Zealand. Piloted by the skilled navigator Tarawa, this canoe sailed through treacherous waters and eventually made landfall near Ōhiwa, marking the beginning of a new chapter in the history of Aotearoa.",
+      "summary_zh": "在毛利人的传说中，阿拉乌塔塔号是众多航海大船之一，它载着勇敢的航海者来到新西兰定居。由技艺高超的导航员塔拉瓦驾驶，这艘船穿越了险恶的海域，并最终在奥伊瓦附近登陆，标志着新西兰历史上的新篇章。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🧷",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Arautauta"
+    },
+    {
+      "title_en": "Arawa (canoe)",
+      "title_zh": "阿拉瓦号（毛利语：Te Arawa）",
+      "summary_en": "The Arawa was a legendary ocean-going canoe that played a crucial role in the settlement of New Zealand by Māori people. According to legend, it carried a group of voyagers who eventually established themselves around the Rotorua Lakes and Bay of Plenty, forming the Te Arawa confederation. This canoe symbolizes the enduring connection between these tribes and their ancestral homeland.",
+      "summary_zh": "阿拉瓦号是一艘传说中的远洋独木舟，它在毛利人定居新西兰的过程中发挥了关键作用。根据传说，这艘船载着一群航海者最终在罗托鲁瓦湖和湾的周围建立了家园，并形成了特阿拉瓦部落联盟。这艘独木舟象征着这些部落与他们祖先故土之间永恒的联系。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🛶",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Arawa_(canoe)"
+    },
+    {
+      "title_en": "Atutahi",
+      "title_zh": "阿图提侯 (Aútídīhóu)",
+      "summary_en": "In Māori mythology, Atutahi is the star Canopus, the second brightest in the night sky. It is a solitary and sacred star, often seen outside the Milky Way. The star holds special significance for kūmara cultivation, marking planting times and even predicting weather. Legends tell of how Atutahi was left out when Tane wove the basket that became the Milky Way, or how it was the first-born child of Rangi who refused to enter the celestial path, turning Canopus into a lone beacon in the sky.",
+      "summary_zh": "在毛利神话中，阿图提侯是天狼星Canopus，在夜空中第二明亮的恒星。它是一个孤独而神圣的星星，经常被看到位于银河之外。这颗星星对种植地瓜（kūmara）具有特殊意义，标志着播种的时间，并且还能预测天气。传说讲述说，当塔内编织出银河篮子时，阿图提侯被留在了外面；或者它是拉基尼的第一个孩子，拒绝进入天际之路，从而将天狼星变成了天空中的独行者。",
+      "country": "New Zealand 新西兰",
+      "emoji": "-stars-and-planets-emoji:",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology",
+        "astronomy",
+        "kūmara"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Atutahi"
+    },
+    {
+      "title_en": "Family tree of the Māori gods",
+      "title_zh": "毛利神祇谱系",
+      "summary_en": "In the primordial darkness, Ranginui and Papatūānuku, Heaven and Earth, gave birth to a myriad of gods. Te Anu-matao married Tangaroa, god of the sea. Hine-titamauri wedded Punga, while Hine-te-Iwaiwa took Tangaroa as her husband, giving birth to Tangaroa-a-kiukiu and Tangaroa-a-roto. Rona, another offspring, became the wife of Te Marama, the moon. Meanwhile, Tama-nui-te-ra, the Sun, married Hinetakurua. Uru-Te-ngangana, believed to be the father of all light, is the progenitor of stars and celestial bodies. This family tree illustrates the complex relationships and creation stories central to Māori mythology.",
+      "summary_zh": "在最初的黑暗中，天地之神拉基努伊和帕帕图阿努库孕育了众多的神祇。安努-马塔奥嫁给了海神塔朗加罗亚，而提内蒂玛乌里则嫁给了庞瓜。希内-提瓦伊瓦与塔朗加罗亚结为夫妇，并生下了塔朗加罗亚-基尤基和塔朗加罗亚-罗托。罗娜成为了月亮女神特马拉马的妻子。与此同时，太阳神塔马-努伊-泰-拉娶了希内塔库鲁亚。乌鲁-特-纳冈加纳被认为是所有光明之父，是星辰与日月的始祖。这个谱系展示了毛利神话中复杂的关系和创世故事。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Family_tree_of_the_Māori_gods"
+    },
+    {
+      "title_en": "Ghosts and Spirits in Māori Culture",
+      "title_zh": "毛利人的幽灵与精灵文化",
+      "summary_en": "In the enigmatic world of Māori culture, spirits (kehua) are both revered and feared. These ethereal beings often appear as long-dead ancestors warning of impending danger, like the infamous phantom canoe seen on Lake Tarawera in 1886, which foretold a devastating volcanic eruption just eleven days later. Kikokiko, malevolent spirits that can possess humans, bring madness and chaos. Meanwhile, taniwha, guardian monsters dwelling in rivers and lakes, take on various forms from sharks to dragons, serving as both protectors and harbingers of fate.",
+      "summary_zh": "毛利人的幽灵与精灵文化中，这些超自然存在既是敬畏的对象也是恐惧的来源。长眠于地下的祖先会以幽灵的形式出现，警告即将到来的危险，如1886年在塔拉瓦湖上看到的神秘鬼船，预示了十一天后即将发生的火山爆发。Kikokiko是邪恶的灵魂，能附身人类，带来疯狂和混乱。而taniwha则是守护着河流湖泊的怪物，它们可以变成鲨鱼、鲸鱼甚至龙，既是保护者也是命运的预告者。",
+      "country": "New Zealand 新西兰",
+      "emoji": ".nz",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "spirits",
+        "guardians"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ghosts_and_spirits_in_Māori_culture"
+    },
+    {
+      "title_en": "Haumia-tiketike",
+      "title_zh": "哈乌米亚-蒂凯提基",
+      "summary_en": "In Māori mythology, Haumia-tiketike is the god of uncultivated food. He is often depicted as Ranginui's son or grandson and plays a role in separating his father from Papa, the earth mother. Haumia is particularly linked to the edible fern root, which was crucial for Māori sustenance. His stories highlight the importance of wild foods in Māori culture.",
+      "summary_zh": "哈乌米亚-蒂凯提基是毛利神话中的野菜之神。他常被描绘为拉金努伊的儿子或孙子，并参与了将天空之父拉金努伊与大地母亲帕帕分开的故事。哈乌米亚特别与蕨类植物的可食用根茎相关，这种食物对毛利人的生存至关重要。他的故事强调了野菜在毛利文化中的重要性。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🌿",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Haumia-tiketike"
+    },
+    {
+      "title_en": "Hineahuone",
+      "title_zh": "希内阿胡欧内",
+      "summary_en": "In the ancient myths of New Zealand, Hineahuone was the first woman created by Tāne, the god of forests and crafts. From the clay of Kurawaka, Tāne shaped her into a beautiful maiden. She bore a child named Hinetītama with Tāne, who would later become known as Hinenui-i-te-pō, the personification of darkness and night. This creation story reflects the Māori belief in the origins of humanity and the interconnectedness of life.",
+      "summary_zh": "在新西兰的古老神话中，希内阿胡欧内在神祇塔内的创造下诞生。塔内用库拉瓦卡的土地上的泥土塑造了她，并赋予了她美丽和智慧。她与塔内生下了孩子希内提塔马，后者后来成为了黑夜和夜晚的化身希努伊-伊-特波。这个创世故事反映了毛利人对人类起源以及生命之间联系的信仰。",
+      "country": "New Zealand 新西兰",
+      "emoji": "/ng/",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "creation",
+        "mythology"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Hineahuone"
+    },
+    {
+      "title_en": "Horomātangi Reef",
+      "title_zh": "霍罗马廷吉礁石",
+      "summary_en": "In the depths of Lake Taupō lies a complex reef system named after Horomātangi, a taniwha or water monster. Legend tells that he resides in a cave near Motutaiko Island, where his presence is said to cause ripples and disturbances on the lake's surface. The reef, with its shallow inner areas separated by deep waters, serves as both a natural wonder and a reminder of ancient Māori beliefs.",
+      "summary_zh": "霍罗马廷吉礁石位于新西兰北岛中部陶波湖的深处，传说中居住着水怪霍罗马廷吉。据说他栖息在莫图塔伊科岛上的一处洞穴内，其存在会引发湖面的波动和涟漪。礁石由浅水区域和深水区组成，既是自然奇观，也是古老毛利人信仰的象征。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🌊",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "lake",
+        "taniwha"
+      ],
+      "lat": -38.8,
+      "lng": 176,
+      "wiki_en": "https://en.wikipedia.org/wiki/Horomatangi_Reef"
+    },
+    {
+      "title_en": "Horouta",
+      "title_zh": "霍鲁塔号",
+      "summary_en": "In Māori tradition, the canoe Horouta was a significant vessel that brought kūmara (sweet potato) to New Zealand from Hawaiki. Kahukura, a man from Hawaiki, introduced this new crop and then set sail on Horouta with Pāoa as captain to gather more kūmara. Upon returning, Kiwa, the tohunga, was the first to step ashore at Gisborne, giving it its name Turanganui a Kiwa. The canoe's journey symbolizes the early Polynesian migration and the introduction of new crops to the land.",
+      "summary_zh": "霍鲁塔号是毛利传说中从波利尼西亚的哈瓦伊基带来芋薯（甜薯）到新西兰的重要船只。卡胡库拉将这种新作物引入后，便与帕奥亚一起乘霍鲁塔号返回哈瓦伊基采集更多的芋薯。返航时，作为通古萨的基瓦首先踏上吉斯本的土地，并给这个地方取名为图朗奴伊阿基瓦（Kiwa站立的地方）。这艘船的航行象征着早期波利尼西亚人的迁徙以及新作物在土地上的引入。",
+      "country": "New Zealand 新西兰",
+      "emoji": "：<boat>",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "migration",
+        "agriculture",
+        "canoe"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Horouta"
+    },
+    {
+      "title_en": "Hoturapa",
+      "title_zh": "霍图帕",
+      "summary_en": "In the Māori tradition of New Zealand, Hoturapa was a chief from Hawaiki. One day, he and his wife Kuramārōtini went out fishing in their canoe Matahourua with their friend Kupe. Trickster Kupe lured Hoturapa into the water to untangle a line, then set sail for New Zealand without him, leaving Kuramārōtini behind. This tale of betrayal and adventure highlights the cunning of Kupe.",
+      "summary_zh": "在新西兰毛利人的传统中，霍图帕是哈瓦基的一位酋长。一天，他和妻子库拉马罗蒂尼乘着他们的独木舟玛塔胡鲁阿与朋友库佩出海捕鱼。狡猾的库佩诱使霍图帕跳入水中解救绳索，然后在没有他的情况下驶往新西兰，并将库拉马罗蒂尼留在了原地。这个故事展现了库佩的机智。",
+      "country": "New Zealand 新西兰",
+      "emoji": "-initialized:",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Hoturapa"
+    },
+    {
+      "title_en": "Hīnakipākau-o-te-rupe",
+      "title_zh": "希纳基帕库奥特鲁佩号",
+      "summary_en": "In the ancient voyages that brought Māori ancestors to New Zealand, Hīnakipākau-o-te-rupe was a legendary canoe. Two brave travelers, Hoaki and Taukata, set sail from Hawaiki with dried sweet potatoes, known as kao, in their vessel. These precious provisions were not only sustenance but also symbols of the settlers' determination to thrive in their new land.",
+      "summary_zh": "希纳基帕库奥特鲁佩号是毛利祖先从哈瓦伊基到达新西兰时的传奇独木舟之一。勇敢的旅者霍阿基和塔乌卡塔带着干燥的番薯—— kao，登上了这艘船。这些珍贵的食物不仅是生存的必需品，也是定居者决心在新土地上繁荣昌盛的象征。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kiaora 🕊️",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Hīnakipākau-o-te-rupe"
+    },
+    {
+      "title_en": "Mount Hikurangi",
+      "title_zh": "希库朗吉山",
+      "summary_en": "In Māori mythology, Mount Hikurangi was the first part of New Zealand's North Island to emerge when Māui pulled it from the ocean as a giant fish. The legendary demigod's waka, Nukutaimemeha, became petrified between its peaks in Lake Hinetakawhiti. This sacred mountain is an important icon for Ngāti Porou and Ngati Uēpohatu iwi, offering them a breathtaking vista that inspires awe.",
+      "summary_zh": "在毛利神话中，希库朗吉山是新西兰北岛最早从海洋中浮现的部分，这是 Maui 拉出的一条巨大鱼。传说中的半神 Nukutaimemeha 的独木舟就变成了湖希纳塔克瓦希蒂（Hinetakawhiti）山顶之间的岩石。这座神圣的山脉对 Ngāti Porou 和 Ngati Uēpohatu 印第安人来说是一个重要的图腾，为他们提供了令人惊叹的景色。",
+      "country": "New Zealand 新西兰",
+      "emoji": "uckland",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology",
+        "north island",
+        "maui"
+      ],
+      "lat": -37.91708056,
+      "lng": 178.06005556,
+      "wiki_en": "https://en.wikipedia.org/wiki/Mount_Hikurangi_(Gisborne_District)"
+    },
+    {
+      "title_en": "Māori Mythology",
+      "title_zh": "毛利神话",
+      "summary_en": "In the vast and misty realms of ancient New Zealand, the Māori people wove tales of gods and heroes into the fabric of their existence. These myths spoke of the creation of the world by the powerful siblings Tāne (god of forests), Rongo (god of agriculture), and Tangaroa (god of the sea). The stories also told of the legendary voyagers who braved the treacherous seas to settle in New Zealand, bringing with them their gods and traditions. These myths were not just tales but a living history that explained the Māori connection to the land and their place within it.",
+      "summary_zh": "在古老新西兰的广阔而迷雾缭绕的世界中，毛利人将神祇和英雄编织进了他们的生存之中。这些神话讲述了由强大力量的兄弟姐妹塔内（森林之神）、罗诺（农业之神）和塔朗加拉（海洋之神）创造世界的传说。这些故事还讲述了那些勇敢穿越险恶海域来到新西兰的传奇航海者，他们带来了自己的神祇与传统。这些神话不仅仅是故事，更是活生生的历史，解释了毛利人与土地的关系以及他们在其中的位置。",
+      "country": "New Zealand 新西兰",
+      "emoji": "uckland-city-hall",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Māori_mythology"
+    },
+    {
+      "title_en": "Āraiteuru",
+      "title_zh": "阿拉伊提鲁号独木舟",
+      "summary_en": "Āraiteuru was a legendary canoe that carried Ngāi Tahu's ancestors to New Zealand during their migration from the north. Driven by the northeast wind, it sailed with twelve chiefs and their families. The canoe's fishing net and water gourd transformed into stone at Moeraki, now known as the Moeraki Boulders. Today, a marae in Dunedin bears its name, honoring this significant vessel of Māori history.",
+      "summary_zh": "阿拉伊提鲁号独木舟载着毛利人祖先从北方向新西兰迁徙。它在东北风的推动下，与十二位酋长及其家人一同航行。独木舟上的渔网和水葫芦后来变成了莫拉基巨石，现在被称为莫拉基巨石。今天，在达尼丁市郊瓦卡里，有一座以阿拉伊提鲁号命名的毛利人会所，纪念这一重要的毛利历史。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kia Ora",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "migration",
+        "stone formations"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Āraiteuru"
+    },
+    {
+      "title_en": "Hoturoa",
+      "title_zh": "霍图拉",
+      "summary_en": "Hoturoa led the Tainui canoe during the great migration of Māori people to New Zealand around 1400. As a skilled navigator, he guided his voyagers through treacherous seas and arrived at Aotearoa (New Zealand), where he established the Tainui confederation of tribes. His leadership and wisdom laid the foundation for the Māori culture that thrives in the central North Island to this day.",
+      "summary_zh": "霍图拉带领塔伊努伊独木舟，在公元1400年前后率领毛利人迁徙到新西兰。作为一位出色的航海者，他引导他的同伴们穿越险恶的海域，并最终抵达奥特亚罗瓦（新西兰），在那里建立了塔伊努伊部落联盟。他的领导和智慧为今天的毛利文化奠定了基础。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kia Ora",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Hoturoa"
+    },
+    {
+      "title_en": "How Māui Slowed the Sun",
+      "title_zh": "毛伊减慢太阳的脚步",
+      "summary_en": "In a land where days were too short, the culture hero Māui decided to slow down the sun. He and his friends fashioned a net from the hair of women and set out at dawn. When they finally caught the sun, Māui threatened to cut off its light unless it slowed down. The sun agreed, and ever since then, days have been longer for all the people.",
+      "summary_zh": "在白天太短的土地上，文化英雄毛伊决定减慢太阳的脚步。他和他的朋友们用妇女的头发织成了一张网，在黎明时分出发。当他们终于捉住太阳后，毛伊威胁要切断它的光芒，除非它放慢速度。太阳答应了，从此以后，白天变得更长了。",
+      "country": "New Zealand 新西兰",
+      "emoji": "☀️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/How_Māui_Slowed_the_Sun"
+    },
+    {
+      "title_en": "Ikatere",
+      "title_zh": "伊卡特雷",
+      "summary_en": "In the mythology of New Zealand, Ikatere, a swift fish god, is revered as the father of all sea creatures. Born to Punga and grandson to Tangaroa, the god of the sea, Ikatere's legacy extends beyond mere fish; he sired mermaids and myriad other marine life. His name, 'fast fish,' speaks to his swiftness and agility in the ocean, a symbol of strength and vitality.",
+      "summary_zh": "在新西兰的神话中，伊卡特雷是一位迅捷的鱼神，被视为所有海洋生物的父亲。他是庞加的儿子、塔朗戈拉的孙子。伊卡特雷的名字意为‘快鱼’，象征着他在海洋中的速度和活力，也代表着力量与生命力。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🌊",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "marine life",
+        "god of the sea"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ikatere"
+    },
+    {
+      "title_en": "In the Beginning",
+      "title_zh": "始于混沌",
+      "summary_en": "In the Beginning, a New Zealand children's book by Peter Gossage, retells the Māori creation myth. Ranginui and Papatūānuku, the sky father and earth mother, embrace tightly, keeping their children in darkness. Tired of this, the children, led by Tāne, push their parents apart to bring light into Aotearoa. The struggle symbolizes the balance between nature and humanity as they seek enlightenment and understanding.",
+      "summary_zh": "《始于混沌》是新西兰作家彼得·戈萨奇为儿童创作的一本书，讲述了毛利人的创世神话。天空之父拉基努伊和大地之母帕帕图阿纳慕紧紧相拥，将他们的孩子困在黑暗中。厌倦了这种生活，由塔内带领的孩子们推动父母分开，让光明照耀新西兰。这场斗争象征着自然与人类之间的平衡，他们寻求知识与理解。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/In_the_Beginning_(Peter_Gossage_book)"
+    },
+    {
+      "title_en": "Irawaru",
+      "title_zh": "伊瑞瓦鲁",
+      "summary_en": "In Māori mythology, Irawaru was a fisherman who became a dog after being stretched by his brother-in-law Māui out of jealousy. When Hinauri, Irawaru's wife, asked Māui where her husband was, he instructed her to call 'Moi! Moi!' and the transformed dog would come running. Heartbroken, Hinauri threw herself into the ocean, never to be seen again. This tale explains why dogs are loyal companions and guardians of their masters.",
+      "summary_zh": "在毛利神话中，伊瑞瓦鲁是一位渔夫，在他的兄媳妇玛ui因嫉妒而将他变成了一只狗。当伊瑞瓦鲁的妻子希纳乌里询问玛ui丈夫的去向时，玛ui让她喊‘莫伊！莫伊！’于是这只变形的狗跑了过来。心碎之下，希纳乌里跳入了海洋，从此再未出现。这个故事解释了为什么狗是忠诚的伴侣和守护者。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🐶",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "dog",
+        "guardian",
+        "fisherman"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Irawaru"
+    },
+    {
+      "title_en": "Kahumatamomoe",
+      "title_zh": "卡胡马塔莫摩伊",
+      "summary_en": "Kahumatamomoe, a revered chief of the Te Arawa tribe, sailed the waters of New Zealand’s North Island in the late fourteenth century. His voyages were not just explorations but also acts of naming and claiming lands for his people. He named many places, including Lake Rotorua, which he called 'Te Rotoruanui-a-Kahumatamomoe,' a name that still echoes today. His nephew Īhenga continued the tradition by honoring him further with this title.",
+      "summary_zh": "卡胡马塔莫摩伊是新西兰北岛特阿瓦部落的一位受尊敬的酋长，他在十四世纪晚期航行于这片水域。他的航行不仅是探索，也是为族人命名和争取土地的行为。他给许多地方命名，包括Rotorua湖，称其为“Te Rotoruanui-a-Kahumatamomoe”。他的侄子伊亨加继续这种传统，以纪念他。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🌊",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "legend"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kahumatamomoe"
+    },
+    {
+      "title_en": "Kaitangata",
+      "title_zh": "凯塔冈塔",
+      "summary_en": "In Māori mythology, Kaitangata was a hardworking son of Māui or Rehua, the star-god. Known as 'man-eater,' he married Whaitiri, a supernatural being who left him due to his name's implication. Before she ascended to heaven, Whaitiri taught Kaitangata how to fish and they had a son named Hemā. This story is often used by early Christian missionaries to illustrate biblical family relationships.",
+      "summary_zh": "在毛利神话中，凯塔冈塔是玛ui或雷胡（星神）的儿子。他被称为‘食人者’，娶了名为怀蒂里（Whaitiri）的超自然女子为妻，但因名字的缘故她离开了他。在她升天前，怀蒂里教会了凯塔冈塔如何捕鱼，并且他们生下了儿子赫马（Hemā）。这个故事常被早期基督教传教士用来解释圣经中的家庭关系。",
+      "country": "New Zealand 新西兰",
+      "emoji": "/ng/",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kaitangata_(mythology)"
+    },
+    {
+      "title_en": "Kiwa",
+      "title_zh": "基瓦",
+      "summary_en": "In Māori mythology, Kiwa is a guardian deity of the ocean, revered by tribes along New Zealand's North Island. He is often depicted with two wives: Parawhenuamea, who represents fresh water from streams to the sea, and Hinemoana, personifying the vast Pacific Ocean itself. Together they give birth to many children, symbolizing the life-giving properties of both freshwater and saltwater ecosystems.",
+      "summary_zh": "基瓦是新西兰北岛东海岸毛利部落的海洋守护神。他有两个妻子：帕拉韦努阿梅亚，代表着从陆地流向大海的溪流之水；以及希诺莫娜，象征着广阔的太平洋。他们共同孕育了许多后代，象征着淡水和海水的生命力。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🌊",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kiwa_(mythology)"
+    },
+    {
+      "title_en": "Kui",
+      "title_zh": "基乌",
+      "summary_en": "In Māori mythology, Kui was a chthonic demigoddess who lived underground with her husband Tuputupuwhenua. When a new house was built in ancient New Zealand, a tuft of grass would be offered to them as a token of respect and gratitude. In the Tuamotu islands, Kui also had a more familial role, being the father of Vahi-vero and grandfather of Rata.",
+      "summary_zh": "在新西兰毛利神话中，基乌是一位住在地下的半神妻子，与丈夫图普图普胡内瓦居住。每当新房子建成时，人们会献上一束草以示敬意和感激之情。而在图阿莫图群岛，基乌还扮演着家庭角色，是瓦希-维罗的父亲和拉塔的祖父。",
+      "country": "New Zealand 新西兰",
+      "emoji": ".nz",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kui_(Māori_mythology)"
+    },
+    {
+      "title_en": "Kupe",
+      "title_zh": "库皮",
+      "summary_en": "Kupe was a legendary Polynesian explorer who ventured to New Zealand from his homeland Hawaiki, believed to be in the Cook Islands or Tahiti. Driven by internal conflicts and seeking new lands, Kupe led an expedition that resulted in the discovery of Aotearoa (New Zealand). His voyage ensured the land was known to the Polynesians, setting the stage for future Māori settlement. Kupe's tales are celebrated in various Māori tribes' oral histories, often recounting his heroic deeds and adventures.",
+      "summary_zh": "库皮是传说中的波利尼西亚探险家，从其故土哈瓦伊基出发，前往新西兰。由于内部冲突和寻求新土地，库皮带领了一次远征，最终发现了奥特亚罗瓦（新西兰）。他的航行确保了这片土地为波利尼西亚人所知，并为未来的毛利人定居奠定了基础。库皮的故事在各个毛利部落的口头传说中广为流传，常常讲述其英雄事迹和冒险经历。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kiaora",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "exploration",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kupe"
+    },
+    {
+      "title_en": "Kurahaupō",
+      "title_zh": "库拉哈普奥号独木舟",
+      "summary_en": "Kurahaupō was a legendary canoe that played a significant role in the Māori migrations to New Zealand. According to Taranaki tribal tradition, Kurahaupō arrived at different times than other great migration vessels like Aotea and Mātaatua, making multiple stops and repairs along its journey. The canoe suffered various mishaps, including being damaged near Raoul Island in the Kermadec Islands, where some crew members abandoned ship to board other canoes. Eventually, Kurahaupō was repaired by Po Hurihanga's people and made landfall at Te Wakura in Taranaki before continuing down the North Island coast. The canoe's journey is marked by its resilience and the diverse settlements it facilitated among various Māori tribes, each claiming descent from the vessel.",
+      "summary_zh": "库拉哈普奥号独木舟是毛利人迁徙至新西兰的重要船只之一。根据塔拉纳基部落的传统，库拉哈普奥号在其他大迁移船只如阿奥特亚罗瓦和马塔阿图阿到达之前就已抵达新西兰，并在其航行过程中多次停靠并进行了维修。这艘独木舟曾在凯马德克群岛的拉乌岛附近受损，部分船员弃船登上了阿奥特亚罗瓦和其他独木舟。最终，在波胡里哈冈人的帮助下，库拉哈普奥号被修复，并在塔拉纳基的泰沃库拉登陆后继续沿北岛东海岸航行。这艘独木舟的旅程见证了其坚韧不拔以及它为各个毛利部落带来的多样定居点，每个部落都声称自己是这艘船的后代。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🛶",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kurahaupō"
+    },
+    {
+      "title_en": "Kuramārōtini",
+      "title_zh": "库拉马罗提尼",
+      "summary_en": "In Māori mythology, Kuramārōtini was a brave young woman who accompanied her husband Hoturapa and their friend Kupe on a fishing voyage. When Kupe tricked Hoturapa into diving overboard to free the lines, he took advantage of the situation to sail away with Kuramārōtini in the canoe Matahourua. Together they explored the new land, where Kuramārōtini is said to have named it Aotearoa after spotting a long white cloud on the horizon.",
+      "summary_zh": "在毛利神话中，库拉马罗提尼是一位勇敢的年轻女子，她与丈夫霍图帕和朋友库佩一起出海捕鱼。当库佩设法让霍图帕跳入水中解救绳索时，他乘机带着库拉马罗提尼和独木舟玛塔胡鲁瓦离开了。他们共同探索了这片新土地，在那里库拉马罗提尼看到一片长长的白云后，给它取名为“Aotearoa”。",
+      "country": "New Zealand 新西兰",
+      "emoji": "-initialized:",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "exploration",
+        "origin"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kuramārōtini"
+    },
+    {
+      "title_en": "Kāraerae",
+      "title_zh": "卡拉埃雷号独木舟",
+      "summary_en": "In Māori tradition, the great migratory waka (canoe) Kāraerae played a pivotal role in early Polynesian settlement of New Zealand. After Tamatea-arikinui wrecked the Tākitimu at Te Waewae Bay, he constructed Kāraerae and set sail back to the North Island. According to Moriori legend, this canoe was the first to land on Rēkohu, captained by Kahukoha, Rongomaiwhenua, Te Ao, and Puwaitaha from Ngāti Kopeka, a branch of Waitaha.",
+      "summary_zh": "在毛利人的传说中，卡拉埃雷号独木舟是早期波利尼西亚人在新西兰定居的重要工具。塔马泰亚-阿里基努伊在特瓦韦湾沉没了塔基提穆之后，他建造了卡拉埃雷号并返回北岛。根据莫伊里人传说，这艘独木舟是第一个登陆雷科胡的船只，由来自瓦塔哈分支的卡胡霍阿、罗戈迈温努亚、泰阿奥和普维塔哈等人驾驶。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kiaora",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "canoe",
+        "migration"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kāraerae"
+    },
+    {
+      "title_en": "Mahanga-atua-matua",
+      "title_zh": "玛哈冈-阿图-马图亚",
+      "summary_en": "Mahanga-atua-matua was a sacred canoe in Māori mythology, believed to be the first to land on New Zealand. According to Uma-kau-oho-mata-kamokamo, a chief from Tauranga, this canoe carried only priests and chiefs, as it was too sacred for food plants. The traditions of its construction and the adzes used by the builders were still preserved among his people.",
+      "summary_zh": "玛哈冈-阿图-马图亚是毛利神话中的圣船，据塔朗加地区的酋长乌马-科-奥霍-莫塔卡摩科所说，这艘船是第一批登陆新西兰的船只。船上只有祭司和首领，因为它太神圣而不能携带食物植物。关于其建造的传统以及使用的凿子仍然保存在他的族人中。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kiaora",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Mahangaatuamatua"
+    },
+    {
+      "title_en": "Māhuhu-ki-te-rangi",
+      "title_zh": "马胡胡-基-提拉尼吉",
+      "summary_en": "Māhuhu-ki-te-rangi was a significant voyaging canoe in Māori tradition, used during the early settlement of New Zealand. It explored the North Island's northern regions, including Whangaroa and Tākou. According to Te Roroa people, it was captained by Whakatau, who stopped at Kawerua where his son married a local. The alternative narrative, from Ngāti Whātua, states that Māhuhu-ki-te-rangi was led by Rongomai, who drowned after visiting Tāporapora Island and whose body was eaten by trevally fish. This incident led to a taboo against eating trevally among the Ngā Puhi and Te Rarawa iwi until they embraced Christianity. Eventually, Māhuhu-ki-te-rangi returned to Rangaunu Harbour where it was interred in a creek.",
+      "summary_zh": "马胡胡-基-提拉尼吉是新西兰早期毛利人定居时期的重要航海独木舟。它探索了北岛北部地区，包括旺格罗亚和塔库。根据特罗罗阿人的说法，这艘独木舟由瓦卡塔乌船长驾驶，并在卡韦鲁停靠，他的儿子在那里与当地人结婚。另一种说法来自纳蒂-华图人，称马胡胡-基-提拉尼由隆戈马伊船长驾驶，在访问塔波拉帕罗岛后溺水身亡，其尸体被吞食了金枪鱼。这一事件导致纳蒂-普希和特拉瓦人直到接受基督教之前对食用金枪鱼的禁忌。最终，这艘独木舟返回旺加努港，并在一条小河中安葬。",
+      "country": "New Zealand 新西兰",
+      "emoji": "cano️",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyaging",
+        "canoe",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Māhuhu-ki-te-rangi"
+    },
+    {
+      "title_en": "Mākutu",
+      "title_zh": "玛库图",
+      "summary_en": "In Māori culture, Mākutu refers to the dark magic or witchcraft believed to be wielded by certain individuals. It involves spells and incantations intended for harm. A tragic incident in Lower Hutt, New Zealand, saw a woman drown and a teenager hospitalized after an attempt to lift such a curse went awry, highlighting the real-life fears surrounding this ancient belief.",
+      "summary_zh": "在毛利文化中，玛库图是指由某些人施加的黑暗魔法或巫术。它包括旨在造成伤害的咒语和吟唱。新西兰Lower Hutt的一起悲剧事件表明了人们对于这种古老信仰的真实恐惧：一名妇女因试图解除诅咒而溺水身亡，另一名青少年则因此住院治疗。",
+      "country": "New Zealand 新西兰",
+      "emoji": "uckland",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "modern"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Mākutu"
+    },
+    {
+      "title_en": "Māmari",
+      "title_zh": "马阿玛丽号",
+      "summary_en": "Māmari was one of the great ocean-going canoes that carried settlers to New Zealand during the migrations. It arrived with Ruanui, the third waka to reach these shores. Legend tells that rats were stowaways on this voyage and were released onto an island called Motukiore by Ruanui when he anchored in Hokianga Harbour.",
+      "summary_zh": "马阿玛丽号是载着移民前往新西兰的远洋独木舟之一。它与鲁阿努伊一同抵达，成为第三个到达这片土地的船只。传说中，这只船上藏有老鼠作为乘客，在鲁阿努伊在霍基anga港停泊时，他将这些老鼠释放到了一个名为莫蒂库奥雷的小岛上。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kiaora",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Māmari"
+    },
+    {
+      "title_en": "Moekākara",
+      "title_zh": "莫伊卡卡拉号",
+      "summary_en": "Moekākara was a legendary ocean-going canoe that played a crucial role in the Māori migration to New Zealand. Captained by Tāhuhunui-o-te-rangi, this vessel first landed at Wakatuwhenua near Te Ārai north of Auckland. From there, Ngāi Tāhuhu settled along the Pouerua Bay of Islands and the Mangakahia River in Northland, as well as Ōtāhuhu in Auckland. This canoe symbolizes the journey and settlement of early Māori ancestors.",
+      "summary_zh": "莫伊卡卡拉号是毛利人迁徙至新西兰的重要船只之一，由塔胡努伊奥特 rangi 操纵。这艘船首先在奥克兰北部的泰阿莱附近的一个名为瓦库图温努亚的地方登陆。从那里开始，Ngāi Tāhuhu 定居在北岛的波厄鲁湾、芒加基亚河和奥塔胡等地。这艘船象征着早期毛利人的迁徙与定居。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kiaora",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "migration"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Moekākara"
+    },
+    {
+      "title_en": "Mokoia Island",
+      "title_zh": "莫科伊亚岛",
+      "summary_en": "Mokoia Island, a volcanic dome in Lake Rotorua, was once a strategic and fertile land for the local Māori. The island's rich soil supported kūmara crops, which were protected by a stone statue of Matuatonga. Legends say that tohunga would touch the statue with seed kūmara before planting. Fights over control of the island were common due to its strategic location and abundant resources. Today, it is a bird sanctuary and home to rare species like the North Island kōkako and kiwi, while also serving as a training ground for Māori martial arts.",
+      "summary_zh": "莫科伊亚岛是罗托鲁瓦湖中的一个火山穹隆，曾是毛利人的重要土地。岛上肥沃的土壤滋养着地瓜作物，并由一座名为马图塔诺加的石像守护。传说中，巫师会在种植前触摸这座雕像。由于其战略位置和丰富资源，该岛经常成为争夺的目标。如今，它已成为鸟类保护区，栖息着北岛考科卡鸟、棕色鹬鸵等稀有物种，并作为毛利人武术训练营地。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🌿",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology",
+        "nature",
+        "agriculture"
+      ],
+      "lat": -38.08125556,
+      "lng": 176.28441389,
+      "wiki_en": "https://en.wikipedia.org/wiki/Mokoia_Island"
+    },
+    {
+      "title_en": "Motutaiko Island",
+      "title_zh": "莫图泰科岛",
+      "summary_en": "In the heart of Lake Taupō, Motutaiko Island stands as a silent sentinel. Named after the black petrel, this small island is more than just land in water; it carries the spirit and lore of the Māori people who revere these seabirds for their resilience and grace. The island remains a place of reverence, untouched by time, preserving the connection between nature and culture.",
+      "summary_zh": "莫图泰科岛位于新西兰北岛的陶波湖中，是这片水域中的唯一岛屿。它得名于黑鹱，这种鸟在毛利人心中代表着坚韧与优雅。这座小岛不仅是自然的一部分，更是文化传承的象征，人们对其怀有崇高的敬意，让它得以保持原始风貌，成为人与自然和谐共存的见证。",
+      "country": "New Zealand 新西兰",
+      "emoji": "：%V：",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "nature",
+        "mythology",
+        "Māori"
+      ],
+      "lat": -38.854,
+      "lng": 175.942,
+      "wiki_en": "https://en.wikipedia.org/wiki/Motutaiko_Island"
+    },
+    {
+      "title_en": "Mānuka (canoe)",
+      "title_zh": "玛努卡号（独木舟）",
+      "summary_en": "In Māori tradition, Mānuka was a legendary canoe that played a crucial role in the early settlement of New Zealand. It journeyed to the Polynesian homeland of Hawaiki to fetch kūmara, a vital crop for survival. Despite its successful return with the sweet potatoes, attempts to cultivate them were unsuccessful. This tale reflects the challenges faced by early Māori settlers and their connection to their ancestral lands.",
+      "summary_zh": "在毛利人的传说中，玛努卡号是一艘重要的独木舟，在早期新西兰的定居过程中发挥了关键作用。它前往波利尼西亚的故乡哈瓦伊基获取芋头这种生存作物。尽管成功带回了芋头，但尝试种植它们却失败了。这个故事反映了早期毛利人移民所面临的挑战以及他们与祖先土地之间的联系。",
+      "country": "New Zealand 新西兰",
+      "emoji": "cano️",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "agriculture"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Mānuka_(canoe)"
+    },
+    {
+      "title_en": "Māori Migration Canoes",
+      "title_zh": "毛利人迁徙独木舟",
+      "summary_en": "According to Māori oral history, their ancestors set sail from a mythical homeland called Hawaiki in large twin-hulled canoes. Kupe, a legendary explorer, fled with Kūrāmarotini after murdering Hoturapa, the owner of Matahourua canoe. Escaping punishment, they discovered Aotearoa and explored its coast, eventually returning to share their discovery. Other tribes also migrated for various reasons like famine or warfare in canoes such as Aotea, Te Arawa, and Tainui. These stories reflect a long history of Māori migration across the Pacific.",
+      "summary_zh": "毛利人的口头传说中，他们的祖先从神话中的家乡哈瓦伊基乘着双体大独木舟出发。库皮与库拉马罗提尼逃离后杀死了莫塔胡鲁阿号独木舟的所有者霍图帕，从而逃避惩罚。他们发现了奥特亚罗瓦，并探索了其海岸线，最终返回家园分享他们的发现。其他部落也因饥荒或战争等原因乘着如奥特埃、泰阿拉瓦和泰因等独木舟迁徙。这些故事反映了毛利人跨越太平洋的漫长迁徙历史。",
+      "country": "New Zealand 新西兰",
+      "emoji": "-initialized:",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "migration",
+        "canoe",
+        "mythology"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Māori_migration_canoes"
+    },
+    {
+      "title_en": "Ngātokimatawhaorua",
+      "title_zh": "那加托基马塔瓦鲁阿号独木舟",
+      "summary_en": "In the Māori tradition of New Zealand, Ngātokimatawhaorua was a legendary canoe used by Kupe, the Polynesian discoverer who first voyaged to Aotearoa. After returning to Hawaiki, Kupe and Nukutawhiti re-adzed the canoe, renaming it with a name that meant 'the adzes.' This vessel became an ancestor of Rāhiri, the great rangatira of Ngāpuhi, linking past voyagers and present leaders.",
+      "summary_zh": "在新西兰毛利人的传统中，那加托基马塔瓦鲁阿号独木舟是库佩——一位波利尼西亚探险家所使用的船只。他首次航行至奥特亚罗瓦。返回哈瓦伊之后，库佩和努库塔惠提对这艘船进行了重新修整，并以‘凿子’之意重命名它。这艘船成为了拉希里——Ngāpuhi部落的伟大酋长的祖先，将过去的航海者与现在的领导人联系起来。",
+      "country": "New Zealand 新西兰",
+      "emoji": "cano️",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "canoe",
+        "migration"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ngātokimatawhaorua"
+    },
+    {
+      "title_en": "Nukutere",
+      "title_zh": "努库特雷号",
+      "summary_en": "The Nukutere was one of the canoes that carried Polynesian migrants to New Zealand during their great voyage across the Pacific. Landing at Waiaua in the Bay of Plenty, it brought essential supplies like taro and plants such as karaka and ti. These settlers would eventually become part of Ngāi Tūhoe, Ngāti Porou, and other eastern Bay of Plenty tribes, carrying on the legacy of their ancestors who braved the vast ocean to find a new home.",
+      "summary_zh": "努库特雷号是波利尼西亚人跨越太平洋迁徙至新西兰时乘坐的船只之一。它在北岛东海岸的瓦伊阿瓦登陆，带来了芋头等重要物资以及卡拉卡和地衣植物。这些移民后来成为了 Ngāi Tūhoe、Ngāti Porou 及其他东部湾部落的一部分，继承了他们祖先勇敢穿越大洋寻找新家园的传奇。",
+      "country": "New Zealand 新西兰",
+      "emoji": "-initialized:",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "migration"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Nukutere"
+    },
+    {
+      "title_en": "Ohomairangi",
+      "title_zh": "奥霍马里朗吉",
+      "summary_en": "Ohomairangi was a revered ancestor from the ancient Māori mythology of New Zealand, living in Hawaiki six generations before the migration to Aotearoa. As the son of a mortal woman and a celestial being, he served as guardian of Taputapuatea marae on Raiatea, one of the most sacred sites in Polynesia. His lineage included notable figures such as Muturangi, a high priest and navigator who challenged Kupe. Over time, his descendants, known as Ngāti Ohomairangi or Nga Ohomairangi, played significant roles in various islands before embarking on the migration to New Zealand with the Te Arawa and Tainui waka. Among them was Tama-te-kapua, who would later discover New Zealand around 1350.",
+      "summary_zh": "奥霍马里朗吉是新西兰毛利神话中一位受人尊敬的祖先，生活在前往奥特亚罗瓦之前六代。他是凡人女子和天神之子，在拉伊阿泰亚的塔普塔帕乌阿提玛拉埃神庙担任守护者，该神庙被认为是波利尼西亚最神圣的地方之一。他的后裔包括祭司兼航海家穆图朗吉，他曾与库佩争斗。随着时间的推移，他的后代被称为奥霍马里朗吉或 nga 奥霍马里朗吉，在各个岛屿上扮演了重要角色，并最终乘坐特阿瓦和泰因威伊两艘独木舟前往新西兰。其中一位后裔塔玛-特卡普ua后来于1350年左右发现了新西兰。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kiaora",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "migration",
+        "ancestry"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ohomairangi"
+    },
+    {
+      "title_en": "Paikea",
+      "title_zh": "帕伊基亚",
+      "summary_en": "Paikea was a great ancestor who originated in Hawaiki and is particularly revered by tribes like Ngāti Porou and Ngāi Tahu. His name came to him after he survived an attempt on his life by his half-brother Ruatapu with the help of a whale. This tale, passed down through generations, highlights the power of assistance from nature in Māori mythology.",
+      "summary_zh": "帕伊基亚是起源于哈瓦伊基的伟大祖先，尤其受到如Ngāti Porou和Ngāi Tahu部落的敬仰。他之所以得名，是因为在半兄Ruatapu企图谋害他的时候，得到了鲸鱼的帮助而幸存下来。这个故事代代相传，强调了自然力量援助的重要性。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kiaora",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "Māori",
+        "survival"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Paikea"
+    },
+    {
+      "title_en": "Ōkoki",
+      "title_zh": "奥科基号",
+      "summary_en": "Ōkoki was a legendary ocean-going canoe in Māori tradition, part of the great migrations that settled Aotearoa (New Zealand). It carried Kahutara and Taikōria across the vast Pacific to land near New Plymouth. This voyage symbolized the enduring spirit of exploration and settlement among early Polynesian peoples.",
+      "summary_zh": "奥科基号是毛利传统中的一艘传奇远洋独木舟，属于将先民们从太平洋彼岸迁移到新西兰（Aotearoa）的壮举之一。它载着卡胡塔拉和太可里亚横跨浩瀚的太平洋，最终在新普纳利附近登陆。这次航行象征着早期波利尼西亚人探索与定居的不屈精神。",
+      "country": "New Zealand 新西兰",
+      "emoji": "voyage",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "migration"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ōkoki"
+    },
+    {
+      "title_en": "Ōtūrereao",
+      "title_zh": "奥图勒雷阿号",
+      "summary_en": "Ōtūrereao was a legendary ocean-going canoe that played a crucial role in the Māori migrations to New Zealand. Guided by skilled navigator Tairongo, this vessel carried brave settlers across treacherous seas and finally reached the shores of Ōhiwa, marking the beginning of a new chapter for the Māori people on these lands.",
+      "summary_zh": "奥图勒雷阿号是毛利人迁徙至新西兰的重要船只之一。由高明的航海家塔里隆引领，这艘船穿越了险恶的大海，并最终抵达奥希瓦海岸，标志着毛利人在这些土地上新生活的开始。",
+      "country": "New Zealand 新西兰",
+      "emoji": "-initialized:",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "migration"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ōtūrereao"
+    },
+    {
+      "title_en": "Pariwhero / Red Rocks",
+      "title_zh": "帕里沃罗/红岩",
+      "summary_en": "Pariwhero, or Red Rocks, is a stunning geological formation on the south coast of Wellington, New Zealand. These vibrant red cliffs and rock formations tell a tale of ancient times when the land was formed by volcanic activity and erosion. The site, rich in educational value, stands as a testament to the early stages of New Zealand's geologic history.",
+      "summary_zh": "帕里沃罗或红岩是位于新西兰惠灵顿南岸的一处地质奇观。这些鲜艳的红色悬崖和岩石展示了远古时期火山活动和侵蚀作用塑造土地的故事。作为一座富有教育意义的地方，它见证了新西兰早期地质历史的发展。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🌹",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "geology"
+      ],
+      "lat": -41.359,
+      "lng": 174.725,
+      "wiki_en": "https://en.wikipedia.org/wiki/Pariwhero_/_Red_Rocks"
+    },
+    {
+      "title_en": "Polynesian Mythology",
+      "title_zh": "波利尼西亚神话",
+      "summary_en": "In Polynesian mythology, as recorded by Sir George Grey in his 1855 collection, the gods and ancestors played a crucial role in the creation of the world and the lives of Māori people. The stories, passed down through generations, often featured powerful deities like Tangaroa, god of the sea, and Rongo, god of agriculture, who interacted with humans to shape their destiny. These myths not only explained natural phenomena but also provided moral guidance for daily life.",
+      "summary_zh": "波利尼西亚神话记载了新西兰毛利人的祖先和神祇如何创造了世界，并影响着毛利人的生活。这些故事通过世代相传，讲述了诸如海洋之神塔朗加罗和农业之神隆戈等重要神祇与人类互动的故事，解释了自然现象并为日常生活提供了道德指导。",
+      "country": "New Zealand 新西兰",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Polynesian_Mythology_(book)"
+    },
+    {
+      "title_en": "Rongo",
+      "title_zh": "罗冈 (Rongo)",
+      "summary_en": "In Māori mythology, Rongo was the god of cultivated plants and agriculture, particularly kūmara, a vital crop for the Māori people. He was also revered in the southern Cook Islands as a god of war, with offerings of cooked taro to ensure victory and fertility. A legend tells of Rongo flying the first kite, which is celebrated in Walt Disney's Enchanted Tiki Room.",
+      "summary_zh": "罗冈是毛利神话中的神，主管种植作物和农业，特别是对毛利人至关重要的地瓜。他在库克群岛南部被视为战争之神，人们会献上煮熟的芋头以求胜利和土地肥沃。关于罗冈放飞第一只风筝的故事，在沃尔特·迪士尼乐园的《魔幻鸟神殿》中被传颂。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🌱",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "agriculture",
+        "war",
+        "kūmara"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Rongo"
+    },
+    {
+      "title_en": "Ruakaramea",
+      "title_zh": "鲁阿卡拉梅亚号",
+      "summary_en": "Ruakaramea was a legendary ocean-going canoe that played a crucial role in the Māori migrations to New Zealand. Captained by Mirupokai, an influential leader of Ngāti Miru tribe, this vessel carried many families and their treasures across the treacherous waters. Mirupokai's strategic alliances with other tribes ensured the success of these voyages, establishing settlements along the Western coast of Northland, particularly around Herekino and Whangape Harbors. His legacy lives on in the descendants who continue to trace their roots back to this historic voyage.",
+      "summary_zh": "鲁阿卡拉梅亚号是毛利人迁徙至新西兰时的重要船只之一。这艘船由Ngāti Miru部落的领袖Mirupokai驾驶，他通过与邻近部落的战略联盟确保了这些航海的成功。鲁阿卡拉梅亚号载着许多家庭和财宝穿越了危险的海域，并在北岛西海岸建立了定居点，特别是赫里科诺和旺加佩港。他的后裔至今仍追溯到这段历史性的航行。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kiaora",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement",
+        "migrations"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ruakaramea"
+    },
+    {
+      "title_en": "Rākaihautū",
+      "title_zh": "拉卡伊豪图",
+      "summary_en": "Rākaihautū was the captain of the Uruaokapuarangi canoe and a Polynesian ancestor who founded many iwi, particularly Waitaha. Upon landing at the top of New Zealand's South Island, he dug up numerous lakes with his magical kō, filling them with food for his descendants. This act ensured prosperity for generations to come.",
+      "summary_zh": "拉卡伊豪图是乌鲁阿奥帕乌拉尼号独木舟的船长，也是许多毛利人的祖先，特别是瓦塔哈人。当他登陆新西兰南岛顶端时，他用他的魔法挖棍挖掘出许多湖泊，并在里面填满了食物留给后代。这一举动确保了后世的繁荣。",
+      "country": "New Zealand 新西兰",
+      "emoji": "-initialized:",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Rākaihautū"
+    },
+    {
+      "title_en": "Taikōria",
+      "title_zh": "塔科里亚号",
+      "summary_en": "Taikōria was a legendary ocean-going canoe that played a crucial role in the Māori migrations to New Zealand. Captained by Ruatāmore, this vessel sailed across treacherous waters and eventually landed at Ngāmotu near New Plymouth alongside other canoes like Kahutara and Ōkoki. The voyage of Taikōria symbolized the bravery and determination of early Polynesian settlers as they ventured into the unknown to find a new homeland.",
+      "summary_zh": "塔科里亚号是一艘传奇的远洋独木舟，它在毛利人迁移到新西兰的过程中发挥了重要作用。由鲁塔莫雷（Ruatāmore）指挥，这艘船穿越了险恶的海域，并最终与卡胡塔拉和奥基基等其他船只一起在涅加莫图附近的新普利茅斯登陆。塔科里亚号的航行象征着早期波利尼西亚人勇敢和决心的精神，他们冒险进入未知领域寻找新的家园。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kia Ora",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Taikōria"
+    },
+    {
+      "title_en": "Takatāpui",
+      "title_zh": "塔卡塔普伊",
+      "summary_en": "Takatāpui is a term used by the Māori people in New Zealand that encompasses a wide range of sexual orientations, gender identities, and cultural expressions. Traditionally, it referred to same-sex partners but now serves as an umbrella term for LGBTQ+ individuals within Māori communities. This term has seen a resurgence since the 1980s, providing a way for Māori people to identify with both their indigenous heritage and non-heteronormative identities. It challenges the notion that such identities did not exist in pre-colonial New Zealand.",
+      "summary_zh": "塔卡塔普伊是毛利人在新西兰使用的术语，涵盖了广泛的性取向、性别认同和文化表达。传统上，它指的是同性伴侣，但现在作为毛利人社区中LGBTQ+个体的伞形术语。自1980年代以来，这一术语复兴了，为毛利人提供了一种既能认同其原生文化遗产又能承认非异性恋身份的方式。这挑战了这样一个观点：在殖民前的新西兰并不存在这样的身份。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🌈",
+      "type": "folklore",
+      "tags": [
+        "modern",
+        "indigenous",
+        "gender identity",
+        "sexual orientation"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Takatāpui"
+    },
+    {
+      "title_en": "Tama-te-kapua",
+      "title_zh": "塔马-特卡普瓦",
+      "summary_en": "In the Māori tradition of New Zealand, Tama-te-kapua was a captain who led the Arawa canoe to Polynesia in about 1350. Known for his trickster nature, he stole fruit from Uenuku's orchard and sparked a feud that forced him to leave Hawaiki. On his journey, he kidnapped Whakaotirangi and Ngātoro-i-rangi, nearly destroying the canoe out of revenge. Upon arriving in New Zealand, Tama-te-kapua tricked the crew of the Tainui into believing they had arrived first. He claimed territories at Mount Moehau and Maketu before being defeated by Ruaeo's son Kahumatamomoe. Fleeing to Moehau, he died there, leaving behind a legacy of conflict and trickery.",
+      "summary_zh": "在新西兰毛利人的传统中，塔马-特卡普瓦是带领阿拉瓦号独木舟从波利尼西亚来到新西兰的船长。他以诡计多端著称，在乌努库的果园偷摘水果引发争执，并被迫离开哈瓦伊基。旅途中，他绑架了瓦卡奥蒂朗吉和那托罗-伊-朗吉的妻子，几乎因报复而毁掉了独木舟。抵达新西兰后，塔马-特卡普瓦欺骗了泰尼库号船员，让他们误以为自己是第一个到达的。他在莫埃豪山和马凯图建立了领地，但最终被鲁阿欧的儿子卡胡马塔莫摩击败。他逃往莫埃豪山，在那里去世，留下了冲突与诡计的传说。",
+      "country": "New Zealand 新西兰",
+      "emoji": "-chief",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "trickster",
+        "feud",
+        "canoe"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tama-te-kapua"
+    },
+    {
+      "title_en": "Tamatea Arikinui",
+      "title_zh": "塔马泰亚·阿里基努伊",
+      "summary_en": "Tamatea Arikinui was a Māori chieftain who led the Tākitimu canoe from Hawaiki to New Zealand. Upon arrival, he settled in Tauranga and became an ancestor of the Ngāti Kahungunu iwi. His legacy is intertwined with the voyages that shaped early Māori history in Aotearoa. In some traditions, he was also known for extensive explorations of New Zealand's land.",
+      "summary_zh": "塔马泰亚·阿里基努伊是毛利酋长，他带领塔基提穆号独木舟从哈瓦基来到新西兰。抵达后，他在陶朗加定居，并成为Ngāti Kahungunu部落的祖先。他的遗产与塑造早期毛利人历史紧密相连。在某些传统中，他还因探索新西兰的土地而闻名。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kia Ora",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "exploration"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tamatea_Arikinui"
+    },
+    {
+      "title_en": "Tauira",
+      "title_zh": "塔乌伊拉",
+      "summary_en": "In Māori tradition, Tauira was a legendary ocean-going canoe that played a crucial role in the settlement of New Zealand. Led by the skilled captain Mōtataumaitawhiti, it sailed across treacherous waters and eventually landed at Te Kaha in the eastern Bay of Plenty. This vessel not only carried settlers but also the seeds of future generations, as Panenehu and Te Whānau-ā-Apanui iwi trace their ancestry back to Tauira.",
+      "summary_zh": "在毛利人的传统中，塔乌伊拉是一艘传奇的远洋独木舟，在新西兰定居过程中起到了关键作用。由技艺高超的船长莫塔塔乌迈提瓦希特带领，它穿越了险恶的海域，并最终在东湾的泰卡哈登陆。这艘船只不仅载着移民，还承载着未来的种子，因为潘内胡和特瓦努阿-阿帕尼乌部落都将自己的起源追溯到塔乌伊拉。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kia Ora",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tauira"
+    },
+    {
+      "title_en": "Te Ao Mārama",
+      "title_zh": "泰奥毛拉玛世界",
+      "summary_en": "In the Māori culture, Te Ao Mārama represents the physical world where humans live. It is a realm of knowledge and understanding, often symbolized as 'The World of Light' or 'the Natural World.' This concept helps Māori people navigate their daily lives and understand the interconnectedness of all things in nature.",
+      "summary_zh": "在毛利文化中，泰奥毛拉玛代表人类居住的物理世界。这是一个知识和理解的世界，常被象征为‘光明的世界’或‘自然世界’。这一概念帮助毛利人理解和导航他们的日常生活，并认识到自然界中所有事物之间的相互联系。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "māori",
+        "nature",
+        "knowledge"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Te_Ao_Mārama"
+    },
+    {
+      "title_en": "Te Aratauwhāiti",
+      "title_zh": "特阿塔乌希蒂号独木舟",
+      "summary_en": "In Māori tradition, Te Aratauwhāiti was a legendary ocean-going canoe that played a crucial role in the early settlement of New Zealand. Captained by Tīwakawaka, this vessel was among the first to reach these shores, landing at Whakatāne. Its journey across vast waters symbolizes the bravery and skill of its crew as they navigated uncharted seas to establish new homes for their people.",
+      "summary_zh": "在毛利人的传统中，特阿塔乌希蒂号独木舟是早期新西兰定居的重要船只。由提瓦卡瓦卡指挥的这艘船是最早到达这里的船只之一，停靠在瓦卡塔内。它穿越茫茫大海的航行象征着船员们的勇敢与技艺，他们成功地导航到未知海域为自己的人民建立新家园。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kia Ora",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Te_Aratauwhāiti"
+    },
+    {
+      "title_en": "Te Aratāwhao",
+      "title_zh": "特阿拉塔沃",
+      "summary_en": "In the early days of Māori settlement in New Zealand, Te Aratāwhao was a specially crafted waka designed to transport kumara from their ancestral homeland Hawaiki. Led by Tama-ki-hikurangi, this canoe braved the treacherous journey across the Pacific Ocean. Despite successfully reaching Hawaiki, it stayed there as its captain remained behind, while the crew returned home with supplies in another canoe, Mataatua.",
+      "summary_zh": "在新西兰早期毛利人定居时期，特阿拉塔沃是一艘特别建造的独木舟，用于从他们的祖籍地哈瓦基运输番薯。由蒂马-基希库朗吉带领，这艘独木舟穿越了太平洋。尽管成功抵达哈瓦基，但它留在那里，而船员们带着货物乘另一艘独木舟返回新西兰。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kiaora",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Te_Aratāwhao"
+    },
+    {
+      "title_en": "Te Hoiere",
+      "title_zh": "特霍伊雷号独木舟",
+      "summary_en": "In Māori tradition, Te Hoiere was a legendary canoe that played a crucial role in the settlement of New Zealand. According to Ngāti Kuia lore, Matua Hautere, a descendant of the great explorer Kupe, sailed aboard this vessel from Polynesia to the South Island (Te Waipounamu). Guided by his kaitiaki Kaikaiawaro, Matua Hautere brought with him the seeds of cultural and spiritual heritage that would shape the destiny of his people.",
+      "summary_zh": "在毛利人的传统中，特霍伊雷号独木舟是一艘传奇的船只，在新西兰的定居过程中扮演了至关重要的角色。根据Ngāti Kuia的传说，马图阿·豪特勒是库佩的后裔，他乘着这艘船从波利尼西亚来到南岛（特怀潘努马）。在他的守护者卡凯亚沃罗的指引下，马图阿·豪特勒带来了文化与精神遗产的种子，这些都将塑造其后代的命运。",
+      "country": "New Zealand 新西兰",
+      "emoji": "cano️",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Te_Hoiere_(canoe)"
+    },
+    {
+      "title_en": "Tākitimu",
+      "title_zh": "塔基提穆号独木舟",
+      "summary_en": "The Tākitimu, a legendary waka (canoe) from the Pacific, carried Polynesian migrants to New Zealand from their ancestral homeland Hawaiki. Led by Tamatea, this vessel was part of a great migration that brought people and culture across vast ocean waters, connecting Samoa, the Cook Islands, and Aotearoa through shared heritage.",
+      "summary_zh": "塔基提穆号独木舟是太平洋上的一艘传奇船只，它载着波利尼西亚人从他们的祖籍哈瓦伊基来到了新西兰。由塔马泰亚带领的这次航行是伟大的迁徙之一，将人们和文化带到了广阔的海洋之上，连接了萨摩亚、库克群岛与奥特亚罗瓦。",
+      "country": "New Zealand 新西兰",
+      "emoji": "-initialized:",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "migration"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tākitimu"
+    },
+    {
+      "title_en": "Tāne",
+      "title_zh": "塔内",
+      "summary_en": "In Māori mythology, Tāne is the god of forests and birds, born from his parents Ranginui (the sky father) and Papatūānuku (the earth mother). He separated his parents to bring light into the world and created life in the forests. Tāne is also known as Tāne-mahuta, symbolizing his role as the lord of the forest. His name means 'son of Rangi' and 'Tāne-te-waiora,' meaning 'the god who gives life.'",
+      "summary_zh": "在毛利神话中，塔内是森林和鸟类之神，由天空之父拉基尼乌和大地之母帕帕图阿努库所生。他将父母分开，让世界充满光明，并创造了森林中的生命。塔内的名字还意味着‘拉基的儿子’和‘给予生命的神明’。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🌳",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "forest",
+        "creation",
+        "Māori"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tāne"
+    },
+    {
+      "title_en": "Tāwhirirangi",
+      "title_zh": "塔威里朗吉",
+      "summary_en": "In Māori tradition, Tāwhirirangi was one of the great ocean-going canoes that brought settlers to New Zealand. Captained by Ngāhue, it first landed in Hokianga before venturing southward. Upon reaching the South Island, Ngāhue discovered pounamu, a precious greenstone resource. This voyage and discovery marked an important chapter in Māori history, symbolizing both migration and cultural enrichment.",
+      "summary_zh": "在毛利人的传说中，塔威里朗吉是一艘远洋航船，它带来了第一批定居者来到新西兰。由Ngāhue驾驶的这艘船首先停靠在霍基anga，然后向南航行至南岛。到达南岛后，Ngāhue发现了绿石pounamu，这是一种珍贵的资源。这次航行和发现标志着毛利人历史上的一个重要篇章，象征着迁移与文化繁荣。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kiaora",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement",
+        "pounamu"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tāwhirirangi"
+    },
+    {
+      "title_en": "Edward Tregear",
+      "title_zh": "埃德华·特雷杰尔",
+      "summary_en": "Edward Tregear was a prominent New Zealand public servant and scholar in the late 19th century. He played a crucial role in shaping New Zealand's social reforms, advocating for progressive labor laws that improved workers' rights during a time of significant political change. His work laid the foundation for modern social policies.",
+      "summary_zh": "埃德华·特雷杰尔是新西兰晚19世纪的一位重要公共官员和学者。他积极参与推动了新西兰的社会改革，倡导进步的劳工法律，改善工人权益，在政治变革的关键时期发挥了重要作用。他的工作为现代社会政策奠定了基础。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🌟",
+      "type": "folklore",
+      "tags": [
+        "modern",
+        "social reform"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Edward_Tregear"
+    },
+    {
+      "title_en": "Te Kōhatuwhenua",
+      "title_zh": "特科哈图文瓦",
+      "summary_en": "In Māori tradition, Te Kōhatuwhenua was a legendary ocean-going canoe used in the migrations that settled New Zealand. It played a crucial role in the voyages of early Polynesian settlers, carrying their families and treasures across the vast Pacific Ocean to find new lands. The Ngāti Ruanui and Ngā Rauru tribes trace their ancestry back to Taikehu, the skilled captain who navigated this magnificent vessel with great precision and wisdom.",
+      "summary_zh": "在毛利人的传统中，特科哈图文瓦是一艘传奇的远洋独木舟，用于将早期波利尼西亚人迁移到新西兰。这艘船在太平洋上航行了数千里，带着他们的家人和财宝寻找新的土地。特科哈图文瓦的船长泰基胡是一位技艺高超的航海者，他凭借精准和智慧成功地驾驶着这艘壮丽的船只。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kia Ora 🗺️",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "migration",
+        "ancestry"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Te_Kōhatuwhenua"
+    },
+    {
+      "title_en": "Te Paepae-ki-Rarotonga",
+      "title_zh": "特帕佩-基拉罗托纳号",
+      "summary_en": "In the Māori tradition, Te Paepae-ki-Rarotonga was a legendary canoe that played a crucial role in the settlement of New Zealand. Captained by the noble Waitaha-ariki-kore, this vessel sailed across vast oceans to reach the shores near Matatā, marking an important chapter in the migration stories of early Polynesian settlers.",
+      "summary_zh": "在毛利人的传统中，特帕佩-基拉罗托纳号是一艘传奇的独木舟，在新西兰早期波利尼西亚移民的故事中扮演了重要角色。由贵族瓦塔哈-阿里基-科尔酋长驾驶，这艘船穿越了广阔的海洋，最终抵达马塔塔附近，标志着早期毛利人迁徙的重要篇章。",
+      "country": "New Zealand 新西兰",
+      "emoji": "-initialized:",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "migration"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Te_Paepae-ki-Rarotonga"
+    },
+    {
+      "title_en": "Te Rangimātoru",
+      "title_zh": "特拉尼吉马图鲁号",
+      "summary_en": "Te Rangimātoru was a significant ocean-going canoe used during Māori migrations to New Zealand. It landed at Ohiwa, where it was commanded by Hape-ki-tu-manui-o-te-rangi, who later perished in the South Island. This vessel played a crucial role in the settlement of Aotearoa, symbolizing the bravery and determination of early Māori voyagers.",
+      "summary_zh": "特拉尼吉马图鲁号是一艘重要的远洋独木舟，用于毛利人迁移到新西兰。它在奥伊瓦登陆，并由哈佩-基-图-曼纽伊-奥-泰- rangi指挥，在南岛时不幸去世。这艘船在新西兰的定居过程中扮演了重要角色，象征着早期毛利航海者的勇敢和决心。",
+      "country": "New Zealand 新西兰",
+      "emoji": "-initialized:",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Te_Rangimātoru"
+    },
+    {
+      "title_en": "Te Rangiuamutu",
+      "title_zh": "特拉尼吉阿穆图",
+      "summary_en": "In Māori tradition, Te Rangiuamutu was a significant ocean-going canoe used in the migrations that settled New Zealand. Named after its captain Tamatearokai, this vessel played a crucial role in the voyages across the vast Pacific, carrying families and treasures to their new land. The descendants of those who sailed on Te Rangiuamutu still hold it dear as a symbol of their ancestors' bravery and enduring connection to their homeland.",
+      "summary_zh": "毛利传说中，特拉尼吉阿穆图是一艘重要的远洋独木舟，在移民定居新西兰的过程中发挥了重要作用。这艘船以其船长塔马泰亚罗凯的名字命名，它承载着家人和财宝穿越广阔的太平洋，抵达新的土地。那些曾乘坐特拉尼吉阿穆图的人的后裔仍然将其视为祖先勇敢精神和与故土永恒联系的象征。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🛶",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "migration"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Te_Rangiuamutu"
+    },
+    {
+      "title_en": "Te Rīrino",
+      "title_zh": "特里里诺号",
+      "summary_en": "In the Māori tradition, Te Rīrino was a mighty canoe used in the epic voyages that brought settlers to New Zealand. Commanded by Potoru, it embarked from Mahaena and first touched land at the Boulder Bank on Nelson's coast. Sadly, its journey ended tragically as it sank in the tumultuous Tasman Sea. Te Rīrino stands as a poignant reminder of the challenges faced by early Polynesian navigators.",
+      "summary_zh": "在毛利人的传说中，特里里诺号是用于将定居者带往新西兰的壮丽独木舟之一。由波托鲁指挥，它从玛哈埃纳出发，并首先在尼尔森海岸的鹅卵石滩登陆。不幸的是，它的旅程以悲惨地沉没于塔斯曼海而告终。特里里诺号成为了早期波利尼西亚航海者所面临的挑战的象征。",
+      "country": "New Zealand 新西兰",
+      "emoji": "-initialized:",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Te_Rīrino"
+    },
+    {
+      "title_en": "Te Wakaringaringa",
+      "title_zh": "特瓦卡里纳吉朗加号",
+      "summary_en": "In the rich tapestry of Māori tradition, Te Wakaringaringa was a legendary ocean-going canoe that played a pivotal role in the migrations that settled New Zealand. Led by the skilled captain Māwakeroa, this vessel carried brave voyagers across treacherous seas to establish new lands and forge strong connections with their ancestors. The story of Te Wakaringaringa is a testament to the enduring spirit of exploration and the deep bonds between people and their heritage.",
+      "summary_zh": "在毛利人的传统中，特瓦卡里纳吉朗加号是一艘传奇的远洋独木舟，在定居新西兰的过程中发挥了重要作用。由能干的船长马瓦科罗拉带领，这艘船只载着勇敢的航海者穿越险恶的大海，建立新的土地，并与祖先建立了牢固的联系。特瓦卡里纳吉朗加的故事见证了探索精神的持久力量以及人民与其传统的深厚纽带。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kia Ora",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "migration",
+        "ancestry"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Te_Wakaringaringa"
+    },
+    {
+      "title_en": "Te Wakatūwhenua",
+      "title_zh": "特瓦库图胡瓦努阿号",
+      "summary_en": "In the Māori tradition, Te Wakatūwhenua was one of the great ocean-going canoes that brought settlers to New Zealand. After landing at Cape Rodney, its crew fell ill with a mysterious ailment, leaving behind a legacy of sickness and sorrow. The canoe itself is now remembered as a symbol of both the journey and the tragic fate of those who made it.",
+      "summary_zh": "在毛利人的传统中，特瓦库图胡瓦努阿号是带来新西兰定居者的伟大远洋独木舟之一。该船在雷伊吉北面的科佩 Rodney 落地后，其船员遭受了一种神秘疾病的折磨。这艘船现在被视为旅程和那些踏上它的人悲惨命运的象征。",
+      "country": "New Zealand 新西兰",
+      "emoji": "cano️",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Te_Wakatūwhenua"
+    },
+    {
+      "title_en": "Tinana",
+      "title_zh": "提纳娜号",
+      "summary_en": "In Māori tradition, Tinana was a significant ocean-going canoe used in the migrations that settled New Zealand. Captained by Tūmoana, it first landed at Tauroa Point and then returned to Hawaiki where Tūmoana's nephew Te Parata renamed it Te Māmaru. The canoe later made its way back to Muriwhenua, with the crew sighting land at Pūwheke Mountain before reaching Te Ikateretere near the mouth of the Taipā River. This voyage is crucial for the founding of Ngāti Kahu through the marriage of Te Parata and Kahutianui-a-te-rangi.",
+      "summary_zh": "提纳娜号是毛利人传统中用于定居新西兰的远洋航船。由图莫那指挥，它首先进入塔罗瓦角，然后返回哈瓦基，图莫那的侄子特帕拉将其更名为玛马鲁。后来，这艘船再次回到穆里威努阿，在普韦科山附近登陆，并最终到达塔伊卡特雷特雷附近的塔帕河口。这次航行对Ngāti Kahu的起源至关重要，因为特帕拉与卡胡提安乌伊·阿·特·朗吉结为夫妇。",
+      "country": "New Zealand 新西兰",
+      "emoji": "-initialized:",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "migration",
+        "canoe"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tinana"
+    },
+    {
+      "title_en": "Tinirau and Kae",
+      "title_zh": "提尼拉乌和凯",
+      "summary_en": "In Māori mythology, Tinirau is a sea guardian who breeds fish in his sacred pools on Motutapu island. Hinauri, transformed into a dog by Māui-tikitiki, marries Tinirau after throwing herself into the sea out of grief. She uses incantations to kill Tinirau's other wives and gives birth to Tūhuruhuru. Kae, a priest, is sent with Tinirau's pet whale but abuses it, leading to his capture and death by Tinirau. Tinirau then calls on Whakatau to destroy the tribe of Popohorokewa in revenge.",
+      "summary_zh": "在毛利神话中，提尼拉乌是海的守护者，在莫图塔普岛上的圣池里培育鱼类。希纳乌里因悲伤而跳入大海后被玛-ui-蒂基蒂改变成狗，并嫁给了提尼拉乌。她用咒语杀死了提尼拉乌的其他妻子并生下了吐胡鲁胡鲁。凯，一位祭司，带着提尼拉乌的宠物鲸鱼出海，但虐待了它，最终被希纳乌里和其他女子捉回并杀害。提尼拉乌随后召唤瓦卡塔乌去消灭波波霍罗凯部落以报仇。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🌊",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tinirau_and_Kae"
+    },
+    {
+      "title_en": "Tohunga",
+      "title_zh": "托胡那",
+      "summary_en": "In the rich tapestry of Māori culture, a tohunga was an expert in any field from religious rituals to craftsmanship and leadership. These skilled practitioners were revered for their knowledge and often held high status within their communities. They could be healers who used traditional remedies or priests who conducted sacred ceremonies. Tohunga were also navigators, carvers, builders, teachers, and advisors. Their expertise was passed down through generations, ensuring the continuity of Māori traditions and practices.",
+      "summary_zh": "在毛利人的文化中，托胡那是一位在任何领域都拥有精湛技艺的专家，从宗教仪式到手工艺和领导力。这些高技能的实践者因其知识而备受尊敬，并且通常在社区中地位很高。他们可能是使用传统疗法进行治疗的治愈师或主持神圣仪式的祭司。托胡那是航海员、雕刻家、建筑工人、教师和顾问。他们的专业知识通过几代人传承下来，确保了毛利传统的延续。",
+      "country": "New Zealand 新西兰",
+      "emoji": "uckland",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "craftsmanship",
+        "leadership",
+        "knowledge"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tohunga"
+    },
+    {
+      "title_en": "Tokomaru",
+      "title_zh": "托科马鲁号独木舟",
+      "summary_en": "In Māori tradition, Tokomaru was a legendary ocean-going canoe that played a crucial role in the settlement of New Zealand. Commanded by Manaia after his brother-in-law's death, the vessel carried Manaia and his family across treacherous seas to Whangaparaoa. From there, they settled at Taranaki, where their descendants, including Te Āti Awa, Ngāti Mutunga, and Ngāti Tama, trace their ancestry back to Tokomaru.",
+      "summary_zh": "托科马鲁号独木舟是毛利传说中的一艘传奇远洋独木舟，它在新西兰的定居过程中发挥了重要作用。Manaia 在他岳父死后指挥这艘船穿越险恶的海洋，带着他的家人抵达了旺加帕拉奥亚，并最终定居于塔拉纳基。托科马鲁号上的乘客及其后裔，包括泰阿蒂瓦、 Ngāti Mutunga 和 Ngāti Tama，都将自己追溯到这艘独木舟。",
+      "country": "New Zealand 新西兰",
+      "emoji": "-initialized:",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology",
+        "voyage",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tokomaru_(canoe)"
+    },
+    {
+      "title_en": "Toto",
+      "title_zh": "托托",
+      "summary_en": "In Māori mythology, Toto was a chief in the legendary homeland of Hawaiki. He had two daughters, Kuramārōtini and Rongorongo, each married to different chiefs. Toto carved two canoes from a single tree; one, named Aotea, was given to Turi for his journey to New Zealand. Later, Kupe commandeered the other canoe, Matahourua, taking Kuramārōtini with him on his voyage to explore and settle in New Zealand.",
+      "summary_zh": "在毛利神话中，托托是传说中的故土哈瓦伊基的酋长。他有两个女儿库拉马罗提尼和隆戈隆戈，分别嫁给了不同的酋长。托托用一棵树雕刻了两艘独木舟；一艘名为奥特亚，被图里用于前往新西兰的旅程。后来，库佩夺取了另一艘独木舟玛塔胡鲁瓦，并带着库拉马罗提尼一起探索并定居在新西兰。",
+      "country": "New Zealand 新西兰",
+      "emoji": "-initialized:",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "canoe",
+        "voyage",
+        "exploration"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Toto_(mythology)"
+    },
+    {
+      "title_en": "Turi",
+      "title_zh": "吐里",
+      "summary_en": "Turi was a legendary figure who captained the Aotea canoe on its long voyage from Hawaiki to New Zealand, around 1350 AD. He led his people across treacherous seas and eventually settled in Taranaki, where he became an ancestor of many Māori tribes. His story is a testament to the bravery and determination of early Polynesian settlers as they journeyed to find new lands.",
+      "summary_zh": "吐里是传说中带领阿奥特亚罗亚号独木舟从哈瓦基航行至新西兰的船长，大约在1350年左右。他率领族人穿越险恶的大海，并最终定居于塔拉纳基地区，成为许多毛利部落的重要祖先。吐里的故事展现了早期波利尼西亚人勇敢和决心的精神，他们远航寻找新的土地。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🧥",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Turi_(Māori_ancestor)"
+    },
+    {
+      "title_en": "Tōtara-i-kāria",
+      "title_zh": "托塔拉伊卡里亚号独木舟",
+      "summary_en": "In Māori tradition, Tōtara-i-kāria was a legendary voyaging canoe that played a crucial role in the settlement of New Zealand. The priest Ngātoroirangi sailed this vessel from Hawaiki to the Bay of Plenty region. Upon arrival, he engaged in fierce battles with Manaia's forces at Ihumotomotokia and Whatatiri. After defeating Manaia, Ngātoroirangi returned to his fortified settlement on Mōtītī Island. However, Manaia’s tribe soon retaliated with a fleet of canoes, prompting Ngātoroirangi to chant incantations that summoned a storm, destroying the invaders.",
+      "summary_zh": "托塔拉伊卡里亚号独木舟是毛利传说中的一艘传奇航海独木舟，对新西兰的定居起到了关键作用。祭司Ngātoroirangi驾驶这艘船从哈瓦基出发到达了北岛的湾多丽地区。抵达后，他与Manaia部落进行了激烈的战斗，在Ihumotomotokia和Whatatiri两地交战。击败Manaia后，Ngātoroirangi返回了位于Mōtītī岛上的要塞。然而，Manaia的部族很快派遣了一支船队前来复仇， Ngātoroirangi吟唱咒语召唤风暴摧毁了敌人。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kiaora",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology",
+        "voyaging",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tōtara-i-kāria"
+    },
+    {
+      "title_en": "Tūmatauenga",
+      "title_zh": "吐莫塔乌恩加",
+      "summary_en": "In Māori mythology, Tūmatauenga is the god of war and human activities. He once suggested killing his parents to bring light into the world, but when they were separated instead, he fought alone against his brothers who had hidden away. As a result, Tūmatauenga became the origin of humanity's various activities and behaviors. In modern times, soldiers in New Zealand are considered part of Ngāti Tūmatauenga, under his patronage, regardless of their racial background.",
+      "summary_zh": "在毛利神话中，吐莫塔乌恩加是战争和人类活动之神。他曾建议杀死父母以带来光明，但当他们被分开后，他独自一人对抗那些藏起来的兄弟们。因此，吐莫塔乌恩加成为了人类各种活动和行为的起源。如今，在新西兰，所有士兵都被视为Ngāti 吐莫塔乌恩加的一部分，并受到他的庇护，不论其种族背景。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology",
+        "war",
+        "creation"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tūmatauenga"
+    },
+    {
+      "title_en": "Tūnui-ā-rangi",
+      "title_zh": "吐努伊阿 rangi",
+      "summary_en": "Tūnui-ā-rangi was a legendary ocean-going canoe that played a crucial role in the Māori migrations to New Zealand. This waka, under the guidance of skilled navigators, journeyed from its unknown origins through treacherous waters, landing first at Piercy Island in the Bay of Islands before continuing southward to Ngunguru and Whangārei. Its voyage symbolizes the enduring spirit of exploration and settlement that defined Māori culture.",
+      "summary_zh": "吐努伊阿 rangi 是毛利人迁徙至新西兰时的一艘传奇远洋独木舟。这艘独木舟在熟练的航海者指引下，穿越了险恶的海域，首先停靠在北岛湾的皮尔西岛上，然后继续南行到达 Ngunguru 和 Whangārei。这次航行象征着探索和定居精神，这是毛利文化的核心。",
+      "country": "New Zealand 新西兰",
+      "emoji": "cano️",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "migration"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tūnui-ā-rangi"
+    },
+    {
+      "title_en": "Tūwhakararo",
+      "title_zh": "吐胡卡罗罗",
+      "summary_en": "In Māori mythology, Tūwhakararo was a chief from Hawaiki who faced treachery during a visit to the Āti Hāpai people. After being unfairly treated and murdered in a wrestling match by Poporokewa's brother, Whakatau, his brother, sought revenge. Whakatau led an army that destroyed Ati Hāpai, leading to the Māori migration from Hawaiki. The story highlights themes of betrayal, revenge, and cultural displacement.",
+      "summary_zh": "吐胡卡罗罗是毛利神话中来自哈瓦伊基的一位酋长，在访问阿蒂哈派部落期间遭遇了背叛。在一次摔跤比赛中，他被波普洛克埃瓦兄弟不公平对待，并遭到谋杀。他的哥哥瓦卡陶带领军队摧毁了阿蒂哈派，导致毛利人从哈瓦伊基迁徙。这个故事突出了背叛、复仇和文化迁移的主题。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "revenge",
+        "migration",
+        "hawaiki"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tūwhakararo"
+    },
+    {
+      "title_en": "Tūwhenua",
+      "title_zh": "吐温努阿",
+      "summary_en": "In Māori tradition, Tūwhenua was one of the great ocean-going canoes that carried settlers to New Zealand from Hawaiki. According to legend, Tamatea sailed in this waka and landed at Motu, where he found a tribe of indigenous people already living there. This tale is part of the rich oral history that recounts the migration and settlement of New Zealand by early Polynesian voyagers.",
+      "summary_zh": "吐温努阿是将早期波利尼西亚航海者从哈瓦伊伊带到新西兰的伟大海洋独木舟之一。传说中，塔马泰亚乘坐这艘独木舟抵达莫图时，发现已经有土著部落在那里居住了。这个故事是关于早期波利尼西亚航海者迁徙和定居新西兰的丰富口头历史的一部分。",
+      "country": "New Zealand 新西兰",
+      "emoji": " Kiaora",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tūwhenua"
+    },
+    {
+      "title_en": "Uenuku",
+      "title_zh": "乌努库",
+      "summary_en": "Uenuku is an important atua in Māori tradition, associated with rainbows and battle. In Ngāti Porou and Ngāi Tahu stories, he was the Ariki of Hawaiki with many sons from different wives. Legends tell that if a taua appeared under the rainbow arch, they would be defeated; but appearing to either side meant victory. Uenuku also has a tragic story where he betrays his supernatural wife Hinepūkohurangi and wanders the earth searching for her until he transforms into a personification of the rainbow after death. He is revered by various tribes as an ancestor, with some claiming descent from him through unions with supernatural beings.",
+      "summary_zh": "乌努库是毛利传统中重要的神祇，与彩虹和战争有关。在Ngāti Porou和Ngāi Tahu的故事中，他是哈瓦伊基的酋长，有多个来自不同妻子的儿子。传说中，如果一支战斗队伍出现在彩虹之下，他们会失败；但如果他们站在彩虹两侧，则会获胜。乌努库还有一个悲惨的故事，在背叛了他的超自然妻子希内波库霍鲁尼之后，他四处寻找她直到死后变成了彩虹的形象。各个部落都尊崇他为祖先，并声称通过与超自然生物的结合而继承了其血统。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🌈",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "legend",
+        "rainbow",
+        "ancestral"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Uenuku"
+    },
+    {
+      "title_en": "Uruaokapuarangi",
+      "title_zh": "乌鲁阿卡帕乌拉纳尼号独木舟",
+      "summary_en": "Uruaokapuarangi was one of the legendary ocean-going canoes that carried Māori ancestors to settle in New Zealand. Captained by Rākaihautū, it first landed near Nelson with his wife Waiariki-o-āio and their son Te Rakihouia. The journey across treacherous waters symbolized the bravery and determination of early Polynesian settlers.",
+      "summary_zh": "乌鲁阿卡帕乌拉纳尼号独木舟是传说中带领毛利祖先来到新西兰定居的远洋独木舟之一。由拉凯豪图船长驾驶，它首先在但尼丁附近登陆，携带着他的妻子瓦伊里奥-阿约和他们的儿子特拉基霍亚。穿越险恶海域的旅程象征着早期波利尼西亚移民的勇敢与决心。",
+      "country": "New Zealand 新西兰",
+      "emoji": "-initialized:",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Uruaokapuarangi"
+    },
+    {
+      "title_en": "Urutengangana",
+      "title_zh": "乌鲁滕冈那纳",
+      "summary_en": "In Māori mythology, Urutengangana is the god of light and the firstborn child of Ranginui (Sky Father) and Papatūānuku (Earth Mother). Known as The Gleaming One, he had two wives: Moeahuru and Hineturama. Together they gave birth to celestial bodies like the red sun, waxing moon, and stars. Initially aligned with Whiro, the god of darkness, Urutengangana later switched sides to support Tāne, the god of creation and order, in the eternal struggle between light and darkness.",
+      "summary_zh": "乌鲁滕冈那纳是毛利神话中的光明之神，也是天空之父拉金努伊和大地之母帕帕图阿努库的第一个孩子。被称为光辉之子的他有两个妻子：莫埃胡鲁和希内图拉马。他们共同孕育了诸如红日、新月和星星等天体。起初与黑暗之神维罗并肩作战，后来乌鲁滕冈那纳转向支持创造与秩序之神塔内，在光明与黑暗永恒斗争中站到了光明一方。",
+      "country": "New Zealand 新西兰",
+      "emoji": "☀️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Urutengangana"
+    },
+    {
+      "title_en": "Waipapa (canoe)",
+      "title_zh": "瓦伊帕帕（独木舟）",
+      "summary_en": "In Māori tradition, Waipapa was one of the great ocean-going canoes that brought settlers to Northland in New Zealand. Captained by Kaiwhetu and Wairere, they landed their vessel at Doubtless Bay. The exact location is debated among Rangiaowhia, Taipa, Oruru, or Karikari Peninsula. To mark their arrival, the crew planted tawapou log rollers from Hawaiki on a nearby hill, which grew into a grove of trees that still stand today as a testament to this legendary voyage.",
+      "summary_zh": "在毛利人的传统中，瓦伊帕帕是将定居者带到新西兰北地的远洋独木舟之一。由凯维特和韦雷里指挥，他们在多疑湾登陆。确切的位置在拉尼亚奥希亚、塔伊帕、奥鲁鲁或卡里卡里半岛之间存在争议。为了纪念这次航行，船员们从霍瓦基带来了独木舟滚轮并种植在附近的小山上，这些滚轮长成了一个树林，至今仍作为这次传奇航行的见证。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🛶",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "voyage",
+        "settlement",
+        "canoe"
+      ],
+      "lat": -40.9,
+      "lng": 174.89,
+      "wiki_en": "https://en.wikipedia.org/wiki/Waipapa_(canoe)"
+    },
+    {
+      "title_en": "Wellington Harbour",
+      "title_zh": "惠灵顿港",
+      "summary_en": "Wellington Harbour is a magnificent natural harbor located on the southern tip of New Zealand's North Island, stretching from Cook Strait to the north and bounded by Pencarrow Head. The city of Wellington sits along its western and southern shores, while Lower Hutt lies to the north and east. This harbor has been an integral part of New Zealand’s history and development since European settlement began in the early 19th century.",
+      "summary_zh": "惠灵顿港位于新西兰北岛南端，从库克海峡向北延伸至彭卡罗角。惠灵顿市坐落在其西岸和南岸，而霍塔市则位于东北部。自19世纪初欧洲人定居以来，这个天然港口一直是新西兰历史和发展的重要组成部分。",
+      "country": "New Zealand 新西兰",
+      "emoji": "🌊",
+      "type": "epic",
+      "tags": [
+        "modern"
+      ],
+      "lat": -41.26666667,
+      "lng": 174.85,
+      "wiki_en": "https://en.wikipedia.org/wiki/Wellington_Harbour"
+    }
+  ]
+}
