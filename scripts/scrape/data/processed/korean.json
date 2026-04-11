@@ -1,0 +1,264 @@
+{
+  "meta": {
+    "region": "Korean",
+    "count": 15,
+    "generated": "2026-04-11",
+    "note": "Scraped from Wikipedia, summarized with a local Qwen model via Ollama."
+  },
+  "stories": [
+    {
+      "title_en": "Arang",
+      "title_zh": "阿蓝",
+      "summary_en": "In the folklore of Miryang during the Joseon Dynasty, Arang was a young girl whose wicked nanny conspired to have her raped by Baekga. Despite resisting, she was stabbed and died. Her father, believing she had eloped, resigned in shame. Arang's ghost haunted each new magistrate, seeking justice until Yi Sang-sa took the post and promised to avenge her. He arrested and executed Baekga, finally freeing Miryang from her haunting.",
+      "summary_zh": "在 Joseon 时期的韩国，阿蓝是Miryang的一名少女。她的恶毒奶妈勾结巴格企图强暴她，尽管她极力反抗，最终还是被刺死。她的父亲误以为她私奔，羞愧地辞去了官职。之后每当有新任官员到来，阿蓝的鬼魂都会出现寻求公道。直到义尚斋接任后承诺为她报仇，他逮捕并处决了巴格，终于平息了Miryang的冤魂之苦。",
+      "country": "Korea 韩国",
+      "emoji": "👻",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Arang_(Korean_folklore)"
+    },
+    {
+      "title_en": "Bon-puri",
+      "title_zh": "本浦里",
+      "summary_en": "In Jeju Island, Korea, the Bon-puri is a ritualistic narrative recited by shamans to honor and please the deities. These stories, often in syllabic verse, recount how gods like Gangnim, the psychopomp, or childbirth goddesses came to hold their divine positions. Shamans perform these narratives at shrines dedicated to specific communities or families, seeking divine favor and protection for the community.",
+      "summary_zh": "本浦里是济州岛的一种仪式叙事，由巫师在祭坛上吟诵以敬奉和取悦神灵。这些故事通常以音节数量固定的韵文形式讲述，讲述了如掌管亡灵的 Gangnim 或助产女神等神祇如何获得其神圣地位。巫师会在特定社区或家族的祭坛上表演这些叙事，以求得神灵的庇佑。",
+      "country": "Korea 韩国",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "shamanism"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Bon-puri"
+    },
+    {
+      "title_en": "Creation Myth of Baekje",
+      "title_zh": "百济创世神话",
+      "summary_en": "In ancient Korea, the first king of the Baekje Dynasty, Onjo, and his elder brother Biryu, left their homeland Buyeo after being overlooked for the throne. They wandered until they found a fertile land by the Han River, where Onjo established the Baekje kingdom. This tale symbolizes the journey from exile to prosperity and the founding of a new nation.",
+      "summary_zh": "在古代朝鲜，百济王朝的第一代国王翁仲与其长兄沸流离开被遗忘的扶余国后，踏上了寻找新家园的旅程。最终，他们在汉江边找到了一片肥沃的土地，并由翁仲建立了百济王国。这个故事象征着从流放走向繁荣以及新国家的诞生。",
+      "country": "Korea 韩国",
+      "emoji": "🙏🏼",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "foundational",
+        "migration"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Creation_myth_of_Baekje"
+    },
+    {
+      "title_en": "Dongti",
+      "title_zh": "动地",
+      "summary_en": "In Korean mythology, Dongti refers to divine retribution. When humans commit grave offenses against nature or society, the gods unleash natural disasters as punishment. The story often involves a powerful ruler who defies the heavens, only to face catastrophic consequences that destroy his kingdom and bring about an era of hardship for the people.",
+      "summary_zh": "动地是朝鲜神话中的神罚。当人类对自然或社会犯下严重罪行时，诸神会通过自然灾害进行惩罚。这个故事经常涉及一个违抗天意的君主，在遭受灭顶之灾后，他的王国被摧毁，人民陷入苦难之中。",
+      "country": "Korea 韩国",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "punishment",
+        "nature",
+        "divine"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Dongti"
+    },
+    {
+      "title_en": "Egg Ghost",
+      "title_zh": "鸡蛋鬼",
+      "summary_en": "In Korean folklore, the egg ghost is a peculiar spirit that appears as a shapeless, eyeless, and mouthless entity resembling an egg. Legend says that anyone who encounters this ghost will die soon after. While its origins are not well-documented, some scholars believe it may be a mujagui, or 'childless ghost,' which lacks descendants to perform rituals for them. Over time, these spirits might change their form and hide when they wish.",
+      "summary_zh": "在韩国的民间传说中，鸡蛋鬼是一种无头、无眼、无口、形似鸡蛋的幽灵。传说见到这种鬼的人不久就会死亡。虽然其起源不明，但有学者认为它可能是‘无子鬼’的一种，即没有后代为其举行祭祖仪式的灵魂。随着时间的推移，这些灵魂可能会改变形态并藏匿起来。",
+      "country": "Korea 韩国",
+      "emoji": "👻",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "ghost",
+        "shapeless",
+        "korean"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Egg_ghost"
+    },
+    {
+      "title_en": "Founding Legends of the Goryeo Royal Family",
+      "title_zh": "高丽王氏起源传说",
+      "summary_en": "In ancient Korea, a nobleman named Wang Kŏn was said to have been born from an egg laid by a sacred crane. He united the warring states and founded the Goryeo dynasty in the 10th century AD, bringing peace and prosperity to the land. His descendants continued to rule for centuries, establishing a legacy of cultural and political stability.",
+      "summary_zh": "在古代朝鲜，一位名为王建的贵族据说是由一只圣鹤所下的蛋孵化而出。他统一了战乱不断的诸侯国，并于10世纪建立了高丽王朝，为这片土地带来了和平与繁荣。他的后裔继续统治数个世纪之久，奠定了文化与政治稳定的基础。",
+      "country": "Korea 韩国",
+      "emoji": "👑",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "royal",
+        "unification"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Founding_legends_of_the_Goryeo_royal_family"
+    },
+    {
+      "title_en": "Gunung Bonpuri",
+      "title_zh": "军雄本戏",
+      "summary_en": "In the Korean myth of Gunung Bonpuri, the Gunungsin, or war deities, play a central role. These powerful beings are said to have fought valiantly in ancient battles, their prowess and might ensuring victory for their people. The story draws parallels with the Jakjaegeon myth from the 9th century, depicting a world where divine warriors shaped the destiny of kingdoms through their valor and strategy.",
+      "summary_zh": "在韩国的军雄本戏中，军雄神，即战争之神，在古代战斗中扮演着重要角色。这些强大的存在以其英勇和力量确保了人民的胜利。这个故事与9世纪的jakjaegeon神话相呼应，描绘了一个由勇士塑造命运的世界。",
+      "country": "Korea 韩国",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "korean mythology"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Gunung_Bonpuri"
+    },
+    {
+      "title_en": "Gunungsin",
+      "title_zh": "群雄神",
+      "summary_en": "In Korean mythology, the Gunungsin are war deities revered for their martial prowess and divine strength. They emerged from ancient legends and were not to be confused with historical generals who became gods posthumously. These powerful spirits were worshipped by warriors seeking victory in battle, embodying the essence of military might and valor.",
+      "summary_zh": "在韩国神话中，群雄神是战神，以其武勇和超凡的力量而闻名。他们源自古代传说，并不与那些战死后被封为神的将领（如崔永或金庾信）混淆。这些强大的灵体受到战士们的崇拜，他们是军事力量和勇气的化身。",
+      "country": "Korea 韩国",
+      "emoji": "🙏🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "war",
+        "deity"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Gunungsin"
+    },
+    {
+      "title_en": "Hwanung",
+      "title_zh": "桓因之子桓雄",
+      "summary_en": "In ancient Korea, Hwanung, son of the Heavenly Lord, descended to Earth with his ministers of clouds, rain, and wind. There, he taught humans about agriculture, medicine, and various arts, establishing laws and moral codes. His teachings laid the foundation for civilization, paving the way for Dangun Wanggeom to establish Gojoseon, the first Korean kingdom.",
+      "summary_zh": "在古代韩国，桓因之子桓雄偕同云、雨、风三位大臣降临人间。他教导人类农耕、医药和各种技艺，并制定了法律与道德规范。这些教诲为檀君王儉建立高句丽奠定了文明的基础。",
+      "country": "Korea 韩国",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Hwanung"
+    },
+    {
+      "title_en": "Igong Maji",
+      "title_zh": "伊公 맞이",
+      "summary_en": "In Jeju Island, Korea, the Igong Maji is a traditional shamanistic ritual performed to honor Igong, the god of flowers. Although not widely recognized in daily life, this ceremony is an integral part of larger gut rituals, where villagers gather to pray for bountiful harvests and prosperity through their reverence for nature’s bounty.",
+      "summary_zh": "在韩国济州岛，伊公迎是一种传统的巫术仪式，用于尊敬伊公——花神。尽管伊公在日常生活中并不重要，但这一仪式是更大规模的 gut 礼仪的一部分，在此期间村民们聚集在一起祈求丰收和繁荣，并通过敬拜自然之恩赐来表达他们的敬畏。",
+      "country": "Korea 韩国",
+      "emoji": "🌸🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "shamanism",
+        "nature",
+        "ritual"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Igong_Maji"
+    },
+    {
+      "title_en": "Igong Bonpuri",
+      "title_zh": "伊公本图里",
+      "summary_en": "In the ancient land of Jeju, Igong, a wise and powerful shaman, lived in a mystical hall. One day, he discovered a magical book that contained the secrets of the universe. As he read, visions of distant lands and future events unfolded before him. The people of Jeju revered Igong for his wisdom and foresight, but his knowledge also brought envy. A jealous rival tried to steal the book, leading to a fierce battle between good and evil. In the end, Igong's wisdom prevailed, and he continued to guide the island with his profound insights.",
+      "summary_zh": "在济州岛的古老土地上，伊公是一位智慧而强大的巫师，他居住在一个神秘的宫殿中。有一天，他发现了一本神奇的书，书中记载了宇宙的秘密。当他阅读时，眼前出现了远方的土地和未来的景象。济州岛的人们敬仰伊公的智慧和远见卓识，但他的知识也带来了嫉妒。一个嫉妒的对手试图偷走这本书，导致了一场善与恶之间的激烈战斗。最终，伊公的智慧占了上风，他继续用深刻的见解指导着岛屿。",
+      "country": "Korea 韩国",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "shamanism",
+        "wisdom",
+        "battles"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Igong_bon-puri"
+    },
+    {
+      "title_en": "Inmyeonjo",
+      "title_zh": "人面鸟",
+      "summary_en": "The Inmyeonjo, a mythical bird with a human face, is a sacred creature from ancient Korean folklore. Often depicted as female figures in tomb murals of the Three Kingdoms period, these beings symbolize longevity and connect the sky to the land. They appear in various artifacts such as Goguryeo tombs, Silla gilt-bronze shoes, and Baekje incense burners. In 2018, an Inmyeonjo puppet was featured during the opening ceremony of the PyeongChang Winter Olympics, bringing this ancient symbol to modern attention.",
+      "summary_zh": "人面鸟是朝鲜古代神话中的神圣生物，常以女性形象出现在高句丽时期的墓壁画中。这些生物象征着长寿，并连接天空与大地。它们出现在高句丽、新罗和百济的各种文物中，如金铜鞋、香炉等。2018年平昌冬奥会开幕式上的人面鸟木偶将这一古老的符号带到了现代。",
+      "country": "Korea 韩国",
+      "emoji": "🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Inmyeonjo"
+    },
+    {
+      "title_en": "Jangseung",
+      "title_zh": "长生",
+      "summary_en": "In Korean folklore, jangseungs are wooden guardian figures placed at the edges of villages to protect against evil spirits. These statues often depict a warrior figure, either male or female, with inscriptions that bestow titles such as 'Great General of All Under Heaven.' In some regions, especially in Jeolla and Gyeongsang provinces, jangseungs are carved from stone and resemble the dolhareubangs of Jeju Island. The tradition is deeply rooted in Korean culture, symbolizing community protection and spiritual guardianship.",
+      "summary_zh": "在韩国的民间传说中，长生是放置在村庄边缘的木制守护雕像，用以驱赶邪恶灵体。这些雕像通常描绘一位战士形象，男女皆有之，并刻有诸如“天下大将军”的称号。特别是在庆尚、全罗等地区，长生多由石头雕刻而成，与济州岛的道拉鲁邦相似。这一传统深深植根于韩国文化中，象征着社区保护和精神守护。",
+      "country": "Korea 韩国",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "korean folklore"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Jangseung"
+    },
+    {
+      "title_en": "Jeonggamnok",
+      "title_zh": "正鑑錄",
+      "summary_en": "The Jeonggamnok is a prophetic work that foretold the fall of the Joseon dynasty and the rise of a new utopian kingdom led by a messianic 'True Man' with the surname Jeong. This text, originally compiled during the middle of the Joseon period, inspired numerous insurrectionist movements and claims to political legitimacy throughout Korean history. As it was copied and updated over time, its messages evolved to reflect contemporary events, making it a dynamic source of revolutionary ideology.",
+      "summary_zh": "正鑑錄是一部預言Joseon王朝將會崩潰，並由姓鄭的「真男」領導建立一個新的烏托邦國度的作品。這部作品最初在 Joseon 中期編纂而成，一直以來啟發了許多叛亂運動和政治合法性的主張。隨著時間推移，它被多次抄寫和更新，以反映當前事件，使其成為革命思想的重要來源。",
+      "country": "Korea 韩国",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "utopian",
+        "revolution",
+        "prophesy"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Jeonggamnok"
+    },
+    {
+      "title_en": "Korean Creation Narratives",
+      "title_zh": "韩国创世叙事",
+      "summary_en": "In Korean creation narratives, two gods compete to rule the human world by growing flowers. Mireuk, a benevolent god, wins with his superior blossom but is tricked by Seokga, who steals it while Mireuk sleeps and becomes the ruler of humanity. Another narrative tells of two suns and moons causing extreme weather until a deity destroys one of each to create balance. In Jeju Island's Cheonji-wang bon-puri, celestial deity Cheonji-wang impregnates an earthly woman, giving birth to twin boys who ascend to heaven and defeat the duplicitous Sobyeol-wang to establish justice.",
+      "summary_zh": "在韩国创世叙事中，两位神祇通过种花来争夺人类世界的统治权。仁目（Mireuk）是一位善神，他以更美的花朵获胜，但被狡猾的石加（Seokga）趁其熟睡时偷走。于是石加成为人间之主，并将邪恶带入世界。另一个故事讲述了两个太阳和月亮导致极端天气，直到一位天神摧毁了其中的一对来创造平衡。而在济州岛的《cheonjiwang bon-puri》中，天神cheonjiwang与人间女子结合生下双胞胎兄弟，他们升天后击败了狡诈的soyeol-wang，并在人间建立了正义。",
+      "country": "Korea 韩国",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology",
+        "buddhism",
+        "east_asia"
+      ],
+      "lat": 35.91,
+      "lng": 127.77,
+      "wiki_en": "https://en.wikipedia.org/wiki/Korean_creation_narratives"
+    }
+  ]
+}

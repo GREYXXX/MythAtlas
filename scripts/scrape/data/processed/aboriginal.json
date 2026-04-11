@@ -1,0 +1,838 @@
+{
+  "meta": {
+    "region": "Aboriginal",
+    "count": 48,
+    "generated": "2026-04-11",
+    "note": "Scraped from Wikipedia, summarized with a local Qwen model via Ollama."
+  },
+  "stories": [
+    {
+      "title_en": "Aboriginal Sites of New South Wales",
+      "title_zh": "新南威尔士州原住民遗址",
+      "summary_en": "The Aboriginal sites in New South Wales, Australia, are a testament to the rich cultural heritage of the Indigenous peoples who once thrived here. These sites include rock carvings, paintings, and other artifacts that provide insights into their daily lives, spiritual practices, and historical events. Many of these sites were recognized for their significance by being included on the Register of the National Estate before its dissolution.",
+      "summary_zh": "澳大利亚新南威尔士州的原住民遗址展示了该地区原住民丰富的文化遗产。这些遗址包括岩画、绘画和其他文物，揭示了他们的日常生活、精神实践和历史事件。许多遗址曾在国家财产登记册上被认可，但在其解散前已被移除。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "indigenous",
+        "cultural heritage"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Aboriginal_sites_of_New_South_Wales"
+    },
+    {
+      "title_en": "Aboriginal Sites of Victoria",
+      "title_zh": "维多利亚原住民遗址",
+      "summary_en": "For more than 40,000 years, the Aboriginal people of Victoria have left their mark on the land through a variety of sites. These include shell middens where they feasted and discarded tools, ceremonial grounds where rituals were performed, and scarred trees that bear witness to ancient practices. Stone artefacts scattered across the landscape tell the story of daily life and the craftsmanship of these early Australians. Each site is a testament to their enduring connection with the land and their rich cultural heritage.",
+      "summary_zh": "维多利亚原住民在超过40,000年的时光中，通过各种遗址留下了他们的足迹。这些遗址包括贝壳堆积层，人们在这里聚餐并丢弃工具；仪式场地，这里举行过古老的仪式；还有被砍痕标记的树木，见证了古老习俗的存在。散布在地面上的石器碎片讲述了日常生活的点点滴滴和早期澳大利亚人的精湛工艺。每个遗址都是他们与土地持久联系以及丰富文化遗产的见证。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "aboriginal",
+        "australian",
+        "cultural heritage"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Aboriginal_sites_of_Victoria"
+    },
+    {
+      "title_en": "Arrange",
+      "title_zh": "阿兰古鲁 (Karlu Karlu)",
+      "summary_en": "In the Aboriginal Australian creation myth of the Alyawarre people, Arrange, known as the devil man, journeyed from Ayleparrarntenhe. As he crafted a hair belt, clusters of hair fell to the ground and transformed into boulders seen today at Karlu Karlu. Returning later, he spat on the earth, creating the central granite boulders that stand as silent sentinels in the landscape.",
+      "summary_zh": "阿兰古鲁是阿拉瓦雷人创世神话中的邪灵男子，他从Ayleparrarntenhe出发。在制作毛发腰带的过程中，他掉落了许多毛发，这些毛发化作了如今的卡鲁卡鲁巨石。后来当他返回时，他在地上吐了一口唾沫，形成了卡鲁卡鲁中心的花岗岩巨石。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "aboriginal",
+        "creation"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Arrange"
+    },
+    {
+      "title_en": "Australian Aboriginal Astronomy",
+      "title_zh": "澳大利亚原住民天文学",
+      "summary_en": "Australian Aboriginal astronomy is a rich oral tradition that guides navigation and timekeeping across the vast continent. Constellations like Emu in the Sky, based on dark patches of the night sky, complement more familiar ones such as Orion and the Pleiades. These celestial maps are integral to their cultural practices and daily lives, reflecting a deep understanding of the cosmos passed down through generations.",
+      "summary_zh": "澳大利亚原住民天文学是指导穿越广阔大陆航行和时间管理的丰富口头传统。如“天空中的鸸鹋”这样的星座，基于夜空中较暗的部分，与更熟悉的猎户座和昴星团等星座相辅相成。这些天体图谱在他们的文化实践和日常生活中至关重要，反映了代代相传对宇宙深刻的理解。",
+      "country": "Australia 澳大利亚",
+      "emoji": "-stars-",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "astronomy",
+        "navigation",
+        "oral tradition"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Australian_Aboriginal_astronomy"
+    },
+    {
+      "title_en": "Australian Aboriginal Sacred Site",
+      "title_zh": "澳大利亚原住民圣地",
+      "summary_en": "In Australia, sacred sites are considered holy places by Aboriginal Australians, created by ancestral beings during the Dreamtime. These sites, which can be any feature in the landscape or even underwater, hold deep cultural and spiritual significance. Access to these sites is often restricted based on clan membership or other factors. Despite legal protections under Australian heritage laws, many sacred sites remain at risk from mining and development. The destruction of a rock shelter at Juukan Gorge by Rio Tinto highlights the ongoing challenges faced by Aboriginal Australians in preserving their cultural heritage.",
+      "summary_zh": "澳大利亚原住民认为，圣地是由远古祖先在创世时期（Dreamtime）创造的神圣之地。这些地方可以是任何自然景观特征，甚至包括海底区域，都具有深远的文化和精神意义。这些圣地通常根据血缘关系或其他因素限制访问。尽管有澳大利亚遗产法的保护，许多圣地仍然面临采矿和其他开发活动的威胁。Rio Tinto在朱卡恩峡谷进行矿产勘探时炸毁了一处具有文化和考古价值的岩洞遗址，凸显了原住民保护文化遗产所面临的持续挑战。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "australian",
+        "aboriginal",
+        "dreamtime",
+        "ancient"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Australian_Aboriginal_sacred_site"
+    },
+    {
+      "title_en": "Australian Legendary Tales",
+      "title_zh": "澳大利亚传说故事集",
+      "summary_en": "Australian Legendary Tales is a collection of stories passed down through generations by Aboriginal Australians, capturing their rich oral tradition. These tales, often filled with magical elements and moral lessons, were shared with K. Langloh Parker who compiled them into a book. The stories include the adventures of Dreamtime creatures and heroes, teaching young Australians about their land and ancestors. Over time, these narratives have become an integral part of Australian literature, celebrated for their cultural significance.",
+      "summary_zh": "《澳大利亚传说故事集》是K. Langloh Parker根据澳大利亚原住民口述整理而成的一部作品。这些故事充满了神奇的元素和道德教训，讲述了梦时代生物和英雄的冒险经历，教导年轻一代关于他们的土地和祖先的故事。随着时间的推移，这些叙事已成为澳大利亚文学的重要组成部分，并因其文化意义而受到推崇。",
+      "country": "Australia 澳大利亚",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "australian",
+        "aboriginal",
+        "dreamtime",
+        "ancient"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Australian_Legendary_Tales"
+    },
+    {
+      "title_en": "Baijini",
+      "title_zh": "拜吉尼人",
+      "summary_en": "The Baijini are a group of mythical people featured in the Djanggawul song cycle, an important cultural narrative among the Yolngu people of Arnhem Land. These beings are believed to have brought culture and knowledge to the region, though their origins remain shrouded in mystery, with some speculating they might be connected to historical immigrants from China or Southern Asia.",
+      "summary_zh": "拜吉尼人是澳大利亚阿纳尔姆土地上的尤伦古族人在《丹加瓦卢歌系》中提到的神话人物。这些神秘的文化传播者被认为是将文化和知识带到了这片地区，但他们的起源仍然充满谜团，有人猜测他们可能与来自中国或南亚的历史移民有关。",
+      "country": "Australia 澳大利亚",
+      "emoji": "澳大利亞土著",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Baijini"
+    },
+    {
+      "title_en": "Baralku",
+      "title_zh": "巴拉库岛",
+      "summary_en": "In the mythology of the Yolngu people, Baralku is an island where the Djanggawul ancestors originated before their journey to Yalangbara. Guided by Barnumbirr, the creator-spirit symbolized as Venus, these ancestral beings gave birth to the Rirratjingu clan. Baralku serves as a place of origin and death, representing the cyclical nature of life in Aboriginal Australian belief.",
+      "summary_zh": "在奥伦古人的神话中，巴拉库岛是Djanggawul祖先的起源之地，在前往yalangbara的路上，他们在那里孕育了Rirratjingu氏族。Barnumbirr作为创造精神，象征着金星，她引导着这些祖先们。巴拉库岛既是生命的起点也是终点，反映了澳大利亚原住民关于生命循环的观点。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "australian mythology"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Baralku"
+    },
+    {
+      "title_en": "Bluetongue Lizard",
+      "title_zh": "蓝舌头蜥蜴",
+      "summary_en": "In Australian Aboriginal mythology, Bluetongue Lizard was an old and cunning trickster who possessed immense magical powers. He played pivotal roles in the Warlpiri fire ceremonies, which were central to their spiritual practices. Though revered as a deity by some, Bluetongue Lizard remained more of a powerful sorcerer whose mischievous deeds often brought both chaos and enlightenment to his people.",
+      "summary_zh": "在澳大利亚原住民的瓦尔普里族神话中，蓝舌头蜥蜴是一位老迈而狡猾的弄臣，拥有强大的魔法力量。他在瓦尔普里族的火祭仪式中扮演着重要角色，这些仪式是他们精神实践的核心。尽管有些人将他视为神明，但蓝舌头蜥蜴更多地被认为是一个强大而又充满智慧的巫师，他的恶作剧常常给人们带来混乱和启示。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "trickster",
+        "sorcery",
+        "ceremony"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Bluetongue_Lizard"
+    },
+    {
+      "title_en": "Bora",
+      "title_zh": "波拉",
+      "summary_en": "In Eastern Australia, young men approaching puberty undergo the Bora ceremony, a rite of passage that transforms them into full members of their tribe. Initiation involves painful physical rituals such as scarification and circumcision, followed by intense spiritual teachings. The ceremony is a communal event where multiple clans gather to celebrate and impart knowledge, with women and children excluded from the sacred grounds. This ritual marks the transition from boyhood to manhood in Aboriginal culture.",
+      "summary_zh": "在澳大利亚东部，即将成年的年轻男子会经历波拉仪式，这是一次将他们转变为部落完全成员的过渡仪式。初诞涉及痛苦的身体仪式，如文身和割礼，随后是深刻的灵性教导。这是一个集体活动，在这里多个氏族聚集庆祝并传授知识，妇女和儿童被禁止进入神圣的场地。这种仪式标志着从男孩到男人的转变。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "aboriginal",
+        "ritual",
+        "initiation"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Bora_(Australian)"
+    },
+    {
+      "title_en": "Brewarrina Aboriginal Fish Traps",
+      "title_zh": "布雷瓦里纳原住民捕鱼陷阱",
+      "summary_en": "The Brewarrina Aboriginal Fish Traps, located on the Barwon River in Australia, are a testament to ancient indigenous ingenuity. These intricate weirs, known as Baiame's Ngunnhu, Nonah, or Nyemba, span over a kilometer and were built by the local Aboriginal people to catch fish efficiently. The traps are part of the Brewarrina Aboriginal Cultural Museum, which celebrates the rich history and culture of the area. Although their exact age remains unknown, they are believed to be among the oldest human constructions in the world, symbolizing the deep connection between the land and its custodians.",
+      "summary_zh": "布雷瓦里纳原住民捕鱼陷阱位于澳大利亚的巴罗温河上，是古代土著智慧的见证。这些复杂的鱼塘被称为Baiame's Ngunnhu、Nonah或Nyemba，跨越一公里以上，由当地土著人民建造以高效捕捞鱼类。这些鱼塘是布雷瓦里纳原住民文化博物馆的一部分，庆祝该地区的丰富历史和文化。尽管它们的确切年龄尚不清楚，但人们认为它们可能是世界上最古老的建筑之一，象征着土地与其守护者之间深厚的关系。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🐟",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "aboriginal",
+        "fishery",
+        "cultural heritage"
+      ],
+      "lat": -29.958,
+      "lng": 146.8534,
+      "wiki_en": "https://en.wikipedia.org/wiki/Brewarrina_Aboriginal_Fish_Traps"
+    },
+    {
+      "title_en": "Budj Bim",
+      "title_zh": "布吉比姆",
+      "summary_en": "Budj Bim is a sacred site for the Gunditjmara people of Australia, where they believe a creator-being lived and created an extensive aquaculture system. The volcanic landscape, formed by the eruption of Mount Eccles more than 30,000 years ago, became home to the Gunditjmara who developed sophisticated water management techniques up to 8,000 years ago. This area is now a UNESCO World Heritage Site and an important part of Indigenous Australian history and culture.",
+      "summary_zh": "布吉比姆是澳大利亚冈迪吉贾拉人（Gunditjmara）的圣地，他们相信这里曾居住着一位创造者。该地区由3万多年前埃克斯火山喷发形成，成为冈迪吉贾拉人的家园。人们在此开发了复杂的水管理系统，距今已有8000多年的历史。如今，布吉比姆已成为联合国教科文组织世界遗产，并且是澳大利亚原住民历史和文化的重要组成部分。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🌍",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology",
+        "aquaculture",
+        "volcanism"
+      ],
+      "lat": -38.08333333,
+      "lng": 141.9,
+      "wiki_en": "https://en.wikipedia.org/wiki/Budj_Bim_heritage_areas"
+    },
+    {
+      "title_en": "Bunjil's Shelter",
+      "title_zh": " bunjil 的避難所 ",
+      "summary_en": "In the heart of Australia, near Stawell, lies Bunjil’s Shelter, a sacred site where the creator-being Bunjil is depicted alongside two dogs. This shelter, within the Black Range Scenic Reserve, holds profound cultural significance for the Koori people. The painting, a rare representation of Bunjil, has stood the test of time, enduring vandalism and human curiosity to remain a testament to ancient beliefs.",
+      "summary_zh": "在澳大利亚的格兰普斯山脉，靠近斯特威尔的地方，有一个名为 bunjil 的避難所。在这里，创造了这个世界的神灵 bunjil 和两只狗被描绘在岩石上。这个庇护所在布莱克山风景保护区中，对科里人来说具有深远的文化意义。这幅画是关于 bunjil 最为罕见的描绘之一，历经时间和人类破坏仍然保存至今。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "australian folklore"
+      ],
+      "lat": -37.13941111,
+      "lng": 142.73331944,
+      "wiki_en": "https://en.wikipedia.org/wiki/Bunjil's_Shelter"
+    },
+    {
+      "title_en": "Daramulum",
+      "title_zh": "达拉鲁姆",
+      "summary_en": "In Aboriginal cultures of south-east Australia, Daramulum, a one-legged sky hero and shapeshifter, is revered alongside Baiame. He is often depicted with an emu wife in rock art, where he appears as a semi-profile figure with a large foot and pointed buttocks. His voice can be heard through the bullroarer used during initiation ceremonies. Daramulum resides in tree burls but descends for these rituals, his spirit embodied only in certain trees. For the Guringai people, Alpha Crucis represents him, while the rest of the Southern Cross symbolizes his emu wife.",
+      "summary_zh": "在澳大利亚东南部的土著文化中，达拉鲁姆是一位独腿的天空英雄和变形者，他与巴伊梅一同受到崇拜。他在岩画中常被描绘成半侧面的形象，拥有大脚和尖臀，并且他的妻子是天上的鸸鹋。他的声音可以通过仪式中使用的bullroarer听到。达拉鲁姆居住在树瘤中，但在仪式期间会下到地面。只有从含有他灵魂的树木上制作的bullroarer才能发挥作用。对于古里尼亚人而言，南十字星中的阿尔法星代表达拉鲁姆，而其余部分则象征着他的天际鸸鹋妻子。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "australian"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Daramulum"
+    },
+    {
+      "title_en": "Dreaming",
+      "title_zh": "梦之族",
+      "summary_en": "In Australian Aboriginal art, a Dreaming is a sacred and powerful concept that connects the people to their ancestors and the land. It's not just an artwork but a living story passed down through generations. The term was popularized by Geoffrey Bardon in the 1970s when he worked with the Papunya Tula artist collective. These artists used Dreamings to create intricate designs, linking their cultural heritage with modern expression.",
+      "summary_zh": "在澳大利亚原住民艺术中，梦之族是一种神圣而强大的概念，将人们与其祖先和土地联系在一起。它不仅仅是艺术品，而是代代相传的活生生的故事。1970年代，盖伊弗·巴登与帕普尼塔鲁艺术家集体合作时，推广了这一术语。这些艺术家通过创造复杂的图案来连接他们的文化遗产与现代表达。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "aboriginal",
+        "dreamtime"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Dreaming_(Australian_Aboriginal_art)"
+    },
+    {
+      "title_en": "Emu and the Jabiru",
+      "title_zh": "鸸鹋和朱鹭",
+      "summary_en": "In an ancient Australian Aboriginal myth, two brothers-in-law engaged in a fierce argument over a piece of meat. Their quarrel escalated until they transformed into the first emus and jabirus, forever separating their spirits from each other. This tale teaches about the consequences of greed and conflict.",
+      "summary_zh": "在澳大利亚原住民的古老传说中，两位姻兄弟因一块肉而发生激烈争执。他们的争吵愈演愈烈，最终变成了第一只鸸鹋和朱鹭，从此将彼此的灵魂永远分开。这个故事告诫人们贪婪和冲突的后果。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🦵",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "australian"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Emu_and_the_Jabiru"
+    },
+    {
+      "title_en": "The Dreaming",
+      "title_zh": "创世时期",
+      "summary_en": "The Dreaming, or Dreamtime, refers to a complex religious and cultural worldview in Australian Aboriginal mythology. It represents the era when ancestral figures roamed the land with supernatural abilities, shaping the landscape and setting down laws that continue to influence Aboriginal life today. This timeless period is believed to be an eternal cycle of creation and destruction, where the spiritual and physical worlds are intertwined.",
+      "summary_zh": "创世时期是澳大利亚原住民神话中的一个复杂宗教和文化观念。它代表了一个远古时代，那时的祖先拥有超自然的能力，在这片土地上自由穿行并塑造了地貌，同时也制定了指导后人生活的法则。这一永恒循环的创造与毁灭时期将精神世界与物质世界紧密相连。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/The_Dreaming",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/梦创时代"
+    },
+    {
+      "title_en": "Erathipa",
+      "title_zh": "厄拉蒂帕",
+      "summary_en": "In Australian Aboriginal mythology, Erathipa is a sacred boulder believed to house the souls of deceased children, waiting for young women who wish to have babies. When barren women approach the rock, they pretend to be old and weak, hoping to gain fertility from the spirits dwelling within. The Arrernte people preserve this belief, using rituals to honor the stone's power over life and death.",
+      "summary_zh": "在澳大利亚原住民神话中，厄拉蒂帕是一块含有已故儿童灵魂的神圣巨石，等待着希望生育的年轻女性。当不育的妇女接近这块岩石时，她们会假装自己是年老体弱的人，并哭泣道：“不要靠近我，我已经是个老妇人了！”人们相信这些石头具有使不孕妇女受孕的能力，因为它们蕴含着祖先的灵魂或其形状像怀孕的女人。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "australian",
+        "ancient",
+        "mythology",
+        "fertility"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Erathipa"
+    },
+    {
+      "title_en": "Grampians National Park",
+      "title_zh": "格兰披治国家公园",
+      "summary_en": "The Grampians, a majestic range of sandstone mountains in Victoria, Australia, stands as a testament to both natural beauty and ancient Aboriginal culture. The park, covering over 167,000 hectares, is renowned for its rich rock art sites, with the Gariwerd area alone boasting about 90% of the state's rock art. Since being declared a national park in 1984, it has also gained recognition as part of Australia’s National Heritage List.",
+      "summary_zh": "格兰披治国家公园位于澳大利亚维多利亚州，是一片由砂岩构成的壮丽山脉。该公园占地超过167000公顷，以其丰富的岩石艺术而闻名，其中Gariwerd地区占据了该州约90%的岩石艺术品。自1984年被宣布为国家公园以来，它还被列入了澳大利亚的国家遗产名录。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🏞️",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "natural beauty",
+        "aboriginal culture"
+      ],
+      "lat": -37.20777778,
+      "lng": 142.39972222,
+      "wiki_en": "https://en.wikipedia.org/wiki/Grampians_National_Park",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/格蘭坪國家公園"
+    },
+    {
+      "title_en": "Green Island",
+      "title_zh": "绿岛 (Lǜdǎo)",
+      "summary_en": "Green Island is a small marine island located off the coast of Queensland, Australia. It has a rich history and cultural significance for the local Indigenous people. According to legend, the island was once home to a powerful spirit who protected the waters around it. The island's name comes from its lush greenery, which stands in stark contrast to the surrounding turquoise sea. Today, Green Island is known as a popular tourist destination, offering breathtaking views and opportunities for snorkeling and diving.",
+      "summary_zh": "绿岛位于澳大利亚昆士兰州海岸外，是一个小的海洋岛屿。它对当地土著居民有着丰富的历史和文化意义。传说中，岛上曾居住着一位强大的灵体，保护着周围的水域。绿岛的名字来源于其茂密的绿色植被，与周围蔚蓝的海水形成了鲜明对比。如今，绿岛因其壮丽的景色和潜水机会而成为热门旅游目的地。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🌊",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "modern"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Green_Island_(Queensland)"
+    },
+    {
+      "title_en": "Guruwari",
+      "title_zh": "古鲁瓦里",
+      "summary_en": "In the Warlpiri culture of Australia, Guruwari is a concept deeply rooted in The Dreaming, where every action or process leaves an energetic imprint on the land. This 'seed power' not only shapes the physical landscape but also imbues it with metaphysical significance, connecting the tangible world to the spiritual realm through the intricate patterns left behind by all life.",
+      "summary_zh": "在澳大利亚瓦尔普里族的文化中，古鲁瓦里是一种根植于创世时期的观念。每一次行动或过程都会在土地上留下能量的印记。这种‘种子力量’不仅塑造了物理景观，还赋予其深层的精神意义，通过所有生命留下的复杂图案将现实世界与精神领域联系起来。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "indigenous",
+        "energetic residue"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Guruwari"
+    },
+    {
+      "title_en": "Inma Board",
+      "title_zh": "因玛板",
+      "summary_en": "The Inma board is a sacred soul-board in Australian Aboriginal mythology, connecting individuals to their ancestors and the songlines of their forebears. According to Western Desert communities, the Wati-kutjara, represented by dark patches in the Milky Way between Centaurus and Cygnus, was thrown into the heavens as part of a song verse. This board serves not only as a spiritual link but also as a magic weapon for the people.",
+      "summary_zh": "因玛板是澳大利亚土著神话中的神圣灵魂板，连接个人与其祖先以及先辈的歌线。根据西部沙漠社区的说法，代表银河系中船底座和天鹅座之间暗斑的瓦蒂-库特贾拉被投掷到天际，并在歌曲中唱诵。这块板不仅是精神纽带，也是土著人民的魔法武器。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "australian",
+        "mythology",
+        "astronomy"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Inma_board"
+    },
+    {
+      "title_en": "Iʼwai",
+      "title_zh": "伊瓦伊",
+      "summary_en": "In Australian Aboriginal mythology, Iʼwai is revered as a culture hero among the Koko Ya'o people. As a crocodilian man, he brought forth many of their religious rites and ceremonies, shaping their spiritual practices and traditions. His stories are passed down through generations, embodying the wisdom and heritage of his people.",
+      "summary_zh": "在澳大利亚原住民神话中，伊瓦伊是科科雅奥人的文化英雄。作为鳄鱼人，他为他们带来了许多宗教仪式和习俗，塑造了他们的精神实践和传统。他的故事代代相传，体现了他民族的智慧和传承。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🐍",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "australian"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Iʼwai"
+    },
+    {
+      "title_en": "Karatgurk",
+      "title_zh": "卡拉特古克 (Karatgurk)",
+      "summary_en": "In the Dreamtime of Aboriginal Australia, seven sisters known as Karatgurk possessed the secret of fire. Each carried a live coal on her digging stick to cook yams. Crow tricked them into giving up their coals by hiding snakes in an ant mound. After the women chased him and failed to retrieve the stolen coals, they were transformed into the Pleiades star cluster, symbolizing their ascension through trials.",
+      "summary_zh": "在澳大利亚原住民的创世时期，卡拉特古克七姐妹掌握了火的秘密。她们用带有活煤的挖棍来烹饪地下的芋薯。乌鸦通过埋伏蛇群设下陷阱，骗得她们交出了火种。尽管姐妹们奋力追赶，最终未能夺回火种，但她们被升天化作了昴宿星团，象征着她们经历了艰难考验后的升华。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🔥✨",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "constellation",
+        "trickery",
+        "fire"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Karatgurk"
+    },
+    {
+      "title_en": "Lake Eacham",
+      "title_zh": "Eacham湖",
+      "summary_en": "Lake Eacham, a volcanic lake on the Atherton Tableland, has long been revered by the traditional owners of the land. The lake is surrounded by lush rainforest and offers a serene environment for visitors. Its tranquil waters and natural beauty make it a popular destination for recreation and relaxation.",
+      "summary_zh": "Eacham湖位于澳大利亚昆士兰州的Atherton台地，是当地土著人民的传统圣地。湖畔被茂密的雨林环绕，风景优美宁静，成为人们休闲娱乐的好去处。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🏞️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "natural beauty"
+      ],
+      "lat": -17.285,
+      "lng": 145.625,
+      "wiki_en": "https://en.wikipedia.org/wiki/Lake_Eacham_(Queensland)"
+    },
+    {
+      "title_en": "Lake Euramoo",
+      "title_zh": "欧拉莫湖",
+      "summary_en": "In the heart of Far North Queensland lies Lake Euramoo, a volcanic crater lake known to the Yidinji people as Ngimun. According to their mythology, this sacred water body was formed by two colossal explosions from superheated groundwater around 23,000 years ago. The legend tells of immense power and transformation, marking the landscape with its presence even today.",
+      "summary_zh": "欧拉莫湖位于澳大利亚昆士兰州远北地区的心脏地带，是Yidinji族人民口耳相传的Ngimun。传说中，大约23000年前，由于地下水被加热至沸腾而引发两次巨大的爆炸，形成了这片神圣的水域。这个故事讲述了力量与转变的故事，至今仍标记着这片土地。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🌊",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "volcanic",
+        "australian"
+      ],
+      "lat": -17.1591,
+      "lng": 145.629,
+      "wiki_en": "https://en.wikipedia.org/wiki/Lake_Euramoo"
+    },
+    {
+      "title_en": "Luise Hercus",
+      "title_zh": "鲁伊丝·赫库斯",
+      "summary_en": "Luise Hercus was a German-born linguist who dedicated her later life to studying Australian Aboriginal languages after moving to Australia in 1954. Her work, which began as a hobby in 1963, became highly influential and she authored or co-authored many primary resource materials on various indigenous languages of the continent.",
+      "summary_zh": "鲁伊丝·赫库斯是一位出生于德国的语言学家，她在1954年移居澳大利亚后致力于研究澳大利亚原住民语言。她的工作始于1963年的业余爱好，但很快变得极具影响力，并撰写了多种关于澳大利亚土著语言的主要参考资料。",
+      "country": "Australia 澳大利亚",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "modern",
+        "linguistics"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Luise_Hercus"
+    },
+    {
+      "title_en": "Maban",
+      "title_zh": "玛班 (Mābān)",
+      "summary_en": "In the mythology of some Australian Aboriginal tribes, Maban is a magical substance that grants power to shamans and elders. Among the Ngaanyatjarra people, those who possess this mystical material are known as maparn or maparnjarra. The exact nature of Maban remains shrouded in mystery, but it is believed to bestow supernatural abilities upon its holders, making them revered community leaders with the ability to heal and protect their people.",
+      "summary_zh": "在澳大利亚某些原住民部落的神话中，玛班是一种神秘物质，赋予巫医和长者超自然的能力。在Ngaanyatjarra人中，拥有这种神奇材料的人被称为maparn或maparnjarra。玛班的具体性质仍然充满谜团，但人们相信它能赋予持有者超凡的力量，使他们成为受人尊敬的社区领袖，能够治愈疾病和保护族人。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "aboriginal",
+        "shamanism"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Maban"
+    },
+    {
+      "title_en": "Minawara and Multultu",
+      "title_zh": "明纳瓦拉和穆尔图卢",
+      "summary_en": "In Aboriginal mythology, Minawara and Multultu were kangaroo-men who held extraordinary powers bestowed by the Dreamtime. Minawara could alter fate, while Multultu had the ability to manipulate time itself. Together, they merged into a single entity called Minultu, which possessed the power to reshape the world's order. These beings were revered as ancestors of the Nambutji tribe and embodied the transformative forces of their ancient culture.",
+      "summary_zh": "在澳大利亚原住民的神话中，明纳瓦拉和穆尔图卢是拥有非凡力量的袋鼠人。他们由创世时期赋予了改变命运的能力（明纳瓦拉）和操控时间的力量（穆尔图卢）。两人结合成一个名为明尔图卢的存在，拥有重塑世界秩序的力量。他们是南布蒂族的祖先，并象征着古老文化的变革之力。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "aboriginal"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Minawara_and_Multultu"
+    },
+    {
+      "title_en": "Mount Yengo",
+      "title_zh": "Yengo 山",
+      "summary_en": "Mount Yengo, a majestic peak in Australia's Great Dividing Range, stands as a symbol of the rugged beauty of New South Wales. It is part of the Calore Range and located within Yengo National Park, offering hikers breathtaking views and challenging trails. The mountain has long been revered by local Aboriginal communities, who tell stories of its spiritual significance and the spirits that dwell there.",
+      "summary_zh": "位于澳大利亚新南威尔士州Lower Hunter地区的Yengo山，是Great Dividing Range的一部分。它坐落在Yengo国家公园内，为徒步者提供了壮丽的风景和挑战性的路线。当地原住民一直将这座山视为精神圣地，并讲述着关于其灵异故事。",
+      "country": "Australia 澳大利亚",
+      "emoji": "⛰️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "nature",
+        "aboriginal"
+      ],
+      "lat": -32.98166667,
+      "lng": 150.85111111,
+      "wiki_en": "https://en.wikipedia.org/wiki/Mount_Yengo"
+    },
+    {
+      "title_en": "N'Dhala Gorge",
+      "title_zh": "耐达拉峡谷",
+      "summary_en": "N'Dhala Gorge, a nature park in Australia's Northern Territory, is renowned for its ancient rock carvings that tell the stories of the Arrernte people. The carvings depict ancestral beings and their journeys across the land, serving as a spiritual and cultural link between past and present. These engravings are not only artistic but also hold deep significance in the lives of the Indigenous communities who continue to visit this sacred site.",
+      "summary_zh": "耐达拉峡谷位于澳大利亚北领地，以其古老的岩画而闻名。这些岩画讲述了阿雷尔特人祖先的故事和他们的迁徙历程，是过去与现在之间精神和文化的纽带。这些雕刻不仅是艺术作品，也是土著社区继续访问的神圣之地。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "australia",
+        "indigenous",
+        "rock art",
+        "ancient"
+      ],
+      "lat": -23.6356,
+      "lng": 134.4541,
+      "wiki_en": "https://en.wikipedia.org/wiki/N'Dhala_Gorge_Nature_Park"
+    },
+    {
+      "title_en": "Ngariman",
+      "title_zh": "那加里曼",
+      "summary_en": "In the Karajarri mythology of Australia, Ngariman was a quoll-man who committed an act of violence against the Bagadjimbiri, two powerful dingo spirits. The Bagadjimbiri's mother, Dilga, the earth goddess, could not forgive this deed and sought vengeance. She transformed into a giant kangaroo and flooded the cavern where Ngariman had hidden, drowning him in her milk. This tale speaks of the consequences of disrespecting sacred beings.",
+      "summary_zh": "在澳大利亚卡贾里里神话中，那加里曼是一个袋鼠人，他杀害了两个强大的犬神——巴加吉宾里。巴加吉宾里的母亲迪尔加是大地女神，她无法原谅这一行为并寻求报复。迪尔加化身为一只巨大的袋鼠，并将那加里曼藏身的洞穴淹没在她的乳汁中，最终淹死了他。这个故事讲述了对神圣之物不敬所要承担的后果。",
+      "country": "Australia 澳大利亚",
+      "emoji": "ustralian_kangaroo",
+      "type": "folklore",
+      "tags": [
+        "australian",
+        "mythology",
+        "ancient"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ngariman"
+    },
+    {
+      "title_en": "Ngarrabullgan",
+      "title_zh": "那拉巴尔甘",
+      "summary_en": "Ngarrabullgan is an immense tabletop mountain sacred to the Djungan Aboriginal people of Australia, believed to be a place of creation and spiritual power. Legends tell of Ngarrabullgan as a site where ancestral beings gathered, leaving behind their footprints in rock shelters that are now ancient archaeological sites. The mountain's sheer cliffs and flat top make it a revered Dreaming place, steeped in mythological stories passed down through generations.",
+      "summary_zh": "那拉巴尔甘是澳大利亚迪冈族原住民心目中的圣地，被认为是创世和精神力量之地。传说中，那拉巴尔甘是祖先神灵聚会的地方，在岩洞里留下了他们的足迹，这些岩洞如今已成为古老的考古遗址。这座山的陡峭悬崖和平坦顶峰使其成为一个充满神话故事的地方，代代相传。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "dreamtime",
+        "australian_aboriginal"
+      ],
+      "lat": -16.86666667,
+      "lng": 144.75,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ngarrabullgan"
+    },
+    {
+      "title_en": "Puckowe",
+      "title_zh": "普库沃",
+      "summary_en": "In Australian Aboriginal folklore, Puckowe is revered as the 'Grandmother spirit' who resides in the sky and assists medicine men. According to legend, she dwells in a dark region of the Milky Way known as the Coal Sack, where she watches over and aids those seeking spiritual guidance and healing.",
+      "summary_zh": "在澳大利亚原住民的传说中，普库沃被视为‘祖母神灵’，居住在天空之中，并协助巫医。据传她栖息于银河系中的一个暗区——煤袋星云，在那里守护并帮助寻求精神指导和治疗的人们。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🌟",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "australian",
+        "mythology",
+        "medicine",
+        "sky"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Puckowe"
+    },
+    {
+      "title_en": "Quinkan Rock Art",
+      "title_zh": "昆坎岩画",
+      "summary_en": "In the rugged landscapes of Queensland, Australia, the Quinkans—mythical beings from Aboriginal lore—left their mark on the sandstone cliffs. These ancient artists depicted Quinkans in vivid detail, blending human and animal features with supernatural elements. The art, found across the Quinkan region, tells stories of creation, battles, and spiritual journeys, offering a window into the rich cultural heritage of the Indigenous people.",
+      "summary_zh": "昆坎岩画位于澳大利亚昆士兰州的崎岖地貌中，讲述了神话中的昆坎人如何在砂岩悬崖上留下了生动的形象。这些古代艺术家将人类和动物特征与超自然元素融为一体，描绘了创造、战斗和精神旅程的故事，为人们提供了了解原住民丰富文化遗产的一扇窗口。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "aboriginal"
+      ],
+      "lat": -15.81666667,
+      "lng": 144.41666667,
+      "wiki_en": "https://en.wikipedia.org/wiki/Quinkan_rock_art"
+    },
+    {
+      "title_en": "Seven Sisters songline",
+      "title_zh": "七姊妹歌线",
+      "summary_en": "In central and western desert regions of Australia, the Seven Sisters were pursued by a lustful sorcerer who tried to capture them. This pursuit created an unstable landscape filled with sexual desire, as his obsession disrupted cultural norms. The story is part of the Dreaming, which is understood as an ongoing presence in the land through ceremonies and art. Similar to the Pleiades myth from Greek mythology, this tale reflects the complex relationship between nature, culture, and spirituality.",
+      "summary_zh": "在澳大利亚中部和西部沙漠地区，七姊妹被一个淫荡的巫师追求。巫师试图捕捉她们，他的追求导致了一个充满性欲的不稳定景观，因为他的痴迷破坏了文化规范。这个故事是Dreaming的一部分，被认为是土地上持续存在的存在，通过仪式和艺术来实现。与希腊神话中的昴宿星团传说相似，这个故事反映了人与自然、文化和精神之间的复杂关系。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "aboriginal",
+        "dreaming",
+        "pursuit",
+        "landscape"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Seven_Sisters_songline"
+    },
+    {
+      "title_en": "Songline",
+      "title_zh": "歌路",
+      "summary_en": "In the ancient lore of Australia, a songline is an intricate network of paths across the land, marking the routes taken by creator-beings during the Dreaming. These spiritual journeys are etched in the very fabric of the landscape and preserved through songs, stories, dances, and art. Travelers follow these paths to connect with ancestral spirits and perform ceremonies that honor their passage.",
+      "summary_zh": "在澳大利亚古老的文化中，歌路是穿越大地的复杂路径网络，记录了创世之灵在梦之境中的行迹。这些精神之旅被镌刻在土地上，并通过歌曲、故事、舞蹈和艺术得以传承。旅行者遵循这些路径与祖先的精神相连接，并进行仪式以致敬他们的旅程。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🎶",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "australian"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Songline"
+    },
+    {
+      "title_en": "Isobel Mary White",
+      "title_zh": "伊索贝尔·玛丽·怀特",
+      "summary_en": "Isobel Mary White was an Australian anthropologist who dedicated her life to understanding the roles and lives of women in Aboriginal societies. Through her extensive research, she shed light on the complex social structures and cultural practices that shaped these communities, contributing significantly to our knowledge of indigenous cultures.",
+      "summary_zh": "伊索贝尔·玛丽·怀特是一位澳大利亚人类学家，她致力于研究女性在原住民社会中的角色和生活。通过她的深入研究，她揭示了这些社区复杂的社会结构和文化实践，并为了解土著文化做出了重要贡献。",
+      "country": "Australia 澳大利亚",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "modern"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Isobel_Mary_White"
+    },
+    {
+      "title_en": "Mount Tibrogargan",
+      "title_zh": "蒂布罗加根山",
+      "summary_en": "In the mythology of the Glass House Mountains in Australia, Mount Tibrogargan was the father of all other mountains except Beerwah. When he saw a rising sea, he warned his son Coonowrin to take their mother Beerwah to safety but Coonowrin failed. In anger, Tibrogargan clubbed and broke Coonowrin's neck. Today, Mount Tibrogargan is a popular hiking destination known for its scenic views and challenging rock climbing routes.",
+      "summary_zh": "在澳大利亚的玻璃屋山脉中，蒂布罗加根山是除了啤酒瓦以外所有其他山峰的父亲。当看到海水上涨时，他警告儿子库努威恩带他们的母亲啤酒瓦到安全的地方，但库努威恩失败了。愤怒之下，蒂布罗加根山用棍子击打并折断了库努威恩的脖子。如今，蒂布罗加根山因其风景如画和挑战性的攀岩路线而成为受欢迎的徒步旅行目的地。",
+      "country": "Australia 澳大利亚",
+      "emoji": "-mountains",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "australian mythology"
+      ],
+      "lat": -26.93333333,
+      "lng": 152.95,
+      "wiki_en": "https://en.wikipedia.org/wiki/Mount_Tibrogargan"
+    },
+    {
+      "title_en": "Sydney Rock Engravings",
+      "title_zh": "悉尼岩画",
+      "summary_en": "The Sydney rock engravings are a rich collection of ancient Aboriginal art carved into sandstone in the Sydney region, Australia. These intricate designs depict people, animals, and symbols, telling stories that span thousands of years. The engravings, dating back to around 5,000 years ago, offer insights into the lives and beliefs of early Australian inhabitants. They are a testament to the enduring cultural heritage of Aboriginal Australians, though their exact meanings remain a mystery.",
+      "summary_zh": "悉尼岩画是澳大利亚悉尼地区岩石上雕刻的古老原住民艺术，描绘了人物、动物和符号。这些精细的设计反映了数千年前的生活和信仰。这些岩画可追溯到大约5000年前，揭示了早期澳大利亚居民的文化遗产，尽管其确切含义仍然神秘。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "aboriginal",
+        "australian",
+        "rock art"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Sydney_rock_engravings"
+    },
+    {
+      "title_en": "Three Sisters",
+      "title_zh": "三姐妹",
+      "summary_en": "In the Blue Mountains of Australia, three towering rock formations stand as silent sentinels over Jamison Valley. Known as Meehni, Wimlah, and Gunnedoo, these sisters were once living women in Aboriginal lore. The story goes that they fell in love with three brothers from a neighboring tribe. When their father forbade the unions, a great storm struck, turning the sisters into stone to protect them. Today, visitors marvel at the natural wonder while respecting its sacred history.",
+      "summary_zh": "澳大利亚蓝山的雅米森山谷中，矗立着三座巍峨的岩石姐妹峰——梅尼、维拉和古努多。传说中，她们曾是三位活生生的女子。据说她们爱上了邻部落的三个兄弟。当父亲禁止这段恋情时，一场巨大的风暴袭来，将姐妹们变成了石头，以保护她们不受伤害。如今，游客们惊叹于这一自然奇观的同时，也尊重着它背后神圣的历史。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "nature",
+        "indigenous"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Three_Sisters_(Australia)",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/三姐妹峰_(澳大利亞)"
+    },
+    {
+      "title_en": "Tiddalik",
+      "title_zh": "蒂达利克",
+      "summary_en": "In the Dreamtime, Tiddalik the frog lived in a small pond. He drank all the water from it and the land dried up, causing great suffering to the animals and people. Realizing his mistake, Tiddalik coughed out all the water he had stored, reviving the land and teaching an important lesson about sharing.",
+      "summary_zh": "在创世时期，蒂达利克是一只青蛙，住在一个小池塘里。他把所有的水都喝光了，土地干涸，动物和人们饱受苦难。意识到自己的错误后，蒂达利克咳嗽出所有储存的水分，让大地重新焕发生机，并教给大家分享的重要性。",
+      "country": "Australia 澳大利亚",
+      "emoji": " Frog ",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "creation story",
+        "water cycle",
+        "sharing"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tiddalik"
+    },
+    {
+      "title_en": "Tingari",
+      "title_zh": "廷加里",
+      "summary_en": "The Tingari Cycle is a complex and extensive mythological narrative in Australian Aboriginal culture, centered around the Tingari women who traveled across the Western Desert. Their journey involved numerous sacred sites and rituals, which are still central to Aboriginal ceremonies today. The stories of these travels are passed down through songlines and art, preserving the cultural heritage and spiritual beliefs of the Indigenous people.",
+      "summary_zh": "廷加里循环是澳大利亚原住民文化中一个复杂而广泛的神话叙事，围绕着穿越西部沙漠的廷加里女性。她们的旅程涉及众多神圣场所和仪式，至今仍是原住民仪式的核心内容。这些故事通过歌线和艺术代代相传，保存了原住民的文化遗产和精神信仰。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "aboriginal",
+        "australia"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tingari"
+    },
+    {
+      "title_en": "Tjilbruke",
+      "title_zh": "蒂尔布鲁克",
+      "summary_en": "Tjilbruke was a Kaurna man who roamed the Adelaide plains as part of the ancient Dreaming stories, around 11,000 years ago. He was not just a person but an ancestral being whose actions shaped the landscape and created sacred sites across South Australia. His journey from the heart of Adelaide to Cape Jervis left behind a trail rich in cultural significance, connecting generations through the stories passed down by the Kaurna people.",
+      "summary_zh": "蒂尔布鲁克是阿德莱德平原上的卡恩拉人，大约11000年前作为古老创世传说的一部分游走于此。他不仅是一个人，还是一位祖先神灵，其行为塑造了南澳大利亚的地形，并在从阿德莱德市中心到杰维斯角的路上留下了众多神圣遗址。这些遗址承载着丰富的文化意义，通过卡恩拉人的口耳相传连接着代代子孙。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "australian",
+        "dreaming",
+        "creation"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tjilbruke"
+    },
+    {
+      "title_en": "Ulanji",
+      "title_zh": "乌兰奇",
+      "summary_en": "In the mythology of the Binbinga people, Ulanji, a snake-ancestor, emerged from the ground at Markumundana and traveled across the land. He bit the heads off flying foxes, taking out their ribs and heart, then created springs, hills, valleys, and waterholes as he went. Ulanji left behind spirits wherever he performed ceremonies, and these spirits can be seen by both men and women at totem animal spots called mungai.",
+      "summary_zh": "在宾宾加人的神话中，乌兰奇作为蛇的祖先从马库姆努达地面上升。他咬掉了飞狐的头，并取出了它们的肋骨和心脏，然后沿途创造了泉水、山丘、山谷和水坑。无论走到哪里，乌兰奇都会留下精神，这些精神可以在被称为穆尼亚伊的图腾动物地点被男人和女人看到。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🐍",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "australian",
+        "mythology",
+        "snake",
+        "totem"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ulanji"
+    },
+    {
+      "title_en": "Wati-kutjara",
+      "title_zh": "瓦蒂-库尔贾拉",
+      "summary_en": "In the Dreaming of Western Australian Aboriginal mythology, Wati-kutjara are two young lizard-men who roamed the vast Western Desert. Their journey is a songline that spans thousands of kilometers from the Kimberley to South Australia. These lizards, with their powerful songs and stories, shaped the landscape and imbued it with spiritual significance.",
+      "summary_zh": "在西澳大利亚原住民的创世神话中，瓦蒂-库尔贾拉是两位年轻的蜥蜴男子，他们游历了广阔的西部沙漠。他们的旅程是一条穿越数千公里的歌线，从金伯利延伸到南澳大利亚。这些蜥蜴以其强大的歌声和故事塑造了这片土地，并赋予其精神意义。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "dreaming",
+        "landscape",
+        "aboriginal"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Wati-kutjara"
+    },
+    {
+      "title_en": "Wawalag Sisters",
+      "title_zh": "瓦瓦拉格姐妹",
+      "summary_en": "In the Dreamtime of Aboriginal culture from Arnhem Land, Northern Territory, Australia, the Wawalag sisters embarked on a journey to the Arafura Sea. They stopped by a river where the elder sister gave birth and bathed with her newborn. The scent of afterbirth blood awakened Yulunggur, the Rainbow Serpent, who swallowed both sisters and their child. This story is part of sacred rituals that create cultural unity despite drawing linguistic and social differences among clans.",
+      "summary_zh": "在澳大利亚北领地阿纳姆土地的原住民文化中，瓦瓦拉格姐妹们踏上前往阿拉富拉海的旅程。她们在一个河边停了下来，年长的姐姐在那里生下了孩子并洗澡。孩子的气味惊醒了彩虹蛇尤伦古尔，它吞下了姐妹和婴儿。这个故事是通过神圣仪式来增强文化统一性的一部分，尽管它在各部落之间划分了语言和社会差异。",
+      "country": "Australia 澳大利亚",
+      "emoji": " Aboriginals 🌿",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "aboriginal",
+        "dreamtime",
+        "ritual"
+      ],
+      "lat": -25.27,
+      "lng": 133.78,
+      "wiki_en": "https://en.wikipedia.org/wiki/Wawalag"
+    },
+    {
+      "title_en": "Wilpena Pound",
+      "title_zh": "伊卡拉",
+      "summary_en": "Wilpena Pound, known as Ikara to the Adnyamathanha people, is a majestic natural amphitheater in Australia's Flinders Ranges. For centuries, it stood silent and unexplored until the mid-19th century when European settlers began grazing livestock here. The land’s tranquility was briefly disrupted by farming efforts in the early 20th century but soon returned to its wild state. In 1949, its potential as a tourist attraction was recognized, marking the beginning of its journey from a forgotten wilderness to a celebrated natural wonder.",
+      "summary_zh": "伊卡拉是澳大利亚弗林德斯山脉中的一个壮丽自然半环形山谷，由阿迪亚马坦纳族人称作Wilpena Pound。数个世纪以来，这片土地一直默默无闻，直到19世纪中叶欧洲定居者开始在这里放牧牲畜。早期20世纪的农耕活动短暂地打破了这里的宁静，但很快又恢复了原貌。1949年，人们意识到了它的旅游潜力，从此伊卡拉从一处被遗忘的荒野变成了备受瞩目的自然奇观。",
+      "country": "Australia 澳大利亚",
+      "emoji": "🏞️",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "natural wonder"
+      ],
+      "lat": -31.559,
+      "lng": 138.574,
+      "wiki_en": "https://en.wikipedia.org/wiki/Wilpena_Pound"
+    }
+  ]
+}

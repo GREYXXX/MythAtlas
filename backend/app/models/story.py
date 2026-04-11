@@ -30,4 +30,4 @@ class Story(Base):
         nullable=False,
     )
 
-    embedding: Mapped[Optional[list[float]]] = mapped_column(Vector(1536), nullable=True)
+    embedding: Mapped[Optional[list[float]]] = mapped_column(Vector(768), nullable=True)

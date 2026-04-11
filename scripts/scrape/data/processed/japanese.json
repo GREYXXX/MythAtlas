@@ -1,0 +1,1108 @@
+{
+  "meta": {
+    "region": "Japanese",
+    "count": 66,
+    "generated": "2026-04-11",
+    "note": "Scraped from Wikipedia, summarized with a local Qwen model via Ollama."
+  },
+  "stories": [
+    {
+      "title_en": "Abe no Seimei",
+      "title_zh": "安倍晴明",
+      "summary_en": "Abe no Seimei was a renowned onmyōji in Heian period Japan, serving as an astrologer and advisor to the emperor. His wisdom and mystical powers were sought after for predicting events and ensuring the well-being of the court. Legends tell of his ability to communicate with spirits and his long life free from illness, making him a revered figure in Japanese folklore.",
+      "summary_zh": "安倍晴明是平安时期日本的一位著名阴阳师，曾为天皇和朝廷提供占卜建议。他的智慧和神秘力量备受推崇，用于预测事件并确保宫廷的福祉。传说他能够与灵沟通，并且长寿无病，成为日本民间故事中备受尊敬的人物。",
+      "country": "Japan 日本",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythical",
+        "astrology",
+        "spirits"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Abe_no_Seimei",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/安倍晴明"
+    },
+    {
+      "title_en": "Age of the Gods",
+      "title_zh": "神代 神代",
+      "summary_en": "In Japanese mythology, the Age of the Gods is a time before recorded history when divine beings ruled. This era includes tales of creation and the exploits of powerful kami like Izanagi and Izanami, who shaped the islands of Japan with their divine spear. The age culminates in the birth of Amaterasu, the sun goddess, and her brother Tsukuyomi, the moon god. These deities laid the foundation for the Japanese imperial line, setting the stage for the transition to the Human Age.",
+      "summary_zh": "在日本神话中，神代是人类历史之前的时代，由诸神统治。这一时代包含了创造世界的传说以及伊邪那岐和伊邪那美等强大神祇的故事，他们用神圣的长矛塑造了日本群岛。这个时代的高潮是天照大神（太阳女神）和月之神津轻见命的诞生。这些神祇奠定了日本皇室的基础，为人类时代铺平了道路。",
+      "country": "Japan 日本",
+      "emoji": " vermilion bird",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "creation",
+        "deities"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Age_of_the_Gods"
+    },
+    {
+      "title_en": "Ama no Fuchigoma",
+      "title_zh": "天乃斑駒",
+      "summary_en": "In Japanese mythology, Ama no Fuchigoma is a legendary horse that carried the storm god Susanoo across the heavens. The name 'heavenly spotted horse' reflects its divine nature and unique appearance. This myth appears in the Nihon Shoki, an ancient chronicle of Japan, where it serves as a vivid illustration of the gods' power and majesty.",
+      "summary_zh": "在日本神话中，天乃斑駒是一匹传说中的神马，载着雷神 Susanoo 穿梭于天空之中。‘天上斑点马’这一名字体现了它的神圣和独特的外观。在《日本书纪》这部古老的史书中，这个神话生动地展示了诸神的威力与尊严。",
+      "country": "Japan 日本",
+      "emoji": "🐎",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ama_no_Fuchigoma"
+    },
+    {
+      "title_en": "Amakuni",
+      "title_zh": "天國安綱",
+      "summary_en": "In ancient Japan, Amakuni Yasutsuna was a legendary swordsmith in the Yamato Province around 700 AD. He is credited with creating the first single-edged longsword (tachi) with curvature along the edge, revolutionizing Japanese weaponry. His son, Amakura, continued his legacy. Despite no known signed works by Amakuni, legend speaks of him forging the Kogarasu Maru, a double-edged katana that remains an early example of Yamato sword-making techniques.",
+      "summary_zh": "在古代日本，天國安綱是播磨地區700年前後的一位傳奇劍 smith。他被認為創造了第一把單邊彎曲的長劍（tachi），革新了日本武器。他的兒子天國安櫻繼承了他的遺志。儘管沒有已知由天國安綱簽名的作品，但據說他曾鍛造過一柄雙刃的古鷹丸（Kogarasu Maru），這是一種早期播磨劍 smith 技術的例子。",
+      "country": "Japan 日本",
+      "emoji": " Swords ",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "swordsmithing"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Amakuni"
+    },
+    {
+      "title_en": "Ame-no-Nuboko",
+      "title_zh": "天瓊戈",
+      "summary_en": "In Japanese mythology, Ame-no-Nuboko is the spear used by the gods Izanagi and Izanami to create land from the sea. After receiving this magical spear adorned with magatama gems, they stood on a bridge between heaven and earth and churned the waters below. Drops of salty water fell from the tip of the spear, forming Onogoro Island, which became their home. Later, the spear also played a role in Shugendō as a mystical object associated with Bonten and the grandson of the sun goddess, Ninigi, who used it to pacify the land.",
+      "summary_zh": "在日本神话中，天瓊戈是伊邪那岐和伊邪那美用来从海中创造陆地的神矛。在收到这根装饰着勾玉宝石的神矛后，他们站在天地之间的桥梁上，用矛尖搅动海水。滴落的咸水形成了第一个岛屿——翁国岛，成为他们的居所。后来，这根神矛还与天部尊和太阳女神的孙子仁贵有关，在他的手中，它被用来平定土地。",
+      "country": "Japan 日本",
+      "emoji": "-initialized:",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "creation",
+        "japanese mythology"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ame-no-Nuboko"
+    },
+    {
+      "title_en": "Ame-no-Tajikarao",
+      "title_zh": "天手力男神",
+      "summary_en": "In Japanese mythology, Ame-no-Tajikarao is a deity of physical strength. He is known for his immense power and often depicted as a warrior who overcame formidable challenges. According to legend, he was instrumental in breaking the heavenly rock (Ama-no-Iwato) that had been blocking the sun's light, thus bringing daylight back to the world.",
+      "summary_zh": "在日本神话中，天手力男神是一位以力量著称的神祇。他以其巨大的力量而闻名，并经常被描绘成一位战胜强大挑战的战士。传说中，他曾破开阻挡阳光的天石（天石门），从而让光明再次照耀大地。",
+      "country": "Japan 日本",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ame-no-Tajikarao"
+    },
+    {
+      "title_en": "Ame-no-ukihashi",
+      "title_zh": "天浮桥",
+      "summary_en": "In Japanese mythology, Ame-no-ukihashi is the celestial bridge that connects heaven and earth. The gods Izanagi and Izanami stood upon this bridge as they created the world. Later, when Ninigi-no-Mikoto was to descend from heaven to become a ruler on Earth, he faced resistance from Sarutahiko Ōkami, who guarded the bridge. Ame-no-Uzume cleverly persuaded Sarutahiko to allow Ninigi's descent by convincing him of her own worthiness. The bridge eventually collapsed and its remnants formed the area west of Kyoto.",
+      "summary_zh": "在日本神话中，天浮桥是连接天地的桥梁。伊邪那岐和伊邪那美站在桥上创造了世界。后来，当神明九鬼尊要从天上降临人间成为统治者时，他遭到了守卫此桥的猿田彦大神的阻挠。但是，天照大神巧妙地说服了猿田彦大神允许他的降临。最终，这座桥梁倒塌，其残骸形成了京都西部地区。",
+      "country": "Japan 日本",
+      "emoji": "🪜",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "bridge",
+        "creation",
+        "deity"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ame-no-ukihashi"
+    },
+    {
+      "title_en": "Bhadrapāla",
+      "title_zh": "賢護",
+      "summary_en": "Bhadrapāla, a lay bodhisattva in Mahayana Buddhism, was the son of a wealthy merchant and lived a life of luxury. Despite his privilege, he sought wisdom as vast as the ocean alongside 500 other bodhisattvas, guided by the Buddha. His journey included a descent into Avīci hell for disrespecting the Buddha but eventually led to enlightenment in a bathhouse after meditating on water. In Japan, he is revered as the patron deity of temple bathhouses and his figurines are kept in bathrooms.",
+      "summary_zh": "賢護是大乘佛教中的居士，出身于富商之家，过着奢侈的生活。尽管如此，他仍与500名其他菩萨一起寻求智慧，其广度犹如海洋，并得到佛陀的指导。他的旅程包括因不敬佛陀而下入阿鼻地狱，但最终在浴室内冥想水后获得觉悟。在日本，他被视为寺庙浴室的守护神，在禅宗寺院中保留着他的塑像。",
+      "country": "Japan 日本",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "buddhism"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Bhadrapāla"
+    },
+    {
+      "title_en": "Doroumi Kōki",
+      "title_zh": "泥海古記",
+      "summary_en": "The Doroumi Kōki, a religious text of the Tenrikyo faith, recounts Nakayama Miki's creation myth through 160 waka poems. Compiled in 1881 by Yamazawa Ryōsuke, these verses narrate the divine origins and the establishment of the Tenrikyo community, blending spiritual teachings with poetic expression.",
+      "summary_zh": "泥海古記是天理教信仰中的宗教文献，通过160首和歌讲述了nakayama miki的创世神话。由山沢良助于1881年编纂，这些诗歌叙述了神的起源以及天理教社区的建立，将精神教导与诗意表达融为一体。",
+      "country": "Japan 日本",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "religion"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Doroumi_Kōki"
+    },
+    {
+      "title_en": "Founding of the Nation",
+      "title_zh": "建国",
+      "summary_en": "In ancient Japan, the sun goddess Amaterasu hid in a cave, plunging the world into darkness. Her brother Tsukuyomi, god of the moon, was sent to persuade her to return. When he failed, Amaterasu's grandson Ninigi descended from heaven to the earthly realm. He married Konohana Sakuya Hime and founded the imperial line that would rule Japan for centuries. The story symbolizes the beginning of Japanese civilization.",
+      "summary_zh": "在日本古代，天照大神藏身于洞窟之中，世界陷入黑暗。她的兄弟月读神试图说服她返回，但未果。于是天孙九头鸟降临人间，与花之女神结为夫妇，建立了统治日本千年的皇朝。这个故事象征着日本文明的开端。",
+      "country": "Japan 日本",
+      "emoji": "🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Founding_of_the_Nation"
+    },
+    {
+      "title_en": "Fudoki",
+      "title_zh": "風土記",
+      "summary_en": "Fudoki are ancient Japanese provincial reports that detailed local geography, culture, and folklore. These documents served as a means for the imperial court to gain knowledge of regional customs and myths during the unification of Japan under ritsuryō laws. They provided insights into local traditions, including agricultural practices, rituals, and oral histories not recorded in other official chronicles like Kojiki and Nihon Shoki.",
+      "summary_zh": "風土記是古代日本地方报告，记载了各地的地理、文化和民间传说。这些文件为中央朝廷了解统一时期下实施律令制地区的风俗和神话提供了途径。它们包含了地方的传统习俗、农业实践、仪式以及未被其他官方文献如古事记和日本书纪记录的口头历史。",
+      "country": "Japan 日本",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "geography"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Fudoki"
+    },
+    {
+      "title_en": "Haniyasu-hiko and Haniyasu-hime",
+      "title_zh": "波多麻耶彦尊与波多麻耶比売",
+      "summary_en": "In Japanese mythology, Haniyasu-hiko and Haniyasu-hime are siblings born from their mother Izanami after her death. They embody the virtues of earth, clay, and pottery, often seen as husband and wife in addition to being siblings. Their story is a testament to the cyclical nature of life and creation, reflecting the ancient Japanese belief in the divine origins of craftsmanship.",
+      "summary_zh": "在日本神话中，波多麻耶彦尊与波多麻耶比売是伊邪那美死后所生的兄妹。他们代表了大地、黏土和陶器的美德，并常被视为夫妻。他们的故事反映了日本古代关于工艺神圣起源的信仰，体现了生命和创造的循环。",
+      "country": "Japan 日本",
+      "emoji": "埴",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "pottery",
+        "sibling",
+        "earth"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Haniyasu-hiko_and_Haniyasu-hime"
+    },
+    {
+      "title_en": "Harima no Kuni Fudoki",
+      "title_zh": "播磨国風土記",
+      "summary_en": "Harima no Kuni Fudoki is an ancient Japanese text that vividly describes the geography, customs, and folklore of Harima Province. Compiled in the early Nara period, this manuscript offers a glimpse into the life and beliefs of people living in what is now Hyogo Prefecture during the 8th century. It includes tales of local deities and spirits, providing insight into the spiritual landscape of ancient Japan.",
+      "summary_zh": "《播磨国風土記》是日本古代的一部文献，详细描述了播磨国（今兵庫县）的地理、习俗和民间传说。这部编纂于奈良早期的作品为人们提供了8世纪生活在这一地区的人民的生活和信仰的视角。它包含了关于当地神灵和精灵的故事，揭示了古代日本的精神景观。",
+      "country": "Japan 日本",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Harima_no_Kuni_Fudoki"
+    },
+    {
+      "title_en": "Hata no Kawakatsu",
+      "title_zh": "秦河勝",
+      "summary_en": "Hata no Kawakatsu was a prominent statesman during Japan's Asuka period, serving under Empress Suiko and Empress Kōgyoku. Legends suggest he was the reincarnation of Emperor Qin Shi Huang and the founder of sarugaku performances. He is also credited with constructing Kōryū-ji temple in Kyoto and is worshipped as Ōsake Daimyōjin at the Ōsake Shrine.",
+      "summary_zh": "秦河勝是日本飞鸟时代的著名政治家，曾服务于苏我天皇和高句丽女王。传说他是中国始皇帝的转世，并且是猿乐表演的创始人。他还被认为是京都广隆寺的建造者，并在淡河神社中被奉祀为大避大明神。",
+      "country": "Japan 日本",
+      "emoji": "🌸",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Hata_no_Kawakatsu"
+    },
+    {
+      "title_en": "Heguri no Tsuku",
+      "title_zh": "平群木菟",
+      "summary_en": "In ancient Japan, Heguri no Tsuku was a powerful diplomat and clan founder during the 2nd to 5th centuries CE. Known for his influence and title of Sukune, he played a pivotal role in early Japanese history as recorded in the Kojiki and Nihon Shoki. His legacy lives on through the Heguri clan he established.",
+      "summary_zh": "在日本古代的2至5世纪，平群木菟是一位有影响力的外交官和氏族创始人。他以其影响力和Sukune的称号，在《古事记》和《日本书纪》中被记载。他所建立的平群氏族至今仍承载着他的历史印记。",
+      "country": "Japan 日本",
+      "emoji": "🤝",
+      "type": "folklore",
+      "tags": [
+        "ancient"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Heguri_no_Tsuku"
+    },
+    {
+      "title_en": "Hokke Genki",
+      "title_zh": "法華験記",
+      "summary_en": "In the 11th century, a Japanese monk named Chingen compiled 'Miraculous Tales of the Lotus Sutra from Japan' to spread its teachings. This collection, known as Hokke Genki, comprises three volumes with 129 chapters (two missing), each filled with stories of divine interventions and wonders linked to the Lotus Sutra. These tales vividly illustrate the power and significance of the sutra in medieval Japanese society.",
+      "summary_zh": "在11世纪，日本僧人镇源编纂了《法华经验记》，旨在传播其教义。这部作品共有三卷一百二十九章（两章缺失），每章都讲述了与法华经有关的奇迹和神迹故事。这些故事生动地展示了法华经在日本中世纪社会中的重要性和影响力。",
+      "country": "Japan 日本",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "medieval"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Hokke_Genki"
+    },
+    {
+      "title_en": "Hotsuma Tsutae",
+      "title_zh": "秀真伝",
+      "summary_en": "The Hotsuma Tsutae is an ancient Japanese epic poem that diverges significantly from the mainstream Kojiki and Nihon Shoki texts. It was first recorded in a manuscript dedicated to a shrine by Waniko Yasutoshi in 1775, though its true origins remain uncertain. The text uses yamato-kotoba, an early form of Japanese vocabulary that predates Chinese influence, and includes historical accounts of kami, or royalty, rather than deities. Notably, it portrays Amaterasu as male, challenging the traditional female depiction in official records. Despite skepticism from many scholars, some believe it could be a product of the Edo period, using an alleged pre-Chinese writing system that has yet to be definitively proven.",
+      "summary_zh": "《秀真伝》是日本的一部古代史诗，与主流的《古事记》和《日本书纪》大相径庭。这部诗集最初由万国安藤于1775年献给一座神社，但其真实起源仍存争议。文本使用了原初的日本词汇yamato-kotoba，这在早期并未受汉语影响。它记载了kami，即皇室成员而非神祇的历史。值得注意的是，这部作品将天照大神描绘为男性，挑战了官方记录中将其视为女性的传统形象。尽管许多学者对此持怀疑态度，但有人认为它可能是江户时期的作品，使用了一种据称在汉字引入日本之前存在的书写系统，这一说法尚未得到证实。",
+      "country": "Japan 日本",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology",
+        "history",
+        "writing"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Hotsuma_Tsutae"
+    },
+    {
+      "title_en": "Hyakumonogatari Kaidankai",
+      "title_zh": "百物語怪談会",
+      "summary_en": "During the Edo period, young samurai would gather to tell each other one hundred ghost stories in a single night. The atmosphere was tense as they lit candles and passed them around, whispering tales of the supernatural. As the night wore on, the air grew colder, and the light flickered ominously. Each story seemed more terrifying than the last, with spirits and monsters lurking just beyond the candlelight. By dawn, many were shaken to their cores, but the game continued until all one hundred stories had been shared, leaving everyone both terrified and exhilarated.",
+      "summary_zh": "在江户时代，年轻的武士们会聚在一起，在一个夜晚讲述一百个鬼故事。他们点燃蜡烛，互相传递，低声细语地讲述着各种超自然的故事。随着夜色渐深，空气变得越来越寒冷，蜡烛的火焰也忽明忽暗。每个故事都比前一个更恐怖，仿佛幽灵和怪物就藏在烛光之外。直到黎明时分，所有的故事才讲完，每个人都被吓得心惊胆战，但同时也感到兴奋不已。",
+      "country": "Japan 日本",
+      "emoji": "👻",
+      "type": "folklore",
+      "tags": [
+        "medieval",
+        "supernatural",
+        "tale-telling"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Hyakumonogatari_Kaidankai"
+    },
+    {
+      "title_en": "Japanese Mythology",
+      "title_zh": "日本神话",
+      "summary_en": "Japanese mythology weaves a rich tapestry of traditional stories, beliefs, and deities. Central to this pantheon are the kami, spirits that permeate nature and daily life. The Kojiki, an ancient text, chronicles the origins of Japan's imperial family and its divine lineage. Kami like Amaterasu, the sun goddess, and Susanoo, her tempestuous brother, embody natural forces and moral lessons. These myths are deeply tied to the geography and agriculture of Japan, reflecting a harmonious relationship between humans and nature.",
+      "summary_zh": "日本神话编织了一幅丰富多彩的图景，其中心是神祇（kami），它们渗透在自然和日常生活中。《古事记》这部古老的文本记载了日本皇室的起源及其神圣血统。像天照大神这样的太阳女神以及她的暴躁兄弟Susanoo等神祇代表了自然力量和道德教训。这些神话与日本的地理和农业紧密相连，反映了人与自然和谐共存的关系。",
+      "country": "Japan 日本",
+      "emoji": "🌸",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Japanese_mythology"
+    },
+    {
+      "title_en": "Three Sacred Treasures",
+      "title_zh": "三神器",
+      "summary_en": "The Three Sacred Treasures, or Sanshu no Jingi, are a trio of legendary artifacts—Kusanagi no Tsurugi (the sword), Yata no Kagami (the mirror), and Yasakani no Magatama (the jewel)—that symbolize the virtues of valour, wisdom, and benevolence. These treasures are central to Japanese mythology and Shinto rituals, though their historical authenticity remains a mystery. They are kept hidden from public view as a sign of imperial authority.",
+      "summary_zh": "三神器是日本神话和神道中象征勇气、智慧和仁慈的三件宝物——草薙劍、八咫鏡和八尺瓊勾玉。这些宝藏在许多神道教仪式中被代表使用，尽管它们的历史真实性仍然成谜。它们被秘密保存，作为皇权的象征。",
+      "country": "Japan 日本",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "japan"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Imperial_Regalia_of_Japan"
+    },
+    {
+      "title_en": "Inahi no Mikoto",
+      "title_zh": "稻飯命",
+      "summary_en": "In Japanese mythology, Inahi no Mikoto was a brother of Emperor Jimmu, the first legendary emperor. Despite his name meaning 'boiled rice,' which might suggest he was not a warrior or leader like his brother, he played an important role in the early history of Japan. His story is part of the ancient myths that narrate the origins and early rulers of the Japanese imperial line.",
+      "summary_zh": "在日本神话中，稻飯命是第一位传说中的天皇神武天皇的兄弟。尽管他的名字意为‘煮熟的米饭’，可能暗示他不像他的哥哥那样是一位战士或领导者，但他仍然在早期日本的历史中扮演了重要角色。他的故事是关于日本帝系起源和早期统治者的古代神话的一部分。",
+      "country": "Japan 日本",
+      "emoji": "🇯🇵",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "japanese mythology"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Inahi_no_Mikoto"
+    },
+    {
+      "title_en": "Ishikori-dome no Mikoto",
+      "title_zh": "石凝姥命",
+      "summary_en": "In Japanese mythology, Ishikori-dome no Mikoto is a revered deity of mirrors. She crafted the Yata-no-kagami mirror, which Amaterasu used to lure her out of a cave and restore light to the world. This act earned her worship among mirror-makers and stonecutters. Enshrined in various locations across Japan, Ishikori-dome remains a symbol of craftsmanship and divine intervention.",
+      "summary_zh": "在日本神话中，石凝姥命是一位镜子之神。她打造了八咫镜，这面镜子帮助天照大神走出洞穴，重归光明世界。这一成就使她在工匠和石材切割者中受到崇拜，并在多个地点供奉。石凝姥命成为了工艺与神恩的象征。",
+      "country": "Japan 日本",
+      "emoji": "✨",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "craftsmanship",
+        "light",
+        "deity"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ishikori-dome_no_Mikoto"
+    },
+    {
+      "title_en": "Birth of the Gods",
+      "title_zh": "神的诞生",
+      "summary_en": "After the creation of Japan by Izanagi and Izanami, the birth of the gods (kamiumi) began. The couple descended to the bottom of a saltwater pond on an island, where they created deities through their divine powers. Their first attempt resulted in the birth of the eight islands of Japan, but when they tried again, Izanagi's spear tipped over, causing water to spill and giving birth to the god of thunder, Susanoo. This tale is part of the creation myth of Japan, reflecting the importance of balance and order in the divine realm.",
+      "summary_zh": "在创造日本之后，伊邪那岐和伊邪那美开始孕育诸神（神的诞生）。他们降落在一个盐水池中的岛上，通过他们的神圣力量创造了众神。第一次尝试后，他们创造了日本的八个岛屿。但在第二次尝试时，伊邪那岐的矛倾斜了，洒出了水分，从而诞生了雷神须佐之男。这个故事是日本创世神话的一部分，反映了在神圣领域中平衡与秩序的重要性。",
+      "country": "Japan 日本",
+      "emoji": " vermilion bird 红鸟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kamiumi"
+    },
+    {
+      "title_en": "Kamo no Yasunori",
+      "title_zh": "賀茂保憲",
+      "summary_en": "Kamo no Yasunori was a renowned onmyōji during Japan's Heian period, known for his young prodigy in perceiving demons. At ten, he accompanied his father to an exorcism where his talent was evident. He later taught Abe no Seimei the art of onmyōdō, passing down knowledge that would shape future generations. Yasunori’s death became a pivotal plot point in kabuki, setting the stage for conflict over a divination book passed from Chinese wizards.",
+      "summary_zh": "賀茂保憲是日本平安时期一位著名的占星师，以十岁时就能感知恶魔的天赋而闻名。他后来将占星术传授给安倍晴明，传承了这一知识。保憲之死成为歌舞伎剧作《阿西野道真大内镜》中的关键情节，剧中他打算将一本从中国巫师那里传下的占卜书赠予弟子安倍保名，但最终未能实现，从而引发了一场关于此书所有权的争端。",
+      "country": "Japan 日本",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kamo_no_Yasunori"
+    },
+    {
+      "title_en": "Kaname-ishi",
+      "title_zh": "要石",
+      "summary_en": "In Japanese folklore, Kaname-ishi is the capstone that holds down Japan's islands, believed to cause earthquakes when disturbed. The catfish Namazu, dwelling beneath it, was thought to be responsible for many quakes. Takemikazuchi, a divine warrior, keeps Namazu in check to protect the land from seismic chaos. During the Edo period, prints of this struggle became popular as protective talismans against earthquakes.",
+      "summary_zh": "在日本的传说中，要石是压在日本群岛上的巨石，一旦被搅动就会引发地震。猫鱼Namazu潜伏在要石之下，被认为是造成许多地震的原因。天照大御神的儿子拂天雷神Takemikazuchi则负责镇压Namazu，以保护土地免受地震的侵袭。江户时期，描绘这场斗争的版画变得非常流行，并被视为防震护身符。",
+      "country": "Japan 日本",
+      "emoji": "-earthquake-quake",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "earthquake",
+        "catfish",
+        "stone"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kaname-ishi"
+    },
+    {
+      "title_en": "Kibi Clan",
+      "title_zh": "祢布氏",
+      "summary_en": "The Kibi clan, a prominent family from Okayama Prefecture during ancient Japan, was known for their navigational prowess over the Seto Inland Sea and their iron manufacturing skills. The clan's founder, Kibi no Makibi, established the Hiromine Shrine, which remains an important site to this day. Their influence extended beyond religious practices; they also held significant authority in maritime trade and industry, making them a vital part of Japan’s early history.",
+      "summary_zh": "日本古代的祢布氏家族来自冈山县，以在濑户内海上航行和铁器制造而闻名。该家族的创始人祢布野麻岐建立了崇明神社，至今仍是一个重要的宗教场所。除了宗教活动外，他们还拥有海上贸易和工业的重要权力，是日本早期历史中不可或缺的一部分。",
+      "country": "Japan 日本",
+      "emoji": " ancestries ",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "japanese"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kibi_clan"
+    },
+    {
+      "title_en": "Kisumimi",
+      "title_zh": "木津耳尊命",
+      "summary_en": "In Japanese mythology, Kisumimi-no-mikoto was a divine prince born to Emperor Jimmu and his younger brother Tagishimimi. Legends suggest they were possibly the same person, adding an air of mystery to their roles in the early imperial lineage. Despite their enigmatic nature, Kisumimi's existence is a testament to the complex family dynamics that shaped the early history of Japan.",
+      "summary_zh": "在日本神话中，木津耳尊命是天智皇的弟弟。传说他与同为天智皇之子的止知耳尊命可能是同一人。尽管他们的身份神秘莫测，但他们在日本早期王室中的地位仍然令人瞩目。",
+      "country": "Japan 日本",
+      "emoji": "🌸",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kisumimi"
+    },
+    {
+      "title_en": "Ko-Shintō",
+      "title_zh": "古神道",
+      "summary_en": "Ko-Shintō refers to the ancient animistic religion believed to have originated during the Jōmon period in Japan, which is thought to be the foundation of modern Shinto. This belief system revered nature and spirits that inhabited natural objects and phenomena. During the Edo period, efforts were made to uncover this primordial religious practice as part of a broader movement to purify Shinto from foreign influences, particularly Buddhism.",
+      "summary_zh": "古神道是指日本绳纹时代存在的古老自然崇拜宗教，被认为是现代神道教的基础。这种信仰体系崇奉自然和存在于自然界物体及现象中的精灵。在江户时期，人们试图发现这一原始的宗教实践，作为更广泛运动的一部分，旨在净化神道教免受外来影响，特别是佛教。",
+      "country": "Japan 日本",
+      "emoji": "🌸",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "religion",
+        "nature",
+        "spirit"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ko-Shintō"
+    },
+    {
+      "title_en": "Kojiki",
+      "title_zh": "古事記",
+      "summary_en": "The Kojiki is an ancient Japanese text that chronicles the myths and legends of Japan's creation, the divine origins of its people, and the genealogy of the imperial family. It begins with the myth of the first gods, Izanagi and Izanami, who created the islands by stirring the sea with a spear. Their descendants include Amaterasu, the sun goddess, whose grandson becomes the first emperor. The text also recounts tales of battles between deities and the establishment of Shinto practices. It is considered one of Japan's oldest literary works and has deeply influenced Japanese culture.",
+      "summary_zh": "《古事記》是日本最古老的文献之一，记载了日本的创世神话、神灵的起源以及皇室的血统。故事始于伊邪那岐和伊邪那美两位初代神祇，他们用长矛搅拌海水创造了诸岛。他们的后代中包括太阳女神天照大御神，她的孙子成为第一位天皇。文本还讲述了诸神之间的战斗以及神道仪式的建立。这部作品对日本文化产生了深远的影响。",
+      "country": "Japan 日本",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology",
+        "shinto",
+        "genealogy"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kojiki"
+    },
+    {
+      "title_en": "Kokutai",
+      "title_zh": "國體",
+      "summary_en": "Kokutai, a concept deeply rooted in Japan’s cultural and political history, embodies the unique essence of the Japanese state. It is often associated with the divine right of the Emperor to rule, symbolizing the unbreakable bond between the imperial family and the people. This idea has been central to maintaining national identity and continuity through centuries of turmoil and change, serving as a foundational pillar for Japan’s polity and sovereignty.",
+      "summary_zh": "國體是日本文化與政治歷史中一個深具意義的概念，代表了日本國家獨特的本質。它常與天皇的神授權力聯繫在一起，象徵著帝國家族與人民之間不可分割的聯繫。這一思想在戰亂和變革中保持了國家身份和連續性，成為支撐日本政體和主權的重要基礎。",
+      "country": "Japan 日本",
+      "emoji": "🇯🇵",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "politics",
+        "identity",
+        "emperor"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kokutai"
+    },
+    {
+      "title_en": "Konjaku Monogatarishū",
+      "title_zh": "今昔物語集",
+      "summary_en": "The Konjaku Monogatarishū, a collection of over one thousand tales from the late Heian period in Japan, weaves together stories from India, China, and Japan. These narratives span a wide range of themes, including romance, adventure, and morality. One tale tells of a young samurai who, after a series of misadventures, is granted a wish by a wise old man, only to learn the true value of wisdom and compassion. The collection reflects the cultural exchange between Japan and its neighbors during this era.",
+      "summary_zh": "《今昔物語集》是日本平安时代晚期的一部故事集，收录了一千多篇来自印度、中国和日本的故事。这些故事涵盖了爱情、冒险和道德等多个主题。其中有一个故事讲述了一个年轻武士在一系列不幸遭遇后，被一位智者赋予了愿望，但最终他意识到智慧与同情的重要性。这部作品反映了平安时代日本与邻国的文化交流。",
+      "country": "Japan 日本",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Konjaku_Monogatarishū",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/今昔物語集"
+    },
+    {
+      "title_en": "Kotodama",
+      "title_zh": "言灵",
+      "summary_en": "In ancient Japan, kotodama was believed to be the mystical power residing in words and names. It was thought that by uttering certain sacred sounds or invoking specific phrases, one could influence the environment, body, mind, and soul. This belief was not just a superstition but an integral part of daily life, where people would use ritualistic language to ward off evil spirits and bring good fortune. The power of kotodama was seen as both protective and transformative, reflecting the deep connection between speech and reality in Japanese culture.",
+      "summary_zh": "在日本古代，言灵被认为是隐藏在词语和名字中的神秘力量。人们相信通过念诵特定的圣音或使用特殊的词汇，可以影响环境、身体、心灵和灵魂。这种信仰不仅是迷信，而是日常生活的一部分，人们会用仪式性的语言来驱邪避凶，带来好运。言灵的力量被视为保护性和变革性的，反映了日本文化中言语与现实之间深刻的联系。",
+      "country": "Japan 日本",
+      "emoji": "🗣️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "language",
+        "ritual",
+        "sacred"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kotodama"
+    },
+    {
+      "title_en": "Kuni-yuzuri",
+      "title_zh": "国譲り",
+      "summary_en": "In ancient Japan, as recorded in the Kojiki and Nihon Shoki, the rulership of the land was transferred from the earthly kami to their heavenly counterparts. This myth tells how the descendants of the amatsukami, the deities of heaven, took over governance from the unitsukami, the gods of earth. The transfer symbolized the divine right of the Imperial House of Japan to rule, establishing a lineage that would govern for centuries.",
+      "summary_zh": "在日本古代，如《古事記》和《日本書紀》所述，统治权从地上的神祇转移到了天上的神祇手中。这个神话讲述了大地的神祇单位ukami将其治理权交给了天上神祇阿玛塔卡米的后裔。这一传承象征着日本皇室拥有统治的权利，并为数个世纪的统治奠定了基础。",
+      "country": "Japan 日本",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kuni-yuzuri"
+    },
+    {
+      "title_en": "Kunibiki-shinwa",
+      "title_zh": "国引神话",
+      "summary_en": "In ancient Japan, the deity Yatsukamizu-Omizunu-no-mikoto embarked on a land-pulling mission to expand Izumo. Using a hoe, he pulled pieces of land from neighboring regions like Shiragi and Saki Country, weaving them into the Shimane Peninsula. This act not only transformed the landscape but also connected the shrine of Kidzuki-oyashiro with Izumo's spiritual heart. The myth reflects both divine intervention and natural geographical changes that shaped the region.",
+      "summary_zh": "在日本古代，天照神宫的神祇伊弉名津比卖命决定扩大出云国的土地。他用锄头从东部新罗、佐木郡等地拉取土地，并将其编织成岛根半岛的一部分。这一行为不仅改变了地形，还将千日神社与出云的精神中心连接在一起。这个神话反映了神的干预和自然地理变化如何塑造了该地区。",
+      "country": "Japan 日本",
+      "emoji": "-initialized:",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "land transformation",
+        "shrine",
+        "divine intervention"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kunibiki-shinwa"
+    },
+    {
+      "title_en": "Kuniumi",
+      "title_zh": "国産み",
+      "summary_en": "In the ancient Japanese myth of Kuniumi, after the creation of Heaven and Earth, the deities Izanagi and Izanami were tasked with forming islands that would become Japan. Holding a spear adorned with silk ribbons, they stirred the waters to create an island. From this, they built a palace and began their divine duty. As Izanagi raised his spear, a drop of water fell from it, giving birth to the island of Ono. This process was repeated until numerous islands emerged, eventually forming the Japanese archipelago. The creation of these lands marked the beginning of the divine lineage that would govern Japan.",
+      "summary_zh": "在日本神话中，天地初开之后，天照大神（伊邪那岐）和地津比卖大神（伊邪那美）被赋予了造岛的任务。他们手持一根丝带装饰的长矛，在海面上搅动，形成了第一个岛屿——丰玉岛。这一过程反复进行，最终形成了日本列岛。这些岛屿的诞生标志着日本神明世系的开始。",
+      "country": "Japan 日本",
+      "emoji": "🇯🇵",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "creation",
+        "islands"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kuniumi"
+    },
+    {
+      "title_en": "Kusanagi no Tsurugi",
+      "title_zh": "草薙之剑",
+      "summary_en": "In Japanese mythology, Kusanagi-no-Tsurugi is a legendary sword that played a pivotal role in the founding of Japan. According to legend, Prince Yamato Takeru received this sacred blade from the goddess Uzume after he defeated an enemy army. As he lay dying, he instructed his brother to cut off his head and throw it into a nearby river. The headless body then transformed into a beautiful woman who presented the sword to him. Prince Takeru named the sword Kusanagi-no-Tsurugi, which means 'Grass-Cutting Sword.' This blade became one of the Imperial Regalia of Japan, symbolizing valor and strength.",
+      "summary_zh": "在日本神话中，草薙之剑是日本建立过程中的一把传奇宝剑。传说中，大和田部首尊在击败敌军后从女神鸟肌女那里得到了这把圣剑。他临终前命令弟弟将他的头颅扔进河里，无头的身体化作一位美丽的女子，将这把名为草薙之剑的宝剑赠予他。大和田部首尊便给这把剑取名‘草薙之剑’，意为‘割草之剑’。这把剑成为了日本皇室御用三神器之一，象征着勇气与力量。",
+      "country": "Japan 日本",
+      "emoji": "sword",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kusanagi_no_Tsurugi"
+    },
+    {
+      "title_en": "Kwaidan: Stories and Studies of Strange Things",
+      "title_zh": "怪谈",
+      "summary_en": "Kwaidan is a collection of Japanese ghost stories compiled by Lafcadio Hearn in 1904. These tales, rich with the supernatural and eerie, delve into the dark corners of human nature and the unknown. One story recounts the tragic tale of a woman who returns as a vengeful spirit after her lover betrays her. Another tells of a man who is haunted by his own reflection in a mirror, leading to a terrifying confrontation with his doppelgänger. Hearn’s vivid descriptions bring these tales to life, blending folklore and personal anecdotes into a haunting narrative that resonates with the essence of Japanese culture.",
+      "summary_zh": "《怪谈》是拉法卡迪奥·赫恩于1904年编纂的一本日本鬼故事集。这些故事充满了超自然和诡异的元素，深入探讨了人性的黑暗面和未知的世界。其中一个故事讲述了女子因爱人背叛而化为复仇怨灵的故事；另一个则描述了一个被自己镜中倒影纠缠的人，最终与自己的双胞胎进行了一场恐怖的对峙。赫恩生动的描写将这些故事栩栩如生地呈现出来，融合了民间传说和个人轶事，展现了日本文化的精髓。",
+      "country": "Japan 日本",
+      "emoji": "👻",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "haunting",
+        "japanese folklore",
+        "supernatural"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kwaidan:_Stories_and_Studies_of_Strange_Things"
+    },
+    {
+      "title_en": "Matsura Sayohime",
+      "title_zh": "松浦佐用姬",
+      "summary_en": "In ancient Japan, Matsura Sayohime was the wife of Ōtomo no Satehiko. When her husband set sail for battle, she climbed a hill and waved her scarf so fervently that it became known as Hire-furi-no-mine or Scarf-Waving Peak. Later, an impostor resembling her husband visited, but Sayohime discovered the truth. In some versions of the tale, she sold herself to a serpent deity in honor of her father's memory before being saved. The legend also tells of her dropping a precious mirror given by her husband, which led to her tragic death by river. This story has been depicted in various art forms and is still remembered today.",
+      "summary_zh": "在日本古代，松浦佐用姬是Ōtomo no Satehiko的妻子。当她的丈夫出征时，她爬上了一座山丘，挥舞着围巾，这个地方后来被称为“挥衣峰”或“Scarf-Waving Peak”。后来，一个长相相似的人来访，但佐用姬发现了真相。在一些版本的故事中，为了纪念父亲，她卖身给蛇神，在被救之前已经失踪。这个故事还讲述了她丢下丈夫赠予的珍贵镜子，最终投河自尽的情节。这一传说至今仍被描绘和传颂。",
+      "country": "Japan 日本",
+      "emoji": "🌸",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Matsura_Sayohime"
+    },
+    {
+      "title_en": "Minamoto no Hiromasa",
+      "title_zh": "源 博雅",
+      "summary_en": "Minamoto no Hiromasa, born in the opulent Heian period, was a nobleman and skilled musician. As the eldest son of Prince Katsuakira and grandson to Emperor Daigo, his lineage was steeped in power and privilege. His mother, Fujiwara no Tokihira’s daughter, further cemented his status among the elite. Hiromasa's life was marked by his mastery of gagaku music, a form of classical Japanese court music that required both technical skill and cultural refinement.",
+      "summary_zh": "源博雅生于平安时代，是一位贵族和乐师。作为Prince Katsuakira的长子和Emperor Daigo的孙子，他的家族背景极为显赫。他的母亲是Fujiwara no Tokihira的女儿，这使他在贵族中地位更高。博雅以其精湛的雅乐演奏技艺而闻名，这是一种需要技术和文化修养相结合的古典宫廷音乐。",
+      "country": "Japan 日本",
+      "emoji": "🌸",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Minamoto_no_Hiromasa"
+    },
+    {
+      "title_en": "Mizuchi",
+      "title_zh": "大虬",
+      "summary_en": "In Japanese folklore, the Mizuchi is a mythical serpent-like creature associated with water. Often depicted as a dragon or deity of rivers and lakes, this creature plays a significant role in ancient Japanese mythology. Legends tell of its ability to control waters and bring both prosperity and misfortune to those who dwell near its domains.",
+      "summary_zh": "在日本神话中，大虬是一种与水相关的神话蛇形生物。通常被描绘为龙或河流和湖泊的神灵，这种生物在古代日本神话中扮演着重要角色。传说它能够控制水域，并给居住在其领地附近的人们带来繁荣或不幸。",
+      "country": "Japan 日本",
+      "emoji": "🌊",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "serpent",
+        "water deity"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Mizuchi"
+    },
+    {
+      "title_en": "Myōbu",
+      "title_zh": "命婦",
+      "summary_en": "In Japanese folklore, myōbu refers to both the imperial court ladies of the fifth rank and the fox messengers of Inari Ōkami. The connection between these two concepts is often explained through stories about Fushimi Inari-taisha on Mount Inari near Kyoto. Here, a vast network of shrines dedicated to Inari Ōkami includes smaller shrines like Byakko-sha and Myōbu-sha, honoring both the white foxes and the court ladies. These fox messengers are also known as byakko, adding another layer of intrigue to their role in Japanese mythology.",
+      "summary_zh": "在日本 folklore 中，命婦既指日本皇室第五品的貴婦人，也指稻荷大神的狐狸使者。这种联系通常通过关于京都附近的福智稲荷神社的故事来解释，在这里有一系列小神社，如白狐社和命婦社，分别纪念白色的狐狸和宫廷贵妇。这些狐狸使者还被称为白狐，增加了它们在日本神话中的神秘色彩。",
+      "country": "Japan 日本",
+      "emoji": "fox_face",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "foxes",
+        "shrines"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Myōbu"
+    },
+    {
+      "title_en": "Nihon Shoki",
+      "title_zh": "日本书纪",
+      "summary_en": "Nihon Shoki, or The Chronicles of Japan, is a monumental work that chronicles the history and myths of ancient Japan. It begins with the creation myth, where the world was born from the union of heaven and earth, and follows through to the early 8th century. This text, compiled in 720 under Prince Toneri's supervision, blends mythology with historical accounts, highlighting the virtues of virtuous rulers and the mistakes of those who failed. It serves as a bridge between Japanese and Chinese cultures, reflecting the Sinicized court's desire for written history comparable to that of China.",
+      "summary_zh": "《日本书纪》是记录古代日本历史和神话的重要文献。它从天地初开的创世神话开始，延续到8世纪早期。这部作品在720年由Prince Toneri主持编纂完成，将神话与历史相结合，强调了贤明君主的美德以及失政者的错误。《日本书纪》不仅反映了日本与中国文化的交融，也体现了当时朝廷希望拥有与中国相媲美的书面历史的愿望。",
+      "country": "Japan 日本",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Nihon_Shoki",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/日本書紀"
+    },
+    {
+      "title_en": "Ogata no Saburo Koreyoshi",
+      "title_zh": "绪方惟栄",
+      "summary_en": "Ogata no Saburo Koreyoshi was a formidable warrior and nobleman in medieval Japan, playing a crucial role in the establishment of the Kamakura shogunate. Known for commanding the largest armies on Kyūshū, his strategic prowess and unwavering loyalty to the Minamoto clan were instrumental in their rise to power. Through his military campaigns and political acumen, Koreyoshi helped lay the foundation for a new era of Japanese governance.",
+      "summary_zh": "绪方惟栄是日本中世纪时期一位英勇的武士和贵族，他在镰仓幕府建立的过程中发挥了重要作用。作为九州地区最大的军队指挥官，惟栄以其卓越的战略才能和对源氏家族的忠诚，在其崛起过程中起到了关键作用。通过军事行动和政治手腕，惟栄为新时期的日本治理奠定了基础。",
+      "country": "Japan 日本",
+      "emoji": "武士",
+      "type": "folklore",
+      "tags": [
+        "medieval"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ogata_no_Saburo_Koreyoshi"
+    },
+    {
+      "title_en": "Raitarō",
+      "title_zh": "雷太郎",
+      "summary_en": "In Japanese mythology, Raitarō is the son of Raijin, the god of thunder. According to legend, when he was a child, Raitarō was discovered by a farmer named Bimbo. The young boy, with his father's power and protection, grew up to be a protector of the fields from storms and natural disasters. His presence brought both fear and respect among the villagers.",
+      "summary_zh": "在日本神话中，雷太郎是雷神的儿子。传说他年幼时被农民比布诺发现。这个小男孩继承了父亲的力量和保护，长大后成为田地免受风暴和自然灾害的守护者。他的存在既令人敬畏又充满恐惧。",
+      "country": "Japan 日本",
+      "emoji": "⚡️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "god",
+        "thunder",
+        "protector"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Raitarō"
+    },
+    {
+      "title_en": "Saitobaru Kofun Cluster",
+      "title_zh": "西都原古墳群",
+      "summary_en": "The Saitobaru Kofun Cluster, a vast necropolis in Miyazaki Prefecture, Japan, comprises over three hundred kofuns or tumuli. These ancient burial mounds are situated on a 70-meter hill of diluvium and form the largest group in Kyushu. The cluster is part of the Saitobaru-Sugiyasukyō Prefectural Natural Park, preserving this significant archaeological site for future generations to explore.",
+      "summary_zh": "西都原古墳群位于日本宫崎县，由超过三百座古坟或土丘组成。这些古代墓葬坐落在70米高的冲积层上，是九州地区最大的古坟群。该遗址作为自然公园的一部分，保护了这一重要的考古遗产，供后人探索。",
+      "country": "Japan 日本",
+      "emoji": " ancestory ",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "burial",
+        "archaeology"
+      ],
+      "lat": 32.11777778,
+      "lng": 131.38944444,
+      "wiki_en": "https://en.wikipedia.org/wiki/Saitobaru_Kofun_Cluster"
+    },
+    {
+      "title_en": "Sessho-seki",
+      "title_zh": "杀生石",
+      "summary_en": "In Japanese folklore, Sessho-seki, or Killing Stone, is a legendary stone in Nasu, Tochigi Prefecture, known for its deadly touch. The most famous tale involves Tamamo-no-Mae, a nine-tailed fox who disguised herself as a beautiful woman and caused chaos at the imperial court. One day, while she was near Sessho-seki, the stone turned her into a pile of ashes, revealing her true form to the world.",
+      "summary_zh": "在日本 folklore 中，杀生石是位于栃木县 Nasu 的一块传说中的石头，据说触碰它会致人死亡。最著名的传说涉及玉藻前，她化身为一位美丽的女子，并在皇宫中制造混乱。一天，当她在杀生石附近时，石头将她变成了灰烬，揭露了她的真身。",
+      "country": "Japan 日本",
+      "emoji": "🪨",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": 37.1016692,
+      "lng": 139.9985806,
+      "wiki_en": "https://en.wikipedia.org/wiki/Sessho-seki"
+    },
+    {
+      "title_en": "Shinto Texts",
+      "title_zh": "神道经典",
+      "summary_en": "At the heart of Japanese spirituality lie the ancient texts known as Shinten. The two most revered are the Kojiki and Nihon Shoki, collectively called the Kiki. These chronicles tell the creation myths of Japan, including the divine descent of the imperial family from the sun goddess Amaterasu. Through these sacred writings, the Japanese people have preserved their spiritual heritage for centuries.",
+      "summary_zh": "日本神道的核心在于古老的神道经典。其中最重要的两部是《古事记》和《日本书纪》，合称‘记纪’。这两部文献记载了日本的创世神话，包括太阳女神天照大御神的后代如何成为皇室。通过这些神圣的著作，日本人保存了他们的精神遗产数个世纪。",
+      "country": "Japan 日本",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Shinto_texts"
+    },
+    {
+      "title_en": "Shōjō",
+      "title_zh": "猩々",
+      "summary_en": "In Japanese folklore, the shōjō is a mythical primate with a red face and long hair who dwells in the sea and has a penchant for alcohol. This creature originates from Chinese mythology where it was described as living on a seaside mountain and known for its love of liquor. The shōjō became part of Japanese Noh plays, blending local folklore with ancient tales to create a vivid and enchanting sea spirit.",
+      "summary_zh": "在日本民俗中，猩々是一种神话中的灵长类动物，它有着红脸和长发，在海中生活，并且喜欢饮酒。这种生物源自中国的神话，描述其生活在海边的山上并且以嗜酒著称。猩々后来成为了日本能剧的一部分，将当地传说与古代故事相结合，创造出一个生动迷人的海神灵。",
+      "country": "Japan 日本",
+      "emoji": "🌊",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythical creature",
+        "sea spirit",
+        "alcohol"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Shōjō"
+    },
+    {
+      "title_en": "Sorei",
+      "title_zh": "祖霊",
+      "summary_en": "In Japan, Sorei are the spirits of ancestors that receive special memorial services on fixed dates after their death. These rituals vary by region but often occur 33 or 50 years posthumously. Over time, these spirits may lose their individuality and become part of a collective ancestral spirit group. Some scholars suggest this process could lead to the deification of ancestors into kami or ujigami, though evidence is lacking. Today, Japanese people might view recently deceased relatives as becoming enlightened beings akin to Buddha.",
+      "summary_zh": "在日本，祖霊是指在特定日期接受纪念仪式的祖先之灵。这些仪式因地区而异，通常发生在去世后的33年或50年左右。随着时间推移，这些灵魂可能会失去个体性，成为集体祖先之灵的一部分。一些学者认为这一过程可能使祖先被尊为神明或氏神，但证据不足。如今，日本人可能会将最近去世的亲人视为类似于佛祖的觉悟者。",
+      "country": "Japan 日本",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "rituals",
+        "spirits",
+        "ancestor worship"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Sorei"
+    },
+    {
+      "title_en": "Tagishimimi-no-mikoto",
+      "title_zh": "手研耳命",
+      "summary_en": "In Japanese mythology, Tagishimimi-no-mikoto was the son of Emperor Jimmu and a concubine. Ambitious to seize the throne from his half-brother Suizei, he plotted to murder both Suizei and Prince Kamuyaimimi. However, their mother warned them with songs and poems, leading Suizei to prepare for the betrayal. In a surprise attack, Suizei and Prince Kamuyaimimi confronted Tagishimimi, who was ultimately killed by Emperor Jimmu himself.",
+      "summary_zh": "在日本神话中，手研耳命是天照大神的儿子，也是天皇的私生子。他企图从同父异母的弟弟苏世帝手中夺取王位，密谋杀害苏世帝和卡穆亚伊米尼王子。然而，他们的母亲通过歌曲和诗歌警告了他们。苏世帝做好准备后，与卡穆亚伊米尼王子突然袭击手研耳命，最终由天皇亲手将其杀死。",
+      "country": "Japan 日本",
+      "emoji": "👑",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "japanese mythology"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tagishimimi"
+    },
+    {
+      "title_en": "Takamimusubi",
+      "title_zh": "高御産巣日神",
+      "summary_en": "In the beginning of Japanese mythology, Takamimusubi emerged as one of the first beings, embodying the exalted generative force. This deity played a crucial role in the creation narrative, often associated with the Japanese imperial family and revered for its protective powers.",
+      "summary_zh": "在日本神话的开端，高御産巣日神作为最初的生物之一出现，代表着崇高的生成之力。这位天神在创世叙事中扮演了重要角色，并常与日本皇室联系在一起，因其保护力量而备受尊敬。",
+      "country": "Japan 日本",
+      "emoji": " vermilion bird 红鸟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "creation",
+        "deity"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Takamimusubi"
+    },
+    {
+      "title_en": "Tenrikyo Creation Myth",
+      "title_zh": "天理教创世神话",
+      "summary_en": "In Tenrikyo, Izanagi-no-Mikoto and Izanami-no-Mikoto are the divine counterparts of Adam and Eve. According to the religion's scriptures, God bestowed sacred names upon these primordial beings: Izanagi received the name for man and the seed, while Izanami was given the name for woman and the seedplot. From these divine instruments emerged Tsukiyomi-no-Mikoto and Kunisazuchi-no-Mikoto, representing the principles of light and earth respectively. This myth forms a central narrative in Tenrikyo's religious teachings, reflecting its unique blend of Shinto and Christian influences.",
+      "summary_zh": "在天理教中，伊邪那岐尊和伊邪那美尊是亚当和夏娃的神灵对应。根据宗教经典记载，上帝赋予了这些原始生物神圣的名字：伊邪那岐获得了男子和种子的名字，而伊邪那美则获得了女子和种子地的名字。从这些神圣工具中诞生了月读尊和国常新尊，分别代表光明与大地的原则。这一神话构成了天理教宗教教义的核心叙述，反映了其独特的神道教与基督教的融合。",
+      "country": "Japan 日本",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "religion"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tenrikyo_creation_myth"
+    },
+    {
+      "title_en": "Tenson Dynasty",
+      "title_zh": "天孫氏王朝",
+      "summary_en": "In Ryukyu Islands' creation myth, Amamikyu, impregnated by the male deity Shinerikyu without sexual intercourse, gave birth to a 'heavenly child.' This child had three sons and two daughters who became the first king, lord, commoners, priestesses, and nobles. The Tenson dynasty ruled for seventeen thousand years with divine right until it was overthrown by Shunten in 1187, marking the end of the Gusuku period.",
+      "summary_zh": "在琉球群岛的创世神话中，阿马米久由男性神祇施里瑞克尤无性授孕而生下‘天孙’。这位天孙有三个儿子和两个女儿，分别成为第一位国王、贵族、平民、祭司和王妃。天孙氏王朝统治了长达一万七千年之久，以神权为基础，直到1187年被乌渡的顺天所推翻，标志着古城时期的结束。",
+      "country": "Japan 日本",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tenson_dynasty"
+    },
+    {
+      "title_en": "Tenson Kōrin",
+      "title_zh": "天孫降臨",
+      "summary_en": "In Japanese mythology, Amaterasu and Takamimusubi’s grandson, Ninigi-no-Mikoto, descended from the heavenly realm of Takamagahara to Ashihara no Nakatsukuni. This event marked a pivotal moment in Japanese history, symbolizing the transfer of divine authority to earthly rulership. The descent took place at Takachiho-gawara, where Ninigi established his lineage and founded the imperial family that would rule Japan for centuries.",
+      "summary_zh": "在日本神话中，天照大神和高御魂命的孙子二尊尊王从天上的高天原降临到了人间国。这一事件标志着日本历史上一个重要的转折点，象征着天界权力转移到了人间统治者手中。二尊尊王在高千穗川附近建立了自己的血统，并成为了统治日本数个世纪的皇室始祖。",
+      "country": "Japan 日本",
+      "emoji": "🌸",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tenson_kōrin"
+    },
+    {
+      "title_en": "Ō Clan",
+      "title_zh": "大氏",
+      "summary_en": "The Ō clan, descendants of Jimmu and Himetataraisuzu-hime, traces its lineage back to Kamuyaimimi. One of the most notable members was Ō no Yasumaro, who became the head of the clan in 716 AD and authored the Kojiki, an ancient Japanese chronicle. His leadership marked a pivotal moment for the clan's historical significance.",
+      "summary_zh": "大氏是神武天皇和比売田稚子姬的后裔，其血统可追溯至神使明神。其中最著名的成员是大藏麻呂，在716年成为大氏首领并撰写了《古事记》，这是一部古代日本编年史。他的领导标志着大氏历史地位的重要时刻。",
+      "country": "Japan 日本",
+      "emoji": " ancestory ",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "clan",
+        "japanese mythology"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ō_clan"
+    },
+    {
+      "title_en": "Thirteen Buddhas",
+      "title_zh": "十三仏",
+      "summary_en": "In the heart of Japan, the Thirteen Buddhas are revered figures within Shingon and Tendai Buddhism. These deities, including both Buddha and bodhisattva forms, guide practitioners through their spiritual journey. Lay followers chant mantras dedicated to each figure as part of their devotional practice. This ritual not only aids in personal enlightenment but also provides protection and comfort during times of grief and celebration of the deceased.",
+      "summary_zh": "在日本，十三仏是日本真言宗和天台宗佛教中的重要尊神。这些尊神包括佛陀和菩萨，引领信徒走向精神之路。信徒们会为每位尊神诵念咒语作为日常修行的一部分，这不仅有助于个人觉悟，也在葬礼和其他仪式中提供保护与慰藉。",
+      "country": "Japan 日本",
+      "emoji": "🙏🏻",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "buddhism"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Thirteen_Buddhas"
+    },
+    {
+      "title_en": "Tide Jewels",
+      "title_zh": "潮珠",
+      "summary_en": "In Japanese mythology, the Tide Jewels, known as Hirutama and Mitsutama, were magical gems that controlled the tides. According to ancient tales, these jewels were given by the Sea God (海神, Watatsumi) to his son-in-law, Prince Luck-of-the-Mountain (Yamasachihiko). Later stories suggest the Dragon King (龍神, Ryūjin) held them in his underwater palace, the Dragon Palace (龍宮, Ryūgū), and their possession became linked with Empress Jingū's conquest of Korea.",
+      "summary_zh": "在日本神话中，潮珠（干珠和満珠）是能够控制潮汐的魔法宝石。据古代传说，这些宝石由海神（海神，Watatsumi）赠予他的儿媳之夫——山幸彦（Yamasachihiko）。后来的故事表明，龙王（龍神，Ryūjin）将它们存放在水下宫殿龙宫（龍宮，Ryūgū），并将其与 Jingū 女皇征服朝鲜的功绩联系在一起。",
+      "country": "Japan 日本",
+      "emoji": "🌊",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tide_jewels"
+    },
+    {
+      "title_en": "Toilet Meal",
+      "title_zh": "便所饭",
+      "summary_en": "In modern Japan, the phenomenon of 'toilet meals' is common among people who eat alone in bathroom stalls to avoid being seen or to save money. This practice, once considered an urban legend, has become widespread and even referenced in popular media. People hide their solitary dining in public restrooms for various reasons, making these impromptu meals a unique aspect of contemporary Japanese social behavior.",
+      "summary_zh": "在现代日本，人们常常会在公共厕所的隔间里独自用餐以避免被看到或节省开支。这一现象最初被认为是都市传说，但后来证实非常普遍，并且甚至出现在了各种流行媒体中。人们为了各种原因在公共场所的洗手间里秘密用餐，这种即兴的饮食方式成为了当代日本社会行为的独特特征。",
+      "country": "Japan 日本",
+      "emoji": "🚽",
+      "type": "legend",
+      "tags": [
+        "modern"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Toilet_meal"
+    },
+    {
+      "title_en": "Tokoyo no kuni",
+      "title_zh": "常世之国",
+      "summary_en": "In ancient Japan, beyond the mortal world lay the realm of Tokoyo, a place where spirits and ancestors dwelled in eternal youth. Emperor Suinin sent Tajimamori on a quest to this mystical land to seek immortality, hoping to extend his reign with divine power. The journey was perilous, but upon reaching Tokoyo, Tajimamori found a world of perpetual beauty and endless springtime. There, he learned the secrets of eternal life and returned, forever changed by his encounter with the otherworldly realm.",
+      "summary_zh": "在古代日本，超越凡尘的世界中存在着常世之国，那里居住着神灵和祖先，他们永远年轻。苏胜天皇派遣田上守前往这个神秘的国度寻求长生不老的力量，以延长他的统治。旅途充满危险，但当他到达常世之国时，发现这里是一个永恒美丽的世界，四季如春。在那里，他学到了永生的秘密，并带着改变后的自己返回了人间。",
+      "country": "Japan 日本",
+      "emoji": "🌸",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "shinto"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tokoyo_no_kuni"
+    },
+    {
+      "title_en": "Tomo no Yoshio",
+      "title_zh": "伴善男",
+      "summary_en": "In ancient Japan, Tomo no Yoshio served as a counselor to the state during the pre-feudal era. After his death, he was venerated and later became known as a goryō, or spirit of the dead, associated with pestilence. His story illustrates how the spirits of important figures could be invoked for protection or feared as omens of misfortune.",
+      "summary_zh": "在古代日本，伴善男曾是前封建时代朝廷的顾问。他去世后被奉祀为守护神，并逐渐被视为与瘟疫相关的怨灵。他的故事反映了人们对重要人物之魂灵既敬畏又恐惧的态度。",
+      "country": "Japan 日本",
+      "emoji": "yoroi",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "spirit",
+        "goryō",
+        "pestilence"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tomo_no_Yoshio"
+    },
+    {
+      "title_en": "Wani",
+      "title_zh": "鰐",
+      "summary_en": "In Japanese mythology, Wani was a fearsome sea monster resembling a crocodile or shark. It terrorized coastal villages and was said to have caused numerous shipwrecks. Brave warriors would venture into the deep waters to slay Wani, earning great honor for their victory over this formidable beast of the sea.",
+      "summary_zh": "在日本神话中，鰐是一种形似鳄鱼或鲨鱼的海怪。它曾肆虐沿海村落，并导致许多船只沉没。勇士们会冒险进入深海斩杀鰐，以击败这头凶猛的海洋巨兽而获得巨大的荣誉。",
+      "country": "Japan 日本",
+      "emoji": "🌊",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "sea monster"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Wani_(dragon)"
+    },
+    {
+      "title_en": "Yakusanoikazuchi",
+      "title_zh": "八岐大蛇",
+      "summary_en": "In the ancient myths of Japan, Yakusanoikazuchi refers to a collective of eight storm deities, each personifying different types of thunder. These powerful kami traverse the skies in fierce storms, bringing both destruction and renewal. Their presence is marked by flashes of lightning and the roar of mighty winds, shaping the natural world with their divine power.",
+      "summary_zh": "日本古代神话中的八岐大蛇，是指八个雷神的合称，各自代表着不同类型的雷电。这些强大的天神在天空中疾行于猛烈的风暴之中，带来破坏与重生。他们的到来伴随着闪电的闪烁和狂风的怒吼，以神力塑造着自然界的面貌。",
+      "country": "Japan 日本",
+      "emoji": "⚡️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "雷电",
+        "自然灾害"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Yakusanoikazuchi"
+    },
+    {
+      "title_en": "Yanari",
+      "title_zh": "家鳴",
+      "summary_en": "In Japanese folklore, Yanari are mysterious creaking sounds that occur within houses without any apparent cause. Legend has it that these eerie noises are the work of a small oni-like yōkai who pranks by shaking the house. While traditionally seen as supernatural, in modern times they are often attributed to poltergeist phenomena or physical changes due to temperature and humidity fluctuations. These sounds can be particularly unsettling in newly constructed homes where materials expand and contract with environmental changes, potentially leading to defective housing issues.",
+      "summary_zh": "在日本 folklore 中，家鳴是指房屋内无缘无故发出的嘎吱声。传说这些奇怪的声音是由一种小妖怪造成的，它会通过摇晃房子来捉弄人。虽然传统上认为这是超自然现象，但在现代，人们通常将其归因于灵异事件或由于温度和湿度变化导致的物理变化。这些声音在新建成的房屋中尤为常见，因为材料尚未适应环境而发生膨胀和收缩，可能会导致建筑质量问题。",
+      "country": "Japan 日本",
+      "emoji": "🏠",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "modern"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Yanari"
+    },
+    {
+      "title_en": "Yokai Hyaku Monogatari",
+      "title_zh": "百鬼夜行",
+      "summary_en": "In a dark and stormy night, a young samurai ventures into the eerie forests of Japan to investigate strange occurrences. As he walks alone, shadows shift and grow, revealing themselves as mischievous yokai spirits. These creatures, with their haunting eyes and twisted forms, taunt him, playing tricks that lead him deeper into the woods. The film, while featuring practical effects and traditional animation, focuses more on the atmospheric storytelling of kaidan than on the monsters themselves. Through his journey, the samurai learns to respect these otherworldly beings, understanding their power and the importance of balance in nature.",
+      "summary_zh": "在一个风雨交加的夜晚，一位年轻的武士独自一人踏入日本荒凉的森林中调查奇怪的现象。随着他孤独地行走，阴影在移动和变化，最终显露出面目狰狞、扭曲形体的妖怪。这些妖怪用它们那令人毛骨悚然的眼睛戏弄着他，在树林中设下陷阱，将他引向更深的地方。虽然影片使用了实际特效和传统动画，但它更注重讲述怪谈故事中的氛围与情节。通过这次旅程，武士逐渐理解到这些超自然生物的力量，并意识到在自然界保持平衡的重要性。",
+      "country": "Japan 日本",
+      "emoji": "妖怪",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Yokai_Monsters:_100_Monsters"
+    },
+    {
+      "title_en": "Spook Warfare",
+      "title_zh": "妖怪大戰",
+      "summary_en": "In the land of Japan, ancient spirits known as yokai gathered for a great war. Directed by Yoshiyuki Kuroda in 1968, 'Yokai Monsters: Spook Warfare' brought these spectral warriors to life through elaborate costumes and special effects. The battle raged between benevolent and malevolent yokai, each seeking dominance over the human realm. This thrilling tale of supernatural conflict captivated audiences, setting the stage for future retellings that would blend traditional folklore with modern horror.",
+      "summary_zh": "在日本，古老的妖怪们聚集起来进行了一场大战。1968年由吉村孝执导的《妖怪大戦争》将这些灵异战士通过精美的服装和特效呈现在观众面前。这场战斗在善恶妖怪之间展开，各自争夺人类世界的主导权。这部令人兴奋的超自然冲突故事吸引了无数观众，并为后来融合传统 folklore与现代恐怖元素的改编奠定了基础。",
+      "country": "Japan 日本",
+      "emoji": "👻",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Yokai_Monsters:_Spook_Warfare"
+    },
+    {
+      "title_en": "Zennyo Ryūō",
+      "title_zh": "善女龍王",
+      "summary_en": "In Japanese mythology, Zennyo Ryūō is a rain-god dragon who appeared in 824 AD during a contest at the Kyoto Imperial Palace. The priest Kūkai summoned this benevolent dragon to demonstrate his power and knowledge of Buddhist teachings. As the skies darkened and clouds gathered, Zennyo Ryūō breathed down a torrential downpour that quenched the city's drought, showcasing the divine favor of Buddhism.",
+      "summary_zh": "在日本神话中，善女龍王是一条雨水之神龙，在公元824年的一次京都皇宫的降雨比赛上出现。僧侣空海召唤了这条善良的龙来展示他的佛教知识和力量。随着乌云密布，天空骤降倾盆大雨，解除了城市的旱情，展示了佛教的神圣恩典。",
+      "country": "Japan 日本",
+      "emoji": "🐉",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 36.2,
+      "lng": 138.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Zennyo_Ryūō"
+    }
+  ]
+}

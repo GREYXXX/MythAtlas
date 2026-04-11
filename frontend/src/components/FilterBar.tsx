@@ -34,9 +34,11 @@ type Props = {
   theme: ThemeKey;
   era: EraKey;
   showLines: boolean;
+  showCityNames: boolean;
   onTheme: (t: ThemeKey) => void;
   onEra: (e: EraKey) => void;
   onToggleLines: (v: boolean) => void;
+  onToggleCityNames: (v: boolean) => void;
 };
 
 export function FilterBar({
@@ -44,9 +46,11 @@ export function FilterBar({
   theme,
   era,
   showLines,
+  showCityNames,
   onTheme,
   onEra,
   onToggleLines,
+  onToggleCityNames,
 }: Props) {
   const L = (o: { en: string; zh: string }) => (lang === "zh" ? o.zh : o.en);
 
@@ -86,7 +90,18 @@ export function FilterBar({
           ))}
         </div>
         <div className="ml-auto flex items-center gap-3 border-l border-slate-700/60 pl-3">
-          <Toggle lang={lang} value={showLines} onChange={onToggleLines} />
+          <Toggle
+            label={{ en: "Lines", zh: "经纬线" }}
+            lang={lang}
+            value={showLines}
+            onChange={onToggleLines}
+          />
+          <Toggle
+            label={{ en: "Cities", zh: "城市" }}
+            lang={lang}
+            value={showCityNames}
+            onChange={onToggleCityNames}
+          />
         </div>
       </div>
     </div>
@@ -95,14 +110,16 @@ export function FilterBar({
 
 function Toggle({
   lang,
+  label,
   value,
   onChange,
 }: {
   lang: "en" | "zh";
+  label: { en: string; zh: string };
   value: boolean;
   onChange: (v: boolean) => void;
 }) {
-  const text = lang === "zh" ? "经纬线" : "Lines";
+  const text = lang === "zh" ? label.zh : label.en;
   return (
     <label className="flex cursor-pointer items-center gap-2 text-[11px] text-slate-400">
       <span>{text}</span>

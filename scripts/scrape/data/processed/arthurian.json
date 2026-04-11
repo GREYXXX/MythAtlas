@@ -1,0 +1,911 @@
+{
+  "meta": {
+    "region": "Arthurian",
+    "count": 53,
+    "generated": "2026-04-11",
+    "note": "Scraped from Wikipedia, summarized with a local Qwen model via Ollama."
+  },
+  "stories": [
+    {
+      "title_en": "Afanc",
+      "title_zh": "阿凡克",
+      "summary_en": "In Welsh mythology, the Afanc is a fearsome water monster, often described as resembling a crocodile or beaver but sometimes likened to a platypus. It dwells in various lakes across Wales, most notably Llyn yr Afanc near Betws-y-coed. The creature's presence is said to bring misfortune and disaster to the land, and it was believed that only a powerful hero like Gwion Bach could defeat it by draining its lake home. Legends of the Afanc have long been a part of Welsh folklore, embodying the power and danger of nature.",
+      "summary_zh": "阿凡克是威尔士神话中的水怪，常被描述为鳄鱼或河狸的形态，有时又像鸭嘴兽。它栖息在威尔士各地的湖泊中，最著名的是贝茨-伊科德附近的阿凡克湖。传说只有强大的英雄如格温翁·巴奇才能通过排空其居所湖泊来战胜它。阿凡克的故事长久以来是威尔士民间传说的一部分，象征着自然的力量和危险。",
+      "country": "England 英格兰",
+      "emoji": "🌊",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "monster",
+        "water",
+        "Welsh"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Afanc"
+    },
+    {
+      "title_en": "Aneirin",
+      "title_zh": "艾内林",
+      "summary_en": "Aneirin was a war poet from the 6th century in Brythonic Wales, composing verses that celebrated the valor and deeds of warriors. His work, though lost to time, is remembered through references in later literature, particularly the poem Y Gododdin. This epic poem narrates the fateful battle of Catraeth where Aneirin's own cousin fell, blending historical events with mythological themes. The verses are said to have captured the essence of Welsh warrior culture and its tragic loss.",
+      "summary_zh": "艾内林是6世纪的布罗顿诗人，他创作了赞美勇士英勇事迹的诗歌。尽管他的作品已失传，但后世文献中提及了他的诗作《上帝瓦丁》，该史诗讲述了卡特雷思战役的故事，艾内林的表亲在此战中阵亡。这些诗句描绘了威尔士武士文化的精髓及其悲壮的结局。",
+      "country": "England 英格兰",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "poetry",
+        "warrior culture"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Aneirin"
+    },
+    {
+      "title_en": "Arthurian Literature",
+      "title_zh": "亚瑟王文学",
+      "summary_en": "The Arthurian Literature series, published annually since 1982 by Boydell & Brewer, explores the rich tapestry of medieval and early modern European literature surrounding King Arthur. Spanning over three decades, it delves into the literary, historical, and artistic aspects of this legendary figure, offering in-depth articles that have become essential reading for scholars and enthusiasts alike.",
+      "summary_zh": "自1982年起，博伊德·艾尔与布鲁厄出版社每年出版的《亚瑟王文学》系列，深入探讨了中世纪和早期现代欧洲关于国王亚瑟的丰富文学遗产。该系列历时三十余年，涵盖了文学、历史和艺术等多个方面，成为学者和爱好者不可或缺的参考资料。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "epic",
+      "tags": [
+        "medieval",
+        "legend"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Arthurian_Literature_(book_series)"
+    },
+    {
+      "title_en": "Arthuriana",
+      "title_zh": "亚瑟王传说",
+      "summary_en": "Arthuriana refers to a quarterly journal that explores the rich tapestry of Arthurian legends. Through scholarly articles and research, it delves into the myths surrounding King Arthur, his knights, and their adventures in the mythical realm of Camelot. Each issue brings new insights into this enduring narrative, blending history with fantasy to keep the legend alive.",
+      "summary_zh": "《亚瑟王传说》是一本季度期刊，专注于研究亚瑟王传奇。通过学术文章和研究成果，它深入探讨了关于亚瑟王、他的骑士以及他们在神秘的卡米洛特王国中的冒险的故事。每期都带来了对这一持久叙事的新见解，将历史与幻想相结合，使这个传奇得以延续。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "epic",
+      "tags": [
+        "medieval",
+        "legend"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Arthuriana"
+    },
+    {
+      "title_en": "Artognou Stone",
+      "title_zh": "阿特奥努石碑",
+      "summary_en": "The Artognou stone, discovered in Tintagel Castle, Cornwall, UK, was originally a dedication stone for some public building. It dates back to the sixth century and was later broken and reused as part of a drain when the structure it once adorned fell into disuse. The name 'Artognou' sparked speculation about its connection to King Arthur, but scholars argue that there is insufficient evidence to support this claim. Today, the stone can be seen at the Royal Cornwall Museum, serving as a silent witness to the history and legends of sub-Roman Britain.",
+      "summary_zh": "阿特奥努石碑发现于英国康沃尔郡廷塔格尔城堡，最初是为某公共建筑而设立的献祭石。它可追溯至公元六世纪，并在该结构废弃后被重新用作排水系统的一部分而破损。尽管“Artognou”这个名字引发了人们对它与亚瑟王之间联系的猜测，但学者们认为证据不足。如今，这块石头陈列于皇家康沃尔博物馆中，见证了不列颠亚罗马时期的往事和传说。",
+      "country": "England 英格兰",
+      "emoji": "📜",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "legend"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Artognou_stone"
+    },
+    {
+      "title_en": "gens Artoria",
+      "title_zh": "Artoria氏族",
+      "summary_en": "The gens Artoria was an ancient Roman plebeian family, known for their modest presence in historical records. While few members are mentioned, some were of senatorial rank during the later Empire. Their inscriptions provide glimpses into the lives and social standing of this minor but noteworthy lineage.",
+      "summary_zh": "Artoria氏族是古罗马时期的平民家族，历史上对其记载不多。但至少有部分成员在帝国晚期达到了执政官的地位。通过铭文，我们得以一窥这个虽小有名气却地位普通的家族的生活和社会地位。",
+      "country": "Italy 意大利",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Artoria_gens"
+    },
+    {
+      "title_en": "Attributed Arms",
+      "title_zh": "追授的纹章",
+      "summary_en": "In medieval England, coats of arms were given to historical and legendary figures who lived before the advent of heraldry. These attributed arms included biblical characters like Jesus, whose shield bore symbols from his Passion. Knights of the Round Table, such as King Arthur, also received armorial bearings. Even kings like Edward the Confessor and William I had their own attributed coats of arms, which were sometimes quartered in the arms of their descendants. This practice reflected society's desire to honor these figures with the prestige of heraldry.",
+      "summary_zh": "中世纪英格兰，人们给生活在纹章兴起之前的英雄和历史人物追授了纹章。这些追授的纹章包括耶稣基督，他的盾牌上装饰着从受难中获得的符号。圆桌骑士如亚瑟王也获得了自己的纹章。甚至像埃德蒙·塞弗勒斯国王和威廉一世这样的君主也有他们自己的追授纹章，有时他们的后裔会将这些纹章作为四分之一纹章使用。这种做法反映了社会对这些人物的崇敬之情。",
+      "country": "England 英格兰",
+      "emoji": "crest",
+      "type": "folklore",
+      "tags": [
+        "medieval",
+        "heraldry"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Attributed_arms"
+    },
+    {
+      "title_en": "Beheading Game",
+      "title_zh": "砍头游戏",
+      "summary_en": "In the beheading game, a stranger arrives at King Arthur's court and challenges a hero to an exchange of blows: if the hero can decapitate him, the stranger will return the blow. The stranger is actually supernatural, as revealed when he retrieves his own severed head. Gawain, one of Arthur's knights, impulsively beheads the Green Knight but must accept the return blow to prove his chivalry and bravery. Despite concealing a magic girdle for protection, Gawain submits himself to the symbolic death and rebirth, symbolizing his coming-of-age and commitment to honor.",
+      "summary_zh": "砍头游戏中，一名陌生人来到亚瑟王的宫廷，并向一位英雄发起挑战：如果这位英雄能将他斩首，那么陌生人也会以同样的方式回应。陌生人实际上是超自然的存在，当他在被斩首后重新取回自己的头颅时，这一点才得以揭示。亚瑟王的一位骑士加文冲动地砍下了绿色骑士的头颅，但根据宫廷的价值观，他必须接受对方的反击来证明自己的英勇和荣誉。尽管加文藏有一条魔法腰带以为保护，但他仍然屈服于象征性的死亡与重生，象征着他的成长以及对荣誉的承诺。",
+      "country": "England 英格兰",
+      "emoji": "⚔️",
+      "type": "legend",
+      "tags": [
+        "medieval",
+        "chivalry",
+        "supernatural",
+        "courtly"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Beheading_game"
+    },
+    {
+      "title_en": "Cadwallon Lawhir",
+      "title_zh": "卡德瓦隆·拉希尔",
+      "summary_en": "Cadwallon Lawhir, a king of Gwynedd in the early 6th century, is remembered for his military prowess and legendary battle at Cerrig y Gwyddyl. To ensure his troops' bravery, Cadwallon padlocked their feet to their stirrups, preventing them from fleeing. His opponent was Serigi Wyddel, leader of the Irish settlers on Anglesey. The outcome of this decisive battle is uncertain, but it marked a significant victory for Cadwallon in driving out the last of the Irish invaders.",
+      "summary_zh": "卡德瓦隆·拉希尔是格温内斯的国王，活跃于6世纪初。他以勇敢和军事才能著称，在一次关键战役中，他命令士兵将脚锁在马镫上，确保他们不会逃离战场。他的对手是塞里吉·韦德尔，爱尔兰定居者领袖。这场战斗最终以卡德瓦隆的胜利告终，成功驱逐了最后一批爱尔兰入侵者。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "kingdom",
+        "battle",
+        "medieval"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cadwallon_Lawhir"
+    },
+    {
+      "title_en": "Carnwennan",
+      "title_zh": "卡恩温南",
+      "summary_en": "In the Welsh Arthurian legends, Carnwennan was King Arthur's dagger, one of his sacred weapons given by God. It played a crucial role in slaying Orddu, the witch daughter of Orwen, by slicing her in half. Unlike the sword Caledfwlch and spear Rhongomyniad, Carnwennan is exclusive to Welsh traditions, making it a unique symbol of Arthur's power and divine favor.",
+      "summary_zh": "在威尔士的亚瑟王传说中，卡恩温南是亚瑟王的匕首，也是上帝赐予他的圣器之一。它在斩杀女巫奥德杜的女儿奥韦恩时发挥了关键作用，一分为二地割开了她。与剑‘凯勒夫洛克’和矛‘龙哥蒙尼亚特’不同，卡恩温南仅出现在威尔士传统中，成为亚瑟王权力和上帝恩赐的独特象征。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "sacred weapon",
+        "Arthurian legend"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Carnwennan"
+    },
+    {
+      "title_en": "Centre de l'Imaginaire Arthurien",
+      "title_zh": "亚瑟王想象中心",
+      "summary_en": "The Centre de l'Imaginaire Arthurien, founded in Rennes, France, is a cultural hub dedicated to the Arthurian legends. Since its establishment in 1988, it has hosted annual exhibitions and events celebrating King Arthur's tales. The center, based at Château de Comper, organizes activities like the Pentecôte du Roi Arthur and Semaine du dragon, attracting both scholars and celebrities. Through its efforts to promote education and open access to Arthurian literature, the centre has gained significant recognition.",
+      "summary_zh": "亚瑟王想象中心成立于法国雷恩，致力于亚瑟王传说的文化推广。自1988年成立以来，该中心每年都会举办展览和活动来庆祝亚瑟王的故事。中心位于科佩尔城堡，组织如国王亚瑟的五旬节和龙周等活动，吸引了学者和名人。通过促进教育并开放访问亚瑟王文学，该中心获得了广泛认可。",
+      "country": "England 英格兰",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "medieval",
+        "myth",
+        "legend",
+        "Arthurian"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Centre_de_l'Imaginaire_Arthurien"
+    },
+    {
+      "title_en": "Cerdic of Wessex",
+      "title_zh": "韦塞克斯的瑟尔迪克",
+      "summary_en": "Cerdic, a leader of the Anglo-Saxons, founded the kingdom of Wessex in Britain around 519 AD. He is considered by later kings as the first king of Wessex and the ancestor of all subsequent rulers. Despite his importance to West Saxon history, Cerdic's origins and ethnicity remain uncertain. His legacy lives on through the lineage of the Gewissae, a tribal group he led before becoming king.",
+      "summary_zh": "瑟尔迪克是盎格鲁-撒克逊人的领袖，他在公元519年左右建立了韦塞克斯王国。后来的韦塞克斯国王将他视为第一位国王，并认为自己是他的后裔。尽管瑟尔迪克在韦塞克斯历史上的重要性毋庸置疑，但关于他的起源和种族仍存在争议。他的遗产通过他所领导的吉维萨部落流传下来。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "kingdom",
+        "ethnicity",
+        "lineage"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cerdic_of_Wessex"
+    },
+    {
+      "title_en": "Cynon ap Clydno",
+      "title_zh": "肯农·普莱德诺",
+      "summary_en": "In Welsh mythology, Cynon ap Clydno embarked on a perilous quest to the Castle of Maidens. Guided by his courage and wit, he overcame numerous challenges, including a fierce battle against the Black Knight. This heroic adventure set the stage for later tales involving Owain and the Lady of the Fountain.",
+      "summary_zh": "在威尔士神话中，肯农·普莱德诺踏上了一段前往女主人城堡的危险旅程。凭借勇气和智慧，他克服了重重困难，并与黑骑士展开了激烈的战斗。这段英雄冒险为后来关于奥瓦因和泉边女士的故事奠定了基础。",
+      "country": "England 英格兰",
+      "emoji": "🛡️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "Arthurian",
+        "quest"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cynon_ap_Clydno"
+    },
+    {
+      "title_en": "Dolorous Stroke",
+      "title_zh": "痛苦之刺",
+      "summary_en": "In Arthurian legend, the Dolorous Stroke befell King Pellehan, also known as Anfortas, who was the guardian of the Holy Grail. Sinning, he suffered a mystical wound to his thighs, which became a symbol of his moral failing and the decay of his kingdom into the Wasteland. In Thomas Malory's Le Morte d'Arthur, Sir Balin, ignoring an unearthly warning, struck the king with his sword, believing it justifiable. The stroke left King Pellehan crippled, and his land in ruin, until only the Grail Quest could heal them.",
+      "summary_zh": "在亚瑟王传说中，痛苦之刺降临到了安福拉斯国王（又称佩勒汉）身上。作为圣杯守护者，他因罪孽而遭受了神秘的伤口，这象征着他的道德失败以及其王国的衰败，变成了荒芜之地。在托马斯·马洛里的《亚瑟王之死》中，巴林爵士忽视了一个超自然的声音警告，用剑击中了国王，认为这是正当之举。这一刺伤使安福拉斯国王残废，他的土地陷入荒芜，直到圣杯之旅才能治愈这一切。",
+      "country": "England 英格兰",
+      "emoji": "🌹",
+      "type": "legend",
+      "tags": [
+        "medieval",
+        "celtic",
+        "grail",
+        "kingdom"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Dolorous_Stroke"
+    },
+    {
+      "title_en": "Excalibur",
+      "title_zh": "不列颠之剑",
+      "summary_en": "In the legendary tale of King Arthur, Excalibur is a magical sword that grants him rightful sovereignty over Britain. According to Geoffrey of Monmouth's Historia Regum Britanniae, Arthur draws the sword from a stone, proving his destiny as king. Later in Robert de Boron’s Merlin, the Lady of the Lake gifts Arthur an enchanted blade, which he uses throughout his reign. Excalibur becomes synonymous with Arthur's power and is often depicted as a symbol of his legitimacy and prowess. In Thomas Malory’s Le Morte d'Arthur, both the sword from the stone and the Lady-gifted weapon are known by this name, intertwining their fates in the Arthurian saga.",
+      "summary_zh": "在亚瑟王的传说中，不列颠之剑是赋予他英国合法统治权的魔剑。根据吉弗雷·莫内默斯的《英国国王史》，亚瑟从石头中拔出宝剑，证明了他是注定要成为国王的命运。后来，在罗伯特·德·博隆的《梅林》中，湖上的女士赠送给年轻的亚瑟一把神奇的刀剑，他用这把刀剑统治整个王国。不列颠之剑成为了亚瑟权力和荣耀的象征，并在托马斯·马洛里的《亚瑟王之死》中，这两把宝剑都被称为Excalibur，交织在一起的命运构成了亚瑟传奇的一部分。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "legend",
+      "tags": [
+        "medieval",
+        "saga"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Excalibur",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/王者之劍"
+    },
+    {
+      "title_en": "Giant's Dance",
+      "title_zh": "巨人之舞",
+      "summary_en": "In the Arthurian legends, the Giant's Dance is a circle of stones that once stood as a testament to the giants who had danced and revelled there. According to Geoffrey of Monmouth, these giants were banished by King Arthur after they challenged his authority. The stones remained, standing tall in the landscape as a reminder of their former power and folly. Over time, the legends grew, intertwining with tales of magic and mystery, making the Giant's Dance a site of both awe and wonder for those who dared to explore its secrets.",
+      "summary_zh": "巨人之舞是亚瑟王传说中的一个石圈，据记载最早出现在12世纪初的《不列颠国王史》中。相传这些巨人在那里跳舞狂欢后被亚瑟王驱逐。如今，这些石头依然矗立在大地上，成为了巨人们昔日力量和狂妄的见证。随着时间的推移，关于这个石圈的故事越来越多，它成了探索神秘之地的人们敬畏的对象。",
+      "country": "England 英格兰",
+      "emoji": "🧱",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Giant's_Dance"
+    },
+    {
+      "title_en": "Gildas",
+      "title_zh": "吉尔达斯",
+      "summary_en": "Gildas was a 6th-century British monk who wrote 'De Excidio et Conquestu Britanniae,' a historical account of the Britons and their struggles against the Saxons. His work, while not a myth or epic, provides invaluable insight into the turmoil of post-Roman Britain. Gildas is remembered for his wisdom and biblical knowledge, and later in life, he moved to Brittany where he established a monastery that bears his name.",
+      "summary_zh": "吉尔达斯是6世纪的英国僧侣，撰写了《不列颠之沦亡与征服》一书，记录了布里吞人及其在撒克逊入侵中的抗争。尽管他的著作不是神话或史诗，但它为后罗马时代的不列颠历史提供了宝贵的资料。吉尔达斯因其智慧和圣经知识而闻名，并最终移居到布雷顿，在那里建立了以他命名的修道院。",
+      "country": "England 英格兰",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "monk",
+        "history",
+        "Brittany"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Gildas"
+    },
+    {
+      "title_en": "King Arthur",
+      "title_zh": "亚瑟王",
+      "summary_en": "King Arthur was a legendary British king who defended his realm against the Saxons and established a vast empire. According to Geoffrey of Monmouth's Historia Regum Britanniae, Arthur was born at Tintagel, raised by the magician Merlin, and became a great warrior under Uther Pendragon. He married Guinevere and fought Mordred in a final battle at Camlann, dying and being taken to the mystical Avalon. The stories of King Arthur have inspired countless tales, romances, and adaptations over centuries.",
+      "summary_zh": "亚瑟王是传说中的英国国王，他领导人民抵抗撒克逊人的入侵，并建立了庞大的帝国。根据吉弗雷·奥蒙的《不列颠国王史》，亚瑟出生于廷塔格尔，在梅林的教导下长大，成为乌瑟·佩恩德拉贡的继承人。他娶了桂尼维瓦，并在卡姆兰战役中与莫德雷德决斗而牺牲，被带到了神秘的阿瓦隆。亚瑟王的故事激励了无数传奇和改编作品。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "legend",
+      "tags": [
+        "medieval",
+        "kingdom",
+        "sword",
+        "knight"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/King_Arthur"
+    },
+    {
+      "title_en": "Anne Berthelot",
+      "title_zh": "安妮·伯热洛特",
+      "summary_en": "Anne Berthelot, born in 1957, is a distinguished French professor of Medieval French literature who has been teaching at the University of Connecticut since 1990. Her scholarly work illuminates the rich tapestry of medieval poetry and prose, contributing significantly to our understanding of this era’s cultural heritage.",
+      "summary_zh": "安妮·伯热洛特于1957年出生，是一位著名的法国中世纪法语文学教授。自1990年起，她在康涅狄格大学任教。她的学术研究揭示了中世纪诗歌和散文的丰富内涵，对这一时期的文化遗产有了更深入的理解。",
+      "country": "England 英格兰",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "medieval",
+        "literature"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Anne_Berthelot"
+    },
+    {
+      "title_en": "Greysteil",
+      "title_zh": "格雷斯坦",
+      "summary_en": "In medieval Scotland, the epic poem 'Greysteil' narrates the tale of two knights, Egeir and Gryme, who compete in a series of challenges to prove their virtues. The story unfolds at the court of King James IV and later James V, where these noble warriors showcase their bravery and honor through song and combat. Their contrasting personalities highlight themes of chivalry and virtue, making 'Greysteil' a cherished piece of Scottish literature from the 16th century.",
+      "summary_zh": "在中世纪的苏格兰，长诗《格雷斯坦》讲述了两位骑士埃吉尔和格莱姆之间的较量。他们通过一系列挑战来证明自己的美德，并在詹姆斯四世和詹姆斯五世国王的宫廷上演奏。埃吉尔和格莱姆的性格对比突显了骑士精神和美德的主题，《格雷斯坦》因此成为16世纪苏格兰文学中的珍贵之作。",
+      "country": "England 英格兰",
+      "emoji": "🌹",
+      "type": "epic",
+      "tags": [
+        "medieval",
+        "chivalry",
+        "virtue",
+        "courtly love"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Greysteil"
+    },
+    {
+      "title_en": "Historicity of King Arthur",
+      "title_zh": "亚瑟王的真实性",
+      "summary_en": "The historicity of King Arthur has long been debated among scholars and popular writers. The first definite mention of him appears in the Historia Brittonum around 828, where he is described as a military leader fighting against Saxons at the Battle of Badon in the 5th or 6th century. Over time, Arthur evolved into a legendary figure through the Matter of Britain, particularly after Geoffrey of Monmouth's influential work, Historia Regum Britanniae, which largely fictionalized his story. Various historical figures have been proposed as possible inspirations for the myth of King Arthur, including Artuir mac Áedán, Ambrosius Aurelianus, Lucius Artorius Castus, and Riothamus.",
+      "summary_zh": "亚瑟王的真实性长期以来一直是学者和通俗作家争论的话题。首次明确提到他的是《布洛廷纳史》（Historia Brittonum），大约在828年，其中描述他在5世纪或6世纪领导抵抗撒克逊人的战斗，并参与了巴登战役。随着时间的推移，亚瑟王逐渐演变为一个传奇人物，特别是在12世纪，随着吉弗雷·德·蒙默斯（Geoffrey of Monmouth）的重要作品《不列颠国王史》（Historia Regum Britanniae）的影响下，他的故事被大量虚构化。人们提出了各种历史人物作为亚瑟王神话的灵感来源，包括阿图尔·麦卡伊登（Artuir mac Áedán）、奥姆罗修斯·奥勒里安努斯（Ambrosius Aurelianus）、卢西乌斯·阿尔托里乌斯·加斯特乌斯（Lucius Artorius Castus）和里欧塔穆斯（Riothamus）。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology",
+        "history",
+        "kingdom"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Historicity_of_King_Arthur"
+    },
+    {
+      "title_en": "Jean Markale",
+      "title_zh": "让·马克阿莱",
+      "summary_en": "Jean Markale was a French historian who explored pre-Christian and medieval cultures through his writings. His work focused on Celtic civilization, especially the role of women in ancient societies and Arthurian legends. Through his books and radio shows, he brought these historical narratives to life, blending scholarly research with poetic storytelling.",
+      "summary_zh": "让·马克阿莱是一位法国历史学家，他通过著作探索了基督教之前的文化和中世纪文化。他的研究集中在凯尔特文明上，特别是古代社会中女性的角色以及亚瑟王传说。通过书籍和广播节目，他将这些历史叙事生动地呈现出来，结合了学术研究与诗意的叙述。",
+      "country": "France 法国",
+      "emoji": "📖✨",
+      "type": "folklore",
+      "tags": [
+        "medieval",
+        "cultural history"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Jean_Markale"
+    },
+    {
+      "title_en": "John Leland",
+      "title_zh": "约翰·莱兰德",
+      "summary_en": "John Leland was a renowned English poet and antiquary in the late 15th and early 16th centuries. His Itinerary, a detailed travel account of England, became an invaluable resource for future historians. Through his meticulous observations, Leland laid the groundwork for studying local history by dividing England into counties, a method that continues to be used today.",
+      "summary_zh": "约翰·莱兰德是15世纪末至16世纪初的英国诗人和古文物学家。他的《游记》是一部详尽记录英格兰各地风土人情的作品，成为后来许多历史学家的重要参考资料。通过细致入微的观察，莱兰德提出了将英格兰划分为郡进行地方史研究的方法，这一方法至今仍被广泛采用。",
+      "country": "England 英格兰",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "medieval",
+        "antiquary"
+      ],
+      "lat": 51.512778,
+      "lng": -0.0975,
+      "wiki_en": "https://en.wikipedia.org/wiki/John_Leland_(antiquary)"
+    },
+    {
+      "title_en": "Knights of the Round Table",
+      "title_zh": "圆桌骑士",
+      "summary_en": "The Knights of the Round Table were a legendary chivalric order in King Arthur’s court, symbolizing equality among its members from royalty to minor nobles. They included close relatives like Agravain and Gaheris, as well as former enemies such as Galehaut and Pellinore. Notable knights like Gawain, Bedivere, Lancelot, and Galahad played key roles in Arthurian tales. The Round Table’s unity was tested by the revelation of Lancelot's affair with Queen Guinevere, leading to internal strife among the knights. This order was central to the Arthurian legend, representing ideals of chivalry and loyalty.",
+      "summary_zh": "圆桌骑士是亚瑟王宫廷中的传奇骑士团，象征着成员间的平等，从国王到小贵族都有。其中不仅包括近亲如阿格瓦因和加希斯，还有曾经的敌人如盖勒霍特和佩林诺尔。著名骑士如高文、贝迪维尔、兰斯洛特和加拉哈德在亚瑟传说中扮演着重要角色。圆桌的团结因兰斯洛特与王后桂尼维儿之间的私情而受到考验，导致了内部纷争。这一骑士团是亚瑟传奇的核心，代表着骑士精神和忠诚的理想。",
+      "country": "England 英格兰",
+      "emoji": "👑🛡️",
+      "type": "epic",
+      "tags": [
+        "medieval",
+        "chivalry",
+        "romance",
+        "king arthur"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Knights_of_the_Round_Table"
+    },
+    {
+      "title_en": "Kyot the Provençal",
+      "title_zh": "科伊特 (Provençal)",
+      "summary_en": "Kyot the Provençal was a mysterious poet who supplied Wolfram von Eschenbach with the source material for his Arthurian romance Parzival. According to Wolfram, Kyot discovered an Arabic manuscript in Toledo, Spain, written by Flegetanis, a Muslim descendant of Solomon. After learning Arabic and traveling across Europe, Kyot uncovered the history of Parzival's family and wrote their tale. Wolfram kept Kyot’s identity secret until Book 8, revealing him as his source to silence critics who doubted his creativity.",
+      "summary_zh": "科伊特是沃尔夫拉姆·冯·埃斯欣巴赫的神秘来源，为他的亚瑟王传奇《帕齐瓦尔》提供了素材。沃尔夫拉姆声称，科伊特在西班牙托莱多发现了一份阿拉伯手稿，由所罗门的后裔费列塔尼斯撰写。科伊特掌握了阿拉伯语，并游历欧洲，最终发现了帕齐瓦尔家族的历史并撰写了他们的故事。沃尔夫拉姆直到第八卷才透露科伊特的身份，以此来平息那些质疑他创造力的批评者。",
+      "country": "England 英格兰",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "medieval",
+        "Arthurian",
+        "Grail"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kyot"
+    },
+    {
+      "title_en": "LSWR N15 Class",
+      "title_zh": "LSWR N15级机车",
+      "summary_en": "The LSWR N15 class was a British steam locomotive designed by Robert Urie, built between 1918 and 1927. These powerful 4-6-0 express passenger engines were named after Arthurian legends, becoming known as King Arthurs. They could reach speeds of up to 90 mph and were used on heavy express trains to the south coast ports and further west. After modifications by Richard Maunsell and his team, these locomotives were fitted with smoke deflectors in 1926, making them a technological advancement for their time. The class continued service until 1962.",
+      "summary_zh": "LSWR N15级机车是罗伯特·厄里设计的英国蒸汽机车，于1918年至1927年间建造。这些强大的4-6-0型客货两用机车以亚瑟王传说命名，被称为国王亚瑟们。它们最高时速可达90英里，并被用于南海岸港口和更西边的重载旅客列车服务。经过理查德·马恩斯及其团队的改进后，在1926年安装了烟雾偏导器，使其成为当时的技术进步。这些机车一直服役到1962年。",
+      "country": "England 英格兰",
+      "emoji": "🚂",
+      "type": "epic",
+      "tags": [
+        "modern",
+        "railway"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/LSWR_N15_class"
+    },
+    {
+      "title_en": "Lailoken",
+      "title_zh": "莱利肯",
+      "summary_en": "In the late 6th century, Lailoken, a madman and seer living in the Caledonian Forest of southern Scotland, correctly prophesied King Rhydderch Hael's death. He was once captured by Meldred of Drumelzier but escaped after making him promise proper burial. Years later, Lailoken was beaten to death by shepherds who fulfilled his prophecy. St. Kentigern met Lailoken and recorded his prophecies before granting him the Sacrament as he predicted a triple death. Lailoken's story intertwines with that of Myrddin Wyllt, the Welsh forerunner of Merlin, and is often associated with the Battle of Arfderydd in Cumberland.",
+      "summary_zh": "莱利肯是英格兰南部凯尔特森林中的一位疯癫先知，曾准确预言了国王雷德赫尔的死亡。他曾被杜梅尔齐亚的梅尔德俘虏，并承诺死后给予他妥善安葬。多年后，莱利肯因牧羊人的殴打而死，这正是他预言中的三重死亡。圣金塔内斯与莱利肯相遇并记录了他的预言，在莱利肯临终前为他施了圣礼。莱利肯的故事与威尔士的梅林先知密尔登·威尔特有关，并常与卡姆伯兰地区的阿弗德里德之战联系在一起。",
+      "country": "England 英格兰",
+      "emoji": "📖",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology",
+        "prophet",
+        "forest"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Lailoken"
+    },
+    {
+      "title_en": "Lebor Bretnach",
+      "title_zh": "勒博·布雷提尼",
+      "summary_en": "Lebor Bretnach is an 11th-century Irish text, a translation of the Historia Brittonum. It weaves together tales from Welsh and British history with legendary accounts of ancient kings and heroes. The work includes stories of Vortigern, Ambrosius Aurelianus, and others, blending fact and fiction to create a rich tapestry of early British lore.",
+      "summary_zh": "勒博·布雷提尼是11世纪的一部爱尔兰文献，它是《布里吞史》的译本。这部作品将威尔士和不列颠的历史故事与古代国王和英雄的传奇交织在一起。其中包含了沃蒂金、奥勒利安努斯·阿姆布鲁修斯等人物的故事，将事实与虚构融为一体，编织出一幅早期英国丰富的传说画卷。",
+      "country": "England 英格兰",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "medieval"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Lebor_Bretnach"
+    },
+    {
+      "title_en": "Matter of Britain",
+      "title_zh": "不列颠传奇",
+      "summary_en": "The Matter of Britain is a vast collection of medieval literature centered around King Arthur and his knights. In the 12th century, Geoffrey of Monmouth's 'History of the Kings of Britain' laid the foundation for this rich narrative tapestry. Chronicles and romances in both prose and verse emerged, depicting tales of chivalry, magic, and adventure. These stories were retold and expanded upon across centuries, influencing literature from the 12th to the 16th century, making the Matter of Britain one of the three great Western story cycles alongside the Matter of France and the Matter of Rome.",
+      "summary_zh": "不列颠传奇是围绕亚瑟王及其骑士展开的中世纪文学巨作。12世纪，杰弗里·莫内默斯的《英国国王史》奠定了这一丰富叙事的基石。用散文和韵文创作的历史和浪漫故事层出不穷，描绘了骑士精神、魔法与冒险的故事。这些故事从12世纪到16世纪不断被重新讲述和扩展，使其成为西方三大故事循环之一，与其他两大循环——法兰西传奇和罗马传奇并驾齐驱。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "epic",
+      "tags": [
+        "medieval",
+        "chivalry",
+        "romance",
+        "legend"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Matter_of_Britain"
+    },
+    {
+      "title_en": "Myrddin Wyllt",
+      "title_zh": "梅林·维利特",
+      "summary_en": "Myrddin Wyllt was a Welsh bard who went mad after the Battle of Arfderydd in 573. He fled into the forest, where he lived with animals and gained prophetic abilities. His legend closely resembles that of Lailoken from northern Britain. Later traditions describe Myrddin building a Glass House for his beloved, which became a repository for the Thirteen Treasures of the Island of Britain. Over time, this house was associated with Bardsey Island.",
+      "summary_zh": "梅林·维利特在573年的阿弗德里德战役后精神失常，逃入森林与野兽为伍，并获得了预言的能力。他的传说与北方不列颠的莱洛肯相似。后来的传统描述他为心爱的人建了一座玻璃屋，这座房子成为了英国岛十三宝的藏身之处。随着时间推移，这座玻璃屋被联系到了巴德赛岛。",
+      "country": "England 英格兰",
+      "emoji": "🌳",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology",
+        "bard",
+        "prophecy"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Myrddin_Wyllt"
+    },
+    {
+      "title_en": "Nine Worthies",
+      "title_zh": "九贤士",
+      "summary_en": "The Nine Worthies were a group of legendary figures from various backgrounds—pagan, Jewish, and Christian—who personified the ideals of chivalry. They included Hector, Alexander the Great, Julius Caesar (pagans), Joshua, David, and Judas Maccabeus (Jews), and King Arthur, Charlemagne, and Godfrey of Bouillon (Christians). These men were celebrated for their valor and leadership, serving as models for aspiring knights to emulate. Their stories were often recounted in medieval literature and art, symbolizing the unity of chivalric virtues across different cultures.",
+      "summary_zh": "九贤士是来自不同背景的传奇人物——异教徒、犹太人和基督徒，他们代表了骑士精神的理想。其中包括赫克托尔、亚历山大大帝、朱利叶斯·凯撒（异教徒）、约书亚、大卫和马卡比（犹太人），以及亚瑟王、查理曼大帝和鲍伊昂的戈德弗雷（基督徒）。这些人物因其勇气和领导才能而备受推崇，成为渴望成为骑士的人效仿的榜样。他们的故事经常出现在中世纪的文学和艺术作品中，象征着不同文化中的骑士精神价值观的统一。",
+      "country": "England 英格兰",
+      "emoji": "🛡️",
+      "type": "epic",
+      "tags": [
+        "medieval",
+        "chivalry",
+        "legend",
+        "unity"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Nine_Worthies",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/九伟人"
+    },
+    {
+      "title_en": "Petitcrieu",
+      "title_zh": "佩蒂克吕埃 (Petitcrieu)",
+      "summary_en": "In Arthurian legends, Petitcrieu is a magical hound that serves as a guide for the lovers Tristan and Iseult. Known for its wisdom and loyalty, this dog leads them through dangerous forests and warns of impending danger. Its presence ensures their safety on their secret trysts, embodying the chivalric ideals of the time.",
+      "summary_zh": "在亚瑟王传说中，佩蒂克吕埃是一只神奇的猎犬，担任特里斯坦和伊索尔德这对恋人的向导。这只狗以其智慧和忠诚著称，引领他们穿越危险的森林，并警告即将到来的危险。它的存在确保了这对恋人在秘密幽会时的安全，体现了骑士精神的理想。",
+      "country": "England 英格兰",
+      "emoji": "🐶",
+      "type": "legend",
+      "tags": [
+        "medieval",
+        "chivalry"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Petitcrieu"
+    },
+    {
+      "title_en": "Pridwen",
+      "title_zh": "普里德温",
+      "summary_en": "In Arthurian legend, Pridwen was King Arthur’s renowned shield adorned with an image of the Virgin Mary. According to Geoffrey of Monmouth, this sacred shield protected Arthur in battle and symbolized his divine favor. The imagery on Pridwen inspired Sir Gawain's own shield in later tales, linking these knights through their shared devotion to both chivalry and faith.",
+      "summary_zh": "在亚瑟王传说中，普里德温是亚瑟王的著名盾牌，上面绘有圣母玛利亚的形象。根据吉弗·蒙默斯的说法，这面神圣的盾牌保护着亚瑟王，并象征着他所获得的神恩。普里德温的图案启发了高文爵士自己的盾牌，在后来的故事中，这两面盾牌通过共同的信仰和骑士精神联系在一起。",
+      "country": "England 英格兰",
+      "emoji": "🛡️",
+      "type": "legend",
+      "tags": [
+        "medieval",
+        "chivalry",
+        "religion",
+        "shield"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Pridwen"
+    },
+    {
+      "title_en": "Prophecy of Melkin",
+      "title_zh": "梅尔金预言",
+      "summary_en": "In the medieval English tale of Prophecy of Melkin, a mysterious bard named Melkin foretold that Joseph of Arimathea's grave lay hidden in Glastonbury. This prophecy was later included in John of Glastonbury's chronicle, linking Joseph with the legendary Avalon and King Arthur’s court. The story emerged as part of the Arthurian legends, blending religious symbolism with local history to create a rich tapestry of medieval lore.",
+      "summary_zh": "梅尔金预言记载了约瑟夫·阿利马特的墓地隐藏在格拉斯特罗比。这一预言后来被约翰·格拉斯特罗比编入其编年史中，将约瑟夫与传说中的亚瓦隆和亚瑟王宫廷联系起来。这个故事是中世纪亚瑟王传奇的一部分，融合了宗教象征意义和地方历史，形成了丰富的中世纪传说。",
+      "country": "England 英格兰",
+      "emoji": "📖",
+      "type": "legend",
+      "tags": [
+        "medieval",
+        "Arthurian legends"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Prophecy_of_Melkin"
+    },
+    {
+      "title_en": "Prydwen",
+      "title_zh": "普里德温号 (Prydwen)",
+      "summary_en": "In Arthurian legend, Prydwen is a magical ship that carries King Arthur on perilous voyages to the otherworld of Annwn and beyond. In one tale, she sails with Arthur to Ireland for an epic quest. The ship's name, meaning 'brightness' or 'light', reflects its mystical properties. Prydwen serves as both vessel and companion in Arthur's legendary adventures, embodying the spirit of chivalry and valor.",
+      "summary_zh": "普里德温号是亚瑟王传说中的魔法船只，载着亚瑟王进行危险的航程，前往异世界的安文尼。在其中一个故事中，她与亚瑟王一同航行至爱尔兰执行史诗般的任务。船名意为“光明”或“光辉”，反映了其神秘属性。普里德温不仅是亚瑟王传奇冒险中的交通工具，也是他的同伴和精神象征。",
+      "country": "England 英格兰",
+      "emoji": "🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "legendary",
+        "voyage",
+        "Arthurian"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Prydwen"
+    },
+    {
+      "title_en": "Walter Map",
+      "title_zh": "沃尔特·马普",
+      "summary_en": "Walter Map, a medieval English courtier and writer, chronicled the lives and adventures of his contemporaries through his work De nugis curialium. This collection of anecdotes offered insights into the history and culture of his time, blending fact with fiction in a vivid narrative that captured the essence of courtly life during the reigns of King Henry II and Pope Alexander III.",
+      "summary_zh": "沃尔特·马普是英格兰中世纪的一名宫廷作家，他通过作品《宫廷琐闻》记录了当时人们和地方的故事。这部著作以生动的叙述方式展现了亨利二世国王和亚历山大三世教皇统治时期的宫廷生活与历史风貌，将事实与虚构巧妙地结合在一起。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "epic",
+      "tags": [
+        "medieval"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Walter_Map"
+    },
+    {
+      "title_en": "Questing Beast",
+      "title_zh": "求猎兽",
+      "summary_en": "In the Arthurian legends, the Questing Beast is a mysterious creature that eludes hunters for years. King Pellinore and his family pursue it in vain until Sir Palamedes and his companions finally succeed. The beast, often depicted as a cross between a stag and a lion, symbolizes both the unattainable and the quest for perfection.",
+      "summary_zh": "在亚瑟王传说中，求猎兽是一种神秘的生物，数年里让无数猎人徒劳无功。直到佩林诺尔国王和他的家族以及帕拉梅德斯爵士及其同伴的努力下，才终于捕获了它。这头常常被描绘成鹿狮杂交的野兽象征着追求完美和不可触及的目标。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "legend",
+      "tags": [
+        "medieval",
+        "quest",
+        "Arthurian legend"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Questing_Beast"
+    },
+    {
+      "title_en": "Rhongomyniad",
+      "title_zh": "龙格蒙尼亚德",
+      "summary_en": "Rhongomyniad was King Arthur's spear, one of his sacred weapons alongside Caledfwlch and Carnwennan. In the Welsh legend 'Culhwch and Olwen', Arthur refused to part with Rhongomyniad even for Culhwch's sake. The weapon was believed to have been given by God and played a significant role in Arthur's battles, particularly at Mount Badon according to Geoffrey of Monmouth. Layamon mentions that the spear was forged in Carmarthen by Griffin and once belonged to Uther Pendragon.",
+      "summary_zh": "龙格蒙尼亚德是亚瑟王的长矛，与卡莱夫和克恩温纳南一起被视为他的圣器。在威尔士传说《库卢奇与奥伦》中，亚瑟拒绝将这根长矛赠予库卢奇。人们相信它是上帝赐予的，并且在亚瑟于马姆博山战役中的重要角色得到了盖伊福德·蒙斯的记载。莱昂莫恩提到，这根长矛是在卡玛兰特由格里芬锻造而成，并曾属于乌瑟·潘德龙。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "sacred weapon",
+        "Arthurian legend"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Rhongomyniad"
+    },
+    {
+      "title_en": "Round Table",
+      "title_zh": "圆桌",
+      "summary_en": "In the legendary court of King Arthur, the Round Table was a symbol of equality and chivalry. Unlike conventional tables where seating order reflected social hierarchy, this circular table ensured that all knights sat as equals. It became the gathering place for the Knights of the Round Table, who pledged to uphold honor and justice. The table's design embodied the ideal of unity among Arthur’s loyal retainers, fostering a spirit of camaraderie and shared purpose in their quests for glory and righteousness.",
+      "summary_zh": "在亚瑟王的宫廷中，圆桌象征着平等与骑士精神。与传统桌子不同，圆桌上没有主座，所有骑士都平等地就坐。它成为圆桌骑士聚集的地方，他们宣誓要维护荣誉和正义。圆桌的设计体现了亚瑟及其忠臣之间团结一致的精神，在他们的荣耀与正直的追求中培养了共事之情。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "legend",
+      "tags": [
+        "medieval",
+        "knights",
+        "equality"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Round_Table"
+    },
+    {
+      "title_en": "Round Table (tournament)",
+      "title_zh": "圆桌比武",
+      "summary_en": "In medieval England, the Round Table became a symbol of King Arthur's legendary court, where knights gathered to feast, joust, and celebrate victories. These tournaments imitated the grandeur of Camelot with blunted weapons and elaborate costumes. Knights like Lancelot, Tristan, and Palamedes would don their finest armor and participate in mock battles, while the air was filled with laughter, music, and merriment. The Round Table was more than just a tournament; it was a celebration of chivalry and camaraderie among the noblest knights of the realm.",
+      "summary_zh": "中世纪英格兰，圆桌比武成为亚瑟王传奇宫廷的象征，在这里骑士们聚在一起宴饮、比武和庆祝胜利。这些比赛模仿了卡米洛特的盛况，使用钝化的武器，并穿着精心设计的盔甲。兰斯洛特、特里斯坦和帕拉梅德斯等著名骑士会穿上最华丽的盔甲参加模拟战斗，而空气中充满了欢笑、音乐和欢乐。圆桌不仅仅是一项比赛；它是宫廷中最勇敢骑士之间骑士精神和友谊的庆祝。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "epic",
+      "tags": [
+        "medieval",
+        "chivalry",
+        "knightly"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Round_Table_(tournament)"
+    },
+    {
+      "title_en": "Sir Lamiel",
+      "title_zh": "兰米尔爵士",
+      "summary_en": "Sir Lamiel is a fictional Knight of the Round Table, named after an N15 'King Arthur' class 4-6-0 steam locomotive built for the Southern Railway in 1925. Though he appears only briefly in Thomas Malory's 'Le Morte d'Arthur,' Sir Lamiel has come to symbolize the romance and chivalry of medieval times. The locomotive, originally named No. 30777 King Arthur, was preserved as part of the National Collection after its selection over No. 30453 for restoration. It now operates on the Great Central Railway in Loughborough, England, continuing to embody the spirit of Sir Lamiel and the era of chivalry.",
+      "summary_zh": "兰米尔爵士是圆桌骑士团中的一位虚构骑士，以1925年为南方铁路建造的N15“亚瑟王”4-6-0蒸汽机车命名。尽管他在托马斯·马洛里的《亚瑟王之死》中只出现过一次，但兰米尔爵士已成为中世纪浪漫与骑士精神的象征。这台机车最初名为30777号国王亚瑟，后来被选为修复对象并保存在国家收藏中。如今它在英格兰洛斯托夫特的大中央铁路上运行，继续承载着兰米尔爵士和骑士时代的荣耀。",
+      "country": "England 英格兰",
+      "emoji": "🚂",
+      "type": "folklore",
+      "tags": [
+        "medieval",
+        "steam locomotive"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/SR_N15_class_777_Sir_Lamiel"
+    },
+    {
+      "title_en": "Segurant, the Knight of the Dragon",
+      "title_zh": "塞古兰，龙骑士",
+      "summary_en": "In the realm of King Arthur's court, Segurant, a noble knight, faces a dire challenge when a dragon terrorizes his lands. With courage and skill, he slays the beast, earning the king’s favor and the hand of a princess in marriage. His bravery is celebrated throughout the kingdom, but his triumph over the dragon serves as a reminder that even the mightiest knights must face their fears to protect their people.",
+      "summary_zh": "在亚瑟王的宫廷中，塞古兰是一位英勇的骑士。当一条恶龙肆虐他的领地时，他挺身而出，勇敢地与之战斗并将其击败。国王因此赐予他公主为妻，并表彰其功绩。塞古兰的故事在王国中广为传颂，提醒着人们即便是最伟大的骑士也必须面对恐惧以保护人民。",
+      "country": "England 英格兰",
+      "emoji": "🐉",
+      "type": "legend",
+      "tags": [
+        "medieval",
+        "Arthurian"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Segurant,_the_Knight_of_the_Dragon"
+    },
+    {
+      "title_en": "Siege Perilous",
+      "title_zh": "危险的座位",
+      "summary_en": "In Arthurian legend, the Siege Perilous is a seat at King Arthur's Round Table that can only be safely occupied by the knight destined to achieve the Holy Grail. Merlin, the wise wizard, had enchanted this seat with a powerful spell to protect it from harm until the true seeker arrives. Many knights have attempted to claim it, but none could sit without peril. It is said that when the chosen one does finally take his place, the seat will be safe and the Grail quest can begin.",
+      "summary_zh": "在亚瑟王的圆桌骑士中，危险的座位是一个只有命中注定找到圣杯的骑士才能安全坐下的空位。梅林，这位智者，用强大的魔法咒语将这个座位保护起来，直到真正的寻求者到来为止。许多骑士都试图占据它，但没有人能够安然无恙地坐在上面。据说当命中注定的人最终坐下时，这个座位就会变得安全，并且圣杯的寻找之旅可以开始了。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "legend",
+      "tags": [
+        "medieval",
+        "Arthurian"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Siege_Perilous"
+    },
+    {
+      "title_en": "Sub-Roman Britain",
+      "title_zh": "不列颠后罗马时期",
+      "summary_en": "The Sub-Roman Britain period was a tumultuous era following the withdrawal of Roman troops in 407 AD, leaving the land vulnerable to invasions and internal strife. As Roman governance faded, local leaders vied for power, leading to a fragmented political landscape. The decline of Roman culture and infrastructure brought about significant changes in daily life, with new influences from Germanic tribes beginning to shape British society. Despite the lack of written records, archaeological evidence suggests a gradual transformation as old ways gave way to new customs and traditions.",
+      "summary_zh": "不列颠后罗马时期始于407年罗马军队撤离，罗马统治逐渐瓦解。地方领袖之间权力争夺加剧，导致政治分裂。随着罗马文化与基础设施的衰退，日常生活发生了显著变化，日耳曼部落的影响开始重塑英国社会。尽管缺乏文字记载，考古证据显示这是一个逐步转型的过程，旧习俗逐渐被新传统取代。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "epic",
+      "tags": [
+        "ancient"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Sub-Roman_Britain"
+    },
+    {
+      "title_en": "Tales of Arcadia",
+      "title_zh": "阿卡狄亚传说",
+      "summary_en": "In the small suburban town of Arcadia Oaks, supernatural creatures coexist with humans in secret. Young heroes fight against evil forces that threaten their world. The trilogy, comprising Trollhunters, 3Below, and Wizards, explores themes of prejudice, representation, and complex emotional tones through high-quality CGI animation. Each installment delves into the lives of characters who must protect their town from dark threats, weaving a narrative rich with humor, music, and mature storytelling.",
+      "summary_zh": "阿卡狄亚橡树镇是一个充满奇幻生物的小镇，它们与人类共存而不为人知。年轻英雄们对抗威胁他们世界的邪恶力量。三部曲《怪兽猎人》、《3Below》和《巫师》通过高质量的CG动画探索了偏见、代表性以及复杂的情感主题。每一集都深入刻画了必须保护城镇免受黑暗威胁的角色，编织了一个充满幽默、音乐和成熟叙事的故事。",
+      "country": "England 英格兰",
+      "emoji": "🌟",
+      "type": "epic",
+      "tags": [
+        "modern",
+        "supernatural",
+        "animation",
+        "heroism"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tales_of_Arcadia"
+    },
+    {
+      "title_en": "Morgan le Fay",
+      "title_zh": "莫根·拉菲",
+      "summary_en": "Morgan le Fay, a powerful sorceress in Arthurian legend, is often depicted as the half-sister of King Arthur and his wife Guinevere. She plays both benevolent and malevolent roles, healing and cursing those around her. In one tale, she seeks revenge on Guinevere for her perceived wrongs by casting a spell that causes Guinevere to be accused of adultery with Lancelot. Morgan's complex character reflects the dual nature of magic in medieval literature—both a source of wonder and danger.",
+      "summary_zh": "莫根·拉菲是亚瑟王传说中的女巫，被认为是国王亚瑟和他的妻子桂妮薇尔的同父异母姐妹。她在故事中既是善良的存在，也是邪恶的力量。在其中一个故事里，她因认为桂妮薇尔对自己有错而施咒，导致桂妮薇尔被指控与兰斯洛特通奸。莫根复杂的角色反映了中世纪文学中魔法的双重性质——既是一种奇迹也是一种危险。",
+      "country": "England 英格兰",
+      "emoji": "🧙‍♀️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "magic",
+        "arthurian"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/The_Myth_of_Morgan_la_Fey"
+    },
+    {
+      "title_en": "The Taking of Excalibur",
+      "title_zh": "拔剑",
+      "summary_en": "In the mystical realm of Avalon, Lady Viviane, the keeper of the sacred sword Excalibur, presents the legendary blade to King Arthur during a moonlit vigil. As dawn approaches, she recedes into the mist, leaving the king with the task of leading his kingdom to glory and justice. The act symbolizes the transfer of power from the mystical realm to the mortal world.",
+      "summary_zh": "在神秘的阿瓦隆，维妮安女士手持圣剑‘拔剑’，在月光下向亚瑟王献出宝剑。黎明将至时，她隐入雾中，留下亚瑟王肩负起领导王国走向荣耀与正义的责任。这一举动象征着从超凡世界到凡俗世界的权力转移。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "kingdom",
+        "sword",
+        "mythology"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/The_Taking_of_Excalibur"
+    },
+    {
+      "title_en": "Thirteen Treasures of the Island of Britain",
+      "title_zh": "英国岛上的十三宝",
+      "summary_en": "In late-medieval Welsh tradition, the Thirteen Treasures of the Island of Britain were a series of legendary items that held magical properties. These treasures included a sword, a cauldron, and an axe, each with unique powers. Over time, various lists emerged, sometimes replacing or combining entries to maintain the mystical allure of thirteen. The treasures symbolized power, prosperity, and protection for the realm they guarded.",
+      "summary_zh": "在中世纪晚期威尔士的传统中，英国岛上的十三宝是一系列具有神奇力量的物品。这些宝藏包括一把剑、一个大锅和一把斧头，每件都有独特的魔力。随着时间的推移，不同的清单出现了，有时会替换或合并条目以保持神秘的魅力。这十三宝象征着权力、繁荣和守护王国。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "folklore",
+      "tags": [
+        "medieval",
+        "legendary items"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Thirteen_Treasures_of_the_Island_of_Britain"
+    },
+    {
+      "title_en": "Treason of the Long Knives",
+      "title_zh": "长刀叛乱",
+      "summary_en": "In the misty dawn of the 5th century, on Salisbury Plain in England, a peace conference was held between British Celtic chieftains and Anglo-Saxon soldiers. The air was thick with tension as both sides eyed each other warily. Suddenly, under the guise of negotiation, the Anglo-Saxons drew their long knives and struck down their former allies, executing them without mercy. This act of treachery, known as the Treason of the Long Knives, became a cautionary tale in medieval Europe, though its historical accuracy is debated by modern historians who view it more as a literary construct than factual history.",
+      "summary_zh": "在公元5世纪的英格兰萨利斯伯里平原，凯尔特族酋长与盎格鲁-撒克逊士兵举行了一场和平会议。空气中弥漫着紧张的气息，双方互相警惕。突然，在谈判的掩护下，盎格鲁-撒克逊人拔出了他们的长刀，无情地斩杀了昔日盟友。这一背叛行为被称为‘长刀叛乱’，成为中世纪欧洲的一个警示故事，尽管现代历史学家认为它更像是一种文学构建而非真实的历史。",
+      "country": "England 英格兰",
+      "emoji": "⚔️",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "treason",
+        "conflict",
+        "peace"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Treason_of_the_Long_Knives"
+    },
+    {
+      "title_en": "Saint Tryphine",
+      "title_zh": "圣特里芬妮",
+      "summary_en": "Saint Tryphine, a semi-legendary Breton saint, is often associated with the origin of the Bluebeard story. According to legend, she was married to Conomor, an early Breton ruler known for his dark beard and mysterious nature. After Conomor's death, Tryphine lived in a castle filled with locked rooms, each containing a dead wife of her husband. One day, a young boy named Gwennou discovered the secret and was killed by Conomor’s ghost. This tragic tale eventually evolved into the famous story of Bluebeard, where the heroine must escape from a series of locked chambers to save herself.",
+      "summary_zh": "圣特里芬妮是布列塔尼的一位半传说中的圣人，她与蓝胡子故事的起源有关。根据传说，她是早期布雷顿国王康诺莫的妻子，以黑胡须著称。康诺莫死后，特里芬妮住在一座充满锁着的房间的城堡中，每个房间里都藏着一位死去的王后。一天，一个小男孩冈努奥发现了这个秘密，并被康诺莫的鬼魂杀害。这一悲剧最终演化成了著名的蓝胡子故事，女主人公必须从一系列锁着的房间里逃出以自救。",
+      "country": "England 英格兰",
+      "emoji": "🏰",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "medieval"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tryphine"
+    },
+    {
+      "title_en": "Vortigern",
+      "title_zh": "沃蒂根",
+      "summary_en": "In the twilight of Roman rule in Britain, Vortigern, a powerful warlord and perhaps king, sought allies to defend against Pictish and Scottish invasions. He invited Saxon mercenaries led by Hengist and Horsa, who soon turned on him, killing his son and establishing their own kingdom of Kent. Fleeing northward, Vortigern found refuge in Wales, where he is said to have met a mysterious boy who revealed the location of a magical well that could save Britain from its woes, but which Vortigern failed to recognize.",
+      "summary_zh": "在罗马统治英国的黄昏时期，沃蒂根是一位强大的战争领袖和可能的国王。他寻求盟友以抵御皮克特人和苏格兰人的入侵。他邀请了由亨吉斯特和霍萨领导的撒克逊雇佣军，但这些士兵很快背叛了他，杀死了他的儿子，并在肯特建立了自己的王国。沃蒂根逃往威尔士北部，在那里据说他遇到了一个神秘的男孩，这个男孩揭示了一个魔法井的位置，可以拯救英国免受灾难，但沃蒂根本没有认识到这一点。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "kingdom",
+        "invaders",
+        "betrayal"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Vortigern",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/沃蒂根"
+    },
+    {
+      "title_en": "Walter Johannes Stein",
+      "title_zh": "瓦尔特·约阿希姆·斯坦因",
+      "summary_en": "Walter Johannes Stein was an Austrian philosopher and Waldorf school teacher who delved into the mysteries of the Holy Grail. His work as a pioneer in anthroposophy aimed to bridge the gap between spiritual and scientific knowledge, seeking enlightenment through ancient wisdom. Stein's life was dedicated to exploring the esoteric and mystical aspects of human history and consciousness.",
+      "summary_zh": "瓦尔特·约阿希姆·斯坦因是奥地利哲学家和华德福学校教师，他深入研究了圣杯的秘密。作为人类灵性与科学知识之间桥梁的先驱，斯坦因致力于通过古代智慧寻求灵性的启迪。他的生命致力于探索人类历史和意识中的神秘方面。",
+      "country": "England 英格兰",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "medieval",
+        "anthroposophy",
+        "esoteric",
+        "philosophy"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Walter_Johannes_Stein"
+    },
+    {
+      "title_en": "Wigalois",
+      "title_zh": "威加洛伊斯",
+      "summary_en": "Wigalois, a young knight of unknown origin, joins the Round Table under Sir Gawain's guidance but remains unaware of his true parentage. When a mysterious damsel seeks aid for her queen, Wigalois embarks on a quest to vanquish Roaz, the heathen lord who has conquered Korntin. With magical aids from a slain king and a crowned deer-leopard, Wigalois overcomes dragons, monsters, and finally Roaz himself. He marries Princess Larie and returns to Arthur's court with his father Gawain to avenge King Amire of Libia. The tale ends with Wigalois and Larie having a son who also becomes renowned.",
+      "summary_zh": "威加洛伊斯是一位年轻的骑士，他加入圆桌骑士团，在加文爵士的指导下成长，但一直不知道自己的身世。当一位神秘的少女请求援助她的女王时，威加洛伊斯踏上了一项艰巨的任务，旨在击败征服了科尔廷的异教主罗阿兹。在已故国王和一只冠毛豹鹿的帮助下，他战胜了巨龙、怪物，并最终打败了罗阿兹。他娶了公主拉莉，并与父亲加文爵士一起回到亚瑟王的宫廷为利比亚国王阿米雷报仇。故事以威加洛伊斯和拉莉的儿子也声名显赫而结束。",
+      "country": "England 英格兰",
+      "emoji": "👑",
+      "type": "epic",
+      "tags": [
+        "medieval",
+        "Arthurian",
+        "knightly adventure"
+      ],
+      "lat": 52.36,
+      "lng": -1.17,
+      "wiki_en": "https://en.wikipedia.org/wiki/Wigalois"
+    }
+  ]
+}

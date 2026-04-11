@@ -69,21 +69,28 @@ export function CountrySidebar({
                 />
               </div>
               {active ? (
-                <div className="mt-2 space-y-1 border-t border-slate-700/40 pt-2">
-                  {g.stories.slice(0, 6).map((s: StoryLight) => (
-                    <button
-                      key={s.id}
-                      type="button"
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        onPickStory(s.id);
-                      }}
-                      className="flex w-full items-center gap-2 rounded-lg px-1 py-1 text-left text-xs text-slate-300 hover:bg-slate-900/80"
-                    >
-                      <span className="text-lg">{s.emoji}</span>
-                      <span className="truncate">{lang === "zh" ? s.title_zh : s.title_en}</span>
-                    </button>
-                  ))}
+                <div className="mt-2 border-t border-slate-700/40 pt-2">
+                  <div className="max-h-56 space-y-0.5 overflow-y-auto pr-0.5 [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+                    {g.stories.map((s: StoryLight) => (
+                      <button
+                        key={s.id}
+                        type="button"
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          onPickStory(s.id);
+                        }}
+                        className="flex w-full items-center gap-2 rounded-lg px-1 py-1 text-left text-xs text-slate-300 hover:bg-slate-900/80"
+                      >
+                        <span className="text-lg">{s.emoji}</span>
+                        <span className="truncate">{lang === "zh" ? s.title_zh : s.title_en}</span>
+                      </button>
+                    ))}
+                  </div>
+                  {g.stories.length > 8 && (
+                    <p className="mt-1 text-center text-[10px] text-slate-600">
+                      {g.stories.length} stories — scroll to see all
+                    </p>
+                  )}
                 </div>
               ) : null}
             </button>

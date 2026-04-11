@@ -1,0 +1,742 @@
+{
+  "meta": {
+    "region": "Egyptian",
+    "count": 43,
+    "generated": "2026-04-11",
+    "note": "Scraped from Wikipedia, summarized with a local Qwen model via Ollama."
+  },
+  "stories": [
+    {
+      "title_en": "Abtu",
+      "title_zh": "阿布杜",
+      "summary_en": "In ancient Egypt, Abtu was both a sacred fish revered by the people and the city of Abydos, where Osiris and early Egyptian rulers were buried. The city held great religious significance as it was believed that the god Osiris had been laid to rest there after his death at the hands of his brother Set. Pilgrims would journey to this holy site to honor Osiris and seek his blessings.",
+      "summary_zh": "在古埃及，阿布杜既是被崇拜的圣鱼，也是埋葬奥西里斯和早期埃及国王的底比斯城。这座城市具有极高的宗教意义，因为人们相信奥西里斯神是在那里安息的，因为他被兄弟塞特谋杀后。朝圣者会前往这个圣地来祭拜奥西里斯并祈求他的祝福。",
+      "country": "Egypt 埃及",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "burial",
+        "god"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Abtu"
+    },
+    {
+      "title_en": "Adder Stone",
+      "title_zh": "蛇卵石",
+      "summary_en": "In ancient Egypt and Britain, adder stones were believed to be the hardened saliva of serpents, with holes formed by their tongues. These mystical stones were also called hag stones or fairy stones in various regions. The perforations were seen as proof of the snakes' mass gathering, creating a powerful talisman against evil. People would carry these stones for protection and good fortune.",
+      "summary_zh": "在古埃及和英国，蛇卵石被认为是蛇的凝固唾液，孔洞是由它们舌头形成的。这些神秘的石头在当地被称为巫婆石或精灵石。人们认为这些孔洞是蛇群聚集的结果，赋予了强大的保护力量。人们会随身携带这些石头以求吉祥避邪。",
+      "country": "Egypt 埃及",
+      "emoji": "💎",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "protective talisman",
+        "snake"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Adder_stone"
+    },
+    {
+      "title_en": "Adim",
+      "title_zh": "阿迪姆",
+      "summary_en": "In ancient Egypt, Adim was a king who reigned after the Great Flood. Desperate for clean drinking water, he sought guidance from his father's spirit. The ghost revealed a method to distill fresh water from saltwater within a deep cave. Inspired by this revelation, Adim constructed the first water distillation facility in Egypt, ensuring his people would never again suffer from thirst.",
+      "summary_zh": "在古埃及，阿迪姆是一位国王，在大洪水之后统治着这片土地。为了获得清洁的饮用水，他向父亲的灵魂求助。灵魂告诉他如何在深洞中从咸水中蒸馏出淡水的方法。受到启发后，阿迪姆建造了埃及第一座海水淡化设施，确保他的人民不再遭受缺水之苦。",
+      "country": "Egypt 埃及",
+      "emoji": "💧",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "water",
+        "flood",
+        "distillation"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Adim_(mythology)"
+    },
+    {
+      "title_en": "Anchiroe",
+      "title_zh": "安基罗伊 (Anchiroê)",
+      "summary_en": "In Greek mythology, Anchiroe was a nymph who served as one of the nurses for Zeus, carrying water-pots with divine water pouring from them. She also had other roles, including being an Erasinide and a daughter of Nilus, marrying Sithon. Her stories reflect the complex mythological world where nature spirits and deities interacted in various capacities.",
+      "summary_zh": "在希腊神话中，安基罗伊是一位为宙斯担任奶娘的林地仙女，她手持水罐，其中流出神圣之水。她还有其他身份，如埃萨辛德的女儿和尼鲁斯的女儿、西顿的妻子。她的故事反映了自然精灵与神祇之间复杂互动的世界。",
+      "country": "Greece 希腊",
+      "emoji": "💧",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "nymph",
+        "goddess"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Anchiroe_(mythology)"
+    },
+    {
+      "title_en": "Ancient Egyptian Creation Myths",
+      "title_zh": "古埃及创世神话",
+      "summary_en": "In ancient Egypt, the universe emerged from chaos through the actions of the primordial god Atum or Ra, who created Shu (air) and Tefnut (moisture). From their union came Geb (earth) and Nut (sky), who in turn gave birth to Osiris, Isis, Set, and Nephthys. The most poignant narrative involves Osiris, killed by his brother Set, and the subsequent struggle for power between Osiris's widow Isis and her son Horus. This myth not only explains the creation of the world but also underpins the ideology of kingship in ancient Egypt.",
+      "summary_zh": "古埃及神话中，宇宙从混沌中诞生，通过原始神阿吞或拉的行动。他创造了希鲁（空气）和特芬努特（湿气）。从他们的结合中产生了盖布（大地）和努特（天空），他们又生下了奥西里斯、伊西斯、塞特和涅弗蒂斯。最引人入胜的故事是关于奥西里斯的，他被他的兄弟塞特谋杀，随后奥西里斯的妻子伊西斯与她的儿子荷鲁斯之间展开了权力斗争。这个神话不仅解释了宇宙的诞生，还奠定了古埃及王权的思想基础。",
+      "country": "Egypt 埃及",
+      "emoji": "🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "creation",
+        "kingdom"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ancient_Egyptian_creation_myths"
+    },
+    {
+      "title_en": "Ankh",
+      "title_zh": "安卡 (Anka)",
+      "summary_en": "The ankh, or key of life, was a sacred symbol in ancient Egypt representing the essence of life itself. It featured a T-shape with a droplet-shaped loop at the top and was often depicted in the hands of deities bestowing life to pharaohs. This symbol adorned Egyptian art and was believed to grant both physical and spiritual sustenance. Over time, it evolved into the crux ansata by Copts and later became a symbol of African cultural identity and Neopagan belief systems.",
+      "summary_zh": "安卡，或生命之钥，在古埃及是象征生命的神圣符号。它由T形和顶部的滴状环组成，并常出现在神祇手中赐予法老生命。这一符号装饰着埃及艺术，被认为能提供物质和精神上的滋养。随着时间推移，它演变成科普特人的十字架形状，并后来成为非洲文化身份和新教派信仰系统的象征。",
+      "country": "Egypt 埃及",
+      "emoji": "🔑",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "symbolism",
+        "afterlife"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ankh"
+    },
+    {
+      "title_en": "Atef Crown",
+      "title_zh": "阿特夫冠",
+      "summary_en": "The Atef crown, a distinctive white headdress adorned with ostrich feathers, was the specific headgear of Osiris, the god of the underworld in ancient Egypt. This crown combined the Hedjet, the traditional white crown of Upper Egypt, with two curving ostrich feathers on each side. These feathers symbolized truth and justice, making Atef a powerful emblem worn by rulers to signify their authority over the afterlife realm. The Atef crown was central in depicting Osiris in paintings and sculptures, signifying his role as the ruler of the underworld and the protector of Egypt's moral order.",
+      "summary_zh": "阿特夫冠是古埃及神祇奥西里斯特有的白色头饰，由上埃及传统的白色王冠和两侧弯曲的鸵鸟羽毛组成。这些羽毛象征着真理与正义，使阿特夫成为统治者身份的重要标志，尤其是在描绘奥西里斯时，用以彰显其作为冥界之主及道德秩序守护者的地位。在古埃及绘画和雕塑中，阿特夫冠是表现奥西里斯形象的关键元素。",
+      "country": "Egypt 埃及",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "god",
+        "underworld"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Atef"
+    },
+    {
+      "title_en": "Book of Caverns",
+      "title_zh": "地府洞窟经文",
+      "summary_en": "The Book of Caverns is an ancient Egyptian text from the New Kingdom period, detailing Ra's journey through twelve caverns in the Duat, the underworld. As Ra navigates these dark realms, he encounters various souls and deities, meting out rewards or punishments based on their deeds during life. The book culminates with Ra's rebirth each morning by merging with Osiris, the god of the dead. This text offers a vivid portrayal of Egyptian beliefs in the afterlife and the cosmic cycle of day and night.",
+      "summary_zh": "《地府洞窟经文》是新王国时期的古埃及文本，描述了太阳神拉穿越十二个地下洞穴的旅程。在这些黑暗的领域中，拉遇到了各种灵魂和神祇，并根据他们在世时的行为给予奖惩或惩罚。最终，这本书以拉每天早晨通过与亡灵之神奥西里斯融合而重生结束。这部作品生动地描绘了古埃及人对来世以及日夜循环的看法。",
+      "country": "Egypt 埃及",
+      "emoji": "🙏",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "underworld",
+        "rebirth"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Book_of_Caverns"
+    },
+    {
+      "title_en": "Book of Gates",
+      "title_zh": "亡灵书",
+      "summary_en": "In ancient Egypt, the soul of a deceased person embarked on a perilous journey through the underworld alongside the sun god Ra. The path was fraught with challenges as the soul had to pass through ten gates guarded by fierce serpent deities, each associated with a different goddess. To survive, the soul must recite the names of these guardians correctly. After navigating through the darkness and potential torments in a lake of fire, the soul would witness Ra's rebirth at dawn, emerging victorious into the light of day. This journey was crucial for the deceased to achieve eternal life.",
+      "summary_zh": "古埃及时期，亡灵在太阳神拉的引导下穿越阴间。他们必须依次通过十个由蛇神守护的大门，每个大门都与不同的女神相关联。为了生存下去，亡灵必须正确说出这些守卫的名字。经过黑暗和可能遭遇的火焰之湖的考验后，亡灵将目睹拉神在黎明时分重生，最终得以进入光明之中，实现永恒的生命。",
+      "country": "Egypt 埃及",
+      "emoji": "☀️🌙🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "underworld",
+        "rebirth",
+        "judgment"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Book_of_Gates"
+    },
+    {
+      "title_en": "Book of the Dead",
+      "title_zh": "亡灵书",
+      "summary_en": "The Book of the Dead is an ancient Egyptian funerary text used from around 1550 BC to 50 BC, designed to guide the deceased through the underworld and into the afterlife. This collection of spells, written by priests over a millennium, was often placed in coffins or burial chambers. The text evolved from earlier traditions like the Pyramid Texts and Coffin Texts, incorporating both old and new spells. One of the most famous examples is the Papyrus of Ani, which vividly depicts the journey of an Egyptian scribe named Ani through his afterlife voyage.",
+      "summary_zh": "亡灵书是古埃及的一种葬礼文本，从公元前1550年至前50年一直使用。这种文本旨在引导死者穿越阴间并进入来世。这些咒语由祭司在一千多年的时间里编写，并通常放置于棺材或墓室中。该文本源自更早的传统，如金字塔文和棺木文，融合了旧的和新的咒语。最著名的例子之一是阿尼亡灵书，它生动地描绘了一位埃及书记官阿尼穿越其来世之旅。",
+      "country": "Egypt 埃及",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "funerary text"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Book_of_the_Dead"
+    },
+    {
+      "title_en": "Book of the Earth",
+      "title_zh": "地之书",
+      "summary_en": "The Book of the Earth, an ancient Egyptian funerary text, narrates a celestial journey where the sun god Ra travels through the earth god Aker. This journey is essential for the creation and sustenance of life on Earth. The story involves Osiris, who represents the cycle of death and rebirth, and Ba, symbolizing the soul or spirit. Together, they ensure that the sun rises each day, bringing light and warmth to the world below.",
+      "summary_zh": "地之书是古埃及的一种葬礼文本，讲述了太阳神拉穿越地球之神阿克尔的天界之旅。这一旅程对于地球上生命的创造和延续至关重要。故事中涉及奥西里斯，他代表着生死循环；以及巴，象征着灵魂或精神。他们共同确保每天太阳升起，带来光明与温暖。",
+      "country": "Egypt 埃及",
+      "emoji": "☀️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "sun",
+        "rebirth"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Book_of_the_Earth"
+    },
+    {
+      "title_en": "Book of the Faiyum",
+      "title_zh": "尼罗河泛滥区之书",
+      "summary_en": "The Book of the Faiyum is an ancient Egyptian text that celebrates the Faiyum region and its patron deity, Sobek, the crocodile god. This local monograph served as a mythologized map of the area, detailing its geography and the divine presence that protected it. The text was used by priests to guide worshippers through the sacred landscape, emphasizing the importance of the Faiyum in Egyptian culture during the Ptolemaic and Roman periods.",
+      "summary_zh": "《尼罗河泛滥区之书》是古埃及的一部地方性文献，颂扬了尼罗河泛滥区及其保护神塞伯克鳄鱼神。这部神话化的地图不仅描绘了该地区的地理特征，还强调了塞伯克在保护这片土地中的神圣地位。祭司们利用此文本引导信徒穿越这片圣地，突显了尼罗河泛滥区在古埃及文化中所扮演的重要角色。",
+      "country": "Egypt 埃及",
+      "emoji": "🐍",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Book_of_the_Faiyum"
+    },
+    {
+      "title_en": "Buchis",
+      "title_zh": "布希斯",
+      "summary_en": "In ancient Egypt, Buchis was a sacred bull worshipped in Hermonthis as the incarnation of Montu, the war god. To be chosen as Buchis, a bull had to have a white body and black face. After their death, these bulls were mummified and buried in the Bucheum. Unlike other sacred bulls like Apis and Mnevis, the Buchis cult emerged later, around the 4th century BC, during the decline of pharaonic rule. Eventually, Buchis was identified as an incarnation of Osiris, blending with the Apis cult.",
+      "summary_zh": "古埃及时期，布希斯是一头在赫尔蒙蒂斯崇拜的圣牛，被视为战争之神蒙图的化身。一头公牛要成为布希斯，必须具有白色的身体和黑色的脸庞。这些公牛死后会被制成木乃伊，并埋葬在布希姆中。与阿匹斯和门尼斯等其他神圣公牛不同，布希斯崇拜是在公元前4世纪左右法老统治衰落时出现的。最终，布希斯被认作奥西里斯的化身，融入了阿匹斯崇拜。",
+      "country": "Egypt 埃及",
+      "emoji": " Bulls ",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "sacred bulls",
+        "Montu",
+        "Osiris"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Buchis"
+    },
+    {
+      "title_en": "Buto",
+      "title_zh": "布托",
+      "summary_en": "Buto was an ancient Egyptian city located in the Nile Delta. It served as a sacred site for the goddess Wadjet, who was often depicted with a cobra's head and symbolized sovereignty over Lower Egypt. The city played a significant role in early Egyptian history, serving as a strategic location between two branches of the Nile. Today, it is known as Tell El Fara'in, a testament to its historical importance.",
+      "summary_zh": "布托是古埃及的一个城市，位于尼罗河三角洲。这座城市是女神沃杰特的圣地，她通常被描绘成眼镜蛇头的形象，并象征着对下埃及的统治权。这座城市在早期埃及历史中扮演了重要角色，作为尼罗河两条支流之间的战略位置而举足轻重。如今，它被称为提尔·埃尔·法拉因，见证了其悠久的历史。",
+      "country": "Egypt 埃及",
+      "emoji": "🐍",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 31.19638889,
+      "lng": 30.74472222,
+      "wiki_en": "https://en.wikipedia.org/wiki/Buto"
+    },
+    {
+      "title_en": "Cynocephaly",
+      "title_zh": "狗头人",
+      "summary_en": "Cynocephaly, or having the head of a dog, is a mythical concept found in various cultures. In ancient Egypt and Greece, these beings were depicted as humans with canine heads, often associated with jackals and deities like Anubis. Legends tell of encounters where cynocephalics acted as both allies and adversaries, their nature sometimes ambiguous. This myth persisted through the ages, appearing in medieval tales and modern fiction alike.",
+      "summary_zh": "狗头人的概念在许多文化中都有记载。古埃及和希腊的传说中，这些生物被描绘成具有犬首的人类，常与豺狼神阿努比斯联系在一起。传说讲述了人们与狗头人相遇的故事，他们有时是盟友，有时又是敌人，其本质往往模棱两可。这一神话延续至今，在中世纪故事和现代文学中都有出现。",
+      "country": "Egypt 埃及",
+      "emoji": "🐶",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "animal",
+        "deity",
+        "mythical creature"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cynocephaly"
+    },
+    {
+      "title_en": "Egyptian Mythology",
+      "title_zh": "埃及神话",
+      "summary_en": "In ancient Egypt, the gods shaped the world from chaos, and their actions were seen as patterns repeated in daily life. The most famous myth is that of Osiris, who was killed by his brother Set but brought back to life by his sister-wife Isis. Their son Horus then fought against Set for the throne. These stories symbolized the eternal struggle between order (maat) and chaos, with the pharaohs seen as protectors of maat. The sun god Ra's daily journey through the heavens and underworld also reflected this cosmic balance.",
+      "summary_zh": "古埃及人认为众神从混沌中创造了世界，并将他们的行为视为日常生活中的重复模式。最著名的神话是奥西里斯的故事，他被哥哥塞特谋杀但又被伊西斯复活。他们的儿子荷鲁斯随后与塞特争夺王位。这些故事象征着永恒的秩序（玛阿特）与混乱之间的斗争，法老被视为维护秩序的人。太阳神拉每天在天空和地府中的旅程也反映了这种宇宙平衡。",
+      "country": "Egypt 埃及",
+      "emoji": "☀️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "creation",
+        "order",
+        "chaos"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Egyptian_mythology"
+    },
+    {
+      "title_en": "Pool Symbol",
+      "title_zh": "水池符号",
+      "summary_en": "In ancient Egypt, the pool symbol represented the primal waters of Nun, believed to be the source of all life. This symbol, a rectangle with seven zigzag lines, was often depicted in artwork as seen from above, even when other elements were shown from the side. The sun god Ra sometimes emerged from this symbol, signifying his creation and sustenance of the world.",
+      "summary_zh": "在古埃及，水池符号象征着原始的水域Nun，被认为是所有生命的源泉。这种符号是一个带有七条曲折线的矩形，在艺术品中通常从上方视角描绘，即使其他元素是从侧面展示的。有时太阳神拉会从这个符号中升起，象征他的创造和滋养世界。",
+      "country": "Egypt 埃及",
+      "emoji": "💧",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "water",
+        "creation",
+        "sun god"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Egyptian_pool"
+    },
+    {
+      "title_en": "Ennead",
+      "title_zh": "九神团",
+      "summary_en": "At Heliopolis, the sun god Atum created Shu and Tefnut through self-generation. From them came Geb (earth) and Nut (sky), who mated to produce Osiris, Isis, Set, and Nephthys. These deities formed a cosmic family, each representing different aspects of nature and life in ancient Egypt.",
+      "summary_zh": "在赫利奥波利斯，太阳神阿吞通过自我创造产生了舒和提芬特。从他们之中诞生了盖布（大地）和努特（天空），盖布与努特结合生下了奥西里斯、伊西斯、塞特和涅菲尔蒂丝。这些神祇构成了一个宇宙家庭，各自代表着自然和生命的不同方面。",
+      "country": "Egypt 埃及",
+      "emoji": "☀️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "cosmic creation"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ennead",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/九柱神"
+    },
+    {
+      "title_en": "Tomb of Tutankhamun",
+      "title_zh": "图坦卡蒙墓",
+      "summary_en": "The tomb of Tutankhamun, a young pharaoh who died in 1323 BC, was discovered by Howard Carter and George Herbert in 1922. Despite being smaller and less elaborately decorated than other royal tombs, it contained an extraordinary array of treasures including the famous golden mask. The tomb's location hidden beneath debris from flooding and construction remained undisturbed for centuries until its accidental discovery, which sparked a media frenzy and cemented Tutankhamun's place in history.",
+      "summary_zh": "图坦卡蒙墓是古埃及第十八王朝的一位年轻法老图坦卡蒙的陵寝，他在公元前1323年去世。该墓于1922年由霍华德·卡特和乔治·赫伯特爵士发现。尽管这座墓较小且装饰不如其他皇家陵寝华丽，但它却藏有大量的珍宝，包括著名的金面具。这座墓因被洪水和建筑废墟掩埋而得以保存数个世纪之久，直到偶然被发现才引起了轰动，并使图坦卡蒙成为历史上最著名的法老之一。",
+      "country": "Egypt 埃及",
+      "emoji": "👑",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "funerary art",
+        "tomb robbery"
+      ],
+      "lat": 25.74038889,
+      "lng": 32.60141667,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tomb_of_Tutankhamun"
+    },
+    {
+      "title_en": "Flooding of the Nile",
+      "title_zh": "尼罗河泛滥",
+      "summary_en": "The annual flooding of the Nile was a crucial event for ancient Egypt. The river's predictable cycle brought rich, fertile silt to the valley and delta, supporting the development of agriculture and trade that fueled Egyptian prosperity. Egyptians celebrated this event with festivals like Wafaa El-Nil, marking it as integral to their culture and economy. By the Roman era, Egypt was a key supplier of wheat to the empire.",
+      "summary_zh": "尼罗河的年度泛滥对古埃及至关重要。河水带来的肥沃淤泥滋养了谷地和三角洲，促进了农业和贸易的发展，为埃及的繁荣奠定了基础。埃及人通过庆祝瓦法阿·埃尔-尼尔节等节日来纪念这一事件，将其视为文化与经济的重要组成部分。到罗马时代，埃及已成为帝国重要的小麦供应地。",
+      "country": "Egypt 埃及",
+      "emoji": "💧",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "agriculture",
+        "fertility",
+        "river"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Flooding_of_the_Nile"
+    },
+    {
+      "title_en": "Hennu Boat",
+      "title_zh": "赫努船",
+      "summary_en": "In ancient Egypt, the hennu boat was a sacred vessel associated with the god Seker of Memphis. It symbolized the journey from dawn to dusk and played a crucial role in funerary rituals. During the holiday honoring Seker, a stone representing the deity would be placed on the hennu barque and pulled across fields by followers wearing onion garlands. The boat itself was sometimes considered an incarnation of the god, as evidenced by inscriptions that declared 'I have appeared as Hennu.'",
+      "summary_zh": "在古埃及，赫努船与孟菲斯的神塞克尔有关。它象征着从黎明到黄昏的旅程，并在葬礼仪式中扮演了重要角色。在庆祝塞克尔的节日中，一块代表神祇的石头会被放在赫努船上，由戴着洋葱花环的信徒拉动穿越田野。有时赫努船本身被视为神祇的化身，如铭文中所言：‘我已显现为赫努’。",
+      "country": "Egypt 埃及",
+      "emoji": "🙏",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "funerary rituals",
+        "deity vessels"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Hennu"
+    },
+    {
+      "title_en": "Historiola",
+      "title_zh": "历史故事（希罗多德）",
+      "summary_en": "A historiola is a magical incantation that weaves a mythic tale to guide its desired effect. Originating in ancient Mesopotamia, Egypt, and Greece, these stories were used in rituals to invoke the power of mythical narratives for practical purposes. Whether it was invoking the strength of Hercules or the wisdom of Osiris, the historiola combined storytelling with magic, making myths a tool for everyday life.",
+      "summary_zh": "希罗多德是一种魔法咒语，它编织了一个神话故事来引导其期望的效果。这种做法起源于古代美索不达米亚、埃及和希腊，在仪式中使用这些故事来召唤神话叙事的力量。无论是赫拉克勒斯的勇力还是奥西里斯的智慧，希罗多德都结合了讲故事与魔法，使神话成为日常生活中的工具。",
+      "country": "Egypt 埃及",
+      "emoji": "📖✨",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "incantation",
+        "ritual"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Historiola"
+    },
+    {
+      "title_en": "Horus Name",
+      "title_zh": "荷鲁斯名号",
+      "summary_en": "The Horus name was the ancient Egyptian ruler's oldest and most prestigious title, symbolizing their divine right to rule as the earthly manifestation of the falcon god Horus. It featured a palace facade with the pharaoh's image or name inside and the falcon deity atop. Over time, its usage evolved, especially during the Ptolemaic period when it was adopted by both male and female rulers, marking a shift in royal symbolism.",
+      "summary_zh": "荷鲁斯名号是古埃及统治者的最古老且最重要的头衔，象征着他们作为太阳神霍鲁斯在地上化身的神圣权利。它通常以宫殿门面的形式出现，宫门内刻有法老的名字或肖像，而霍鲁斯鹰则位于顶部。随着时间的推移，尤其是在托勒密时期，这一称号不仅被男性统治者使用，也被女性共治者采用，标志着王权象征意义的变化。",
+      "country": "Egypt 埃及",
+      "emoji": "👑",
+      "type": "folklore",
+      "tags": [
+        "ancient"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Horus_name"
+    },
+    {
+      "title_en": "Isfet",
+      "title_zh": "伊斯费特 (Isfet)",
+      "summary_en": "In ancient Egypt, Isfet symbolized injustice, chaos, and violence—opposites of Maat, the goddess of order. While Isfet itself lacked a physical form, it was often personified as Apep, the great serpent who threatened the sun god Ra each night. Egyptians believed that the struggle between Isfet and Maat maintained cosmic balance, ensuring that evil could never fully triumph over righteousness.",
+      "summary_zh": "在古埃及，伊斯费特象征着不公正、混乱和暴力——与秩序女神玛阿特相对。虽然伊斯费特本身没有实体形态，但它经常被表现为威胁太阳神拉的巨蛇阿佩普。埃及人相信伊斯费特与玛阿特之间的斗争维持了宇宙平衡，确保邪恶永远无法完全战胜正义。",
+      "country": "Egypt 埃及",
+      "emoji": "⚡",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "chaos",
+        "order"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Isfet_(Egyptian_mythology)"
+    },
+    {
+      "title_en": "Kneph",
+      "title_zh": "克努夫 (Kneph)",
+      "summary_en": "Kneph was a divine figure in ancient Egypt, often depicted as a serpent or a globe encircled by serpents. In some magical artifacts of Late Antiquity, he took on the form of a lion-headed snake, known under the Greek name Chnuphis. This deity was sometimes associated with other gods like Khnum and Agathos Daimon, blending Egyptian and Hellenistic beliefs.",
+      "summary_zh": "克努夫是古埃及的神祇，常被描绘为一条蛇或一个被蛇环绕的球体。在晚期希腊化时期的魔法文物中，他以狮子头蛇身的形象出现，被称为Chnuphis。这位神祇有时与赫利奥波利斯的神祇如克努姆和阿加索斯·戴蒙相联系，融合了埃及和希腊化的信仰。",
+      "country": "Egypt 埃及",
+      "emoji": "🐍",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "serpent",
+        "goddess"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kneph"
+    },
+    {
+      "title_en": "Memphis",
+      "title_zh": "孟斐斯",
+      "summary_en": "Memphis was the ancient capital of Egypt's first nome, founded by King Menes around 3100 BCE. It thrived as a bustling commercial and religious hub at the mouth of the Nile Delta. The city's great temple to Ptah, Hut-ka-Ptah, was one of its most prominent structures. Memphis declined in importance with the rise of Alexandria and the abandonment of ancient Egyptian religion after 380 AD. Today, its ruins stand as a testament to Egypt's glorious past, attracting tourists from around the world.",
+      "summary_zh": "孟斐斯是古埃及第一省的首都，约于公元前3100年左右由法老美尼斯建立。这座城市在尼罗河三角洲口成为繁华的商业和宗教中心。孟斐斯最著名的建筑之一是供奉主神巴赫的胡特-卡-巴赫庙宇。随着亚历山大城的兴起以及公元380年后古埃及宗教的衰落，孟斐斯逐渐失去了其重要性。如今，这座古城的废墟见证了古埃及辉煌的历史，并吸引了来自世界各地的游客。",
+      "country": "Egypt 埃及",
+      "emoji": "🏛️",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "capital",
+        "religion"
+      ],
+      "lat": 29.84944444,
+      "lng": 31.255,
+      "wiki_en": "https://en.wikipedia.org/wiki/Memphis,_Egypt",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/孟菲斯_(埃及)"
+    },
+    {
+      "title_en": "Menes",
+      "title_zh": "美尼斯",
+      "summary_en": "Menes was a legendary pharaoh of ancient Egypt who is credited with uniting Upper and Lower Egypt into one kingdom around 3200–3000 BC. According to classical tradition, he founded the First Dynasty of Egypt. Although his identity remains uncertain—some scholars suggest he might be Narmer or Hor-Aha—the tales of Menes have become integral to Egypt's founding myths.",
+      "summary_zh": "美尼斯是古埃及的一位传说中的法老，据称他于公元前3200年至前3000年间统一了上下埃及，并建立了第一王朝。虽然关于他的身份仍存在争议——一些学者认为他可能是纳卡达III时期的纳尔默或其继任者霍哈法——但美尼斯的故事已成为埃及建国神话的重要组成部分。",
+      "country": "Egypt 埃及",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "unification"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Menes"
+    },
+    {
+      "title_en": "Nebty Name",
+      "title_zh": "两女神名号",
+      "summary_en": "The Nebty name was one of the most prestigious royal titles in ancient Egypt, symbolizing the pharaoh's rule over both Upper and Lower Egypt. It was believed that the goddesses Nekhbet (the vulture goddess) and Wadjet (the cobra goddess), who were associated with the two lands, bestowed their favor upon the ruler. This title, one of the 'great five names,' underscored the pharaoh's divine authority and political power.",
+      "summary_zh": "两女神名号是古埃及最重要的王室称号之一，象征着法老对上下埃及的统治。人们相信，与上下埃及分别相关的两位女神涅赫布特（鹰头神）和瓦迪杰特（眼镜蛇女神）赐福于这位君主。这一称号作为‘五大名称’之一，强调了法老的神圣权威和政治权力。",
+      "country": "Egypt 埃及",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Nebty_name"
+    },
+    {
+      "title_en": "Neshmet Bark",
+      "title_zh": "涅赫梅特舟",
+      "summary_en": "During the ancient Egyptian festival honoring Osiris, the god's sacred bark, Neshmet, would carry him across the Nile from his temple to his tomb at Abydos. The procession was a grand spectacle, with priests and followers reenacting Osiris' journey through the underworld before his triumphant return. Crowds gathered along the riverbanks, eager to witness this mystical event that symbolized eternal life and renewal.",
+      "summary_zh": "在古埃及奥西里斯节上，涅赫梅特舟会载着这位神祇从阿比多斯的庙宇渡过尼罗河前往他的墓地。仪式中，祭司和信徒们重演了奥西里斯穿越冥界的旅程，最终迎来他的胜利归来。沿岸挤满了观众，他们渴望见证这一象征永生与重生的神秘时刻。",
+      "country": "Egypt 埃及",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "funeral"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Neshmet"
+    },
+    {
+      "title_en": "Nomen",
+      "title_zh": "王名",
+      "summary_en": "In ancient Egypt, the nomen was one of the five great names given to pharaohs. Introduced by King Djedefre in the 4th Dynasty, it initially combined with the prenomen as a single title. Over time, it evolved into an independent name, marking a significant change in royal naming conventions.",
+      "summary_zh": "古埃及法老的名字中，王名是五大名称之一。第四个王朝的第三位国王达夫雷引入了这一称号，并将其与先王名结合使用。随着时间的推移，王名逐渐独立成为一种独特的称号，标志着皇家命名惯例的重大变革。",
+      "country": "Egypt 埃及",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Nomen_(ancient_Egypt)"
+    },
+    {
+      "title_en": "Opening of the Year Festival",
+      "title_zh": "开年节",
+      "summary_en": "The Opening of the Year Festival, celebrated on the first day of Thout in ancient Egypt, marked a time when the Nile began to flood and the star Sirius reappeared. This festival was a blend of religious and secular celebrations, honoring Sopdet, the goddess associated with Sirius, and other deities like Anuket and Isis. It symbolized the birth of the king and the sun god Re, bringing renewal and prosperity to Egypt.",
+      "summary_zh": "开年节在古埃及的托特月第一天庆祝，标志着尼罗河泛滥和天狼星重新出现。这个节日结合了宗教与世俗庆典，祭拜与天狼星相关的女神索珀特，以及其他如安努克特、西黛斯等神祇。它象征着国王和太阳神拉的诞生，为埃及带来新的繁荣。",
+      "country": "Egypt 埃及",
+      "emoji": "::.::",
+      "type": "epic",
+      "tags": [
+        "ancient"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Opening_of_the_Year_Festival"
+    },
+    {
+      "title_en": "Osiris Myth",
+      "title_zh": "奥西里斯神话",
+      "summary_en": "In ancient Egypt, Osiris, a primeval king, was betrayed by his brother Set, who murdered him to seize the throne. Isis, Osiris's wife and sister, recovered her husband’s body and gave birth to their son Horus. As an adult, Horus challenged Set for the throne in a series of fierce battles. Ultimately, Horus triumphed, restoring order and ensuring that Osiris would rule the underworld. This myth symbolizes the eternal struggle between chaos and order, and it is central to Egyptian beliefs about kingship, death, and the afterlife.",
+      "summary_zh": "在古埃及，奥西里斯作为一位原始国王被他的兄弟塞特背叛并谋杀，以夺取王位。奥西里斯的妻子兼妹妹伊西斯找回了丈夫的遗体，并诞下了他们的儿子荷鲁斯。成年后，荷鲁斯与塞特展开了激烈的争夺王位之战。最终，荷鲁斯获胜，恢复了秩序，确保奥西里斯在冥界的统治。这个神话象征着永恒的秩序与混乱之间的斗争，是古埃及关于君权、死亡和来世信仰的核心。",
+      "country": "Egypt 埃及",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "death and afterlife",
+        "kingship and succession",
+        "conflict between order and disorder"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Osiris_myth"
+    },
+    {
+      "title_en": "Prenomen",
+      "title_zh": "王名",
+      "summary_en": "In ancient Egypt, a pharaoh's prenomen was one of five royal names that signified their divine and mortal status as rulers. The term 'of the Sedge and Bee' combined hieroglyphs for Upper and Lower Egypt to symbolize unity. Initially, this name was used alongside other titles but later became encircled by a cartouche during the Third Dynasty. Despite being traditionally male, Cleopatra VII was the only female pharaoh to use a feminized version of the prenomen.",
+      "summary_zh": "古埃及法老的王名是五种皇室称号之一，象征着他们作为统治者的神性和人性。‘上埃及之芦苇与下埃及之蜜蜂’这一术语结合了上下埃及的象形文字来表示统一。起初，这种名称与其他头衔并用，但自第三王朝后期起，它开始被置于圆环内。尽管传统上为男性专用，克利奥帕特拉七世是唯一使用女性形式王名的女法老。",
+      "country": "Egypt 埃及",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "royal names"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Prenomen_(Ancient_Egypt)"
+    },
+    {
+      "title_en": "Serabit el-Khadim",
+      "title_zh": "塞拉比特·艾尔-卡迪姆",
+      "summary_en": "In ancient Egypt, Serabit el-Khadim was a sacred mining site in the Sinai Peninsula, where turquoise and copper were extracted. The temple of Hathor, the goddess of sensual power and protector of desert regions, stood at its heart. Established during the Middle Kingdom under Senusret I, the temple served as both a place of worship and a guide for Pharaohs on their mining expeditions. Votive stelae lined the path to the temple, commemorating the miners and honoring Hathor's power. The site was active from the Middle Kingdom through the New Kingdom, with rulers constructing chapels and erecting commemorative stones to mark their visits.",
+      "summary_zh": "在古埃及时期，塞拉比特·艾尔-卡迪姆是西奈半岛的一个神圣采矿地，那里开采了青金石和铜。哈托尔神庙位于其核心位置，她是力量与保护的女神，特别受到沙漠地区的崇拜。这座神庙建于中王国时期，在塞努赛特一世统治下成立，并作为祭拜之所及国王矿产探险之旅的向导而存在。通往神庙的路上布满了纪念石碑，记载着矿工的故事并颂扬哈托尔的力量。该遗址从中王国到新王国时期一直活跃，历代君主修建了礼拜堂并在沿途竖立了纪念石碑。",
+      "country": "Egypt 埃及",
+      "emoji": "💎",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mining",
+        "goddess"
+      ],
+      "lat": 29.03666667,
+      "lng": 33.45916667,
+      "wiki_en": "https://en.wikipedia.org/wiki/Serabit_el-Khadim"
+    },
+    {
+      "title_en": "The Indestructibles",
+      "title_zh": "不朽者",
+      "summary_en": "In ancient Egypt, the stars Kochab and Mizar were revered as 'the ones not knowing destruction,' representing eternal life and the pharaohs' journey to the afterlife. These circumpolar stars, always visible in the night sky near the North Pole, symbolized the unchanging nature of the heavens and the enduring legacy of the rulers who aligned themselves with these celestial bodies.",
+      "summary_zh": "古埃及人崇拜柯恰和米扎尔两颗星为‘不朽者’，象征永恒的生命和法老王通往彼岸的旅程。这两颗恒星始终位于北极附近，代表着天空的不变与统治者的永垂不朽。",
+      "country": "Egypt 埃及",
+      "emoji": "🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "stars",
+        "afterlife"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/The_Indestructibles"
+    },
+    {
+      "title_en": "Gold Hieroglyph",
+      "title_zh": "黄金象形文字",
+      "summary_en": "In ancient Egypt, the hieroglyph for gold was a symbol of immense value and power. It depicted a large golden necklace with dangling pendants, representing wealth and nobility. This hieroglyph played a crucial role in the Fivefold Titulary names of pharaohs, signifying their divine right to rule. During the Old Kingdom era, skilled dwarfs were known for their intricate metalwork, crafting these precious necklaces that adorned the elite. The necklace's design, with its flowing ends and pearl pendants, symbolized the fluidity and beauty of gold in Egyptian culture.",
+      "summary_zh": "古埃及的黄金象形文字象征着巨大的财富和权力。它描绘了一个大型金色项链，两端下垂并挂着珍珠吊坠，代表了财富与高贵。这种象形文字在法老的五重称号中扮演着重要角色，象征着他们统治的神圣权利。在旧王国时期，技艺高超的小矮人擅长精美的金属工艺，制作这些珍贵的项链来装饰贵族。项链的设计，其流动的两端和珍珠吊坠，象征了黄金在埃及文化中的流光溢彩。",
+      "country": "Egypt 埃及",
+      "emoji": "💰",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "gold",
+        "hieroglyphs",
+        "royalty"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Gold_(hieroglyph)"
+    },
+    {
+      "title_en": "Ancient Egyptian Conception of the Soul",
+      "title_zh": "古埃及灵魂观念",
+      "summary_en": "In ancient Egypt, the soul was a complex and multifaceted entity comprising various parts such as ka and ba. The ka, or life force, was believed to be present at birth and reside in the heart, while the ba was the personality that could travel between worlds after death. Egyptians also recognized other aspects like akh, which represented the transformed self in the afterlife. These souls were integral to a person's identity, with each part playing a unique role in their journey beyond life.",
+      "summary_zh": "古埃及人认为灵魂由多个部分组成，如卡和巴。卡是生命之源，在出生时存在并在心脏中驻留；而巴则是个性，可以在死后穿越世界。此外还认知道其他方面，如阿赫，代表死后的自我转化。这些灵魂对于个人的身份至关重要，每个部分都在其超越生命的旅程中扮演着独特角色。",
+      "country": "Egypt 埃及",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "soul",
+        "afterlife",
+        "ka",
+        "ba"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ancient_Egyptian_conception_of_the_soul"
+    },
+    {
+      "title_en": "Shen Ring",
+      "title_zh": "神环",
+      "summary_en": "The shen ring was an ancient Egyptian symbol of eternal protection and encirclement, often seen in the hands of Horus, the god of sky and protector. It was a circle with a line tangent to it, used by builders as a tool for measurement and design. The word 'shen' means 'encircling,' and the ring itself represented unending safety and divine favor. In hieroglyphs, it was sign V9, and when elongated, it encircled names of pharaohs or deities, ensuring their eternal protection.",
+      "summary_zh": "神环是古埃及时期象征永恒保护和包容的符号，常由天空之神荷鲁斯手持。它是一个圆圈加一条切线组成的工具，用于测量和设计。‘神’这个词的意思是‘环绕’，而这个环则代表了无尽的安全与神圣庇护。在象形文字中它是第9号符号，在延长后会围绕法老或神祇的名字，以确保他们的永恒保护。",
+      "country": "Egypt 埃及",
+      "emoji": "🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "symbol",
+        "protection"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Shen_ring"
+    },
+    {
+      "title_en": "Solar Barque",
+      "title_zh": "太阳舟",
+      "summary_en": "In ancient Egyptian mythology, Ra, the sun god, traveled across the sky each day in his solar barque, the Mandjet. By nightfall, he would board the Mesektet to traverse the underworld. These vessels were believed to protect Ra from the malevolent forces that threatened him during his nightly journey.",
+      "summary_zh": "在古埃及神话中，太阳神拉每天乘着名为曼杰特的太阳舟穿越天空。夜幕降临后，他就会登上MESEKETT号，在冥界航行，以避开威胁他的邪恶力量。",
+      "country": "Egypt 埃及",
+      "emoji": "☀️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "sun god",
+        "underworld"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Solar_barque"
+    },
+    {
+      "title_en": "Spell of the Twelve Caves",
+      "title_zh": "十二洞穴咒语",
+      "summary_en": "In ancient Egypt, the Spell of the Twelve Caves was a funerary text used in the New Kingdom to guide the soul through the underworld. The Duat, divided into twelve caves, mirrored the passage of time and was filled with deities who bestowed blessings upon the deceased. Each cave held its own unique group of gods, ensuring that the soul could navigate safely through this perilous realm. This spell was inscribed on papyri and in tombs like KV35, serving as a protective charm for the afterlife journey.",
+      "summary_zh": "在古埃及，十二洞穴咒语是一种用于新王国时期的葬礼文本，指引亡灵穿越阴间。阴间被分为十二个洞穴，每个洞穴都有自己的时间象征，并且充满了赐福给死者的神祇。这些神祇确保了亡灵能够安全地通过这个危险的领域。这种咒语被刻在 KV35 等墓室的纸莎草纸上，作为通往来世的安全护身符。",
+      "country": "Egypt 埃及",
+      "emoji": "🙏",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "funerary",
+        "underworld"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Spell_of_the_Twelve_Caves"
+    },
+    {
+      "title_en": "Thinis",
+      "title_zh": "廷尼斯 (Thinis)",
+      "summary_en": "Thinis was once the capital city of pre-unification Upper Egypt, where Menes, later known as Narmer, united the land and became its first pharaoh. Although its exact location remains unknown, it is believed to be near Abydos or modern-day Girga. Despite losing its political significance after Memphis became the new capital, Thinis retained its religious importance due to its connection with a regional deity. In ancient Egyptian cosmology, Thinis held a mythical place in heaven, symbolizing spiritual and historical continuity.",
+      "summary_zh": "廷尼斯曾是上埃及统一前的首都，那里诞生了埃及的第一位法老梅内斯（后被称为纳尔默）。尽管其确切位置仍不为人知，但主流埃及学认为它位于阿比多斯附近或现代吉尔加。尽管随着孟菲斯成为新都而失去了政治重要性，廷尼斯因其与地方神祇的联系而保留了宗教上的重要性。在古埃及的宇宙观中，廷尼斯象征着精神和历史的连续性，在天上占据了一个神话之地。",
+      "country": "Egypt 埃及",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "unification",
+        "religion"
+      ],
+      "lat": 26.33333333,
+      "lng": 31.9,
+      "wiki_en": "https://en.wikipedia.org/wiki/Thinis"
+    },
+    {
+      "title_en": "Two Ladies",
+      "title_zh": "两位女士",
+      "summary_en": "In ancient Egypt, Wadjet and Nekhbet, two powerful goddesses representing Lower and Upper Egypt respectively, were revered as the 'Two Ladies.' After unification, they continued to protect the newly formed nation. Their combined image adorned the royal crowns, symbolizing their roles in establishing laws, safeguarding rulers, and ensuring peace across the land.",
+      "summary_zh": "在古埃及，瓦德杰特和涅赫贝特两位女神分别代表下埃及和上埃及，被视为‘两位女士’。统一后，她们继续保护这个新兴的国家。她们的形象合并出现在王冠之上，象征着她们在制定法律、守护君主以及维护全国和平方面的作用。",
+      "country": "Egypt 埃及",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "goddesses",
+        "unification"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Two_Ladies"
+    },
+    {
+      "title_en": "Tyet",
+      "title_zh": "伊西斯结带",
+      "summary_en": "The Tyet, an ancient Egyptian symbol associated with the goddess Isis, resembles a bow or knot. It was often worn as jewelry and used in funerary rituals to protect against evil. The Tyet symbolized life and vitality, mirroring the nurturing role of Isis in Egyptian mythology.",
+      "summary_zh": "伊西斯结带是与埃及女神伊西斯相关的古代埃及符号，形状似蝴蝶结或弓。它常被制成饰品佩戴，并用于葬礼仪式以保护人们免受邪恶侵害。伊西斯结带象征着生命和活力，反映了伊西斯在埃及神话中的养育角色。",
+      "country": "Egypt 埃及",
+      "emoji": "✨",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "funerary",
+        "symbol"
+      ],
+      "lat": 26.82,
+      "lng": 30.8,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tyet",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/提耶特"
+    }
+  ]
+}

@@ -1,0 +1,646 @@
+{
+  "meta": {
+    "region": "Celtic",
+    "count": 37,
+    "generated": "2026-04-11",
+    "note": "Scraped from Wikipedia, summarized with a local Qwen model via Ollama."
+  },
+  "stories": [
+    {
+      "title_en": "King Anguish of Ireland",
+      "title_zh": "爱尔兰国王安吉斯",
+      "summary_en": "In the tales of King Arthur, King Anguish of Ireland is a formidable foe initially opposing Arthur's rise to power. After his defeat, he acknowledges Arthur’s supremacy but later finds himself at odds with King Mark of Cornwall over unpaid vassalage. Anguish sends Sir Marhaus to demand payment from Mark, setting the stage for further conflict and adventure.",
+      "summary_zh": "在亚瑟王的故事中，爱尔兰国王安吉斯起初是亚瑟的敌人。在被亚瑟击败后，他承认了亚瑟的统治地位，但后来因康沃尔国王马克拒绝支付七年军饷而卷入冲突。安吉斯派遣马豪斯爵士向马克索要欠款，从而引发了一系列冒险和争斗。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "kingdoms",
+        "conflict",
+        "medieval"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Anguish_of_Ireland"
+    },
+    {
+      "title_en": "Baíscne",
+      "title_zh": "巴伊斯尼",
+      "summary_en": "In the Fenian Cycle, Baíscne were a powerful clan who followed the legendary hero Fionn mac Cumhail. Their fierce rivalry with the clan Morna defined their identity and often led to conflict. The name Baíscne symbolized strength and loyalty in Irish mythology, reflecting the valor of those who stood by Fionn in his quests.",
+      "summary_zh": "在芬尼 cycle 中，巴伊斯尼是追随传奇英雄芬恩·麦克库尔的强大力量。他们与克兰莫纳的激烈竞争定义了他们的身份，并经常导致冲突。巴伊斯尼的名字象征着力量和忠诚，在爱尔兰神话中反映了那些支持芬恩的人的价值。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "🌳",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "clan",
+        "heroic"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Baíscne"
+    },
+    {
+      "title_en": "Bedivere",
+      "title_zh": "贝德维尔",
+      "summary_en": "In the tales of King Arthur, Bedivere is a loyal knight who serves as Arthur’s marshal and friend. After the final battle where Arthur is mortally wounded, he retrieves Excalibur from the dying king's hand but hesitates to throw it back into the lake. Eventually, he does return the sword to the Lady of the Lake, fulfilling his duty and ensuring that the legendary weapon returns to its rightful place. This act of loyalty and redemption cements Bedivere’s place in Arthurian legend.",
+      "summary_zh": "在亚瑟王的传说中，贝德维尔是亚瑟王的大臣和朋友。在最后一次战斗后，当亚瑟王重伤濒死时，他从国王手中接过圣剑，并犹豫着是否将它投回湖中。最终，他还是完成了这一任务，将宝剑交还给了湖中的女士。这一行为使贝德维尔成为了忠诚与救赎的象征。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "👑",
+      "type": "folklore",
+      "tags": [
+        "medieval",
+        "loyalty",
+        "king arthur",
+        "swords"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Bedivere",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/贝德维尔"
+    },
+    {
+      "title_en": "Brath",
+      "title_zh": "布拉特",
+      "summary_en": "In the ancient Irish mythology, Brath was a legendary figure who played a crucial role in the genealogical history of Ireland. He was the son of Deag and the father of Breogán, from whom the people of Iberia claimed descent. Legends suggest that Brath led an expedition to conquer parts of Iberia, where he met his demise. His story is shrouded in mystery, but his legacy lived on through his descendants.",
+      "summary_zh": "布拉特是爱尔兰神话中一位传奇人物，他在爱尔兰的世系历史中占据着重要地位。他是德亚格的儿子，并且是布雷奥GAN的父亲，后者被认为是伊比利亚人民的祖先。传说中，布拉特率领一支军队征服了伊比利亚的部分地区，在那里他最终丧命。尽管关于他的生平知之甚少，但他的后裔将他的事迹传承了下来。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "📜",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "genealogy"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Brath_(mythology)"
+    },
+    {
+      "title_en": "Breton Mythology",
+      "title_zh": "布列塔尼神话",
+      "summary_en": "In the lush forests and misty moors of Brittany, the ancient Celtic gods and spirits lived alongside humans. The Ankou, a grim reaper with a cart drawn by two white horses, roamed the fields, leading the souls of the dead to their final resting place in the otherworldly city of Ys. Korrigan, fairies known for their beauty and mischief, danced under moonlight, while Cannard Noz, the evil spirit of winter, brought cold and famine. These myths blended with Christian saints like March Malaen, who protected travelers from harm. The tales of Breton mythology are a rich tapestry of nature, death, and magic.",
+      "summary_zh": "在布列塔尼的森林和雾气弥漫的原野上，古老的凯尔特神灵与人类共存。安库作为 grim reaper 的角色，在田野间驾驶着由两匹白马牵引的马车，引领亡魂前往另一个世界的城市尤斯。科里干是美丽的精灵，喜欢在月光下跳舞；而坎纳德·诺兹则是带来寒冷和饥荒的恶灵冬天之神。这些神话与基督教圣徒如玛尔拉恩融合在一起，他保护着行人的安全。布列塔尼神话是一幅自然、死亡和魔法交织而成的丰富图景。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "🌳",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "nature",
+        "death",
+        "fairy"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Breton_mythology"
+    },
+    {
+      "title_en": "Brittia",
+      "title_zh": "布蒂亚岛",
+      "summary_en": "According to Procopius, Brittia was a mythical island located near the North Sea coast, between modern-day Britain and Thule. It was said to be inhabited by three nations: Angiloi (Angles), Phrissones (Frisians), and Brittones (Britons). The island was known for its fertile lands and a mysterious wall. Procopius described it as an island of the blessed, where souls were transported after death. Some scholars suggest that Brittia may be based on historical accounts or local traditions about burial practices and the afterlife.",
+      "summary_zh": "据普罗科皮乌斯所述，布蒂亚岛位于北海沿岸，靠近现代英国和图勒之间。据说岛上居住着三个民族：安吉洛伊（盎格鲁人）、弗里斯松（弗里西亚人）和布提诺斯（不列颠人）。该岛以肥沃的土地和一座神秘的城墙而闻名。普罗科皮乌斯描述它为一个亡者乐园，灵魂死后会被送往那里。一些学者认为布蒂亚可能基于关于埋葬习俗和来世传说的历史记载或地方传统。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "-initialized:",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "island of the blessed"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Brittia"
+    },
+    {
+      "title_en": "Broichan",
+      "title_zh": "布罗伊罕",
+      "summary_en": "In the 6th century, Broichan was a wizard who served King Bridei I of Pictland. Adomnán of Iona recounted tales of Broichan's magical prowess and his interactions with St. Columba during the latter’s travels through Pictish lands. Together, they engaged in contests of magic, often testing each other's abilities to bless or curse. These stories highlight the intertwining of religious and supernatural elements in early Irish folklore.",
+      "summary_zh": "布罗伊罕是公元6世纪时皮克特王国国王布里迪一世的巫师。阿登南·奥伊诺讲述了布罗伊罕与圣哥伦巴在皮克特地区旅行期间的故事，两人经常进行魔法较量，互相施加祝福或诅咒。这些故事反映了早期爱尔兰民间传说中宗教和超自然元素交织的特点。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "🧙‍♂️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "medieval"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Broichan"
+    },
+    {
+      "title_en": "Bullaun",
+      "title_zh": "bullán 石臼",
+      "summary_en": "In Irish folklore, bullauns are bowl-shaped depressions carved into stones, often found near early churches and believed to have healing properties. Rainwater collected in these hollows was thought to cure ailments. One famous example is associated with St Aid of Killare, where a stone bore a hole from his birthmark that became a sacred site. Bullauns are not unique to Ireland; they can be found across Europe, including Sweden and France. These ancient structures, possibly formed by natural erosion or deliberately carved, hold significant cultural and religious importance in various regions.",
+      "summary_zh": "爱尔兰民间传说中的bullán是刻有碗状凹槽的石头，常位于早期教堂附近，并被认为具有治疗功效。收集在这些凹槽中雨水据说可以治愈疾病。其中一个著名的例子与凯拉的圣艾德有关，在他出生时头部撞到的一块石头上有一个洞，后来成为圣地。bullán不仅限于爱尔兰，在瑞典、法国等地也有发现。这些古代结构可能是自然侵蚀或有意雕刻而成，对各个地区都具有重要的文化和宗教意义。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "healing",
+        "stone",
+        "ritual"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Bullaun"
+    },
+    {
+      "title_en": "Celtic Calendar",
+      "title_zh": "凯尔特历法",
+      "summary_en": "The ancient Celts used complex calendars to organize their lives, with each day, week, month, and season marked by sacred festivals. The Coligny calendar, discovered in France, is a testament to their sophisticated timekeeping methods, dividing the year into twelve months of varying lengths and celebrating key events like Samhain, marking the end of summer and beginning of winter.",
+      "summary_zh": "凯尔特人使用复杂的历法来安排生活，将每一天、每一周、每一个月和每一个季节都标记为神圣的节日。法国发现的科利尼日历是他们精密时间计量方法的一个证明，将一年分为十二个月份，并庆祝诸如万灵节这样的重要事件，标志着夏天结束和冬天开始。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "📅",
+      "type": "folklore",
+      "tags": [
+        "ancient"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Celtic_calendar"
+    },
+    {
+      "title_en": "Celtic mythology",
+      "title_zh": "凯尔特神话",
+      "summary_en": "Celtic mythology encompasses the rich tapestry of myths and legends from the ancient Celtic peoples, particularly those who inhabited Ireland and Britain. The Tuatha Dé Danann, a supernatural race believed to represent their main gods, play central roles in these stories. Figures like Lugh, the master of many arts, and Goibniu, the skilled smith, mirror their continental counterparts. These myths often feature the sovereignty goddess, who symbolizes the land's power to grant kingship through marriage. The Otherworld, a parallel realm of magic and mystery, is also a recurring theme, where heroes like Cú Chulainn venture to seek adventure or wisdom.",
+      "summary_zh": "凯尔特神话是古代凯尔特人，尤其是爱尔兰和不列颠地区的神话。传说中的提陶达丹纳族被认为是他们的主要神祇的化身。如卢格（Lugh），精通各种技艺；以及奥比努（Goibniu），技艺高超的铁匠等角色，都与大陆上的对应人物相呼应。这些故事中经常出现主权女神的形象，她象征着土地赋予君主权力的能力，通常通过婚姻来实现。另一个常见的主题是平行世界的异界之地，英雄们如库丘林（Cú Chulainn）会前往那里寻求冒险或智慧。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "-initialized:",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Celtic_mythology"
+    },
+    {
+      "title_en": "Celtic Sacred Trees",
+      "title_zh": "凯尔特圣树",
+      "summary_en": "In Celtic lands, trees hold a sacred place in both folklore and daily life. The elder tree is particularly revered on the Isle of Man, where it is known as the 'fairy tree.' In medieval Wales, the poem Cad Goddeu (The Battle of Trees) celebrates the virtues of various trees, each associated with different gods and spirits. These beliefs reflect a deep connection between humans and nature, honoring the mystical presence in every branch and leaf.",
+      "summary_zh": "在凯尔特人的土地上，树木不仅是神话传说中的重要元素，也是日常生活的一部分。曼岛上的老人树被称为‘精灵之树’。威尔士的中世纪诗歌《Cad Goddeu》歌颂了各种树木的美德，每种树木都与不同的神灵和精灵相关联。这些信仰反映了人类与自然之间深厚的关系，认为每一枝叶都蕴含着神秘的力量。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "🌳",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "medieval"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Celtic_sacred_trees"
+    },
+    {
+      "title_en": "Cingris",
+      "title_zh": "辛克里士",
+      "summary_en": "In Irish mythology, Cingris was a Pharaoh who ruled in ancient Egypt before leading his people to Ireland. He was the father of Scota, whose descendants would later found the Scottish royal house and bring their legendary tales to the Emerald Isle. The story of Cingris is part of the Lebor Gabála Érenn, an epic tale that intertwines Irish and Egyptian history.",
+      "summary_zh": "辛克里士是爱尔兰神话中的埃及法老，他在古代统治埃及后带领人民迁徙至爱尔兰。他是斯科塔的父亲，斯科塔的后代后来建立了苏格兰王室，并将他们的传奇故事带到了绿色岛。辛克里士的故事出自《莱博·加巴拉·埃伦》，它将爱尔兰和埃及的历史交织在一起。",
+      "country": "Ireland 爱尔兰",
+      "emoji": ".','",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology",
+        "migration",
+        "royalty"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cingris"
+    },
+    {
+      "title_en": "Clootie Well",
+      "title_zh": "布条井",
+      "summary_en": "In Ireland and Celtic regions, clootie wells are sacred springs where people leave small strips of cloth tied to trees as part of a healing ritual. These wells are believed to have originated from ancient customs of offering votive items in water. As pilgrims visit these sites, they tie their cloots (small pieces of cloth) to the branches, seeking blessings and cures for ailments. The well's waters are thought to possess magical properties that can heal the body and soul.",
+      "summary_zh": "在爱尔兰和凯尔特地区，布条井是人们将小块布条系在树上的神圣泉水。这些井被认为起源于古代向水中献祭的习俗。当朝圣者访问这些地方时，他们会将自己的布条系在树枝上，祈求治愈疾病和心灵的祝福。井中的水据说具有神奇的力量，可以治愈身体和灵魂。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "💧",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "ritual",
+        "healing",
+        "pilgrimage"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Clootie_well"
+    },
+    {
+      "title_en": "Cornish Mythology",
+      "title_zh": "康沃尔神话",
+      "summary_en": "In the rugged landscapes of Cornwall, tales of giants, mermaids, and mischievous piskies have long captivated the imagination. One such legend tells of Jack, a brave youth who defeats a giant with cleverness rather than brute force, embodying the spirit of Cornish folklore. These stories, passed down through generations, continue to inspire modern storytellers and authors, finding their way into children's books and popular culture. The myths also intertwine with Arthurian legends, placing King Arthur’s birthplace at Tintagel Castle and linking Cornwall to tales of Tristan and Iseult, making the region a rich tapestry of ancient and enduring lore.",
+      "summary_zh": "康沃尔的崎岖土地上，巨人、美人鱼和淘气的小精灵的故事长久以来激发着人们的想象力。其中有一个传说讲述了一个名叫杰克的年轻人如何用智慧击败了一位巨人的故事，体现了康沃尔民间传说的精神。这些故事代代相传，继续激励着现代讲故事者和作家，被编入儿童书籍和流行文化中。这些神话还与亚瑟王传奇交织在一起，将亚瑟王的诞生地置于廷塔格尔城堡，并将其与特里斯坦和伊索尔德的爱情故事联系起来，使康沃尔成为一个古老而持久的故事的丰富织锦。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "medieval",
+        "mythology"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cornish_mythology"
+    },
+    {
+      "title_en": "Daolghas",
+      "title_zh": "达奥拉斯",
+      "summary_en": "In the Irish myth, Daolghas was a warrior of the Fianna, a legendary band of Irish warriors. One fateful night, as he lay dying on his bed, he kissed his daughter, who was unaware of his condition. Miraculously, she became pregnant and gave birth to a son named Oisín. This tale speaks of the supernatural and the blurred lines between life and death in ancient Irish folklore.",
+      "summary_zh": "在爱尔兰神话中，达奥拉斯是芬尼亚人的一员，芬尼亚人是一支传说中的爱尔兰勇士。一天夜晚，当他病危躺在床榻上时，他亲吻了自己的女儿，而她对此毫不知情。奇迹般地，她怀孕了，并生下了儿子奥西恩。这个故事讲述了古代爱尔兰民间传说中关于超自然力量和生死界限模糊的主题。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "supernatural",
+        "mythology",
+        "Fianna"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Daolghas"
+    },
+    {
+      "title_en": "Echtra Cormaic",
+      "title_zh": "科尔马克的奇遇记",
+      "summary_en": "High King Cormac mac Airt embarked on a quest to the Land of Promise, ruled by the sea god Manannán mac Lir. Guided by a mysterious woman, he encountered magical creatures and solved riddles to gain wisdom and treasures. Upon returning home, his kingdom flourished under his enlightened rule.",
+      "summary_zh": "高王科尔马克·麦尔特前往海洋之神曼南nan·麦克利尔统治的许愿之地。在一位神秘女子的引导下，他遇到了神奇生物并解答了谜题，获得了智慧和财宝。返回后，他的王国在他的明君治理下繁荣昌盛。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "🌊",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "irish mythology"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Echtra_Cormaic"
+    },
+    {
+      "title_en": "Emain Ablach",
+      "title_zh": "伊梅恩·阿布拉赫",
+      "summary_en": "In the mystical realm of Emain Ablach, a paradise island ruled by the sea god Manannán Mac Lir, swans and yews thrived. According to ancient Irish lore, this enchanting isle was where the mighty warrior god Lug Lamfada was raised. Legends speak of its lush gardens and magical allure, making it a place of both wonder and mystery in the rich tapestry of Celtic mythology.",
+      "summary_zh": "伊梅恩·阿布拉赫是海神曼南·麦尔利统治的神秘乐园，岛上繁花似锦，栖息着天鹅和榆树。根据古老的爱尔兰传说，在这里长大的勇士之神卢格·兰法达是一位英勇战士。这个充满奇迹的地方以其茂密的花园和魔幻的魅力而闻名，在凯尔特神话中占据重要地位。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "🌍✨",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "island paradise",
+        "sea god",
+        "Celtic mythology"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Emain_Ablach"
+    },
+    {
+      "title_en": "Glashtyn",
+      "title_zh": "格拉斯廷",
+      "summary_en": "In Irish folklore, the glashtyn is a mischievous water spirit that roams the Manx countryside. It can take many forms—most commonly as a horse or bull—but often appears to women in an attractive human guise. One tale tells of a woman who outwits the glashtyn by cutting off her skirt, causing it to flee. In another version, a cockerel's crowing betrays the creature's true form, revealing its horse-like ears and allowing for escape.",
+      "summary_zh": "爱尔兰民间传说中的格拉斯廷是一种水生妖精，它可以在马或公牛等形态中变化，并常以英俊的人类形象出现。有一个故事讲的是一个女子通过剪掉裙子的下摆来摆脱格拉斯廷，让它仓皇而逃；而在另一个版本的故事里，雄鸡的啼叫揭示了它的真身——长着马耳朵，从而帮助人们逃脱。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "🌊",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythical creature",
+        "water spirit",
+        "horse"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Glashtyn"
+    },
+    {
+      "title_en": "Gormshuil Mhòr na Maighe",
+      "title_zh": "戈尔姆希尤尔·莫拉·纳·梅伊吉",
+      "summary_en": "In the rugged Highlands of Scotland, Gormshuil Mhòr na Maighe was a formidable figure in the 16th century. Known for her witchcraft and power, she was said to have a profound influence over the local clans, especially Ewen Mor Cameron of Lochiel, the 13th chief of Clan Cameron. One of the most legendary tales involves Gormshuil's supposed curse or magic that led to the mysterious sinking of a Spanish Armada galleon off the Isle of Mull. Her legacy endures as a symbol of both fear and respect in the region.",
+      "summary_zh": "在苏格兰的高地，戈尔姆希尤尔·莫拉·纳·梅伊吉是一位16世纪的强大人物。她以巫术和权力著称，在当地部落中拥有极大的影响力，尤其是对克伦威尔家族第13代族长欧文·摩尔·科莱姆。最著名的传说讲述了戈尔姆希尤尔施加的诅咒或魔法导致西班牙无敌舰队的一艘战舰在穆尔岛附近神秘沉没的故事。她的遗产至今仍被视为恐惧和尊重的象征。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "🧙‍♀️",
+      "type": "folklore",
+      "tags": [
+        "medieval",
+        "witchcraft",
+        "legendary figure",
+        "clan"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Gormshuil_Mhòr_na_Maighe"
+    },
+    {
+      "title_en": "Hebridean Myths and Legends",
+      "title_zh": "赫布里底群岛的神话与传说",
+      "summary_en": "The Hebridean Islands off the western coast of Scotland are home to a rich tapestry of myths and legends. These stories often revolve around the sea, which is central to life on these isolated islands. One popular tale tells of the selkies, seal-skin clad creatures who can shed their skins and walk among humans. Another legend speaks of the mysterious Kelpie, a water spirit that lures unsuspecting sailors to their doom in the treacherous waters surrounding the Hebrides.",
+      "summary_zh": "苏格兰西海岸外的赫布里底群岛是神话与传说的宝库。这些故事通常围绕着大海展开，因为大海对岛上居民的生活至关重要。其中一则广为流传的故事讲述了能脱下海豹皮行走于人间的赛尔基（Selkie）。另一则神秘的传说则是关于水精灵凯普伊（Kelpie），它会引诱不设防的水手在赫布里底群岛周围的险恶海域中丧生。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "🌊",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "seas",
+        "islands"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Hebridean_mythology_and_folklore"
+    },
+    {
+      "title_en": "Irish Mythology",
+      "title_zh": "爱尔兰神话",
+      "summary_en": "Irish mythology is a rich tapestry of tales from the prehistoric era, preserved through oral tradition until early medieval times when Christian scribes recorded them. The myths revolve around the Tuatha Dé Danann, a race of god-like beings, and other mythical figures like the Fomorians. Notable works include the 'Book of Invasions' detailing legendary Irish history, and the epic 'Cattle Raid of Cooley'. These stories, grouped into cycles such as the Mythological Cycle, Ulster Cycle, and Fenian Cycle, offer a glimpse into ancient Celtic beliefs and legends.",
+      "summary_zh": "爱尔兰神话是源自史前时代的丰富故事，通过口头传承保存到早期中世纪时期，由基督教抄写员记录下来。这些传说围绕着提坦德丹南族（Tuatha Dé Danann），一个神灵般的种族，以及如福米奥尼等其他神话人物展开。著名的著作包括《入侵之书》，讲述了爱尔兰的传奇历史，以及史诗《库尔利的牛群劫掠》。这些故事被分为神话周期、奥斯特拉周期和芬内周期等系列，为人们提供了对古代凯尔特信仰和传说的一瞥。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "epic",
+        "folklore",
+        "legend"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Irish_mythology",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/愛爾蘭神話"
+    },
+    {
+      "title_en": "Les Lavandières",
+      "title_zh": "午夜洗衣女巫",
+      "summary_en": "In Celtic mythology, Les Lavandières are three old washerwomen who appear at midnight by the river to wash shrouds for those about to die. Dressed in green and with webbed feet, they symbolize the triple goddess of death and slaughter. Their haunting presence is a warning of impending doom, as their task is to cleanse the bloodstained clothing of the soon-to-be-departed souls.",
+      "summary_zh": "在凯尔特神话中，午夜洗衣女巫是三位老妇人，在午夜时分出现在河边洗涤即将离世者的殓衣。她们身着绿色长袍，脚上有蹼，象征死亡与杀戮的三女神。她们的存在令人毛骨悚然，因为她们的任务是洗涤那些即将逝去的灵魂沾满血迹的衣服。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "🌙🧼🌸",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "death",
+        "goddess",
+        "Celtic"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Les_Lavandières"
+    },
+    {
+      "title_en": "Loathly Lady",
+      "title_zh": "丑女",
+      "summary_en": "In the tale of the Loathly Lady, a beautiful woman curses her own daughter to appear hideous and unlovable as punishment for her pride. The young lady endures years of loneliness until a kind knight takes pity on her and marries her despite her appearance. Upon their marriage, she transforms into a stunning beauty, breaking the curse and revealing her true nature. This story teaches that inner beauty is more important than outward appearances.",
+      "summary_zh": "丑女的故事中，一位美丽的母亲因女儿骄傲而诅咒她变成一个丑陋不堪的女子。这位少女忍受了多年的孤独，直到一位仁慈的骑士怜悯她并与之结婚。尽管她的外貌丑陋，但婚后她变成了一个绝世佳人，解除了诅咒并展示了真正的美丽。这个故事告诉我们内在美比外表更重要。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "🌹",
+      "type": "legend",
+      "tags": [
+        "medieval",
+        "transformations",
+        "curses",
+        "beauty"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Loathly_lady"
+    },
+    {
+      "title_en": "Loucetios",
+      "title_zh": "卢塞提奥斯",
+      "summary_en": "In the Rhine-Moselle region of ancient Gaul, Loucetios, a god associated with lightning and war, was worshipped alongside Nemetona. He was identified with Mars by Roman settlers, reflecting the syncretism between Gallic and Roman religious practices. Offerings to Loucetios were believed to protect warriors in battle, invoking his power of swift and fierce strikes like thunderbolts.",
+      "summary_zh": "在古高卢的莱茵-摩泽尔地区，卢塞提奥斯是一位与闪电和战争相关的神祇。他被罗马定居者与战神马尔斯相联系。卢塞提奥斯与女神内梅托娜一同受到崇拜，反映了高卢和罗马宗教实践之间的融合。人们相信向卢塞提奥斯献祭可以保护战士在战斗中免受伤害，祈求他如雷电般迅速而猛烈的力量。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "⚡️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "war",
+        "lightning"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Loucetios"
+    },
+    {
+      "title_en": "Maine mac Darthacht",
+      "title_zh": "麦恩·达尔塔克特",
+      "summary_en": "In Celtic mythology, Maine mac Darthacht was a son of Perdition and the owner of an enchanted cloak fastened by eight stones called Maini. This cloak eventually fell into the lap of his brother Fergus Fairge, the Ocean god and father of Lugaid, who later slew Cuchulainn, the sun-god, after weakening his thigh during battle. The story reflects the complex relationships between gods and their domains in Irish mythology.",
+      "summary_zh": "在凯尔特神话中，麦恩·达尔塔克特是珀迪森之子，并拥有一个由八块石头固定的魔毯——名为麦尼。这块魔毯最终落在了他的兄弟费格斯·法尔吉的膝上，后者是海洋之神、卢加德的父亲，在一次战斗中削弱了库丘林的左大腿后，杀死了太阳之神库丘林。这个故事反映了爱尔兰神话中诸神及其领域之间的复杂关系。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "☀️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "gods",
+        "solar",
+        "brotherhood"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Maine_mac_Darthacht"
+    },
+    {
+      "title_en": "Niskus",
+      "title_zh": "尼斯库斯",
+      "summary_en": "In ancient Britain, Muconius, a man who had lost his gold and silver coins, invoked the river god Niskus and Lord Neptune in a curse tablet. He named the thief, whether male or female, boy or girl, asking for their life, health, and blood to be taken away as retribution. The tablet, found near Southampton around 350-400 AD, reflects the local worship of river deities intertwined with Roman religious practices.",
+      "summary_zh": "古不列颠时期，穆康努斯丢失了他的金币和银币后，在一块诅咒铅板上祈求河神尼斯库斯和海神波塞冬的庇护。他指出了窃贼的身份，无论男女、少年或少女，并请求他们的生命、健康以及血液被带走作为报复。这块约在350-400年左右发现于萨默塞特郡的铅板反映了当地对河神的崇拜与罗马宗教实践的融合。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "💧",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "curse",
+        "river deity"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Niskus"
+    },
+    {
+      "title_en": "Ossian",
+      "title_zh": "奥西安",
+      "summary_en": "Ossian is the legendary bard and narrator of epic poems published by Scottish poet James Macpherson. Based on Oisín, son of Fionn mac Cumhaill from Irish mythology, these works were initially claimed to be translations of ancient Gaelic material. Despite initial skepticism about their authenticity, they became internationally popular, influencing the Romantic movement and the Gaelic revival. Macpherson's skill as a poet ensured the enduring popularity of Ossian’s tales, which continue to captivate audiences worldwide.",
+      "summary_zh": "奥西安是苏格兰诗人詹姆斯·麦克菲森所出版的史诗诗歌中的传说吟游诗人和叙述者。这些作品最初声称是古代盖尔语材料的翻译，基于爱尔兰神话中芬恩·麦库尔之子奥西安的故事。尽管对其真实性存在争议，但它们仍广受欢迎，影响了浪漫主义运动和盖尔语复兴。麦克菲森作为诗人的才华确保了奥西安故事的持久魅力。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "classical",
+        "medieval",
+        "folklore"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ossian"
+    },
+    {
+      "title_en": "Paps of Anu",
+      "title_zh": "安纳的乳房山",
+      "summary_en": "The Paps of Anu are a pair of breast-shaped mountains in County Kerry, Ireland, named after the ancient mother goddess Anu. These sacred peaks, with their prehistoric cairns and processional route, were believed to be used for rituals by the ancients. The eastern summit, The Paps East, stands at 694 meters, while the western top, The Paps West, is slightly lower at 690 meters. A stream divides the mountains, with one half flowing into Lough Nageeha and the other into the Clydagh River. Today, these mountains are also a site for charity walks during winter solstice celebrations.",
+      "summary_zh": "爱尔兰基里郡的安纳的乳房山是一对形似乳房的山脉，得名于古代的母亲女神安纳。这些神圣的山顶建有史前石堆和行进路线，被认为是古人举行仪式的地方。东峰《Paps East》高694米，西峰《Paps West》稍低至690米。一条溪流将这两座山分开，一半流入奈吉湖，另一半汇入克莱达河。今天，这些山脉也是冬至慈善徒步活动的举办地。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "♀️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "landmarks",
+        "rituals"
+      ],
+      "lat": 52.01527778,
+      "lng": -9.26916667,
+      "wiki_en": "https://en.wikipedia.org/wiki/Paps_of_Anu"
+    },
+    {
+      "title_en": "Pyrene",
+      "title_zh": "皮瑞尼 (Pyrene)",
+      "summary_en": "In Greek and Roman mythology, Pyrene was an Iberian princess who fell in love with Heracles during his Twelve Labours. As the story goes, Heracles, while visiting her kingdom, became smitten with the beautiful Pyrene. However, their romance was doomed; when Heracles failed to return home as promised, Pyrene's father accused him of abduction and had her killed out of jealousy. The gods honored Pyrene by naming a mountain range after her, the Pyrenees, a reminder of her tragic fate.",
+      "summary_zh": "在希腊和罗马神话中，皮瑞尼是伊比利亚的一位公主，在赫拉克勒斯完成十二项艰巨任务期间爱上了他。据说，当赫拉克勒斯访问她的王国时，对美丽的皮瑞尼一见钟情。然而，他们的爱情注定悲惨；当赫拉克勒斯未能如约返回家园时，皮瑞尼的父亲出于嫉妒指控他绑架，并将她杀害。诸神为了纪念她，以她的名字命名了一座山脉——比利牛斯山脉。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "-mountains:",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Pyrene_(daughter_of_Bebryx)"
+    },
+    {
+      "title_en": "Samhain",
+      "title_zh": "冬至节",
+      "summary_en": "Samhain was an ancient Gaelic festival marking the end of autumn and the beginning of winter, celebrated from sunset on October 31st to November 1st. It was a time for feasting, slaughtering livestock, and lighting bonfires believed to have protective powers. The boundary between this world and the Otherworld was seen as blurred during Samhain, allowing spirits to visit homes. People left food and drink outside for the aos sí (spirits), and costumes were worn to imitate or disguise oneself from these beings. Divination practices involving nuts and apples were also common. Over time, Christian festivals like All Saints' Day on November 1st and All Souls' Day on November 2nd influenced Samhain traditions, eventually leading to modern Halloween celebrations in Ireland and Scotland.",
+      "summary_zh": "冬至节是古代盖尔人的节日，标志着秋天的结束和冬天的到来。这个节日从10月31日的日落到11月1日举行。人们会举办盛宴、宰杀牲畜，并点燃篝火以保护自己。冬至时，此世界与彼世界的界限变得模糊，使精灵能够造访家中。人们会在门外放置食物和饮料供 aos sí（精灵）享用，而穿着服装则是为了模仿或伪装自己免受这些生物的侵扰。坚果和苹果等占卜活动也很常见。随着时间的推移，基督教节日如11月1日的万圣节和11月2日的万灵节影响了冬至节的传统，最终导致现代万圣节庆祝活动在爱尔兰和苏格兰盛行。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "🔥",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "irish"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Samhain"
+    },
+    {
+      "title_en": "Samson",
+      "title_zh": "萨门森岛",
+      "summary_en": "Samson is the largest uninhabited island in the Isles of Scilly, off the southwestern tip of Cornwall. Named after the biblical hero Samson, this small island features two hills connected by a narrow isthmus. The name evokes tales of strength and valor, though the island itself remains untouched by human habitation.",
+      "summary_zh": "萨门森岛是英吉利海峡中设利群岛最大的无人居住岛屿，位于康沃尔半岛西南端。该岛以《圣经》中的英雄撒母耳命名，由北山和南山两座小丘组成，通过狭窄的陆桥相连。尽管名字让人联想到力量与勇气的故事，但这座岛屿至今仍无人居住。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "-mountains:",
+      "type": "epic",
+      "tags": [
+        "ancient"
+      ],
+      "lat": 49.9332,
+      "lng": -6.3529,
+      "wiki_en": "https://en.wikipedia.org/wiki/Samson,_Isles_of_Scilly"
+    },
+    {
+      "title_en": "Silver Branch",
+      "title_zh": "银枝",
+      "summary_en": "In Irish mythology, the Silver Branch is a magical symbol that opens the door to the Otherworld of Tír na nÓg. In The Voyage of Bran and Cormac's Adventure in the Land of Promise, heroes must find this branch to enter the realm of eternal youth and joy. It is said to shimmer with silver light and grant passage only to those pure of heart.",
+      "summary_zh": "在爱尔兰神话中，银枝是通往蒂尔纳诺格的神奇象征。在《布拉恩之航海》和《科玛克的奇妙之旅》中，英雄们必须找到这根银枝才能进入永恒青春与欢乐的世界。据说它散发着银光，只向纯洁之人开放。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "🌳",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "otherworld",
+        "purity"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Silver_Branch"
+    },
+    {
+      "title_en": "Sovereignty Goddess",
+      "title_zh": "主权女神",
+      "summary_en": "In ancient Ireland, the Sovereignty Goddess personified the land's right to rule. When a king was chosen, he would be tested by the goddess through a ritual of marriage or sexual encounter. If successful, she granted him legitimacy and authority over the realm. This mythological figure often appeared in tales as a beautiful maiden who would seduce the king, ensuring his rule was sanctioned by the land itself.",
+      "summary_zh": "古代爱尔兰的主权女神象征着土地赋予统治权的权利。当国王被选定后，他必须通过与女神的婚姻或性行为仪式来接受考验。如果成功，她会授予他统治这片土地的合法性。在许多传说中，这位女神常以美丽的少女形象出现，并诱惑国王，确保他的统治得到了大地的认可。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "♀️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "sacred marriage",
+        "sovereignty"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Sovereignty_goddess"
+    },
+    {
+      "title_en": "Stray Sod",
+      "title_zh": "走错的泥块",
+      "summary_en": "In Irish folklore, a stray sod is a magical clump of grass that can disorient anyone who steps on it, making them lost even in familiar places. The enchantment can be broken by wearing clothes inside-out or carrying bread. This concept appears in modern fantasy literature and has been used metaphorically to describe sudden disorientation.",
+      "summary_zh": "爱尔兰民间传说中，走错的泥块是一种魔法草皮，踩上它的人会在熟悉的地方迷失方向。这种咒语可以通过将衣服反过来穿或携带面包来解除。这一概念出现在现代奇幻文学中，并被用来比喻突然的、不可解释的混乱。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "🍀",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "modern"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Stray_sod"
+    },
+    {
+      "title_en": "Threefold Death",
+      "title_zh": "三重死亡",
+      "summary_en": "In Irish mythology, the threefold death is a tragic fate that befalls kings and heroes. It involves dying in three simultaneous ways: hanging, wounding, and drowning. This fate often results from an offense against the three functions of society — divine, military, and civil. The gods foretell this grim destiny, ensuring that the individual meets their end through these three methods to balance cosmic justice.",
+      "summary_zh": "在爱尔兰神话中，三重死亡是国王和英雄们的悲剧命运。这种命运涉及三种同时发生的死亡方式：悬挂、刺伤和溺水。这种命运通常是因为对社会的三大功能——神灵、军事和民事——造成了不敬而引发的。诸神预言了这一悲惨的命运，确保他们通过这三种方法结束生命以实现宇宙正义。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "mourning_face",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "trifunctional",
+        "death"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Threefold_death"
+    },
+    {
+      "title_en": "Tongu do dia toinges mo thúath",
+      "title_zh": "神佑吾族之誓",
+      "summary_en": "In the ancient Irish sagas, warriors and chieftains would swear an oath by 'the god by whom my people swear,' a phrase that has been preserved in early literature. This oath was not just a formal declaration but carried deep cultural significance, possibly rooted in Celtic paganism or Christian scholarly invention. The exact deity behind the oath remains a subject of debate among scholars, with some linking it to Teutates and others suggesting it may have originated as a taboo deformation.",
+      "summary_zh": "在古代爱尔兰的英雄传说中，勇士和酋长们会宣誓效忠于‘神佑吾族’。这一誓言不仅仅是形式上的承诺，还承载着深厚的文化意义，可能源于凯尔特异教或学者们的基督教发明。关于誓言背后的神祇身份，学者们众说纷纭，有人将其与提图特斯联系起来，而另一些人则认为它可能是禁忌变形的结果。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "🙏",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology",
+        "oath",
+        "taboo"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tongu_do_dia_toinges_mo_thúath"
+    },
+    {
+      "title_en": "Tristan and Iseult",
+      "title_zh": "特里斯坦与伊索尔德",
+      "summary_en": "In a time of King Arthur, Tristan, a Cornish knight, was sent to escort the Irish princess Iseult to marry his uncle, King Mark. A love potion caused by a miscommunication led to an illicit and tragic romance between them. Despite marriage to another woman, Iseult of the White Hands, Tristan's heart remained with Iseult. Their forbidden love endured until their deaths from sorrow and unfulfilled desires, leaving behind a tale that has captivated Western culture for centuries.",
+      "summary_zh": "亚瑟王时代，特里斯坦受命护送爱尔兰公主伊索尔德前往康沃尔与国王马克成婚。因误服爱情药水，两人陷入了禁忌的爱恋之中。尽管特里斯坦娶了另一位女子白手伊索尔德为妻，但他的心始终属于伊索尔德。他们的爱情悲剧最终以悲伤和遗憾而告终。",
+      "country": "Ireland 爱尔兰",
+      "emoji": "💔",
+      "type": "legend",
+      "tags": [
+        "medieval",
+        "romance",
+        "tragedy",
+        "courtly love"
+      ],
+      "lat": 53.33,
+      "lng": -6.25,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tristan_and_Iseult"
+    }
+  ]
+}

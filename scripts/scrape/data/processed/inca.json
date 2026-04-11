@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "region": "Inca",
+    "count": 23,
+    "generated": "2026-04-11",
+    "note": "Scraped from Wikipedia, summarized with a local Qwen model via Ollama."
+  },
+  "stories": [
+    {
+      "title_en": "Amaru",
+      "title_zh": "阿马鲁",
+      "summary_en": "In the mythology of ancient Peru, the amaru is a mythical serpent or dragon that dwells in underground lakes and rivers, symbolizing infinity, knowledge, and cosmic renewal. This creature traverses worlds, connecting the earthly with the spiritual realm. The amaru's undulating form represents the interconnection between earth and sky, embodying dualistic forces of creation and destruction, life and death. Its scales are said to hold the stories of all beings, their lives, realities, and dreams.",
+      "summary_zh": "在古代秘鲁的神话中，阿马鲁是一种生活在地下湖泊和河流中的神秘巨蛇或龙。它象征着无限、知识和宇宙的更新。这种生物穿越世界，在物质世界与灵界之间建立联系。阿马鲁蜿蜒的身体代表了天地之间的相互联系，体现了创造与毁灭、生命与死亡的二元力量。据说它的鳞片上记载着所有生灵的故事、它们的生活、现实以及梦想。",
+      "country": "Peru 秘鲁",
+      "emoji": "🐍",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "serpent",
+        "cosmic serpent",
+        "underworld"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Amaru_(mythology)"
+    },
+    {
+      "title_en": "Ayar Cachi",
+      "title_zh": "阿亚尔·卡奇",
+      "summary_en": "In Inca mythology, Ayar Cachi and his siblings emerged from a cave at Paqariq Tampu to found the Inca civilization. Known for his immense strength and cruelty, he was feared by his own people who plotted against him. When Manco Capac sent Ayar Cachi back to retrieve lost items, Tampu-Chacay sealed the entrance with a rock, trapping Ayar Cachi inside. As revenge, Ayar Cachi turned Tampu-Chacay into stone but remained trapped himself.",
+      "summary_zh": "在印加神话中，阿亚尔·卡奇与其兄弟姐妹从帕卡里克·坦普乌洞穴中走出，共同建立了印加文明。他以力量强大和残忍著称，令其族人深感恐惧。曼科·卡帕克派阿亚尔·卡奇回去取回丢失的物品，而秘密受命的塔姆普查恰伊将入口用石头封住，将阿亚尔·卡奇困在了里面。作为报复，阿亚尔·卡奇将塔姆普查恰伊变成了石头，但自己仍被困在里面。",
+      "country": "Peru 秘鲁",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "inca",
+        "founder",
+        "cruelty"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ayar_Cachi"
+    },
+    {
+      "title_en": "Cantua buxifolia",
+      "title_zh": "坎图花",
+      "summary_en": "Cantua buxifolia, known as qantu in Quechua, is a vibrant pink flowering plant native to the high valleys of Peru and Bolivia. This evergreen shrub, growing up to 4 meters tall, thrives in sheltered conditions where temperatures do not drop below -5°C. It has become a symbol of national pride, serving as the national flower of Peru and one of two national flowers of Bolivia, alongside the patujú. The qantuta's brilliant blooms, which appear early spring, mirror the colors of the Bolivian flag, adding to its significance in Peruvian and Bolivian culture.",
+      "summary_zh": "坎图花（Quechua语称作qantu）是一种原产于秘鲁和玻利维亚高地的粉色开花植物。这种常绿灌木可长至4米高，需要在气温不低于-5°C的地方生长。它已成为国家象征，是秘鲁的国花之一，同时也是玻利维亚的两种国花之一（另一种为patujú）。坎图花早春绽放的鲜艳花朵与玻利维亚国旗的颜色相呼应，增添了其在两国文化中的重要性。",
+      "country": "Peru 秘鲁",
+      "emoji": "🌺",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "plant",
+        "national symbol",
+        "Andes"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cantua_buxifolia"
+    },
+    {
+      "title_en": "Chakana",
+      "title_zh": "卡卡那",
+      "summary_en": "The chakana, or stepped cross, is an ancient Andean symbol that spans over four millennia of cultural history. This intricate motif, found in textiles and ceramics from various pre-Inca societies like the Chavín and Tiwanaku, represents a bridge between worlds. The stepped cross design signifies the cardinal points of the compass, embodying the balance and harmony central to Andean cosmology.",
+      "summary_zh": "卡卡那，或阶梯十字架，是安第斯山脉一个古老的符号，其历史可追溯至四千年前。这种精巧的图案出现在从查文和提瓦纳库等前印加社会留下的纺织品和陶器中，象征着天地之间的桥梁。阶梯十字架设计代表了四个方位，体现了安第斯文化中平衡与和谐的核心理念。",
+      "country": "Peru 秘鲁",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "cross",
+        "bridge",
+        "cosmology"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Chakana"
+    },
+    {
+      "title_en": "Huaca",
+      "title_zh": "瓦卡",
+      "summary_en": "In ancient Peru, huacas were revered objects or monuments that held spiritual significance. These could be natural formations like large rocks or man-made structures. The Quechua people believed each huaca had two spirits: one to create and another to animate it. Rituals and offerings were made to these spirits to ensure the huaca's continued function, maintaining harmony between the physical world and the spirit realm.",
+      "summary_zh": "在古代秘鲁，瓦卡是被崇敬的物体或纪念碑，具有精神意义。它们可以是如大岩石这样的自然形成物，也可以是人造结构。奎查人相信每个瓦卡都有两个灵体：一个创造它，另一个赋予其生命。通过仪式和供品来召唤这些灵体，以确保瓦卡的功能得以维持，从而在物质世界与灵界之间保持和谐。",
+      "country": "Peru 秘鲁",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "ritual",
+        "spirituality"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Huaca"
+    },
+    {
+      "title_en": "Huarochirí Manuscript",
+      "title_zh": "胡拉奇里手稿",
+      "summary_en": "The Huarochirí Manuscript is an ancient Quechua text from the late 16th century, detailing myths and religious beliefs of the Quechua people in Huarochirí Province. Central to this manuscript are two rival mountain deities, Paryaqaqa and Wallallu Qarwinchu, who protect regional ethnic groups. This unique document offers insight into pre-Columbian Andean spirituality, serving as a spiritual guide for indigenous peoples of the former Inca Empire.",
+      "summary_zh": "胡拉奇里手稿是16世纪晚期用古典Quechua语撰写的文献，记录了胡拉奇里省Quechua人的神话和宗教观念。在这部手稿中，两个对立的山神Paryaqaqa与Wallallu Qarwinchu扮演着重要角色，他们保护着当地的族群。这部独特的文献为前印加帝国的原住民提供了精神指导，揭示了安第斯山脉古代的精神信仰。",
+      "country": "Peru 秘鲁",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology",
+        "Quechua",
+        "Andean"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Huarochirí_Manuscript"
+    },
+    {
+      "title_en": "Huiñao",
+      "title_zh": "辉诺阿神山",
+      "summary_en": "Huiñao, a revered mountain in Peru's Andes, stands tall at 3,645 meters above sea level. It is not just a geographical landmark but also an apu, a venerated deity among the local people. From its summit, one can enjoy breathtaking panoramic views of the Cotahuasi Canyon and surrounding peaks. The mountain is steeped in spiritual significance, serving as a site for offerings and prayers to ensure prosperity and protection.",
+      "summary_zh": "辉诺阿神山位于秘鲁安第斯山脉中，海拔3645米。它不仅是地理上的地标，也是当地人民崇敬的神灵——apu。从山顶可以俯瞰科塔胡西峡谷和周围的群峰，景色壮丽。这座山充满了精神意义，是人们祈求福祉与保护的重要场所。",
+      "country": "Peru 秘鲁",
+      "emoji": "🙏🏼🏔️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "Andean",
+        "mountain deity"
+      ],
+      "lat": -15.20575,
+      "lng": -72.87297222,
+      "wiki_en": "https://en.wikipedia.org/wiki/Huiñao"
+    },
+    {
+      "title_en": "Human Sacrifice",
+      "title_zh": "人祭",
+      "summary_en": "In the ancient Andean and Mesoamerican civilizations, human sacrifice was a grim ritual practice believed to appease gods and ensure prosperity. In Peru and other South American regions, children were often chosen as offerings, their lives ending in ceremonial pyres or buried alive beneath temple floors. The Aztecs of Mexico also practiced this gruesome tradition, sacrificing thousands each year in the temples of Tenochtitlan. These acts reflected a deep-seated belief that human blood was necessary to nourish the gods and maintain cosmic balance.",
+      "summary_zh": "在古代安第斯山脉和中美洲文明中，人祭是一种令人毛骨悚然的仪式实践，被认为是为了安抚神灵并确保繁荣而进行的。在秘鲁及其他南美洲地区，儿童常被选为祭品，在祭祀火堆中烧死或活埋于庙宇之下。墨西哥阿兹特克人的做法也与此类似，在特诺奇提特兰的神殿中每年都要献祭数千人。这些行为反映了人们深信人类鲜血是滋养诸神、维持宇宙平衡所必需的。",
+      "country": "Peru 秘鲁",
+      "emoji": "🙏🔥",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "sacrifice"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Human_sacrifice_in_pre-Columbian_cultures"
+    },
+    {
+      "title_en": "Inca Mythology",
+      "title_zh": "印加神话",
+      "summary_en": "Inca mythology centered on the creator deity Viracocha, who was believed to have created all things from the sea. One legend tells of Manco Cápac, the founder of the Inca Dynasty, as the son of Viracocha. Another tale recounts his emergence from Lake Titicaca by the sun god Inti. Animals played a significant role in both daily life and religious beliefs, symbolizing gods, guiding stars, and providing essential resources like food and transport.",
+      "summary_zh": "印加神话以创世神维拉科查为中心，他被认为是海中创造万物的神灵。传说曼科·卡帕克，印加王朝的创始人，是维拉科查之子。另一则故事讲述了他在蒂提卡卡湖中由太阳神伊奴普生出的故事。动物在日常生活中扮演着重要角色，在宗教信仰中也象征着诸神、引导星辰以及提供食物和交通工具。",
+      "country": "Peru 秘鲁",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "animals",
+        "creation",
+        "culture"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Inca_mythology"
+    },
+    {
+      "title_en": "Inkarri",
+      "title_zh": "印卡里",
+      "summary_en": "In the myth of Inkarri, the last ruler of the Inca people vowed revenge against the Spanish conquistadors who executed him. His body parts were buried in various locations across his kingdom: his head under Lima's Presidential Palace, arms at Cusco's Square of Tears, and legs in Ayacucho. Legend has it that one day, Inkarri will rise from the earth to reclaim his throne and restore balance with Pacha Mama, the earth goddess. This tale, passed down orally for generations, speaks of a future where harmony is restored.",
+      "summary_zh": "印卡里是印加帝国末代君主，他在西班牙征服者处决他后发誓报仇。他的遗体被埋在了多个地方：头颅藏于利马总统宫之下，双臂位于库斯科的‘泪广场’，双腿则埋在阿亚库乔。传说某一天，印卡里将从地下重生，夺回王位，并与大地女神帕查玛玛恢复和谐关系。这个故事代代相传，讲述了一个未来和谐得以实现的故事。",
+      "country": "Peru 秘鲁",
+      "emoji": "：<",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "legend",
+        "revenge",
+        "earth"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Inkarri"
+    },
+    {
+      "title_en": "Inti Raymi",
+      "title_zh": "印加太阳节",
+      "summary_en": "In the heart of ancient Peru, the Inti Raymi festival honored the sun god Inti, celebrated on June 24th at Cusco's main square. The Inca people believed that this day marked the winter solstice and the beginning of a new year, as daylight started to grow longer. Dressed in traditional finery, the Inca ruler would perform rituals to ensure the sun’s continued favor, while commoners offered sacrifices and prayers for bountiful crops and prosperity. Today, the festival continues as a vibrant cultural event, drawing thousands from across South America and beyond to witness its grandeur.",
+      "summary_zh": "在古代秘鲁的心脏地带，印加太阳节于每年6月24日在库斯科的主广场举行。这一天标志着冬至的到来和新一年的开始，随着白天逐渐变长。印加国王身着传统服饰进行仪式，祈求太阳神的庇佑，确保丰收与繁荣。普通百姓则献上祭品并祈祷。如今，这一节日继续作为一项充满活力的文化活动，吸引着来自南美各地乃至全世界的数千人前来见证其壮观景象。",
+      "country": "Peru 秘鲁",
+      "emoji": "☀️",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "ritual",
+        "solar",
+        "Inca"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Inti_Raymi"
+    },
+    {
+      "title_en": "Llamuqa",
+      "title_zh": "拉姆丘阿帕神山",
+      "summary_en": "In the Andes of Peru, Llamuqa stands as a revered mountain, sacred to the local people who worship it as an apu. This black stone peak, rich in iron and believed to possess curative powers, is more than just a geographical landmark; it's a source of spiritual strength and healing for those who seek its blessings.",
+      "summary_zh": "秘鲁安第斯山脉中的拉姆丘阿帕神山，是当地人民崇敬的圣地。这座黑色岩石构成的山顶富含铁矿，并被认为具有治愈功效。它不仅是地理上的标志，更是寻求精神力量和疗愈的人们的圣地。",
+      "country": "Peru 秘鲁",
+      "emoji": "-mountains:",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "myth"
+      ],
+      "lat": -15.08912222,
+      "lng": -72.83703056,
+      "wiki_en": "https://en.wikipedia.org/wiki/Llamuqa"
+    },
+    {
+      "title_en": "Mama Ocllo",
+      "title_zh": "玛玛乌库鲁",
+      "summary_en": "In Inca mythology, Mama Ocllo was a mother and fertility goddess, sister and wife to Manco Cápac. Sent by the sun god Inti to improve the lives of the Inca people, they journeyed together seeking the perfect spot for their new city. When they found it, marked by a golden rod sinking into the ground, Mama Ocllo taught women spinning, sewing, and household skills while Manco Cápac educated the men in construction and governance. Together, they established Cusco as the capital of the Inca civilization.",
+      "summary_zh": "在印加神话中，玛玛乌库鲁是一位母亲和生育女神，她是曼科·卡帕克的姐姐和妻子。印加太阳神因蒂派遣他们去改善印加人的生活，两人一起寻找建立新城市的理想地点。当金色的杆子插入地面时，他们找到了这个地方。随后，玛玛乌库鲁教导妇女纺纱、缝纫和家务技能，而曼科·卡帕克则教育男性建筑和治理知识。最终，他们在库斯科建立了印加文明的首都。",
+      "country": "Peru 秘鲁",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology",
+        "inca",
+        "fertility"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Mama_Ocllo"
+    },
+    {
+      "title_en": "Pacha",
+      "title_zh": "帕查",
+      "summary_en": "In Inca mythology, Pacha represents the physical world and space-time, linking the cosmos with time. It signifies the various stages of cosmic development from unity to differentiation. This concept is deeply rooted in Quechua culture, symbolizing real, tangible realms rather than ethereal worlds.",
+      "summary_zh": "在印加神话中，帕查代表物理世界和时空，将宇宙与时间联系起来。它象征着从统一到分化各个阶段的宇宙发展过程。这一概念深深植根于克丘亚文化之中，象征着具体的现实空间而非虚幻的世界。",
+      "country": "Peru 秘鲁",
+      "emoji": "🌍",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "cosmology"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Pacha_(Inca_mythology)"
+    },
+    {
+      "title_en": "Pachakutic",
+      "title_zh": "帕查库蒂克",
+      "summary_en": "Pachakutic is a concept from pre-Columbian Andean cultures, symbolizing the change in time and space that brings about a new era. In ancient myths, it represented the end of one world cycle and the beginning of another. Today, this term is used by political movements to signify radical change and the advancement of indigenous rights, embodying the idea of turning the world upside down.",
+      "summary_zh": "帕查库蒂克是前哥伦布时期安第斯文化中的一个概念，象征着时空的改变带来新的时代。在古代神话中，它代表了旧世界周期的终结和新世界的开始。今天，这一术语被政治运动用来表示根本性的变革，并促进原住民权利的发展，体现了翻转世界的理念。",
+      "country": "Peru 秘鲁",
+      "emoji": "🌎",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "indigenous",
+        "change"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Pachakutic"
+    },
+    {
+      "title_en": "Paqarina",
+      "title_zh": "帕卡里纳",
+      "summary_en": "In the ancient Andean culture, Paqarina was both a physical place and a spiritual portal. It was believed to be the origin and final destination of ancestors, often marked by natural features like holes or lakes. This sacred site allowed the flow of life and death forces, connecting the realms of the living and the dead.",
+      "summary_zh": "在古代安第斯文化中，帕卡里纳既是物质上的地点，也是精神上的门户。人们认为它是祖先的起源地和最终归宿，常以地面的洞穴或湖泊为标志。这个神圣之地允许生命与死亡力量的流动，连接着生者与亡灵的世界。",
+      "country": "Peru 秘鲁",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "portal",
+        "ancestors",
+        "life and death"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Paqarina"
+    },
+    {
+      "title_en": "Paqariq Tampu",
+      "title_zh": "帕卡里克塔姆波",
+      "summary_en": "In the heart of Inca mythology lies Paqariq Tampu, a sacred site where the Ayar brothers and their sisters emerged from three windows. The Maras tribe came through one window, while the Tampus emerged from another. The most significant window, Qhapaq T'uqu, was the birthplace of Manco Capac, who would go on to found the Inca civilization. Centuries later, Pachacuti honored this place by installing golden doors and making it a site for sacrifices and oracles.",
+      "summary_zh": "帕卡里克塔姆波是印加神话中的圣地，阿亚兄弟和四位玛玛姐妹从三个窗口中诞生。马拉斯部落从一个窗口出来，图马斯部落则从另一个窗口出来。最重要的窗户——主窗Qhapaq T'uqu，是曼科·卡帕克的出生地，他后来建立了印加文明。几个世纪后，帕查库特伊为这个地方安装了金色的门，并将其设为祭祀和占卜之地。",
+      "country": "Peru 秘鲁",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "creation myth"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Paqariq_Tampu"
+    },
+    {
+      "title_en": "Inca Religion",
+      "title_zh": "印加宗教",
+      "summary_en": "The Inca people believed in a pantheon of gods and goddesses, each associated with natural phenomena or aspects of life. The most important deity was Viracocha, the creator god who brought order to chaos. Pachamama, the earth mother, was also revered for her fertility and protection. Festivals and ceremonies were integral to daily life, celebrating harvests, births, and deaths. Rituals often involved offerings, sacrifices, and dances that honored the gods and maintained harmony with nature.",
+      "summary_zh": "印加人信仰多神教，每个神祇都与自然现象或生活中的某个方面相关。最重要的神祇是维拉科查，他是创造之神，带来了秩序。帕查玛马作为大地母亲，因其生育和保护而受到崇拜。节日和仪式在日常生活中不可或缺，庆祝收获、诞生和死亡。仪式通常包括祭品、牺牲和舞蹈，以尊敬诸神并维持与自然的和谐。",
+      "country": "Peru 秘鲁",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "polytheism"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Religion_in_the_Inca_Empire",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/印加宗教"
+    },
+    {
+      "title_en": "Situa",
+      "title_zh": "西图亚节",
+      "summary_en": "The Situa was an important health and purification festival in the Inca Empire, held annually in Cusco during September. It marked the first moon after the spring equinox, typically on September 23rd. Rituals were meticulously described by early Spanish chroniclers like Cristóbal de Molina and Polo de Ondegardo. The festival involved elaborate ceremonies to ensure the community's well-being and was a significant event in Inca culture.",
+      "summary_zh": "西图亚节是印加帝国每年九月在库斯科举行的重要健康与净化节日，通常在春分后的第一个满月，即9月23日左右。早期西班牙编年史家如克里斯托巴尔·德·莫利纳和波洛·德翁达戈罗详细描述了该节的仪式。这个节日通过复杂的仪式确保社区的福祉，在印加文化中占有重要地位。",
+      "country": "Peru 秘鲁",
+      "emoji": "🙏",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "ritual",
+        "purification",
+        "Inca"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Situa"
+    },
+    {
+      "title_en": "Taki Unquy",
+      "title_zh": "塔基·翁奎耶",
+      "summary_en": "In the early 1560s, a millenarian movement called Taki Unquy emerged in the Peruvian Andes. Led by indigenous leaders who opposed Spanish rule, this movement combined political resistance with religious and cultural revitalization efforts. The followers believed that through collective action and adherence to traditional practices, they could overthrow the colonial authorities and restore their way of life. Despite its initial success, Taki Unquy was eventually suppressed by Spanish forces in 1572.",
+      "summary_zh": "16世纪初，塔基·翁奎耶运动在秘鲁安第斯山区兴起。该运动由反对西班牙统治的土著领袖领导，结合了政治反抗、宗教复兴和文化复原的努力。信徒们相信，通过集体行动和遵循传统习俗，他们可以推翻殖民当局并恢复自己的生活方式。尽管最初取得了一定成功，但塔基·翁奎耶最终在1572年被西班牙军队镇压。",
+      "country": "Peru 秘鲁",
+      "emoji": "🙏🏼",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "indigenous resistance"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Taki_Unquy"
+    },
+    {
+      "title_en": "Unu Pachakuti",
+      "title_zh": "乌努帕查库蒂",
+      "summary_en": "In Inca mythology, Unu Pachakuti is the great flood brought by Viracocha to destroy a race of giants and start anew. After the deluge, Viracocha created humans from smaller stones, sparing two survivors—a man and a woman—to repopulate the world. This event symbolizes both destruction and creation, marking a new era for humanity.",
+      "summary_zh": "在印加神话中，乌努帕查库蒂是维拉科查带来的大洪水，用来毁灭巨人种族并重新开始。洪灾之后，维拉科查用较小的石头创造了人类，并拯救了一名男子和一名女子来重新繁衍人类。这一事件象征着破坏与创造，标志着人类的新纪元。",
+      "country": "Peru 秘鲁",
+      "emoji": "🌊",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "creation",
+        "destruction",
+        "flood"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Unu_Pachakuti"
+    },
+    {
+      "title_en": "Willka Raymi",
+      "title_zh": "威尔卡雷米节",
+      "summary_en": "Willka Raymi is a traditional Quechua festival celebrated in Cusco, Peru, honoring Pachamama, the earth mother. The festival takes place on August 24th at the archaeological site of Pisac, where locals offer sacrifices and prayers to the land. Participants gather with offerings of food, flowers, and coca leaves, symbolizing gratitude and respect for nature’s bounty.",
+      "summary_zh": "威尔卡雷米节是秘鲁库斯科地区的一个传统节日，旨在敬拜大地母亲帕查玛马。该节日于每年8月24日在皮萨克考古遗址举行，当地居民会献上祭品和祈祷，表达对大自然恩赐的感激之情。参与者带着食物、鲜花和古柯叶聚集在一起，象征着对自然之恩的尊重。",
+      "country": "Peru 秘鲁",
+      "emoji": "🙏🌿",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "nature",
+        "sacrifice",
+        "agrarian"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Willka_Raymi"
+    },
+    {
+      "title_en": "Yanantin",
+      "title_zh": "雅南廷",
+      "summary_en": "In the Andean culture of Peru, Yanantin embodies the belief that opposing forces are not merely contradictory but complementary. Just as in Chinese Taoism, these dualities—such as male and female, light and dark—are seen as interdependent parts of a harmonious whole. The practice involves bringing these seemingly conflicting energies into balance without altering or destroying either one, reflecting a deep commitment to harmony and unity.",
+      "summary_zh": "在秘鲁安第斯文化中，雅南廷体现了对立力量并非仅仅是矛盾的观念。正如中国道教一样，这些二元性——如男女、明暗——被视为和谐整体中的相互依存部分。这种做法旨在将看似冲突的能量带入平衡状态而不破坏或改变任何一方，反映了对和谐与统一的深刻承诺。",
+      "country": "Peru 秘鲁",
+      "emoji": "🤝",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "dualism",
+        "complementary",
+        "harmony"
+      ],
+      "lat": -9.19,
+      "lng": -75.02,
+      "wiki_en": "https://en.wikipedia.org/wiki/Yanantin"
+    }
+  ]
+}

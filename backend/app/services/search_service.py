@@ -1,13 +1,11 @@
 from sqlalchemy import Select, func, literal, or_, select
 from sqlalchemy.ext.asyncio import AsyncSession
 
-from app.core.config import get_settings
 from app.models.story import Story
 from app.services.embeddings import embed_text
 
 
 async def semantic_search(session: AsyncSession, q: str, limit: int = 20) -> list[dict]:
-    settings = get_settings()
     q_clean = q.strip()
     if not q_clean:
         return []
@@ -15,7 +13,8 @@ async def semantic_search(session: AsyncSession, q: str, limit: int = 20) -> lis
     n_vec = await session.scalar(
         select(func.count()).select_from(Story).where(Story.embedding.is_not(None))
     )
-    use_vector = bool(settings.openai_api_key and n_vec and int(n_vec) > 0)
+    # Use vector search if any embeddings exist — works with OpenAI or local Ollama
+    use_vector = bool(n_vec and int(n_vec) > 0)
 
     if use_vector:
         try:

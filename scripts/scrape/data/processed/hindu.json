@@ -1,0 +1,1182 @@
+{
+  "meta": {
+    "region": "Hindu",
+    "count": 69,
+    "generated": "2026-04-11",
+    "note": "Scraped from Wikipedia, summarized with a local Qwen model via Ollama."
+  },
+  "stories": [
+    {
+      "title_en": "Akshayavata",
+      "title_zh": "阿克希耶瓦塔树",
+      "summary_en": "In the ancient forests of India, stood an undecaying banyan tree known as Akshayavata. This sacred tree was believed to provide endless fruits and shelter for pilgrims and deities alike. Legend has it that Lord Vishnu took refuge under this tree during his exile, finding solace in its eternal shade. The tree became a symbol of divine protection and prosperity, often depicted in Hindu art and literature as a source of spiritual sustenance and material wealth.",
+      "summary_zh": "在印度古老的森林中，生长着一棵名为阿克希耶瓦塔树的神圣榕树。这棵树被认为能够提供无尽的果实和庇护，为朝圣者和诸神提供了庇护所。传说毗湿奴在流放期间曾栖息在这棵树下，得到了永恒阴影中的安慰。这棵树成为了神灵保护和繁荣的象征，在印度的艺术和文学中常被描绘为精神养分和物质财富的源泉。",
+      "country": "India 印度",
+      "emoji": "🌳",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "hinduism"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Akshayavata"
+    },
+    {
+      "title_en": "Alaka",
+      "title_zh": "阿腊卡 (Alakā)",
+      "summary_en": "Alaka was a magnificent city, the capital of Kubera's yaksha kingdom in ancient India. It rivaled Amaravati, Indra’s celestial abode, for its grandeur and opulence. The city was filled with wealth and architectural marvels, making it a symbol of prosperity and power among the gods and demons alike. Described vividly by Kalidasa in his lyrical poem Meghadūta, Alaka stood as a testament to Kubera's dominion over the yakshas and his control over immense riches.",
+      "summary_zh": "阿腊卡是古印度库勃拉（Kubera）统治的夜叉王国的首都，其宏伟和奢华堪比因陀罗（Indra）的天宫 Amaravati。这座城市充满了财富与建筑奇迹，成为诸神和恶魔眼中繁荣与权力的象征。在迦梨陀娑（Kalidasa）的抒情诗《云使》中，阿腊卡被描绘得栩栩如生，见证了库勃拉对夜叉族以及巨大财富的掌控。",
+      "country": "India 印度",
+      "emoji": "💎",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "wealth",
+        "kingdom",
+        "architecture"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Alaka"
+    },
+    {
+      "title_en": "Anasuya",
+      "title_zh": "阿那苏亚",
+      "summary_en": "Anasuya was a pious and ascetic wife of Sage Atri in Hindu mythology, known for her virtue and miraculous powers. She lived with her husband in a small hermitage near the Chitrakuta forest. Anasuya, the sister of sage Kapila, became the mother of several divine beings including Dattatreya, Chandra, and Durvasa. During Rama and Sita's exile, she showed great hospitality to them, offering an unguent that preserved Sita's beauty forever.",
+      "summary_zh": "阿那苏亚是印度教神话中圣阿tri的妻子，以其虔诚和超凡的能力而闻名。她与丈夫住在靠近奇特拉库塔森林的小隐居所里。作为圣卡普利的妹妹，阿那苏亚成为了达塔特雷耶、月神和杜尔瓦萨等多位神灵的母亲。在罗摩和悉多流放期间，她对他们的款待令人难忘，为悉多献上一种能永远保持其美貌的香膏。",
+      "country": "India 印度",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "sage",
+        "asceticism"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Anasuya"
+    },
+    {
+      "title_en": "Atharvan",
+      "title_zh": "阿达婆",
+      "summary_en": "In ancient India, Atharvan was a revered sage who authored the Atharvaveda and introduced the fire-sacrifice ritual or yajña. He was part of the Bhrigu clan and married Shanti, daughter of Prajapati Kardama, fathering the great sage Dadhichi. According to some texts, he was born from Brahma's mind as his eldest son and Manasaputra.",
+      "summary_zh": "在古代印度，阿达婆是一位受人尊敬的圣贤，他撰写了《阿闼婆吠陀》并引入了祭火仪式或祭祀。他是布里古族的一员，并娶了卡德玛创造神的女儿珊蒂为妻，生下了伟大的圣贤达希奇。根据某些经文记载，他是从梵天的心中诞生的长子和曼萨普鲁塔。",
+      "country": "India 印度",
+      "emoji": "ऋ",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "sage",
+        "ritual",
+        "veda"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Atharvan"
+    },
+    {
+      "title_en": "Bakasura",
+      "title_zh": "巴卡斯ura",
+      "summary_en": "In the Mahabharata, Bakasura, a fearsome rakshasa, terrorizes the people of Gangani by eating them in exchange for their protection from invaders. The weak king is unable to stop him until his mother, Kunti, sends Bhima to kill Bakasura. Bhima defeats the monster and saves the kingdom, an event celebrated annually on Bhimana Amavasya.",
+      "summary_zh": "在《摩诃婆罗多》中，巴卡斯ura作为一只可怕的罗刹，在甘加尼森林肆虐，以保护王国免受入侵者侵害为由，他肆意吞噬百姓。直到国王无力阻止，他的母亲库尔提才派遣毗湿摩去杀死巴卡斯ura。毗湿摩最终击败了这个怪物，拯救了王国，并且每年的‘毗湿摩新月’都会庆祝这一事件。",
+      "country": "India 印度",
+      "emoji": "ऋ",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "epic",
+        "rakshasa",
+        "Bhima"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Bakasura"
+    },
+    {
+      "title_en": "Bonga",
+      "title_zh": "邦加",
+      "summary_en": "In Bengali mythology, Bonga is a legendary figure whose origins are intertwined with both Hindu and Islamic traditions. According to Vedic lore, he was the ancient prince of Vanga, adopted son of King Vali. In later Islamic narratives, Bonga evolved into Bong, grandson of Noah and son of Hind. This fusion of mythologies reflects the rich cultural tapestry of Bengal, blending stories from distant lands with local folklore. Bonga is often depicted as a symbol of fertility and prosperity, embodying the spirit of the land and its people.",
+      "summary_zh": "在孟加拉神话中，邦加是一位传奇人物，其起源融合了印度教和伊斯兰教的传统。根据吠陀传说，他是远古时期的瓦nga王子，被国王Vali收养。而在后来的伊斯兰叙事中，邦加演变为诺亚之孙、希恩之子。这种神话的交融反映了孟加拉丰富的文化背景，将遥远土地上的故事与本地民间传说相结合。邦加常被视为丰饶和繁荣的象征，代表着这片土地及其人民的精神。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Bengali_mythology"
+    },
+    {
+      "title_en": "Bhairav",
+      "title_zh": "不拉威 (Bùlāwēi)",
+      "summary_en": "In the Mata Vaishno Devi legend, Bhairav was initially a powerful tantric disciple of Guru Gorakshanath. However, his path took a dramatic turn when he became an antagonist, opposing Mata Vaishno Devi and her followers. Despite his initial malevolence, Bhairav eventually repented and found redemption, becoming a protector and benefactor to the devotees. His transformation from a formidable adversary to a guardian symbolizes the power of penance and devotion.",
+      "summary_zh": "在 Mata Vaishno Devi 的传说中，不拉威最初是 Guru Gorakshanath 的强大密教弟子。然而，他的命运发生了戏剧性的转变，他成为了反对 Mata Vaishno Devi 及其信徒的对手。尽管起初他充满敌意，但不拉威最终忏悔并获得了救赎，成为信徒们的保护者和恩赐者。从强大的敌人转变为守护者的转变象征着忏悔与虔诚的力量。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Bhairav_(tantrik)"
+    },
+    {
+      "title_en": "Bhringi",
+      "title_zh": "布林吉",
+      "summary_en": "In ancient India, Bhringi was a devoted ascetic who sought Lord Shiva's blessings. Despite his physical limitations and the ridicule of other sages, he performed intense penance for years. Moved by his unwavering devotion, Shiva appeared to him in a dream and granted him a boon. Bhringi wished for a divine vehicle, and Shiva transformed into a beetle, allowing Bhringi to ride him. This tale illustrates the power of sincere devotion and the rewards it brings.",
+      "summary_zh": "古印度时期，布林吉是一位虔诚的苦行僧，他渴望获得湿婆神的祝福。尽管其他圣人嘲笑他的身体缺陷和长时间的苦修，但他依然坚持不懈地祈祷多年。最终，湿婆被其真诚所感动，在梦中现身并赐予他一个愿望。布林吉希望得到一个神圣的坐骑，于是湿婆化身为甲虫，让布林吉得以乘坐。这个故事展示了虔诚信仰的力量及其带来的回报。",
+      "country": "India 印度",
+      "emoji": "🙏🏻",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "devotion"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Bhringi"
+    },
+    {
+      "title_en": "Brahmahatya",
+      "title_zh": "梵杀",
+      "summary_en": "In ancient India, Brahmahatya was the act of killing a Brahmin, one of the highest varnas in the social hierarchy. According to Manusmriti, this sin was considered one of the five greatest offenses, carrying severe spiritual and societal consequences for the perpetrator. The fear of such a grave sin led to strict adherence to moral codes among the people.",
+      "summary_zh": "在古代印度，梵杀是指杀害婆罗门的行为。婆罗门是社会等级中的最高阶层之一。据《摩奴法论》记载，这种罪行被列为五大重罪之一，对犯罪者来说具有严重的精神和社会后果。因此，人们严格遵守道德规范以避免犯下如此严重的罪行。",
+      "country": "India 印度",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "society",
+        "religion"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Brahmahatya"
+    },
+    {
+      "title_en": "Chaturbhuja",
+      "title_zh": "四臂 (Sì bì)",
+      "summary_en": "In Hindu iconography, Chaturbhuja refers to a depiction of deities with four arms, symbolizing their divine power and dominion over the universe. This concept is particularly associated with Vishnu, the preserver in the Hindu trinity. The four arms are often seen holding various objects like conch shells, discs, maces, and lotuses, each representing different aspects of his cosmic authority.",
+      "summary_zh": "在印度教icon学中，四臂指的是诸神被描绘为拥有四只手臂的形象，象征着他们的神性和对宇宙的统治。这一概念特别与毗湿奴相关，他是印度教三大神之一，负责保护世界。四只手臂通常各持不同的法器，如螺号、盘状物、神杖和莲花，每种都代表着他的不同宇宙权威。",
+      "country": "India 印度",
+      "emoji": "✍️",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "divinity",
+        "iconography"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Chaturbhuja"
+    },
+    {
+      "title_en": "Chidambara Rahasiyam",
+      "title_zh": "希达马巴拉 rahasya",
+      "summary_en": "In the ancient Chidambaram Temple of India, a secret message is believed to be hidden behind a curtain, symbolizing Maya. According to Hindu beliefs, this is where Shiva and Parvati are present but invisible to most visitors. Only during special pujas do priests lift the veil, revealing golden leaves that signify the divine presence. Saints are said to see the gods in their true form.",
+      "summary_zh": "在印度的希达马巴拉庙中，一个秘密信息被认为隐藏在一层面纱之后，这面纱象征着幻象。根据印度教信仰，在这里湿婆和帕尔瓦蒂的存在是可见的，但对大多数访客来说却是不可见的。只有在特殊祭祀期间，祭司才会揭开面纱，露出金叶，象征着神灵的存在。据说圣徒可以看到神的真实形态。",
+      "country": "India 印度",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "hinduism",
+        "temple"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Chidambara_Rahasiyam"
+    },
+    {
+      "title_en": "Daksha Yajna",
+      "title_zh": "达克希遮祭祀",
+      "summary_en": "In the heart of ancient India, Daksha, Sati's father, organized a grand yajna to which he did not invite his daughter and her husband, Shiva. Enraged by this slight, Sati immolated herself in protest. Upon learning of her death, Shiva descended into madness, carrying Sati's ashes on his head. The gods pleaded with him to end the chaos, and finally, they convinced him to return for a new yajna where he could properly honor Sati. This event marked the beginning of the Shakta tradition and set the stage for Parvati's birth as Sati’s reincarnation.",
+      "summary_zh": "在古代印度，达克希遮举行了盛大的祭祀仪式，并未邀请他的女儿湿帝和她的丈夫湿婆。对此感到愤怒的湿帝自焚以示抗议。得知此事后，湿婆悲痛欲绝，将湿帝的灰烬置于头顶。诸神恳求他平息这场混乱，最终在新的祭祀仪式中，他得以正式纪念湿帝。这一事件标志着湿帝崇拜传统的开始，并为帕尔瓦蒂作为湿帝转世的诞生铺垫了道路。",
+      "country": "India 印度",
+      "emoji": "🙏🔥✍️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "ritual",
+        "sacrifice",
+        "deity"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Daksha_yajna"
+    },
+    {
+      "title_en": "Daruka",
+      "title_zh": "达尔俱",
+      "summary_en": "In the ancient Indian epic Mahabharata, Daruka serves as the charioteer of Krishna, the divine hero. His skill and loyalty are crucial in many battles and journeys. Meanwhile, Dārukā is a rakshasi, a female demon, who often appears as an antagonist or obstacle for the heroes to overcome. Both characters play significant roles in the grand narrative of this epic saga.",
+      "summary_zh": "在印度古代史诗《摩诃婆罗多》中，达尔俱是毗湿奴化身之一克里希那的御者。他的技艺和忠诚对许多战斗和旅程至关重要。而达尔库则是女妖精，经常作为反派或障碍出现，考验英雄们的智慧与勇气。这两位角色在这一宏伟史诗中扮演着重要角色。",
+      "country": "India 印度",
+      "emoji": "ऋ",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Daruka"
+    },
+    {
+      "title_en": "Durgama",
+      "title_zh": "杜尔加马",
+      "summary_en": "In ancient India, Durgama was a powerful asura king who challenged the gods and sought to destroy crops. The goddess Shakambhari appeared, taking the form of a cow and providing sustenance to the people. Her divine presence protected the land from Durgama's attacks, teaching the lesson that even the most formidable enemies cannot overcome the power of nature and devotion.",
+      "summary_zh": "在古代印度，杜尔加马是一位强大的阿修罗王，他挑战诸神并企图摧毁庄稼。女神沙卡姆巴里出现了，化身为一头牛为人们提供食物。她的神圣存在保护了这片土地免受杜尔加马的攻击，教导人们即使是最强大的敌人也无法战胜自然和虔诚的力量。",
+      "country": "India 印度",
+      "emoji": "ऋ",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "goddess",
+        "agriculture",
+        "protection"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Durgamasura"
+    },
+    {
+      "title_en": "Dvipa",
+      "title_zh": " dvīpa (岛屿)",
+      "summary_en": "In Hindu cosmology, Dvipa refers to one of seven islands or continents surrounding Mount Meru, the central axis of the universe. Jambudvipa, the Indian subcontinent, is at the heart of this cosmic model. Each Dvipa is encircled by an ocean and serves as a realm for various deities, including Manidvipa, where divine beings reside in their celestial abodes.",
+      "summary_zh": "在印度教宇宙观中，Dvipa 是围绕着中央轴线须弥山的七个岛屿或大陆之一。其中心地带是占婆提婆，即印度次大陆。每个 Dvipa 被海洋环绕，并作为各种神灵居住的领域，如曼尼提婆，诸神在此拥有他们的天界住所。",
+      "country": "India 印度",
+      "emoji": "🌍",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "cosmology"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Dvipa"
+    },
+    {
+      "title_en": "Epic-Puranic Royal Genealogies",
+      "title_zh": "史诗-梵文王族世系",
+      "summary_en": "The Itihasa-Purana, an integral part of Sanskrit epics like the Mahabharata and Ramayana, chronicles the royal genealogies of two prominent dynasties: the Lunar (Moon) Dynasty and the Solar Dynasty. These narratives are revered as historical events in Indian tradition and serve to establish a chronological timeline for Indian history. The stories trace back generations, linking ancient kings with legendary heroes and gods, weaving together myth and history into a complex tapestry of royal lineage.",
+      "summary_zh": "史诗-梵文王族世系是《摩诃婆罗多》和《罗摩衍那》等梵文史诗中的重要组成部分，记载了月族王朝和太阳王朝两大王族的世系。这些叙事被视为印度传统中的历史事件，并用于建立印度历史的时间线。故事追溯了几代人的历史，将古代国王与传奇英雄乃至神祇联系起来，编织成一个复杂的神话与历史交织的王族谱系。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Epic-Puranic_royal_genealogies"
+    },
+    {
+      "title_en": "Hindu Mythology",
+      "title_zh": "印度神话",
+      "summary_en": "Hindu mythology is a rich tapestry of stories, deities, and legends found in ancient Indian texts like the Vedas, Mahabharata, Ramayana, and Puranas. These narratives explore the creation of the universe, the divine battles between gods and demons, and the moral lessons of human life. The epics tell tales of heroes like Rama and Krishna, who embody virtues such as dharma (duty) and devotion. Myths also depict the cosmic dance of Shiva, the eternal love story of Radha and Krishna, and the adventures of the monkey king Hanuman. These stories have been retold across generations, influencing art, literature, and culture in India and beyond.",
+      "summary_zh": "印度神话是古印度文献如吠陀、摩诃婆罗多、罗摩衍那和往世书中的丰富故事。这些叙事探索了宇宙的创造、神与恶魔之间的神圣战争以及人类生活的道德教训。史诗讲述了像拉马和克里希纳这样的英雄，他们体现了诸如种姓（职责）和虔诚等美德。神话还描绘了湿婆的永恒舞蹈、罗达和克里希纳之间永恒的爱情故事以及猴子国王汉谟那的冒险经历。这些故事代代相传，影响着印度的艺术、文学和文化，并传播到世界各地。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "epic"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Hindu_mythology",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/印度教神话"
+    },
+    {
+      "title_en": "Gaja",
+      "title_zh": "象",
+      "summary_en": "In ancient Indian mythology, Gaja symbolizes strength and wisdom. Often depicted alongside deities like Shiva or Vishnu, the elephant is a revered creature in Hindu texts, embodying both the power of nature and spiritual enlightenment. Its gentle yet powerful presence serves as a reminder of the balance between might and compassion.",
+      "summary_zh": "在古印度神话中，象（Gaja）象征着力量与智慧。它经常出现在湿婆或毗湿奴等神祇身旁，是印度教文本中备受尊敬的生物，既体现了自然的力量，也蕴含了精神的启迪。其温和而强大的形象提醒人们力量与慈悲之间的平衡。",
+      "country": "India 印度",
+      "emoji": "🐘",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "animal",
+        "deity",
+        "strength"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Gaja"
+    },
+    {
+      "title_en": "Ghosayatra Parva",
+      "title_zh": "鼓牛会篇章",
+      "summary_en": "In the epic Mahabharata, the Kauravas embark on an expedition to Dvaitavana, a forest where their cousins, the Pandavas, reside. Pretending to inspect cattle, they actually seek to humiliate the Pandavas. The Kauravas are captured by Gandharvas and held captive until the Pandavas rescue them. Duryodhana is left mortified by this outcome but eventually decides to return home to perform a sacrifice instead of fasting to death.",
+      "summary_zh": "在《摩诃婆罗多》中，卡鲁瓦斯家族前往德维塔伐纳森林，那里住着他们的堂兄弟帕凡达。他们假借检查牛群之名，实则意图羞辱帕凡达。卡鲁瓦斯被 Gandharva 捕获并囚禁，直到帕凡达前来解救。杜罗陀hana 因此感到非常尴尬，但他最终决定返回哈斯廷apur 进行祭祀而不是绝食自杀。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ghoshayatra_Parva"
+    },
+    {
+      "title_en": "Grahana",
+      "title_zh": "日食",
+      "summary_en": "In ancient India, Grahana or the eclipse was considered a significant event with spiritual implications. According to legend, during the great battle between gods and demons for the Amrita (elixir of immortality), a demon named Rahu tricked the sun and moon by disguising himself as one of them. When the gods noticed this deception, they beheaded Rahu, but his head continued its journey through the heavens, causing eclipses when it passed in front of the sun or moon. This tale explains why eclipses are seen as omens and why rituals are performed to appease the gods during these times.",
+      "summary_zh": "在古代印度，日食或月食被视为具有重要精神意义的事件。据传说，在众神与恶魔争夺不死之水（Amrita）的伟大战斗中，一个名叫罗喉的恶魔通过伪装成太阳或月亮来欺骗它们。当诸神发现这一骗局时，他们斩下了罗喉的头颅，但他的头颅仍然在天空中游荡，每当它经过太阳或月亮时就会造成日食或月食。这个故事解释了为什么日食和月食被视为凶兆，并且人们会在这些时刻进行仪式来安抚诸神。",
+      "country": "India 印度",
+      "emoji": "🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Grahana"
+    },
+    {
+      "title_en": "Gādhi",
+      "title_zh": "迦帝",
+      "summary_en": "In Hindu mythology, Gādhi was a revered sage who became the father of Vishvamitra through his union with Satyavati. His father, Kaushika, was a Rigvedic rishi known for composing hymns in Mandala 3 of the Rigveda. Later texts depict Gādhi as a king of Mahodayapuram and the progenitor of both Vishvamitra and Satyavati, who married Rcika. His lineage intertwines with the broader narrative of Vedic sages and kings.",
+      "summary_zh": "在印度教神话中，迦帝是一位受人尊敬的圣贤，他通过与Satyavati结合成为了Vishvamitra的父亲。他的父亲Kaushika是吠陀时期的祭祀诗人，在《梨俱吠陀》第三卷中创作了两首颂歌。后来的文献将迦帝描绘为Mahodayapuram的国王，并且他是Satyavati的母亲，后者嫁给了Rcika。他的血脉与吠陀时期圣贤和国王的故事紧密相连。",
+      "country": "India 印度",
+      "emoji": "ऋषि",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "sage",
+        "Vedic"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Gādhi"
+    },
+    {
+      "title_en": "Halāhala",
+      "title_zh": "哈拉哈拉",
+      "summary_en": "In Hindu mythology, when the devas and asuras churned the Ocean of Milk to obtain amrita, a deadly poison called Halāhala emerged. Both sides were in peril until Brahma advised them to seek help from Shiva. Shiva drank the entire poison, his wife Sati holding it at his neck to prevent it from reaching his stomach. His throat turned blue, earning him the name Nīlakaṇṭha (the one with a blue throat). In some versions, Vayu, the god of wind, first reduced its potency before Shiva drank it.",
+      "summary_zh": "在印度神话中，当诸神和阿修罗搅动乳海以获取长生不老之露时，一种名为哈拉哈拉的致命毒药出现了。双方都处于危险之中，直到梵天建议他们向湿婆求助。湿婆饮下了全部毒药，他的妻子斯蒂持紧握着他的脖子，防止毒药进入他的胃中。他的喉咙因此变蓝，被称为尼拉卡南达（蓝色喉）。在某些版本中，风神先降低了其毒性，然后湿婆才饮用。",
+      "country": "India 印度",
+      "emoji": "🪐",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "poison",
+        "churning of the ocean",
+        "immortality"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Halahala"
+    },
+    {
+      "title_en": "Harana (Elopement)",
+      "title_zh": "哈拉纳（私奔）",
+      "summary_en": "In ancient India, harana was a common practice where young lovers would elope without parental approval or religious rituals. One such tale tells of a couple who, in the dead of night, slipped away from their families to be together. Despite societal norms and potential dangers, they chose love over duty, risking everything for each other's happiness. This act of defiance against tradition was celebrated in many Hindu epics as a symbol of true passion and commitment.",
+      "summary_zh": "在古代印度，哈拉纳是一种常见的做法，即年轻的情侣会在没有得到父母同意或宗教仪式的情况下私奔。有一个故事讲述一对恋人如何在深夜悄悄离开家庭，彼此相守。尽管面临社会规范和潜在的危险，他们选择为了对方的幸福而违背传统。这种对真爱的反抗被视为许多印度史诗中的象征，代表着真正的激情与承诺。",
+      "country": "India 印度",
+      "emoji": "❤️💍",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "love",
+        "marriage",
+        "tradition"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Harana_(elopement)"
+    },
+    {
+      "title_en": "Ilavida",
+      "title_zh": "伊德拉维达",
+      "summary_en": "In the ancient Indian epic Ramayana, Ilavida was a virtuous and wise wife of Sage Vishrava. She bore him Kubera, who would later become one of the most powerful and wealthy deities in Hindu mythology. Despite her noble birth, Ilavida's life was marked by trials and tribulations, but she remained steadfast in her devotion to her husband and their family.",
+      "summary_zh": "在古印度史诗《罗摩衍那》中，伊德拉维达是圣贤 Vishrava 的妻子。她生下了库伯拉，后者后来成为印度教神话中最强大和最富有的神之一。尽管出身高贵，但伊德拉维达的生活充满了磨难，但她始终忠于丈夫和家庭。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ilavida"
+    },
+    {
+      "title_en": "Iravati",
+      "title_zh": "伊腊瓦蒂",
+      "summary_en": "In Hindu mythology, Iravati is a daughter of Kadru and Kashyapa, appearing in the Ramayana. She is associated with a sacred river that was one of the names for the Ravi River of modern-day Punjab during the Vedic period. The name may have influenced the Irrawaddy River in Myanmar. Her story weaves through ancient Indian lore, symbolizing the divine and natural elements intertwined in Hindu beliefs.",
+      "summary_zh": "在印度教神话中，伊腊瓦蒂是卡杜和 Kashyapa 的女儿，在《罗摩衍那》中出现。她与一条圣河相关联，这条河流在吠陀时期被称为印度旁遮普的拉维河。她的名字可能影响了缅甸的伊洛瓦底江。她在古印度传说中的故事交织着神圣与自然元素，象征着印度教信仰中的天人合一。",
+      "country": "India 印度",
+      "emoji": "💧",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "river",
+        "mythology"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Iravati"
+    },
+    {
+      "title_en": "Jnana Palam",
+      "title_zh": "智慧果",
+      "summary_en": "In Hindu mythology, Jnana Palam, or the Fruit of Wisdom, is a divine fruit associated with Murugan and Ganesha's contest. This sacred fruit was presented by Sage Narada to Lord Shiva and is believed to contain the elixir of wisdom. In some versions, it is described as a golden mango, symbolizing its extraordinary value in imparting knowledge and enlightenment.",
+      "summary_zh": "在印度教神话中，智慧果（Jnana Palam）是与湿婆神、摩鲁甘和 Ganesh 参加的竞赛有关的一种神圣果实。这种神奇的果实由仙人 Narada 呈现给湿婆神，并被认为蕴含了智慧之水。在某些版本中，它被描述为金芒果，象征着它传递知识和启迪的价值。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "hinduism"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Jnana_Palam"
+    },
+    {
+      "title_en": "Kakawin",
+      "title_zh": "卡拉威因",
+      "summary_en": "The Kakawins were long narrative poems composed in Old Javanese, blending Hindu mythology with local landscapes of Java and Bali. These poetic works, created between the 9th and 16th centuries, provided insights into courtly society through vivid storytelling. Poets performed these verses at royal courts, crafting a rich cultural heritage that continues to fascinate scholars today.",
+      "summary_zh": "卡拉威因是用旧爪哇语（卡维语）创作的长叙事诗，融合了印度教神话和印尼爪哇岛及巴厘岛的地方景观。这些诗歌作品在9至16世纪由宫廷诗人创作并表演，在此期间，它们为了解当时的宫廷社会提供了丰富的信息。这些诗歌至今仍让学者们着迷。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kakawin"
+    },
+    {
+      "title_en": "Kalakeyas",
+      "title_zh": "迦楼勒迦族",
+      "summary_en": "The Kalakeyas were a fierce clan of danavas (demons) in Hindu mythology, children of Kashyapa and Kala. Known for their martial prowess, they numbered sixty thousand and fought under the banner of Vritra, one of the most formidable asuras. Their battles were legendary, often pitting them against gods and other demons.",
+      "summary_zh": "迦楼勒迦族是印度教神话中的一个强大恶魔部落，他们是卡什耶帕和卡拉的儿子。迦楼勒迦族有六万之众，常在毗湿奴麾下作战，与其他恶魔一起对抗诸神和其他敌人。他们的战斗故事广为流传。",
+      "country": "India 印度",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "demons"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kalakeyas"
+    },
+    {
+      "title_en": "Kalanemi",
+      "title_zh": "卡兰内米",
+      "summary_en": "In Hindu mythology, Kalanemi was a powerful asura and the grandson of Prahlada. He fought valiantly in the Tarakamaya War under Vishnu's command but was ultimately slain by the divine warrior. In another life, he took birth as Kamsa, tyrannical king of Mathura. There, his nephew Krishna, an incarnation of Vishnu, eventually defeated and killed him to end his oppressive rule.",
+      "summary_zh": "卡兰内米是印度神话中的阿修罗，普拉哈达的孙子。他在塔拉卡玛亚战争中作为毗湿奴的指挥官英勇战斗，最终被神战士所杀。在另一次转世中，他成为摩达拉国王卡姆萨，并统治着马图拉。在那里，他的侄子奎师那——毗湿奴的一个化身——最终击败并杀死了他，以结束其暴政。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "epic"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kalanemi"
+    },
+    {
+      "title_en": "Kalanemi",
+      "title_zh": "卡兰内米",
+      "summary_en": "In the epic of Ramayana, Kalanemi, a rakshasa son of Maricha, was sent by Ravana to eliminate Hanuman. Despite his ferocity, Kalanemi faced off against the mighty monkey god. Their battle raged fiercely until Hanuman's immense strength and wisdom overpowered him, ensuring victory for the good forces of righteousness.",
+      "summary_zh": "在《罗摩衍那》中，卡兰内米是马里查之子，在拉vana的命令下被派去消灭汉谟那。尽管卡兰内米凶猛无比，但他最终还是与大力神猴神展开了激烈的战斗。凭借巨大的力量和智慧，汉谟那战胜了卡兰内米，确保正义的一方取得了胜利。",
+      "country": "India 印度",
+      "emoji": "ऋ",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "myth"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kalanemi_(Ramayana)"
+    },
+    {
+      "title_en": "Karkadann",
+      "title_zh": "卡克拉丹",
+      "summary_en": "In ancient India and Iran, the Karkadann was said to roam the grassy plains, a mythical creature resembling an Indian rhinoceros. It could be tamed by virgins but fiercely attacked other animals. Over time, it became a fantastical being with magical properties, its horn believed to have healing powers. This legendary beast, blending reality and myth, left its mark in the region's art and folklore.",
+      "summary_zh": "在古代印度和伊朗，卡克拉丹据说生活在广阔的草原上，是一种类似于印度犀牛的神话生物。它能够被处女驯服，但会猛烈攻击其他动物。随着时间的推移，它变成了一个具有神奇特性的幻想生物，其角被认为具有治疗功效。这个传奇野兽在该地区的艺术和民间传说中留下了印记。",
+      "country": "India 印度",
+      "emoji": " unicorn ",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythical creature"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Karkadann"
+    },
+    {
+      "title_en": "Kaustubha",
+      "title_zh": "宝珠 (Bǎozhū)",
+      "summary_en": "Kaustubha is a legendary jewel that adorns Lord Vishnu's chest, bestowing upon him the title of Kaustubhadhari. In Hindu mythology, this gem was born during the churning of the ocean when the gods and demons collaborated to retrieve treasures from the depths. Kaustubha, with its unparalleled beauty and divine power, symbolizes supreme authority and is considered the most magnificent jewel in existence.",
+      "summary_zh": "宝珠是毗湿奴神胸前的宝石，赋予他‘宝珠持有者’的称号。在印度神话中，宝珠诞生于众神与恶魔合作搅动海洋之时。这颗宝石以其无与伦比的美丽和神圣力量而著称，被视为宇宙中最辉煌的宝石，象征着至高无上的权威。",
+      "country": "India 印度",
+      "emoji": "💎",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "divine",
+        "jewelry"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kaustubha"
+    },
+    {
+      "title_en": "Khyati",
+      "title_zh": "哈蒂",
+      "summary_en": "Khyati was one of the 24 daughters born to Daksha and his wife Prasuti in ancient India. She married Sage Bhrigu, who blessed her with two sons, Dhata and Vidhata, and a daughter named Bhargavi. Together, they continued the lineage of the divine family, their names echoing through the ages as symbols of power and authority.",
+      "summary_zh": "哈蒂是印度古代达克希遮与妻子帕拉斯提所生的24个女儿之一。她嫁给了圣人布里古，布里古赐予她两个儿子——达塔和维迪塔，以及一个女儿——巴尔加维。他们共同延续了神族的血脉，他们的名字在历史长河中传颂，象征着权力与权威。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "sacred",
+        "lineage"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Khyati"
+    },
+    {
+      "title_en": "Koka and Vikoka",
+      "title_zh": "珂卡和维珂卡",
+      "summary_en": "In Hindu mythology, Koka and his twin brother Vikoka were formidable asura generals who fought alongside the demon king Kali in a battle against Kalki, the tenth avatar of Vishnu. Their epic struggle was chronicled in the Kalki Purana, where they displayed unparalleled military prowess but ultimately fell to the divine warrior's might. The tale encapsulates the eternal conflict between good and evil, with Koka and Vikoka representing the formidable forces of darkness before their ultimate defeat.",
+      "summary_zh": "在印度教神话中，珂卡和他的双胞胎兄弟维珂卡是强大的阿修罗将军，在恶魔之王 kali 的麾下对抗第十位梵天化身——克里希那。他们的战斗被记载在《克里希那帕拉》中，展示了他们无与伦比的军事才能，但最终还是败给了神战士的力量。这个故事体现了永恒的善恶之争，珂卡和维珂卡代表了黑暗势力的强大，但在最终的胜利面前屈服。",
+      "country": "India 印度",
+      "emoji": "urusai",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "epic",
+        "asura",
+        "avatar"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Koka_and_Vikoka"
+    },
+    {
+      "title_en": "LGBTQ Themes in Hindu Mythology",
+      "title_zh": "印度神话中的LGBTQ主题",
+      "summary_en": "Hindu mythology is rich with examples where deities and heroes exhibit behaviors or attributes that can be interpreted as LGBTQ. For instance, the god Shiva is sometimes depicted as both male and female, while other gods like Kama (the god of love) engage in same-sex interactions for religious purposes. These narratives often involve transformations of gender through divine intervention, curses, or reincarnation. While some stories are explicitly accepted by mainstream Hinduism, modern scholars have also found queer themes in lesser-known texts, sparking debates about the true meanings of these ancient tales.",
+      "summary_zh": "印度神话中包含许多可以解释为LGBTQ的行为或特质。例如，湿婆神有时被描绘成既是男性也是女性的形象，而爱神丘摩则参与同性互动以实现宗教目的。这些叙述经常涉及通过神的干预、诅咒或转世而发生的性别转变。虽然有些故事在主流印度教中明确接受，但现代学者也在较不为人知的文本中发现了同性恋主题，引发了关于古代故事真正含义的争论。",
+      "country": "India 印度",
+      "emoji": "🌈",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "divine intervention",
+        "gender variance",
+        "religious purpose"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/LGBTQ_themes_in_Hindu_mythology"
+    },
+    {
+      "title_en": "Lanka",
+      "title_zh": "楞伽岛",
+      "summary_en": "In ancient Indian epics, Lanka was the magnificent fortress capital ruled by the powerful Rakshasa king Ravana. It stood atop a plateau between three towering peaks known as the Trikuta Mountains. The city was renowned for its grand palaces, guarded by four-tusked elephants. After Hanuman's destructive visit, burning down Lankapura, the kingdom was eventually taken over by Ravana’s brother Vibhishana, who became the new king with Rama's help. During the Pandavas' reign, Lanka remained a significant and formidable realm.",
+      "summary_zh": "楞伽岛是古印度史诗中强大魔王罗刹王拉vana的宫殿之城，坐落在三座名为特里库塔山的高峰之间。该城以其宏伟的宫殿而闻名，并由四牙象守护。汉谟那摧毁了这座城市的宫殿后，拉vana的兄弟毗湿奴沙那在罗摩的帮助下成为新的国王。在帕纳瓦时期，楞伽岛仍然是一个强大且重要的王国。",
+      "country": "India 印度",
+      "emoji": "-mountains:",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology",
+        "fortress",
+        "Rakshasa"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Lanka"
+    },
+    {
+      "title_en": "Lasya",
+      "title_zh": "拉西雅 (Lāsya)",
+      "summary_en": "In Hindu mythology, Lasya is the gentle and graceful dance performed by the goddess Parvati. Described in the ancient text Natya Shastra, this dance contrasts with Shiva's fierce Tandava. The delicate movements of Lasya symbolize beauty and devotion, reflecting Parvati's nurturing nature as a devoted wife and mother.",
+      "summary_zh": "在印度教神话中，拉西雅是女神帕尔瓦蒂所表演的优雅而温柔的舞蹈。这部古代著作《Natya Shastra》描述了这种舞蹈与湿婆的狂野塔纳伐舞形成对比。拉西雅的细腻动作象征着美丽和虔诚，反映了帕尔瓦蒂作为忠诚的妻子和母亲的仁慈本性。",
+      "country": "India 印度",
+      "emoji": "📖✨",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "dance",
+        "goddess",
+        "devotion"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Lasya"
+    },
+    {
+      "title_en": "Gusainji Maharaj",
+      "title_zh": "古斯金吉玛哈拉雅",
+      "summary_en": "Gusainji Maharaj is a revered spiritual figure worshipped by both Hindus and Muslims in India. He is associated with the village of Junjala in Rajasthan, where his temple stands as a symbol of religious harmony. Devotees from diverse backgrounds visit this sacred site to seek blessings and offer prayers, celebrating his life and teachings that bridge different faiths.",
+      "summary_zh": "古斯金吉玛哈拉雅是一位受到印度教徒和穆斯林共同崇敬的灵性人物。他与拉贾斯坦邦纳加尔区朱杰拉村的寺庙密切相关，该寺庙是宗教和谐的象征。来自不同信仰背景的信徒们前来这座圣地祈求祝福并献上祈祷，庆祝他的生平和教导，这些教导跨越了不同的宗教。",
+      "country": "India 印度",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "hinduism",
+        "islam",
+        "religion"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Gusainji_Maharaj"
+    },
+    {
+      "title_en": "Lineage of Mahabali",
+      "title_zh": "马哈巴利的世系",
+      "summary_en": "The lineage of Raja Bali, also known as Mahabali, traces back to the sage Kashyapa and his wife Diti. Through generations, this powerful Daitya king rose to prominence, with notable descendants like Hiranyakashipu, Prahlada, Virochana, and finally Mahabali himself. Mahabali's reign was marked by prosperity and righteousness, earning him the title of 'Benevolent King' among his subjects.",
+      "summary_zh": "马哈巴利的世系始于婆薮仙人与其妻子帝蒂。经过几代人的传承，这位强大的达ity国王逐渐显赫起来，其后代包括 Hiranyakashipu、Prahlada 和 Virochana 等。最终，马哈巴利成为这一支系中最著名的君主之一，以其仁慈的统治赢得了‘善王’的美誉。",
+      "country": "India 印度",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "india"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Lineage_of_Mahabali"
+    },
+    {
+      "title_en": "Madhusudana",
+      "title_zh": "madhusūdāna 喇嘛素達那",
+      "summary_en": "In Hindu mythology, Madhusudana is an epithet for Vishnu, the preserver in the Hindu trinity. According to legend, when the demon Madhu attempted to consume the primordial being Brahma, Vishnu, known as Madhusudana, emerged from his naval and defeated the demon, thus saving Brahma's life and restoring cosmic order.",
+      "summary_zh": "在印度教神话中，Madhusūdāna是毗湿奴的称号。传说中，当恶魔Madhu企图吞噬创造之神Brahma时，毗湿奴以Madhusūdāna的身份从他的肚脐中诞生，并击败了恶魔，从而挽救了Brahma的生命并恢复了宇宙秩序。",
+      "country": "India 印度",
+      "emoji": "✍️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "hinduism"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Madhusudana"
+    },
+    {
+      "title_en": "Manibandh Shaktipeeth",
+      "title_zh": "曼比丹施塔蒂亚什蒂特佩伊斯",
+      "summary_en": "Located in Pushkar, Rajasthan, the Manibandh Shaktipeeth is one of the 51 sacred sites dedicated to the goddess Sati. According to Hindu mythology, her wrists fell here after she was dismembered by Lord Shiva. The temple, known as Chamunda Mata Mandir locally, stands as a testament to this ancient tale and is revered for its spiritual significance.",
+      "summary_zh": "位于印度拉贾斯坦邦普什卡的曼比丹施塔蒂亚什蒂特佩伊斯是印度教中51个圣地之一，献给女神萨提。据神话记载，她在被湿婆神肢解后，她的手腕就落在了这里。当地人们称这座庙为昌杜娜玛塔庙，它见证了这一古老的故事，并因其精神意义而备受尊崇。",
+      "country": "India 印度",
+      "emoji": "🌸",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "hinduism"
+      ],
+      "lat": 26.473558,
+      "lng": 74.551362,
+      "wiki_en": "https://en.wikipedia.org/wiki/Manibandh_Shaktipeeth"
+    },
+    {
+      "title_en": "Mṛtyu",
+      "title_zh": "阎罗王",
+      "summary_en": "In Hindu mythology, Mṛtyu is the god of death who oversees the underworld and judges souls after their lifetimes. He is often depicted as Yama, a powerful deity with a fearsome appearance. In Buddhist tradition, Mṛtyu manifests as Mara, the demon of temptation and death, challenging beings on their path to enlightenment. Both deities embody the inevitable end of life, guiding souls towards their final judgment.",
+      "summary_zh": "在印度教神话中，Mṛtyu 是掌管冥界的死神，负责审判亡灵。他通常被描绘为 Yama，一位威严的天神。在佛教传统中，Mṛtyu 表现为 Mara，诱惑与死亡之恶魔，在修行者通往觉悟的路上考验他们。两位天神都象征着生命的终结，引导灵魂走向最终的审判。",
+      "country": "India 印度",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "deity",
+        "underworld",
+        "judgment"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Mrtyu"
+    },
+    {
+      "title_en": "Manasaputra",
+      "title_zh": "心智之子",
+      "summary_en": "In Hindu mythology, Brahma, the creator god, conceived a group of sons from his mind, known as Manasaputras or 'mind-children.' These beings were not born in the traditional sense but sprang fully formed from Brahma's thoughts. Among them was Svayambhuva Manu, who created the first human couple—Shatarupa and her five children. Together, they populated the earth, laying the foundation for humanity.",
+      "summary_zh": "在印度教神话中，创造之神布里马从他的思想中孕育出一群儿子，被称为心智之子。这些生物并非传统意义上的诞生，而是完全形成于布里马的思想之中。其中一位是自生曼努，他创造了第一对人类——刹塔鲁普及其五个孩子。他们共同繁衍了人类，奠定了人类的基础。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "creation",
+        "progenitors"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Mānasaputra"
+    },
+    {
+      "title_en": "Naimiṣāraṇya",
+      "title_zh": "尼弥沙森林",
+      "summary_en": "Naimiṣāraṇya, a sacred forest in ancient India, was the site where sages gathered to hear the first recitations of the Puranas. The air was thick with the scent of incense and the sounds of chanting as thousands of wise men and women came together under the boughs of the ancient trees. It is said that here, the very essence of Hindu mythology was born, passed down from one generation to the next through the power of spoken word.",
+      "summary_zh": "尼弥沙森林是古印度的一个圣地，这里聚集了无数智者聆听最初的梵文经典。空气中弥漫着香烟的香气，诵经声此起彼伏，数千位贤人贤士在古老的树荫下汇聚一堂。据说，在这里，印度教神话的核心得以诞生，并通过口耳相传的方式代代传承。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "sacred forest",
+        "Puranas"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Naimiṣāraṇya_(forest)"
+    },
+    {
+      "title_en": "Padma (Vishnu)",
+      "title_zh": "毗湿奴的莲花",
+      "summary_en": "In Hindu mythology, Padma is one of the attributes carried by Vishnu, the preserver deity. It symbolizes his abode on the cosmic lotus and his role in creation and birth. The image of Vishnu resting on a thousand-petaled lotus, surrounded by water, embodies his eternal connection to the universe's origins.",
+      "summary_zh": "在印度教神话中，毗湿奴的四大属性之一便是莲花。莲花象征着毗湿奴居住于宇宙之莲上，并在其创造与诞生的角色中扮演重要角色。毗湿奴躺在千瓣莲花之上，周围是水，这一形象体现了他与宇宙起源的永恒联系。",
+      "country": "India 印度",
+      "emoji": "蓮花",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Padma_(Vishnu)"
+    },
+    {
+      "title_en": "Panchajanya",
+      "title_zh": "五音螺",
+      "summary_en": "In Hindu mythology, Panchajanya is Vishnu's sacred conch shell, one of his four primary attributes. When the great god blows it, its sound resonates through the cosmos, representing the primordial vibrations that created the universe. The conch symbolizes the five elements and serves as a powerful reminder of the divine presence in the world.",
+      "summary_zh": "在印度教神话中，五音螺是毗湿奴的圣螺，是他四大属性之一。当这位伟大的神祇吹响它时，其声音回荡在整个宇宙之中，象征着创造万物的原始振动。这个螺壳代表着五大元素，并作为提醒人们神灵存在的重要标志。",
+      "country": "India 印度",
+      "emoji": "钹",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "hinduism"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Panchajanya"
+    },
+    {
+      "title_en": "Panchamukha",
+      "title_zh": "五面像",
+      "summary_en": "In Hindu iconography, the concept of Panchamukha represents a deity depicted with five faces, symbolizing their omniscience and omnipresence. One such deity is Hanuman, who is shown as Panchamukhi to signify his ability to see in all directions. This depiction emphasizes the god's power and presence across the universe, making him a protector and guide for devotees.",
+      "summary_zh": "在印度教图腾中，五面像的概念表示一位神祇以五个面孔的形象出现，象征其无所不知和无处不在。例如，汉谟那（Hanuman）就被描绘成五面像，以此表明他能够看到所有方向，强调这位神祇的强大力量和在整个宇宙中的存在。这种形象使他成为信徒们的保护者和向导。",
+      "country": "India 印度",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "deity"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Panchamukha"
+    },
+    {
+      "title_en": "Pippalada",
+      "title_zh": "毗湿婆陀",
+      "summary_en": "Pippalada was a revered sage and philosopher in ancient India, known for his contributions to the Atharvaveda and the Prashna Upanishad. He founded the Pippalada school of thought, which emphasized spiritual knowledge and practice. In some Puranas, he is believed to be an incarnation of Shiva, embodying wisdom and divine power.",
+      "summary_zh": "毗湿婆陀是古代印度的一位圣贤和哲学家，他为《梨俱吠陀》做出了贡献，并撰写了《普拉沙纳奥义书》。他创立了毗湿婆陀学派，强调精神知识与实践。在一些梵书中，他认为是湿婆的化身，体现了智慧和神性。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "philosophy",
+        "sage"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Pippalada"
+    },
+    {
+      "title_en": "Prithviraja Vijaya",
+      "title_zh": "毗湿奴拉雅胜利",
+      "summary_en": "Prithviraja Vijaya is a Sanskrit epic that celebrates the life and victories of Prithviraja III, a Chahamana king. The poem recounts his rise to power, his battles against invaders, and his ultimate defeat at the hands of Muhammad Ghori in 1192 CE. It also details the history of his ancestors, painting him as a valiant warrior and just ruler. Written by Jayanaka, it serves both as a historical record and a eulogy for Prithviraja's legacy.",
+      "summary_zh": "《毗湿奴拉雅胜利》是颂扬印度恰哈曼纳国王普尔蒂维拉雅三世（普尔蒂维拉雅·乔汉）生平和功绩的梵文史诗。诗中不仅讲述了他如何崛起为君王，与入侵者作战，最终在1192年被穆罕默德·古里击败的故事，还详细描述了他的祖先历史，将他描绘成一位英勇的战士和公正的统治者。该诗由贾亚那卡撰写，既是一部历史记录，也是对普尔蒂维拉雅遗产的颂歌。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "chivalry",
+        "kingdoms",
+        "medieval"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Prithviraja_Vijaya"
+    },
+    {
+      "title_en": "Puranas",
+      "title_zh": "梵书",
+      "summary_en": "The Puranas are a vast collection of Hindu texts that span a wide range of topics, including legends and traditional lore. Composed in Sanskrit and various Indian languages, these texts include stories about gods and goddesses, kings and sages, as well as folk tales, pilgrimages, and philosophical teachings. The Puranas serve as cultural touchstones, blending diverse local traditions into the Vedic-Brahmanic fold. They were likely composed between the 3rd and 10th centuries CE and have had a profound impact on Hinduism, shaping its religious practices and beliefs.",
+      "summary_zh": "梵书是印度教的一系列庞大文本，涵盖了从神话传说到传统故事的广泛主题。这些文本以梵语和多种印度语言编写而成，包括关于诸神、英雄和圣贤的故事，以及民间传说、朝圣之旅和哲学教诲等内容。梵书作为文化参考点，将各种地方传统融合进了吠陀-婆罗门教的体系中。它们很可能在公元3世纪至10世纪之间创作完成，并对印度教产生了深远影响，塑造了其宗教实践和信仰。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology",
+        "philosophy",
+        "religion"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Puranas",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/往世书"
+    },
+    {
+      "title_en": "Rukmavati",
+      "title_zh": "罗克玛瓦蒂",
+      "summary_en": "Rukmavati was the daughter of King Rukmi and the second wife of Pradyumna, son of Krishna and his primary wife Rukmini. Their union produced a son named Aniruddha, who later became a key figure in the chatur-vyuha formation. This tale is part of the larger narrative of the Pandavas and Kauravas, central to Hindu mythology.",
+      "summary_zh": "罗克玛瓦蒂是鲁克米王的女儿，也是拉德亚曼那的妻子，后者是奎师那和他的主要妻子鲁克米尼的儿子。他们的结合生下了安里杜达，后来成为四军阵法的关键人物。这个故事是印度教神话中帕纳瓦和库拉瓦之间更大叙事的一部分。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "hinduism"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Rukmavati"
+    },
+    {
+      "title_en": "Sacca-kiriya",
+      "title_zh": "实语术",
+      "summary_en": "In the ancient Indian tradition, sacca-kiriya is a powerful declaration of truth that can bring about miraculous effects. It was often used by Buddhist monks and nuns to bless or curse, depending on their intentions. This ritual speech was believed to harness the moral force of truth, which could overcome even gods and humans. The effectiveness of such declarations depended on the speaker's virtue and character. Scholars trace its origins back to pre-Buddhist times but adopted it as a teaching tool for ethical living. It resonates with concepts like non-violent resistance and is deeply embedded in Asian cultural practices.",
+      "summary_zh": "在古代印度传统中，实语术是一种强大的真理宣言，能够带来奇迹般的效果。这种仪式性的话语常被佛教僧侣用来祝福或诅咒，具体取决于他们的意图。人们相信这些声明能利用真理的道德力量，甚至可以超越神祇和人类。这类声明的有效性依赖于说话者的美德与品格。学者们追溯其起源可至佛教之前，但将其作为伦理生活的教学工具加以采用。它与非暴力抵抗等概念相呼应，并深深植根于亚洲文化实践中。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "buddhism",
+        "ritual",
+        "truth"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Sacca-kiriya"
+    },
+    {
+      "title_en": "Sarpa Kavu",
+      "title_zh": "蛇神林",
+      "summary_en": "In the lush forests of Kerala, sacred groves known as sarpa kavus stand as living shrines to the nagaraja and other serpent deities. These groves are revered by local Hindu communities who believe that snakes reside within them, protecting ancestral homes and offering blessings. During festivals, offerings of flowers and food are made at stone houses housing these divine serpents, while outsiders are kept away from their sacred spaces. The sarpa kavu remains a vital link between the people and their spiritual heritage.",
+      "summary_zh": "在卡纳塔克邦的茂密森林中，蛇神林作为活生生的圣地，供奉着蛇神和其它蛇神。当地印度教社区相信这些树林中有蛇居住，保护着祖先的家园并赐福于人们。在节日时，人们会在石屋内向这些神圣的蛇献上鲜花和食物，而外人则被禁止进入这些圣洁的空间。蛇神林是人民与精神遗产之间的纽带。",
+      "country": "India 印度",
+      "emoji": "🐍🌳",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "sacred groves",
+        "serpents",
+        "Hinduism"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Sarpa_Kavu"
+    },
+    {
+      "title_en": "Shankha",
+      "title_zh": "螺號",
+      "summary_en": "In Hindu mythology, the Shankha is a sacred conch shell associated with Vishnu, the preserver deity. It serves as both a ritual instrument and a symbol of water, fertility, and prosperity. The sound of the Shankha is believed to cleanse sins and bring longevity and fame. In Buddhist tradition, it represents the all-pervading sound of enlightenment, one of the eight auspicious symbols.",
+      "summary_zh": "螺號是印度教中毗濕奴神的聖物，與水、生育和繁榮相關。螺號的聲音被認為可以淨化罪孽並帶來長壽和名望。在佛教傳統中，它代表了普照萬法的佛音，是八吉祥之一。",
+      "country": "India 印度",
+      "emoji": "钹",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "religious",
+        "symbolism"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Shankha"
+    },
+    {
+      "title_en": "Shashank",
+      "title_zh": "月兔",
+      "summary_en": "In Hindu mythology, Shashank is a poetic name for the moon, derived from the Sanskrit words 'hare' and 'mark.' The legend speaks of the moon bearing the image of a hare, which became a symbol of its eternal light. This tale reflects ancient Indian beliefs about the celestial body and its connection to nature's beauty.",
+      "summary_zh": "在印度教神话中，月兔是月亮的诗意称呼。传说月亮上刻有兔子的形象，象征着永恒的光芒。这个故事反映了古印度人对这颗天体及其与自然之美联系的看法。",
+      "country": "India 印度",
+      "emoji": "🌙",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Shashank"
+    },
+    {
+      "title_en": "Nyctanthes arbor-tristis",
+      "title_zh": "夜香树",
+      "summary_en": "Nyctanthes arbor-tristis, known as night-blooming jasmine or tree of sorrow, is a species native to South and Southeast Asia. Its fragrant white blossoms open only at night, symbolizing the fleeting nature of happiness. In Indian folklore, it is said that the flower's beauty brings joy but also sorrow, as its fragrance is so enchanting that it drives people mad with longing for what they cannot have.",
+      "summary_zh": "夜香树，又称夜茉莉或悲伤之树，原产于南亚和东南亚。它的白色花朵在夜间开放，象征着幸福的短暂。印度民间传说中，这棵树的美丽带来了欢乐但也带来了悲伤，因为它的香气如此迷人，以至于人们因无法拥有它而疯狂地渴望。",
+      "country": "India 印度",
+      "emoji": "🌸",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "flower",
+        "sorrow"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Nyctanthes_arbor-tristis"
+    },
+    {
+      "title_en": "Hindu Mythological Wars",
+      "title_zh": "印度神话中的战争",
+      "summary_en": "In ancient India, the Hindu texts describe numerous mythological wars involving both mortals and deities. These conflicts were often fought with supernatural weapons and were seen as a last resort after all peaceful methods had failed. The Kshatriya warriors, who belonged to the warrior varna, were expected to participate in righteous wars, or dharmayuddha, which were considered honourable. Victory in such battles was highly esteemed.",
+      "summary_zh": "在古代印度，印度神话中的战争涉及人类和神祇。这些冲突通常使用超自然武器进行，并被视为所有和平方法都失败后的最后手段。属于武士种姓的刹帝利战士被期望参与正义之战（dharma yuddha），这被认为是光荣之举。这样的胜利备受尊崇。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "war",
+        "religion",
+        "supernatural"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Hindu_mythological_wars"
+    },
+    {
+      "title_en": "Shatarupa",
+      "title_zh": "刹帝利波",
+      "summary_en": "Shatarupa was born from Brahma's mind as his first wife and the mother of Manu, the first human. With her hundred forms, she tempted other gods, leading to Brahma cutting off her heads in anger. Despite this, their union produced the progenitors of humanity, symbolizing the origin of mankind.",
+      "summary_zh": "刹帝利波是梵天的第一任妻子，也是第一个女人。她拥有百变之身，诱惑其他神祇，激怒了梵天而被割去头颅。尽管如此，她与梵天的结合孕育了人类的始祖，象征着人类的起源。",
+      "country": "India 印度",
+      "emoji": "✍️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "creation"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Shatarupa"
+    },
+    {
+      "title_en": "Shreedhar Pandit",
+      "title_zh": "什里德哈·潘迪特",
+      "summary_en": "In the small village of Hansali, Shreedhar Pandit was a poor farmer who dedicated his life to the worship of the goddess Shakti. One day, as he wandered through the Trikuta Mountains near his home, he stumbled upon a hidden cave. Inside, he discovered a miraculous shrine containing three rock formations resembling the goddess Vaishno Devi. This discovery transformed him into a revered figure and established the site as one of India’s holiest pilgrimage destinations.",
+      "summary_zh": "什里德哈·潘迪特是汉萨利村的一名贫穷农民，一生致力于对女神斯卡蒂的崇拜。一天，他在靠近家乡的三窟山中漫步时，偶然发现了一个隐藏的洞穴。洞内有三个岩石形成的神像，酷似瓦西诺黛维女神。这一发现使他成为受人尊敬的人物，并将此地确立为印度最神圣的朝圣目的地之一。",
+      "country": "India 印度",
+      "emoji": "🙏",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology",
+        "pilgrimage",
+        "shaktism"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Shreedar_Pandit"
+    },
+    {
+      "title_en": "Suparṇākhyāna",
+      "title_zh": "鸟本生",
+      "summary_en": "In the ancient Indian epic Suparṇākhyāna, Garuda, born to the bird-mother Vinata and her sister Kadrū, struggles for freedom from his snake-wrapping bonds. With his elder brother Aruṇa by his side, he embarks on a daring mission to steal the divine soma from Indra. Despite the thunderbolt's futile attempts to stop him, Garuda succeeds, leaving behind a feather that becomes a symbol of his power and victory over the snakes.",
+      "summary_zh": "在古代印度的鸟本生中，乌鹏（迦楼罗）由鸟母毗那荼和蛇母迦德鲁所生。为了获得自由，他与哥哥阿卢纳一起踏上从因陀罗那里窃取神圣苏摩酒的危险旅程。尽管雷电无法阻止他，但最终乌鹏成功了，并留下了一根羽毛作为胜利的象征。",
+      "country": "India 印度",
+      "emoji": "🔥",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "myth",
+        "bird",
+        "snake"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Suparṇākhyāna"
+    },
+    {
+      "title_en": "Tandava",
+      "title_zh": "塔尔塔瓦舞 (Tānduō wǔ)",
+      "summary_en": "In the ancient Indian mythology, Shiva performs the divine dance called Tandava as Nataraja, the lord of dance. With each step and sway, he dances away the ignorance and ego of his devotees, while also destroying the universe in a cosmic cycle of creation and destruction. The rhythmic beats of his drum resonate through the heavens, and flames dance around him, symbolizing both the destructive and creative forces of the cosmos.",
+      "summary_zh": "在古印度神话中，湿婆以那塔拉贾的身份跳起了神圣的塔尔塔瓦舞。随着他的每一个步伐和摇摆，他用舞蹈引领信徒摆脱无知与自负，同时也在宇宙的创世与毁灭循环中摧毁世界。他的鼓声回荡于天际，火焰在他周围舞动，象征着创造与破坏的力量。",
+      "country": "India 印度",
+      "emoji": "✍️✨",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "dance",
+        "deity"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tandava"
+    },
+    {
+      "title_en": "Tarakamaya War",
+      "title_zh": "塔拉卡玛亚之战",
+      "summary_en": "In ancient India, the celestial nymph Tara eloped with Soma, the moon god, despite being married to Brihaspati, the guru of gods. This act sparked a fierce war between the devas and asuras, known as the Tarakamaya War. The conflict was so intense that it threatened the balance of cosmic order until the sage Agastya intervened with his divine knowledge, restoring peace and harmony in the heavens.",
+      "summary_zh": "古印度时期，天女塔拉与月神苏摩私奔，背弃了她的丈夫——众神的导师毕钵罗。这一事件引发了诸神与阿修罗之间的激烈战争，即塔拉卡玛亚之战。这场战斗异常激烈，几乎破坏了宇宙秩序的平衡。直到圣贤阿迦斯雅运用其神圣的知识介入调解，才恢复了天界的和平。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "love",
+        "war",
+        "cosmic order"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tarakamaya_War"
+    },
+    {
+      "title_en": "Tree of Jiva and Atman",
+      "title_zh": "生命树与至我",
+      "summary_en": "In ancient India, a tree symbolizes the human body, with two birds perched upon it. One bird, representing the individual self or soul (Jiva), feasts on the fruits of life, while the other, embodying the universal consciousness (Paramatman), merely observes. The Jiva's attachment to worldly pleasures leads to forgetfulness and spiritual separation from Paramatman. This allegory teaches that true wisdom lies in recognizing one's connection with the divine within.",
+      "summary_zh": "在古印度，一棵树象征人体。树上栖息着两只鸟：一只代表个体灵魂（Jiva），它享受着生命之果；另一只则代表超越感官的至我（Paramatman），只是在一旁观察。当Jiva沉迷于世俗享乐时，会忘记与至我的联系，陷入物质世界的生老病死之中。这个寓言教导人们，真正的智慧在于认识到自己与内在神性之间的联系。",
+      "country": "India 印度",
+      "emoji": "🌳",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "philosophy"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tree_of_Jiva_and_Atman"
+    },
+    {
+      "title_en": "Upamanyu",
+      "title_zh": "优波尼苏",
+      "summary_en": "Upamanyu, a zealous devotee of Lord Shiva, was revered as a sage and leader among the ganas. His devotion to Shiva was unwavering, and he played a pivotal role in preserving and transmitting Shiva's teachings through his lineage. He is remembered for his unyielding faith and leadership, making him an enduring figure in Hindu mythology.",
+      "summary_zh": "优波尼苏是湿婆神虔诚的信徒，被尊为圣贤和 ganas 的领袖。他对湿婆的信仰坚定不移，在传承湿婆教义方面发挥了重要作用。他以其坚定的信仰和领导才能而闻名，成为印度神话中一个持久的形象。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "sage",
+        "devotion",
+        "mythology"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Upamanyu"
+    },
+    {
+      "title_en": "Vadavagni",
+      "title_zh": "瓦达瓦gni",
+      "summary_en": "In Hindu mythology, Vadavagni is a fearsome being with the head of a mare and a body of blazing flame that roams the seabed. It consumes seawater eagerly, waiting for the Pralaya, the great dissolution at the end of an age, to emerge and destroy the earth. The goddess Saraswati once descended as the Sarasvati River to subdue this destructive force.",
+      "summary_zh": "在印度教神话中，瓦达瓦gni是一只马头火身的可怕生物，在海底游荡。它贪婪地吞噬海水，等待末日普拉利雅的到来，那时它会从海底涌出毁灭大地。女神 Saraswati 曾化身成为萨拉斯瓦蒂河来镇压这个破坏力量。",
+      "country": "India 印度",
+      "emoji": "🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Vadavagni"
+    },
+    {
+      "title_en": "Vajranga",
+      "title_zh": "金剛肢",
+      "summary_en": "In Hindu mythology, Vajranga was an asura born to Diti and Kashyapa after she underwent severe austerities for ten thousand years. Her goal was to gain a child who could defeat the devas in revenge for her children's deaths. Vajranga’s body was said to be as formidable as Indra’s vajra, the thunderbolt weapon. He fathered Tārakāsura, who continued their family’s war with the devas but ultimately fell to Kartikeya, the god of war.",
+      "summary_zh": "梵 mythology中，金剛肢是提帝和迦什耶帕的儿子。提帝苦修了数万年，祈求获得一个能击败天神的孩子以报其子之仇。金剛肢的身体据说如同因陀罗的金剛杵一般强大。他生下了塔拉卡苏拉，后者继续与天神作战，但最终被战神卡蒂凯亚击败。",
+      "country": "India 印度",
+      "emoji": "⚡️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "asura"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Vajranga"
+    },
+    {
+      "title_en": "Vajreshvari Devi",
+      "title_zh": "瓦杰什瓦里女神",
+      "summary_en": "In the rugged valleys of Himachal Pradesh, Vajreshvari Devi is revered as a fierce and powerful form of Shakti. Worshipped in her temple in Kangra, she is known for her strength and protection. Her name, meaning 'Goddess of the Thunderbolt' or 'Diamond Goddess,' reflects her association with lightning and invincibility. Pilgrims seek her blessings for safety and prosperity, making her a central figure in local folklore.",
+      "summary_zh": "在喜马偕尔邦的崎岖山谷中，瓦杰什瓦里女神被奉为湿婆神的妻子、强大的女性力量。她在康格拉的寺庙中受到崇拜，以其力量和保护著称。她的名字“雷神之女”或“金刚女神”，反映了她与闪电和不可战胜的联系。朝圣者寻求她的祝福以求安全和繁荣，使她成为当地民间传说中的重要人物。",
+      "country": "India 印度",
+      "emoji": "⚡️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "shakti",
+        "protection",
+        "thunder"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Vajreshvari_Devi"
+    },
+    {
+      "title_en": "Veda Slovena",
+      "title_zh": "斯拉夫吠陀",
+      "summary_en": "Veda Slovena, compiled by Bosnian Croat folklorist Stjepan Verković in the late 19th century, was a collection of songs and legends purportedly containing ancient Slavic wisdom. However, it turned out to be a forgery, blending elements from various cultures and periods. Despite its fraudulent nature, Veda Slovena became an important source for Slavic folklore studies.",
+      "summary_zh": "斯拉夫吠陀是由波斯尼亚克罗地亚民俗学家斯捷潘·韦尔科维奇在19世纪末编纂的一部歌谣和传说集，声称包含古代斯拉夫智慧。然而，它被证明是一个伪造品，融合了不同文化和时期的元素。尽管其欺诈性，但斯拉夫吠陀仍成为斯拉夫民俗研究的重要资料。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Veda_Slovena"
+    },
+    {
+      "title_en": "Historical Vedic Religion",
+      "title_zh": "吠陀宗教",
+      "summary_en": "The historical Vedic religion was practiced by the Indo-Aryans in northwest India from around 1500 to 500 BCE. It involved complex rituals, including Soma ceremonies and fire sacrifices, and revered deities like Indra, Agni, and Varuna. This religion, rooted in the cultural exchange with Central Asian tribes, evolved into Brahmanism during the late Vedic period, influencing the development of Hinduism. Key concepts included truth (satya) and cosmic order (ṛta).",
+      "summary_zh": "吠陀宗教是公元前1500年至前500年左右印度西北部的雅利安人所信仰的一种宗教。它包括复杂的仪式，如苏摩祭祀和火祭，并崇拜如因陀罗、阿耆尼和伐楼那等神祇。这种宗教源于与中亚部落的文化交流，在晚期吠陀时期演变为婆罗门教，影响了印度教的发展。主要概念包括真理（实）和宇宙秩序（梨塔）。",
+      "country": "India 印度",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "rituals",
+        "deities",
+        "Hinduism"
+      ],
+      "lat": 20.59,
+      "lng": 78.96,
+      "wiki_en": "https://en.wikipedia.org/wiki/Historical_Vedic_religion",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/吠陀宗教"
+    }
+  ]
+}

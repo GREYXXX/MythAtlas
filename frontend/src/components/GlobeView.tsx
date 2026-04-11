@@ -27,19 +27,20 @@ type Props = {
   onHover: (story: StoryLight | null) => void;
   showLines: boolean;
   highlightCountry: string | null;
-  /** When true (e.g. story panel open), only the selected story’s marker is rendered. */
   isolateStoryMarker?: boolean;
+  showCityNames?: boolean;
   lang?: Lang;
 };
 
 const ALT_MIN = 0.42;
 const ALT_MAX = 6.2;
+// Debounce LOD updates so they don't fire on every drag/zoom frame
+const LOD_DEBOUNCE_MS = 150;
 
-/** Larger step (degrees) ⇒ fewer markers when zoomed out. */
 function gridStepForAltitude(altitude: number): number {
-  if (altitude >= 2.45) return 18;
-  if (altitude >= 1.95) return 9;
-  if (altitude >= 1.42) return 4.5;
+  if (altitude >= 3.8) return 18;
+  if (altitude >= 2.8) return 9;
+  if (altitude >= 2.0) return 4.5;
   return 0;
 }
 
@@ -81,12 +82,11 @@ function tuneGlobeTextures(globe: GlobeMethods) {
     const mats = Array.isArray(mesh.material) ? mesh.material : [mesh.material];
     for (const m of mats) {
       const mat = m as MeshStandardMaterial;
-      const map = mat.map;
-      if (!map) continue;
-      map.anisotropy = maxAniso;
-      map.minFilter = LinearMipmapLinearFilter;
-      map.magFilter = LinearFilter;
-      map.needsUpdate = true;
+      if (!mat.map) continue;
+      mat.map.anisotropy = maxAniso;
+      mat.map.minFilter = LinearMipmapLinearFilter;
+      mat.map.magFilter = LinearFilter;
+      mat.map.needsUpdate = true;
     }
   });
 }
@@ -99,12 +99,14 @@ export function GlobeView({
   showLines,
   highlightCountry,
   isolateStoryMarker = false,
+  showCityNames = false,
   lang = "en",
 }: Props) {
   const { ref: setContainer, size } = useElementSize<HTMLDivElement>();
   const globeRef = useRef<GlobeMethods | undefined>(undefined);
   const [camAltitude, setCamAltitude] = useState(2.2);
   const [cityFeatures, setCityFeatures] = useState<NEPlaceFeature[]>([]);
+  const lodDebounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   const visibleStories = useMemo(() => {
     if (isolateStoryMarker && selectedId != null) {
@@ -129,21 +131,17 @@ export function GlobeView({
         if (!cancelled && Array.isArray(geo.features)) {
           setCityFeatures(geo.features.filter((f) => f?.properties?.latitude != null));
         }
-      } catch {
-        /* ignore missing / network */
-      }
+      } catch { /* ignore */ }
     })();
-    return () => {
-      cancelled = true;
-    };
+    return () => { cancelled = true; };
   }, []);
 
   const labelsData = useMemo(() => {
-    if (isolateStoryMarker || cityFeatures.length === 0) return [];
+    if (!showCityNames || isolateStoryMarker || cityFeatures.length === 0) return [];
     return filterPlacesForAltitude(cityFeatures, camAltitude).filter(
       (f) => englishPlaceName(f.properties).length > 0,
     );
-  }, [cityFeatures, camAltitude, isolateStoryMarker]);
+  }, [showCityNames, cityFeatures, camAltitude, isolateStoryMarker]);
 
   const data = useMemo(
     () =>
@@ -174,12 +172,7 @@ export function GlobeView({
     (d: object) => {
       const s = d as StoryMarkerData;
       const el = document.createElement("div");
-      el.style.display = "flex";
-      el.style.flexDirection = "column";
-      el.style.alignItems = "center";
-      el.style.pointerEvents = "auto";
-      el.style.cursor = "pointer";
-      el.style.userSelect = "none";
+      el.style.cssText = "display:flex;flex-direction:column;align-items:center;pointer-events:auto;cursor:pointer;user-select:none;";
 
       const emojiWrap = document.createElement("div");
       emojiWrap.style.position = "relative";
@@ -187,10 +180,8 @@ export function GlobeView({
 
       const emoji = document.createElement("div");
       emoji.textContent = s.emoji;
-      emoji.style.fontSize = `${14 + s.__size * 10}px`;
-      emoji.style.lineHeight = "1";
-      emoji.style.filter = "drop-shadow(0 0 6px rgba(0,0,0,0.85))";
-      emoji.style.transition = "transform 160ms ease";
+      // Larger base size + stronger drop-shadow to pop against dark globe
+      emoji.style.cssText = `font-size:${14 + s.__size * 10}px;line-height:1;transition:transform 160ms ease;filter:drop-shadow(0 0 5px rgba(0,0,0,0.9)) drop-shadow(0 0 10px rgba(255,255,255,0.15));`;
 
       emojiWrap.appendChild(emoji);
 
@@ -206,7 +197,7 @@ export function GlobeView({
       el.appendChild(emojiWrap);
 
       el.onmouseenter = () => {
-        emoji.style.transform = "scale(1.12)";
+        emoji.style.transform = "scale(1.2)";
         if (cc == null || cc <= 1) onHover(s);
       };
       el.onmouseleave = () => {
@@ -231,17 +222,19 @@ export function GlobeView({
   const onGlobeReady = useCallback(() => {
     const g = globeRef.current;
     if (!g) return;
-    const pov = g.pointOfView();
-    setCamAltitude(pov.altitude);
+    setCamAltitude(g.pointOfView().altitude);
     tuneGlobeTextures(g);
+    g.renderer().setPixelRatio(Math.min(window.devicePixelRatio, 2));
   }, []);
 
+  // Debounced — LOD only recalculates after the user stops zooming/panning
   const onZoom = useCallback((pov: { lat: number; lng: number; altitude: number }) => {
-    setCamAltitude(pov.altitude);
+    if (lodDebounceRef.current) clearTimeout(lodDebounceRef.current);
+    lodDebounceRef.current = setTimeout(() => setCamAltitude(pov.altitude), LOD_DEBOUNCE_MS);
   }, []);
 
-  const globeImageUrl = "//cdn.jsdelivr.net/npm/three-globe@2.45.1/example/img/earth-blue-marble.jpg";
-  const bumpImageUrl = "//cdn.jsdelivr.net/npm/three-globe@2.45.1/example/img/earth-topology.png";
+  // Night earth: dark with city lights — emoji pop against the dark surface
+  const globeImageUrl = "//cdn.jsdelivr.net/npm/three-globe@2.45.1/example/img/earth-night.jpg";
   const backgroundImageUrl = "//unpkg.com/three-globe/example/img/night-sky.png";
 
   const zoomInLabel = lang === "zh" ? "放大" : "Zoom in";
@@ -256,13 +249,12 @@ export function GlobeView({
         backgroundColor="rgba(2,6,23,0)"
         backgroundImageUrl={backgroundImageUrl}
         globeImageUrl={globeImageUrl}
-        bumpImageUrl={bumpImageUrl}
         globeCurvatureResolution={2}
         labelsData={labelsData}
         labelLat={(d: object) => (d as NEPlaceFeature).properties.latitude}
         labelLng={(d: object) => (d as NEPlaceFeature).properties.longitude}
         labelText={(d: object) => englishPlaceName((d as NEPlaceFeature).properties)}
-        labelColor={() => "rgba(226, 232, 240, 0.78)"}
+        labelColor={() => "rgba(200, 220, 255, 0.65)"}
         labelAltitude={0.004}
         labelSize={(d: object) => {
           const pop = (d as NEPlaceFeature).properties.pop_max;
@@ -277,8 +269,8 @@ export function GlobeView({
         labelResolution={2}
         labelsTransitionDuration={380}
         showAtmosphere
-        atmosphereColor="rgba(56,189,248,0.22)"
-        atmosphereAltitude={0.18}
+        atmosphereColor="rgba(80,160,255,0.2)"
+        atmosphereAltitude={0.2}
         showGraticules={showLines}
         htmlElementsData={data}
         htmlLat={(d: object) => (d as StoryLight).lat}

@@ -1,0 +1,1015 @@
+{
+  "meta": {
+    "region": "Greek",
+    "count": 59,
+    "generated": "2026-04-11",
+    "note": "Scraped from Wikipedia, summarized with a local Qwen model via Ollama."
+  },
+  "stories": [
+    {
+      "title_en": "Adonia",
+      "title_zh": "阿多尼节",
+      "summary_en": "In ancient Greece, the festival of Adonia was a poignant celebration where women mourned the death of Adonis, Aphrodite's beloved consort. Held annually in classical Athens and other Greek cities like Hellenistic Alexandria, it involved elaborate rituals of mourning and remembrance. The festival highlighted the deep emotional connection between the goddess of love and her lover, reflecting the complex mythology surrounding their relationship.",
+      "summary_zh": "古希腊时期，阿多尼节是妇女们为哀悼爱神阿多尼斯之死而举行的庆典。在古典雅典以及其他如赫勒斯滂提亚的希腊城市中，人们通过复杂的哀悼仪式来纪念他。这个节日突显了爱神和她的情人之间深厚的情感联系，反映了他们复杂的关系神话。",
+      "country": "Greece 希腊",
+      "emoji": "mourning",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mourning",
+        "mythology",
+        "love"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Adonia"
+    },
+    {
+      "title_en": "Aesop and the Ferryman",
+      "title_zh": "伊索与船夫",
+      "summary_en": "In this tale, Aesop finds himself on a boat with a grumpy ferryman who complains about the future of his job. Undeterred, Aesop tells him that soon ships will replace boats, and the ferryman will no longer be needed. The ferryman laughs it off but is secretly worried. As they approach land, a storm hits, sinking all the ships in sight, leaving only their boat safely moored. The ferryman, realizing his folly, bows to Aesop and asks for his wisdom.",
+      "summary_zh": "伊索与船夫在船上相遇，船夫因担心未来的工作而心情不佳。伊索却告诉他，不久之后船只会取代小船，船夫将失业。船夫听后哈哈大笑，但内心十分担忧。当他们接近岸边时，一场风暴来袭，所有的船只都被摧毁了，只有他们的小船安然无恙。船夫意识到自己的错误，向伊索鞠躬并请求他的智慧。",
+      "country": "Greece 希腊",
+      "emoji": "😄",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "wisdom",
+        "fables"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Aesop_and_the_Ferryman"
+    },
+    {
+      "title_en": "Amphiareion of Oropos",
+      "title_zh": "奥罗波斯阿姆菲阿拉忒神庙",
+      "summary_en": "The Amphiareion of Oropos was a sanctuary dedicated to the hero Amphiaraos, who initially refused to participate in the disastrous attack on Thebes. When the earth opened and swallowed his chariot, he became a chthonic hero. Pilgrims sought oracles and healing at this site, which flourished during the 4th century BCE. The sanctuary included a temple, theater, stoa, and structures for athletic games every fifth year. It was one of only two correct oracles given by shrines to King Croesus's test. By the late 5th century BCE, it had become an important healing site due to Athens' plague.",
+      "summary_zh": "奥罗波斯阿姆菲阿拉忒神庙是献给英雄阿姆菲阿拉奥斯的圣地。他最初拒绝参与对底比斯的灾难性攻击，但地裂吞噬了他的战车，使他成为冥界的英雄。朝圣者在此寻求占卜和治疗，该圣地在公元前4世纪末期繁荣起来。这里设有神庙、剧场、柱廊以及每五年一次的竞技游戏设施。它仅是克罗索斯国王测试中唯一两个正确预言之一的神谕地。到了公元前5世纪晚期，由于雅典瘟疫的影响，它已成为一个重要的治疗圣地。",
+      "country": "Greece 希腊",
+      "emoji": " Athena 🏦",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "heroic",
+        "oracle",
+        "healing"
+      ],
+      "lat": 38.29138889,
+      "lng": 23.84555556,
+      "wiki_en": "https://en.wikipedia.org/wiki/Amphiareion_of_Oropos"
+    },
+    {
+      "title_en": "Apollo Archetype",
+      "title_zh": "阿波罗原型",
+      "summary_en": "Apollo is the god of light, truth, and prophecy in Greek mythology. He embodies the ideal of reason and order, often depicted as a handsome young man with a lyre. Apollo's archetypal essence is one of clarity and mastery; he values precision over emotion, logic over passion. In his hands, the bow and arrow symbolize his skill and accuracy, while his role in prophecy highlights his ability to see through illusions.",
+      "summary_zh": "阿波罗是古希腊神话中的光明、真理和预言之神。他代表了理想中的理性与秩序，常被描绘为英俊的少年，手持里拉琴。阿波罗原型的核心在于清晰与掌握；他重视精确而非情感，逻辑胜于激情。在他手中，弓箭象征着他的技艺与精准，而其预言角色则突显了他的洞察力。",
+      "country": "Greece 希腊",
+      "emoji": "☀️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "god",
+        "reason",
+        "order"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Apollo_archetype"
+    },
+    {
+      "title_en": "Arcadia",
+      "title_zh": "阿卡狄亚",
+      "summary_en": "Arcadia is a poetic concept symbolizing an idyllic pastoral landscape untouched by the vices of civilization. In Greek mythology, it was imagined as a place where shepherds lived in harmony with nature, embodying virtues such as simplicity and honesty. The region is often depicted as a lost Eden, where humans thrived without the pride and greed that corrupted other lands. This utopian vision has inspired poets and artists through the ages, representing an unattainable ideal of natural beauty and human virtue.",
+      "summary_zh": "阿卡狄亚是希腊神话中一个理想化的牧歌式景观，象征着未被文明腐蚀的自然和谐。在古希腊人的想象中，这里居住着与自然和谐共存的牧羊人，他们以简朴和诚实为美德。这个地区常被视为失落的伊甸园，在那里人类没有被骄傲和贪婪所腐化，得以繁荣发展。这一乌托邦愿景激励了历代诗人和艺术家，代表着一种无法实现的理想——自然之美和人性之善。",
+      "country": "Greece 希腊",
+      "emoji": "🌿",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "utopia",
+        "pastoral",
+        "harmony"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Arcadia_(utopia)"
+    },
+    {
+      "title_en": "Armenus",
+      "title_zh": "阿耳敏诺斯",
+      "summary_en": "In Greek mythology, Armenus was one of the Argonauts, a brave warrior who joined Jason on his quest for the Golden Fleece. Though little is known about him, he was said to hail from Rhodes or Thessaly and later settled in a land named after himself—Armenia. His story, though brief, adds to the rich tapestry of heroes who sought glory and adventure in ancient Greece.",
+      "summary_zh": "在希腊神话中，阿耳敏诺斯是亚耳戈英雄们之一，他与雅典娜的儿子伊阿宋一起踏上了寻找金羊毛的冒险之旅。关于他的事迹知之甚少，据说他来自罗德岛或色萨利，并最终定居在他名字命名的土地——阿耳敏尼亚。尽管故事简短，但阿耳敏诺斯仍然成为了那些追求荣耀和冒险的英雄之一。",
+      "country": "Greece 希腊",
+      "emoji": "🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "heroic",
+        "adventure"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Armenus"
+    },
+    {
+      "title_en": "Baetyl",
+      "title_zh": "巴特利石",
+      "summary_en": "The baetyl was a sacred stone believed to house a deity and was venerated across ancient Near Eastern cultures, including Greece. The most famous example is the Omphalos at Delphi, where it stood as a symbol of Apollo's power. In Greek and Roman texts, these stones were often seen as meteorites or round stones that fell from the sky, imbued with divine presence. While the term has taken on broader meanings in modern usage, its original significance lies in its role as a tangible link between mortals and gods.",
+      "summary_zh": "巴特利石是一种被认为寄宿着神灵的圣石，曾在古代近东文化中广泛崇拜。德尔菲的奥尔帕罗斯是最著名的例子，它象征着阿波罗的力量。在希腊和罗马文献中，这些石头通常被视为从天而降的陨石或圆形的神圣之物。尽管现代使用该术语时意义更为宽泛，但其原始意义在于它是凡人与神灵之间的实际联系。",
+      "country": "古希腊 希腊",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "sacred stone",
+        "deity"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Baetyl"
+    },
+    {
+      "title_en": "Baton",
+      "title_zh": "巴托斯",
+      "summary_en": "In Greek mythology, Baton was Amphiaraus' charioteer and a member of the house of Melampus. After the war of the Seven against Thebes, both were swallowed by the earth. Later, Baton was worshipped as a hero with a sanctuary at Argos. His statue stood beside that of Amphiaraus at Delphi, dedicated there by the Argives. Some accounts suggest he later emigrated to Harpyia in Illyria.",
+      "summary_zh": "在希腊神话中，巴托斯是阿姆菲阿拉奥斯的马车夫，并属于梅拉穆斯家族。在七将攻忒拜之战后，两人被大地吞噬。后来，巴托斯被视为英雄，在阿尔戈斯有供奉他的圣地。他的雕像与阿姆菲阿拉奥斯的雕像并立于德尔斐，由阿尔戈斯人奉献。一些记载称他后来移居伊利里亚的哈耳皮亚。",
+      "country": "Greece 希腊",
+      "emoji": "📜",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "heroic",
+        "funeral"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Baton_(mythology)"
+    },
+    {
+      "title_en": "Cabarnus",
+      "title_zh": "卡巴尔努斯",
+      "summary_en": "In Greek mythology, Cabarnus was a figure from the island of Paros who revealed to the goddess Demeter that her daughter Persephone had been abducted by Hades. This act earned him a special place in the worship of Demeter on Paros, where he became known as any priest dedicated to the goddess. The story highlights the importance of Cabarnus in the local religious practices and his role in uncovering a divine secret.",
+      "summary_zh": "在希腊神话中，卡巴尔努斯是帕罗斯岛上的一个传说人物。他向女神德墨忒尔透露了她的女儿珀耳塞福涅被哈迪斯劫持的消息。这一行为使他在德墨忒尔的崇拜中占据了一席之地，在帕罗斯岛上，任何献身于女神的祭司都被称为卡巴尔努斯。这个故事突显了卡巴尔努斯在当地宗教实践中的重要性及其揭示神界秘密的角色。",
+      "country": "Greece 希腊",
+      "emoji": "GREECE 🇬🇷",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "greek mythology"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cabarnus"
+    },
+    {
+      "title_en": "Cassandra",
+      "title_zh": "卡桑德拉",
+      "summary_en": "In Greek mythology, Cassandra was a princess of Troy with the gift of prophecy from Apollo, who she rejected. As punishment, Apollo cursed her so that her prophecies would be ignored by all, even as they came true. Her tragic fate became a metaphor for those whose warnings are dismissed despite their accuracy.",
+      "summary_zh": "在希腊神话中，卡桑德拉是特洛伊王后普里阿摩斯的女儿。她得到了阿波罗的预言能力，但她拒绝了阿波罗的爱情。作为惩罚，阿波罗诅咒她所有的预言都将被忽视，即使它们成真也是如此。她的悲剧命运成为了那些警告被忽视者的象征。",
+      "country": "Greece 希腊",
+      "emoji": "🔮",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "prophecy",
+        "disbelief"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cassandra_(metaphor)"
+    },
+    {
+      "title_en": "Cleisithyra",
+      "title_zh": "克利西第亚拉",
+      "summary_en": "Cleisithyra was the daughter of Meda and King Idomeneus of Crete, a great-great-granddaughter of Zeus. Her father, Idomeneus, was also the foster parent to Leucus, whom Cleisithyra shared her home with. Though not much is known about her specific deeds, her lineage and family ties placed her in the pantheon of Cretan nobility.",
+      "summary_zh": "克利西第亚拉是克里特国王伊多墨纽斯与梅达的女儿，她是宙斯的曾玄孙。她的父亲伊多墨纽斯还收养了莱乌库斯，克利西第亚拉和莱乌库斯共同生活在这个贵族家庭中。关于她个人事迹的记载不多，但她的血统使她在克里特贵族阶层占有一席之地。",
+      "country": "Greece 希腊",
+      "emoji": "👑",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cleisithyra"
+    },
+    {
+      "title_en": "Cleodora",
+      "title_zh": "克莱奥多拉",
+      "summary_en": "In Greek mythology, Cleodora was one of the Thriae, prophetic nymphs who could divine the future by casting stones. Associated with the Oracle of Delphi, she was known for her gift of prophecy, which allowed her to see into the future and provide guidance to those seeking answers. Her name, meaning 'glorious gift,' reflected the importance of her role in revealing destinies.",
+      "summary_zh": "在希腊神话中，克莱奥多拉是特里亚 nymphs 中的一员，她们通过投掷石头来预知未来。她与德尔菲神谕联系在一起，以其预言之恩赐而闻名，能够预见未来并为寻求答案的人提供指导。她的名字“光荣的礼物”突显了她在揭示命运方面的重要性。",
+      "country": "Greece 希腊",
+      "emoji": "🔮",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "prophesy"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cleodora_(nymph)"
+    },
+    {
+      "title_en": "Cretan Lie",
+      "title_zh": "克里特谎言",
+      "summary_en": "In Homer's Odyssey, Odysseus tells a fabricated tale to Eumaeus, his loyal swineherd, upon returning home after years of wandering. He spins a grand yarn about his exploits in Egypt, where he fought against the powerful and defeated them with cleverness and strategy. This story serves as both an escape from the harsh reality of his current situation and a test of Eumaeus' loyalty. The Cretan Lie has sparked much historical inquiry into the Late Bronze Age, particularly regarding the events surrounding the fall of the Minoan civilization.",
+      "summary_zh": "在荷马的《奥德赛》中，奥德修斯向他的忠心猪倌欧迈俄斯讲述了一个虚构的故事。他讲述了自己在埃及的经历，说在那里他凭借智慧和策略战胜了强大的敌人。这个故事既是奥德修斯逃避当前困境的方式，也是测试欧迈俄斯忠诚的机会。克里特谎言激发了许多关于末期青铜时代历史的研究，尤其是米诺斯文明衰落的事件。",
+      "country": "Greece 希腊",
+      "emoji": "🤔",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "odyssey"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cretan_Lie"
+    },
+    {
+      "title_en": "Cult of Dionysus",
+      "title_zh": "狄俄尼索斯崇拜",
+      "summary_en": "The cult of Dionysus, a central figure in Greek mythology, revolved around ecstatic worship and rituals such as the orgeia, held in forests at night. In Athens, festivals like the Dionysia and Lenaia celebrated his honor with phallic processions through the streets. The mysteries associated with Dionysus were profound and possibly influenced Gnosticism. His symbols included a bull, serpent, tiger, ivy, wine, and a thyrsus topped by a pinecone, linking him to Cybele. Women were especially affected by his divine presence, reminiscent of Krishna's enchantment over gopis.",
+      "summary_zh": "狄俄尼索斯崇拜是古希腊神话中的重要组成部分，围绕着狂热的崇拜和仪式展开，如在森林中举行的orgeia。在雅典，狄俄尼索斯节（Dionysia）和莱纳节（Lenaia）庆祝他的荣耀，并通过街道进行象征性的阳具游行。与狄俄尼索斯相关的神秘仪式深刻且可能影响了诺斯替主义。他的符号包括公牛、蛇、老虎、常春藤、葡萄酒以及顶端带有松果的thyrsus，后者将他与安纳托利亚女神库柏勒联系在一起。女性特别受到他神圣存在的影响，类似于印度的克里希那对戈皮女郎的影响。",
+      "country": "Greece 希腊",
+      "emoji": "🎉",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "wine",
+        "ecstasy"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cult_of_Dionysus"
+    },
+    {
+      "title_en": "Cyclopean Masonry",
+      "title_zh": "巨石砌筑工艺",
+      "summary_en": "The ancient Greeks believed that only the mighty Cyclopes had the strength to construct the massive stone walls of Mycenae and Tiryns. These walls, known as Cyclopean masonry, were built with enormous limestone boulders roughly fitted together without much attention to precision or mortar. The stones seemed unworked, yet they formed formidable fortifications that have stood the test of time. This construction technique was so impressive that it earned its name from the legendary strength of the Cyclopes who, according to myth, had built them with their immense power.",
+      "summary_zh": "古希腊人相信，只有巨神波吕斐摩斯才能建造迈锡尼和堤林斯的宏伟石墙。这些墙壁被称为巨石砌筑工艺，由巨大的石灰岩巨石粗略堆砌而成，几乎不用砂浆固定。石头看似未经雕琢，但它们形成了坚不可摧的防御工事，历经岁月依旧屹立不倒。这种建筑技术因其令人惊叹的力量而得名，据传是波吕斐摩斯和他的族人用他们的巨大力量建造的。",
+      "country": "Greece 希腊",
+      "emoji": "ystone",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "construction",
+        "fortification"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cyclopean_masonry"
+    },
+    {
+      "title_en": "Cygnus X-1",
+      "title_zh": "塞尼克斯X-1",
+      "summary_en": "Cygnus X-1 is a two-part song series by the Canadian progressive rock band Rush, released in 1978. The first part, 'The Voyage,' tells of a spaceship's journey through space and time, while the second part, 'Hemispheres,' explores themes of duality and symmetry. Together, they form an epic narrative that takes listeners on a cosmic adventure.",
+      "summary_zh": "加拿大进步摇滚乐队Rush的塞尼克斯X-1由两部分组成，分别名为‘航行’和‘半球’。第一部分讲述了宇宙飞船穿越时空的旅程，第二部分探讨了二元性和对称性等主题。这两部分共同构成了一部宏大的叙事作品，带领听众踏上一场宇宙之旅。",
+      "country": "Canada 加拿大",
+      "emoji": "🚀",
+      "type": "epic",
+      "tags": [
+        "modern",
+        "space",
+        "progressive rock"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cygnus_X-1_(song_series)"
+    },
+    {
+      "title_en": "Family Tree of the Greek Gods",
+      "title_zh": "希腊神祇家族树",
+      "summary_en": "At the top of the family tree stands Zeus, king of the gods and ruler of Mount Olympus. His wife Hera is his queen, but their marriage is often tumultuous due to Zeus's many affairs. Their children include Ares (god of war) and Hephaestus (god of fire). Poseidon, god of the sea, is another son of Cronus and Rhea, and he has a complex relationship with Amphitrite and Thetis. Athena, goddess of wisdom, is born from Zeus's head fully grown and armored. Dionysus, god of wine, is the son of Zeus and Semele, while Apollo and Artemis are twin children of Leto and Zeus. The family tree also includes numerous other gods, titans, and heroes, each with their own stories and relationships.",
+      "summary_zh": "希腊神祇家族树的顶端是宙斯，众神之王和奥林匹斯山的统治者。他的妻子赫拉是他的王后，但他们的婚姻经常充满波折，因为宙斯有许多情妇。他们的子女包括战神阿瑞斯和火神赫菲斯托斯。海神波塞冬是克洛诺斯和瑞亚的儿子，他与阿匹提里斯和特提斯的关系复杂。智慧女神雅典娜是从宙斯的头中诞生的全副武装的孩子。酒神狄俄尼索斯是宙斯和塞墨勒的儿子，而阿波罗和阿尔忒弥斯是莱托和宙斯的双胞胎子女。家族树还包括众多其他神祇、提坦和其他英雄，每个都有自己的故事和关系。",
+      "country": "Greece 希腊",
+      "emoji": "🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "gods"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Family_tree_of_the_Greek_gods",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/希腊诸神谱系"
+    },
+    {
+      "title_en": "Greek Mythology",
+      "title_zh": "希腊神话",
+      "summary_en": "Greek mythology is a rich tapestry of stories about gods, heroes, and their interactions with humans. The tales, passed down through oral traditions and later recorded in epic poems like the Iliad and Odyssey, explore the origins of the world and human nature. These myths were not just entertainment but also served as moral guides and explanations for natural phenomena. They feature iconic figures such as Zeus, Athena, and Achilles, whose adventures and conflicts shaped the cultural and religious landscape of ancient Greece.",
+      "summary_zh": "希腊神话是关于神祇、英雄及其与人类互动的丰富故事。这些传说通过口头传统流传下来，并在荷马的《伊利亚特》和《奥德赛》等史诗中被记录下来，探讨了世界的起源以及人性的本质。这些神话不仅是娱乐，也是道德指南和对自然现象的解释。其中不乏诸如宙斯、雅典娜和阿喀琉斯这样的标志性人物，他们的冒险与冲突塑造了古希腊的文化和宗教景观。",
+      "country": "Greece 希腊",
+      "emoji": "Ἑλιος",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "gods",
+        "heroes",
+        "epic"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Greek_mythology"
+    },
+    {
+      "title_en": "Chronicon (Jerome)",
+      "title_zh": "杰罗的编年史",
+      "summary_en": "The Chronicon, written by Jerome around 380 AD, was a pioneering work of universal history that expanded on the earlier chronicles by Eusebius. It included a timeline of Greek mythology based on Hellenistic scholars like Apollodorus and Diodorus Siculus. While much of the early sections are filled with legendary characters and events, there may be historical remnants from late Mycenaean Greece around 1200 BC. The chronicle also lists rulers of various ancient empires, attempting to synchronize their reigns with a single calendar year. Despite its errors, it provided a valuable model for later chroniclers like Prosper of Aquitaine and Cassiodorus.",
+      "summary_zh": "杰罗的编年史是约在380年左右由杰罗撰写的一部世界历史著作，扩展了早期的编年家尤西比乌斯的作品。它包括基于阿波罗多罗斯和狄奥多鲁斯·西库卢斯等学者的希腊神话时间线。尽管早期部分充满了传说人物和事件，但可能包含来自约公元前1200年的迈锡尼晚期的历史残余。编年史还列出了亚述、埃及、波斯、希腊和罗马各帝国的统治者，并试图将他们的统治年与单一的日历年同步。尽管存在错误，但它为后来的编年家如普罗瑟尔·奥克塔因和卡西奥多鲁斯提供了有价值的范例。",
+      "country": "Greece 希腊",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology",
+        "chronology"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Chronicon_(Jerome)"
+    },
+    {
+      "title_en": "On Illustrious Men",
+      "title_zh": "论著卓越之人",
+      "summary_en": "In the 14th century, Italian poet Francesco Petrarca wrote 'De viris illustribus,' a collection of biographies that span from Greek and Roman heroes to biblical figures and mythical beings. This work mirrors Plutarch's Parallel Lives in its thematic approach but is incomplete. The text serves as a moral guide through the lives of these legendary figures, offering insights into their virtues and vices. Petrarca's work was so esteemed that he received invitations from both Paris University and the Roman Senate to be crowned poet laureate on April 8, 1341.",
+      "summary_zh": "14世纪，意大利诗人弗朗切斯科·彼特拉克撰写了《论著卓越之人》，这部作品汇集了从希腊和罗马英雄到圣经人物及神话生物的传记。这部作品类似于普鲁塔克的《并行传》（Parallel Lives），通过这些传奇人物的生活展示了他们的美德与瑕疵，旨在作为道德指南。彼特拉克的作品如此受人尊敬，以至于他在1341年4月8日同时收到了巴黎大学和罗马元老院颁发诗人桂冠的邀请。",
+      "country": "Italy 意大利",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "medieval",
+        "biography"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/De_viris_illustribus_(Petrarch)"
+    },
+    {
+      "title_en": "Demigod",
+      "title_zh": "半神",
+      "summary_en": "In Greek mythology, demigods were beings of extraordinary power and destiny, born from a divine parent and a mortal one. One such legendary figure was Heracles, son of Zeus and Alcmene. With superhuman strength and a mix of human and divine nature, he embarked on the famous Twelve Labors to atone for his crimes. Despite his heroic feats, his half-divine status often brought him conflict with both gods and mortals alike.",
+      "summary_zh": "在古希腊神话中，半神是拥有非凡力量和命运的生物，他们是神祇与凡人之子。赫拉克勒斯便是这样的传奇人物，他是宙斯和阿尔克墨涅的儿子。凭借超人的力量和兼具神性与人性的身份，他开始了著名的十二项苦功以赎罪。尽管他的英勇事迹广为人知，但半神身份也常使他陷入与诸神及凡人之间的冲突。",
+      "country": "Greece 希腊",
+      "emoji": "⚡️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "heroic",
+        "divine"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Demigod",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/半神"
+    },
+    {
+      "title_en": "Digby Mythographer",
+      "title_zh": "迪比神话学家",
+      "summary_en": "The Digby Mythographer was the compiler of a twelfth-century handbook on Greek mythology, drawing from Ovid and Statius. This work, originally part of Fulgentian's 'On the Nature of the Gods,' was compiled for Sir Kenelm Digby’s collection and now resides in the Bodleian Library at Oxford. In this era of renewed interest in classical texts, myth was often interpreted allegorically, with surface details seen as mere symbols of deeper Platonic truths.",
+      "summary_zh": "迪比神话学家整理了一部十二世纪的希腊神话手册，参考了奥维德和Statius的作品。这部作品原本是富尔根提的《神之性质》的一部分，后来被收藏家肯内姆·迪比收集并保存在牛津博德利图书馆中。在这个重新兴起的人文主义时代，人们普遍认为神话具有象征意义，表面细节只是更深层次柏拉图真理的表象。",
+      "country": "Greece 希腊",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "medieval",
+        "mythography",
+        "allegory",
+        "classical revival"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Digby_Mythographer"
+    },
+    {
+      "title_en": "Dinos of the Gorgon Painter",
+      "title_zh": "戈尔戈画家的狄诺斯",
+      "summary_en": "The Dinos of the Gorgon Painter, a masterpiece from ancient Athens around 580 BC, is renowned for its intricate depictions of Gorgons. This vase, now in the Louvre, was part of Giampietro Campana's collection and has become an iconic example of Greek pottery artistry. The Gorgons, creatures with snakes for hair and a gaze that turns mortals to stone, are vividly portrayed on its surface, showcasing the skill and creativity of the anonymous artist known as the Gorgon Painter.",
+      "summary_zh": "古雅典约公元前580年的狄诺斯·戈尔戈画家以其精美的戈尔贡图案而闻名。这件珍品现藏于卢浮宫，曾是吉安皮耶特罗·卡潘纳的收藏之一，成为了希腊陶器艺术的典范。画面上生动地描绘了蛇发女妖的形象——这些怪物有着蛇发和能将凡人石化的眼眸，展现了这位匿名艺术家戈尔戈画家卓越的艺术才能。",
+      "country": "Greece 希腊",
+      "emoji": "🏺",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "pottery",
+        "mythology",
+        "art"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Dinos_of_the_Gorgon_Painter"
+    },
+    {
+      "title_en": "East Wind",
+      "title_zh": "东风",
+      "summary_en": "The East Wind is a powerful symbol of change and renewal in Greek mythology. It often appears during pivotal moments, such as when Persephone returns from the underworld to the world above with the coming of spring. The wind brings life-giving warmth and new beginnings, marking the end of winter's dormancy.",
+      "summary_zh": "东风是希腊神话中象征变革和重生的强大符号。它常在关键时刻出现，如珀耳塞福涅从冥界归来，春天来临之时。东风带来了温暖的生命之气，标志着冬天沉睡的结束。",
+      "country": "Greece 希腊",
+      "emoji": "🌱",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "nature"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/East_wind"
+    },
+    {
+      "title_en": "Eleutherae",
+      "title_zh": "埃琉西斯",
+      "summary_en": "Eleutherae, an ancient city in Attica, was a fortress of great importance during the Classical period. Its walls, built around 370-360 BC, still stand as testaments to its strategic significance. The fortification included six towers and two gates, with sally-ports for quick exits. This stronghold protected the region from invaders, ensuring the safety of the people who lived there.",
+      "summary_zh": "埃琉西斯是古希腊时期阿提卡地区的一个重要堡垒城市。其城墙建于公元前370至360年，至今仍屹立不倒，见证了其战略价值。该要塞包括六座塔楼和两道城门，还设有紧急出口。这座坚固的防御工事保护着周边地区免受入侵者的威胁，确保了当地居民的安全。",
+      "country": "Greece 希腊",
+      "emoji": "🛡️",
+      "type": "epic",
+      "tags": [
+        "ancient"
+      ],
+      "lat": 38.17944444,
+      "lng": 23.37583333,
+      "wiki_en": "https://en.wikipedia.org/wiki/Eleutherae"
+    },
+    {
+      "title_en": "Dombey and Son",
+      "title_zh": "大卫·科波菲尔",
+      "summary_en": "In Dombey and Son, published in 1848, Charles Dickens weaves a tapestry of moral and spiritual depth from folklore, fairy tales, and ancient myths. The story follows the journey of Mr. Dombey, a man punished for his pride but ultimately redeemed through self-reflection and fate's trials. Maritime themes and songs enrich the narrative, blending comedy and satire with serious elements. Through various characters, Dickens critiques society, offering a blend of moral lessons and playful humor.",
+      "summary_zh": "1848年出版的《大卫·科波菲尔》中，查尔斯·狄更斯从民间传说、童话和古代神话中汲取灵感。故事围绕着大卫·科波菲尔展开，他因骄傲而受到惩罚，但最终通过自我反省和命运的考验得到了救赎。海事主题和歌曲丰富了叙事，融合了喜剧与讽刺以及严肃元素。通过对各种人物的刻画，狄更斯批判社会，提供了道德教训和轻松幽默的结合。",
+      "country": "England 英国",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "modern"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Folklore,_legends_and_myths_in_Dombey_and_Son"
+    },
+    {
+      "title_en": "Greek Heroic Age",
+      "title_zh": "希腊英雄时代",
+      "summary_en": "The Greek Heroic Age is a legendary period when superhuman heroes roamed the land, their deeds immortalized in epic poetry and drama. Among them are Heracles, Achilles, and Perseus, who embarked on perilous quests like the Argonauts' journey to retrieve the Golden Fleece or fought in the Trojan War. These tales of valor and adventure continue to captivate audiences, blending history with myth to create a vivid tapestry of ancient Greek culture.",
+      "summary_zh": "希腊英雄时代是古希腊神话中的一个传奇时期，超凡入圣的英雄们在此期间活跃在大地上。赫拉克勒斯、阿喀琉斯和珀尔修斯等英雄人物踏上了诸如寻找金羊毛或参与特洛伊战争之类的危险征程。这些充满勇气与冒险的故事被史诗和戏剧传颂，将历史与神话交织在一起，为古希腊文化绘制了一幅生动的画卷。",
+      "country": "Greece 希腊",
+      "emoji": "-hero",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "heroic",
+        "mythology",
+        "adventure"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Greek_Heroic_Age"
+    },
+    {
+      "title_en": "City-State Patron Gods",
+      "title_zh": "城邦守护神",
+      "summary_en": "In ancient Greece, each city-state (polis) often had a unique patron god or goddess who was central to the community's identity and well-being. These deities were celebrated in myths that explained their founding role and protected the polis from external threats. Temples dedicated to these gods stood prominently within the city walls, especially on high ground like the acropolis, where they served as focal points for civic life and religious practices.",
+      "summary_zh": "古希腊的每个城邦通常都有一个独特的守护神，这些神祇在社区的身份认同和福祉中占据核心地位。关于这些神祇如何创立城邦并保护其免受外来威胁的故事被广泛传颂。这些神祇的庙宇坐落在城市内的显要位置，尤其是在高地上如阿卡波罗斯，成为市民生活和宗教仪式的重要中心。",
+      "country": "Greece 希腊",
+      "emoji": " Athena 🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "polis"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Greek_city-state_patron_gods"
+    },
+    {
+      "title_en": "Greek Hero Cult",
+      "title_zh": "希腊英雄崇拜",
+      "summary_en": "In ancient Greece, hero cults were central to religious practice, honoring mortals who had achieved divine status after death. These heroes, like Heracles, were revered for their deeds and often worshipped at their tombs or shrines. The grand ruins of the Bronze Age, such as those found at Lefkandi, sparked tales that transformed anonymous dead into legendary figures, enriching Greek mythology with stories of valor and sacrifice.",
+      "summary_zh": "在古希腊，英雄崇拜是宗教实践的核心。这些英雄，如赫拉克勒斯，因其功绩而受到尊崇，并常在其墓地或神社中被膜拜。米诺斯时代的宏伟遗迹，例如莱夫卡尼遗址，激发了关于匿名亡者的传说，丰富了希腊神话，讲述了勇气和牺牲的故事。",
+      "country": "Greece 希腊",
+      "emoji": "🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "hero",
+        "cult"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Greek_hero_cult"
+    },
+    {
+      "title_en": "Gubernaculum",
+      "title_zh": "舵",
+      "summary_en": "In ancient Greek mythology, a gubernaculum refers to the rudder or steering oar of a ship, symbolizing control and direction. Just as the skilled helmsman guides a ship through stormy seas, so too does governance guide a state through turbulent times. The term has evolved from its maritime origins into the modern concept of government, representing the art of steering a nation towards stability and prosperity.",
+      "summary_zh": "在古希腊神话中，舵（舵）是指船只的舵或方向桨，象征着控制和导向。正如熟练的船长能够引导船只穿越暴风雨的海洋一样，治理也引领国家度过动荡时期，走向稳定与繁荣。这一术语从其航海起源演变为现代政府的概念，代表着引导一个国家走向稳定和繁荣的艺术。",
+      "country": "Greece 希腊",
+      "emoji": "-anchor",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "navigation",
+        "government"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Gubernaculum_(classical)"
+    },
+    {
+      "title_en": "Historiola",
+      "title_zh": "希洛蒂拉 (Historiola)",
+      "summary_en": "A historiola is a magical incantation that weaves a mythic tale to guide its desired effect. In ancient Greece, for instance, one might invoke the story of Perseus and Medusa to ward off danger or gain courage. By reciting this tale, the speaker taps into the power of these legendary figures to achieve their purpose.",
+      "summary_zh": "希洛蒂拉是一种魔咒，通过讲述神话故事来实现其目的。在古希腊，人们可能会吟诵珀尔修斯与美杜莎的故事以驱邪或获得勇气。通过讲述这个故事，说话者便能利用这些传奇人物的力量达成愿望。",
+      "country": "Greece 希腊",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "incantation",
+        "magic"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Historiola"
+    },
+    {
+      "title_en": "Interpretatio Graeca",
+      "title_zh": "希腊化宗教解释",
+      "summary_en": "Interpretatio graeca is a practice where ancient Greeks identified foreign deities with their own gods, using Greek religious concepts and myths to understand other cultures' beliefs. This approach was used by historians like Herodotus and writers such as Dionysius of Halicarnassus and Plutarch, who documented Roman cults under the names of equivalent Greek deities. The concept also extended to non-Greeks interpreting their own belief systems through comparison with Greek models, leading to religious syncretism during the Hellenistic era and pre-Christian Rome.",
+      "summary_zh": "希腊化宗教解释是指古希腊人将外族神祇与自己的神祇相联系，用希腊的宗教概念和神话来理解其他文化的信仰。这一做法被历史学家如希罗多德以及作家狄奥尼修斯·哈利卡纳苏斯和普鲁塔克所使用，他们记录了罗马崇拜活动，并以等同于希腊神祇的名字命名。此外，非希腊人也通过与希腊模式的比较来解释自己的信仰体系，这导致了在希腊化时代和早期罗马时期的宗教融合。",
+      "country": "Greece 希腊",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Interpretatio_graeca"
+    },
+    {
+      "title_en": "Law of Abode",
+      "title_zh": "归宿之律",
+      "summary_en": "In Greek mythology, there is an ancient law that dictates once a soul has tasted food or drink in Hades, they cannot return to the world above. When Persephone was abducted by Hades and ate three pomegranate seeds, she was sentenced to spend part of her year with him in the underworld. Zeus intervened, allowing her to return for nine months each year while spending the rest of her time with her mother Demeter on Earth.",
+      "summary_zh": "在希腊神话中，有一条古老的律法规定：凡是在冥界品尝过食物或饮料的灵魂将永远无法返回人间。珀耳塞福涅被哈迪斯劫持并吃了三颗石榴籽后，宙斯裁定她每年有三个月的时间与哈迪斯生活在冥界，而其余九个月则与母亲得墨忒尔在人间相聚。",
+      "country": "Greece 希腊",
+      "emoji": "🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "classical",
+        "mythology"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Law_of_abode"
+    },
+    {
+      "title_en": "Lichas",
+      "title_zh": "里喀斯",
+      "summary_en": "Lichas, a Spartan Agathoergi, played a pivotal role in fulfilling an ancient oracle that required the Spartans to obtain Orestes' bones from Tegea. Discovering a giant coffin under a blacksmith's shop, Lichas returned to Sparta and brought back the bones, leading to their victory over Tegea. Later, during the Peloponnesian War, he proposed renewals of truces, negotiated peace between Sparta and Argos, and advised caution against Persia. His hospitality was renowned, especially at the Gymnopaedia festival.",
+      "summary_zh": "里喀斯是斯巴达的一名Agathoergi，他成功地从特吉亚找回了奥瑞斯特斯的遗骨，履行了一项古老的预言。他发现了黑smith铺下的一个大棺材，并带回了骨头，使斯巴达人取得了对特吉亚的胜利。后来，在伯罗奔尼撒战争期间，里喀斯提出和约、调解斯巴达与阿哥斯之间的争端，并谨慎对待波斯。他的好客在格尼帕迪亚节上尤其闻名。",
+      "country": "Greece 希腊",
+      "emoji": " 그리스의 전설",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "Sparta 斯巴达"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Lichas_(Spartan)"
+    },
+    {
+      "title_en": "The Gaze of Orpheus",
+      "title_zh": "奥菲欧的目光",
+      "summary_en": "In ancient Greece, the poet Orpheus ventured into the underworld to save his wife Eurydice from Hades and Persephone. He was granted a single condition: not to look at her until they reached the surface. Overcome with anxiety as he approached their exit, Orpheus turned to gaze upon Eurydice one last time, losing her forever. Devastated by his failure, Orpheus met his own demise in despair.",
+      "summary_zh": "在古希腊，诗人奥菲欧为了营救妻子尤丽狄丝而深入冥界。他被允许不看她直到走出地府。当他们即将离开时，奥菲欧因紧张而转头看了一眼尤丽狄丝，结果失去了她。悲痛欲绝的奥菲欧最终在绝望中丧生。",
+      "country": "Greece 希腊",
+      "emoji": "🎶",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "love",
+        "underworld",
+        "poetry"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/The_Gaze_of_Orpheus"
+    },
+    {
+      "title_en": "Kythira",
+      "title_zh": "基克拉迪岛",
+      "summary_en": "Kythira is an island in Greece, known for its strategic location between the Peloponnese peninsula and Crete. For centuries, it has been a crossroads of merchants, sailors, and conquerors, influenced by various civilizations including Greek and Venetian. The island's architecture reflects this rich history with a blend of traditional, Aegean, and Venetian elements.",
+      "summary_zh": "基克拉迪岛位于希腊，因其与伯罗奔尼撒半岛和克里特岛之间的战略位置而闻名。几个世纪以来，它一直是商贾、水手和征服者的交汇点，受到包括希腊和威尼斯在内的多种文明的影响。该岛的建筑风格融合了传统、爱琴海和威尼斯元素，反映了其丰富的历史。",
+      "country": "Greece 希腊",
+      "emoji": "🌍",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "classical",
+        "medieval"
+      ],
+      "lat": 36.2575,
+      "lng": 22.9975,
+      "wiki_en": "https://en.wikipedia.org/wiki/Kythira"
+    },
+    {
+      "title_en": "De astronomia",
+      "title_zh": "天文学论",
+      "summary_en": "Written during the reign of Augustus, De astronomia by Hyginus describes 47 constellations, weaving Greek and Roman myths into the celestial narratives. The text centers on stories like Orion's battle with the hunter Cetus, and Perseus' heroic rescue of Andromeda from the sea monster. These tales not only explain the origins of the constellations but also reflect the cultural and mythological richness of ancient Greece and Rome.",
+      "summary_zh": "在奥古斯都统治时期，Hyginus撰写的《天文学论》描述了47个星座，并将希腊和罗马的神话融入其中。书中讲述了猎人奥里翁与海怪刻托之战的故事，以及珀尔修斯勇救安德洛墨达于海怪之下的英雄事迹。这些故事不仅解释了星座的起源，还反映了古希腊和罗马文化的丰富性和神话的精髓。",
+      "country": "Greece 希腊",
+      "emoji": "🌟",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/De_astronomia"
+    },
+    {
+      "title_en": "Greek Mythology Retelling",
+      "title_zh": "希腊神话重述",
+      "summary_en": "In a contemporary setting, the tale of Persephone's abduction by Hades is reimagined as a powerful young woman named Elara. She is forced to live underground in a futuristic underworld, but with the help of her mother Demeter and other mythological figures, she learns to embrace her dual nature and fight for her freedom. This retelling explores themes of empowerment and resilience.",
+      "summary_zh": "在现代背景下，珀耳塞福涅被哈迪斯劫持的故事被重新演绎为一个名叫厄拉拉的年轻女子。她被迫生活在未来的冥界中，但借助母亲得墨忒尔和其他神话人物的帮助，她学会了接纳自己的双重身份，并为自由而战。这个重述探讨了力量和坚韧的主题。",
+      "country": "Greece 希腊",
+      "emoji": "🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "empowerment",
+        "resilience",
+        "feminism"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Greek_mythology_retelling"
+    },
+    {
+      "title_en": "Maschalismos",
+      "title_zh": "马沙利莫斯",
+      "summary_en": "In ancient Greece, maschalismos referred to the practice of rendering the dead incapable of rising as undead or seeking vengeance against their killers. This was a common custom in Greek law and folklore. In Sophocles' tragedy Electra, Clytemnestra performs this ritual on Agamemnon's body after his murder by her, ensuring he cannot haunt her. Similarly, Jason in Apollonius of Rhodes' Argonautica executes maschalismos on Medea’s brother Apsyrtus after killing him, spitting out the blood three times to prevent his vengeful spirit from troubling him.",
+      "summary_zh": "在古希腊，马沙利莫斯是指将死者处理成无法复生或向凶手复仇的习俗。这一做法在希腊法律和民间传说中都很常见。在索福克勒斯的悲剧《 Electra》中，克吕泰涅斯特拉对被她谋杀的阿伽门农进行这种仪式，确保他不会来报复她。同样，在奥波利尼乌斯·罗德斯的《Argonautica》中，雅典娜斯在杀死梅德亚的兄弟阿psyrtus后也执行了马沙利莫斯仪式，并三次将血吐出以防止他的复仇之灵来找麻烦。",
+      "country": "Greece 希腊",
+      "emoji": "mourning_face",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "ritual",
+        "vengeance"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Maschalismos"
+    },
+    {
+      "title_en": "Mavroneri",
+      "title_zh": "玛弗罗内里河",
+      "summary_en": "The Mavroneri, a river near Nonakris in Achaia, Greece, is said to be the modern incarnation of the River Styx from Greek mythology. According to legend, its waters contain a deadly compound called Calicheamicin, which was allegedly used by scientists to poison Alexander the Great in 323 BCE. This dark and dangerous river has been a subject of both myth and scientific speculation.",
+      "summary_zh": "玛弗罗内里河位于希腊阿卡亚的诺纳克里斯附近，被认为是古希腊神话中的斯堤克斯河。传说这条河含有名为卡利希米辛的致命化合物，斯坦福大学科学家雅典娜·海耶斯和阿德里安妮·梅尔认为它曾被用来毒害亚历山大大帝（公元前323年）。这条黑水河既是神话又是科学的焦点。",
+      "country": "Greece 希腊",
+      "emoji": "💧",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "poison",
+        "river",
+        "mythology"
+      ],
+      "lat": 37.984,
+      "lng": 22.205,
+      "wiki_en": "https://en.wikipedia.org/wiki/Mavroneri"
+    },
+    {
+      "title_en": "Meropis",
+      "title_zh": "梅罗皮斯",
+      "summary_en": "In ancient Greece, Heracles found himself among the Meropes, a tribe known for their great strength and skill in battle. A giant named Asteron challenged Heracles to a fight. With Athena's divine intervention, Heracles used ambrosia, a food of the gods, to gain an advantage over Asteron. Athena then skinned the giant as a trophy, much like her earlier victory against Pallas. This epic poem, though now lost, captures the heroic deeds and divine aid in ancient Greek mythology.",
+      "summary_zh": "在古希腊时期，赫拉克勒斯来到了梅罗佩人居住的地方。这群人以力量和战斗技巧著称。巨人阿斯特隆向赫拉克勒斯发起了挑战。在雅典娜的介入下，赫拉克勒斯利用了神的食物——露水草（ambrosia），战胜了阿斯特隆。随后，雅典娜将阿斯特隆剥皮作为胜利的象征，这与她之前击败帕拉斯的情节相似。这部已失传的史诗捕捉了古希腊神话中的英雄事迹和诸神的帮助。",
+      "country": "Greece 希腊",
+      "emoji": "-hero",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology",
+        "heroism",
+        "giant"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Meropis_(Greek_poem)"
+    },
+    {
+      "title_en": "Miasma",
+      "title_zh": "弥阿萨 (mí ā sà)",
+      "summary_en": "In ancient Greece, a miasma was a spiritual pollution that lingered after wrongdoing and could only be cleansed by the sacrificial death of the guilty party. The tragic tale of Atreus serves as an example: he invited his brother Thyestes to a feast where he served him stew made from Thyestes' own sons. This act of cannibalism spread a miasma across the family, leading to a cycle of violence and revenge that plagued generations. The attempt to cleanse their city only perpetuated the curse.",
+      "summary_zh": "在古希腊，弥阿萨是一种因罪孽而产生的精神污染，只有通过有罪者的牺牲才能净化。阿特柔斯的故事就是一个例子：他邀请他的兄弟泰西斯共进晚餐，并将泰西斯的儿子肉做成美味的炖菜招待他。这一行为导致了弥阿萨在家族中蔓延，引发了一连串暴力和复仇事件，困扰着几代人。试图净化他们的城市反而加强了这种诅咒。",
+      "country": "Greece 希腊",
+      "emoji": "🚫",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "pollution",
+        "revenge",
+        "sacrifice"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Miasma_(ancient_Greek_religion)"
+    },
+    {
+      "title_en": "Minoan Snake Goddess Figurines",
+      "title_zh": "弥诺斯蛇女神像",
+      "summary_en": "In the ancient Minoan civilization of Crete around 1600 BCE, two snake goddess figurines were discovered in Knossos palace. Arthur Evans, an archaeologist, named one a 'Snake Goddess' and the other a 'Snake Priestess'. These intricate figures, adorned with elaborate clothing that exposed their breasts, held snakes or objects in their hands, sparking debate about their true significance. While they remain iconic symbols of Minoan art, modern scholars question whether these figures truly depict snake goddesses or if Evans' interpretations were overly speculative.",
+      "summary_zh": "在克里特岛弥诺斯文明的鼎盛时期，大约公元前1600年左右，在克诺索斯王宫中发现了两尊蛇女神像。考古学家埃德温·艾维斯将其中一尊命名为‘蛇女神’，另一尊为‘蛇女祭司’。这些精美的雕像身着华丽服饰，露出胸部，并手持蛇或其他物品，引发了关于其真正意义的广泛争议。尽管它们仍然是弥诺斯艺术的重要象征，但现代学者质疑这些雕像是否真的描绘了蛇女神或艾维斯的解释是否过于推测。",
+      "country": "Greece 希腊",
+      "emoji": "👑",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "art",
+        "mythology",
+        "religion"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Minoan_snake_goddess_figurines"
+    },
+    {
+      "title_en": "Myrmidons",
+      "title_zh": "墨米冬人",
+      "summary_en": "In Greek mythology, the Myrmidons were a fierce Thessalian tribe known for their loyalty to Achilles in Homer's Iliad. Their name derived from an etiological myth suggesting they were transformed ants, as recounted by Ovid. According to legend, Zeus seduced Eurymedousa, a princess of Phthiotis, and fathered Myrmidon, the ancestor of this warrior clan. The Myrmidons, under Achilles' command, fought bravely in the Trojan War, embodying the spirit of unwavering loyalty and courage.",
+      "summary_zh": "在希腊神话中，墨米冬人是特里斯坦萨的一个英勇部落，在荷马的《伊利亚特》中，他们是阿基里斯麾下的忠实战士。他们的名字来源于一个起源传说，据奥维德所述，他们原本是埃吉纳岛上的勤劳蚂蚁。相传宙斯化身为一只蚂蚁，与菲提奥斯公主厄瑞墨多萨相恋并生下了墨米冬，他是这个勇士部落的始祖。在特洛伊战争中，在阿基里斯的带领下，墨米冬人勇敢地战斗，展现了坚定不移的忠诚和无畏的精神。",
+      "country": "Greece 希腊",
+      "emoji": " Warriors",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "classical",
+        "warriors"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Myrmidons",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/密爾米頓人"
+    },
+    {
+      "title_en": "Nectar",
+      "title_zh": "nectar 液汁",
+      "summary_en": "Nectar, a sweet liquid produced in flowers and extrafloral glands of plants, serves as a vital nectar source for pollinators such as bees, butterflies, and hummingbirds. This sugary elixir is not only crucial for the survival of these insects but also plays a significant role in plant reproduction by attracting pollinators. In Greek mythology, nectar was the drink of the gods, symbolizing divine sustenance and immortality. Today, it remains an essential component in agriculture and horticulture, supporting both pollination and predatory insect populations that help control agricultural pests.",
+      "summary_zh": "液汁是植物在花朵和额外的腺体中产生的甜液体，为蜜蜂、蝴蝶和蜂鸟等传粉者提供重要营养。这种糖分丰富的液体不仅对这些昆虫至关重要，也是植物繁殖的关键因素，因为它吸引了传粉者。在希腊神话中，液汁是众神的饮品，象征着神圣的食物和不朽的生命。今天，它仍然是农业和园艺中的关键成分，支持了帮助控制农业害虫的捕食性昆虫群体。",
+      "country": "Greece 希腊",
+      "emoji": "nectar_flower",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Nectar"
+    },
+    {
+      "title_en": "Pelasgians",
+      "title_zh": "佩拉桑人",
+      "summary_en": "The Pelasgians, according to the ancient Greeks, were the original inhabitants of Greece before the emergence of the Hellenes. They are often described as a primitive and indigenous people who spoke languages considered 'barbarian' by their Greek neighbors. In legends, these enigmatic figures survived in various regions like mainland Greece and Crete until they were gradually absorbed into or displaced by the emerging Greek tribes. Their legacy lived on through stories of vast territories once dominated by Pelasgic culture before it was Hellenized.",
+      "summary_zh": "佩拉桑人是古希腊时期希腊本土的原住民，在希腊人出现之前就已经居住在那里。他们被认为是一种原始而土著的人群，所使用的语言被认为是‘野蛮语’，被他们的希腊邻居们认为是不开化和原始的。在传说中，这些神秘的人物在希腊大陆、克里特岛等地幸存下来，直到逐渐被新兴的希腊部落吸收或取代。佩拉桑人的遗产通过关于他们曾经统治过广阔领土的故事流传了下来，在这些领土上后来居住着那些被称为伊奥尼亚人和埃奥利亚人的古希腊语使用者。",
+      "country": "Greece 希腊",
+      "emoji": "GREECE 🇬🇷",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "indigenous",
+        "mythology"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Pelasgians"
+    },
+    {
+      "title_en": "Pirene",
+      "title_zh": "皮瑞涅",
+      "summary_en": "In Greek mythology, Pirene was a nymph who transformed into a spring after her tears fell for the death of her son Cenchrias at Artemis' hands. The fountain in Corinth became a sacred site for poets seeking inspiration and was adorned with statues and paintings. Another myth attributes the creation of the spring to the hoof of Pegasus, which struck the ground. The water from this spring was said to temper Corinthian bronze when heated.",
+      "summary_zh": "皮瑞涅是希腊神话中的一个仙女，她因儿子琴希拉斯被阿耳忒弥斯误杀而哭泣，最终化为一股泉水。这股泉水位于科林斯，成为诗人寻求灵感的圣地，并装饰着雕像和壁画。另一则传说认为，泉水是由珀伽索斯的蹄子击打地面所形成的。",
+      "country": "Greece 希腊",
+      "emoji": "💧",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "water",
+        "mythical spring"
+      ],
+      "lat": 37.88916667,
+      "lng": 22.86972222,
+      "wiki_en": "https://en.wikipedia.org/wiki/Pirene_(fountain)"
+    },
+    {
+      "title_en": "Pyre of Heracles",
+      "title_zh": "赫拉克勒斯之火",
+      "summary_en": "On Mount Oeta, in a tragic end to his life, Heracles built a pyre and burned himself alive. This act was said to have been performed after he learned of his wife's infidelity and the death of his children. The story is retold in Sophocles' tragedy Trachiniae, where it serves as a poignant moment of self-sacrifice and redemption for the legendary hero.",
+      "summary_zh": "在奥埃塔山上，赫拉克勒斯在他得知妻子不忠和孩子们死亡的消息后，在这里为自己建造了一个祭坛并自焚而死。这一悲剧性的结局被索福克勒斯的悲剧《特拉西尼娅》所记载，成为这位传奇英雄自我牺牲与赎罪的动人时刻。",
+      "country": "Greece 希腊",
+      "emoji": "🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "tragedy"
+      ],
+      "lat": 38.75194444,
+      "lng": 22.29888889,
+      "wiki_en": "https://en.wikipedia.org/wiki/Pyre_of_Heracles"
+    },
+    {
+      "title_en": "Racecourse of Achilles",
+      "title_zh": "阿基里斯赛马场",
+      "summary_en": "In ancient Greek legend, the Racecourse of Achilles was a narrow strip of land in Crimea where the hero practiced his races and celebrated victories. After pursuing Iphigenia to this peninsula, Achilles held competitive games there. The land became known as the Racecourse of Achilles due to these festivities and the routine exercises conducted by him and his men during breaks from battle.",
+      "summary_zh": "在古希腊传说中，阿基里斯赛马场是克里米亚的一片狭窄地带，在这里英雄阿基里斯练习赛马并庆祝胜利。在追捕伊菲革涅亚到这片半岛后，阿基里斯在那里举行了竞赛游戏。这片土地因此被称为阿基里斯赛马场，因为在这里他和他的士兵们经常在战斗间隙进行训练。",
+      "country": "Greece 希腊",
+      "emoji": "🏇",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "race",
+        "legend"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Racecourse_of_Achilles"
+    },
+    {
+      "title_en": "Rape",
+      "title_zh": "强暴",
+      "summary_en": "In Greek mythology, rape is a common theme where gods often assault mortals, leading to struggles for survival and escape. One of the most famous stories involves Daphne, who flees from Apollo's pursuit but is saved by transforming into a laurel tree. Other tales depict satyrs and centaurs attacking nymphs and maidens. The consequences are dire: survivors often become pregnant or transform, while some mortals resist and die in their attempts to escape. These stories highlight the vulnerability of women and the power dynamics between gods and humans.",
+      "summary_zh": "希腊神话中，强暴是一个常见的主题。神祇经常侵犯凡人，导致求生与逃脱的斗争。最著名的便是达芙妮的故事，她躲避阿波罗的追求，并最终化身为一棵月桂树得以幸免。其他故事则描述了萨提尔和半人马攻击仙女和少女的情景。这些故事揭示了女性的脆弱以及神祇与凡人之间的权力差异：幸存者往往会被迫怀孕或变形，而有些凡人在试图逃脱时却丧命。",
+      "country": "Greece 希腊",
+      "emoji": "🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "rape",
+        "struggle",
+        "transformation"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Rape_in_Greek_mythology"
+    },
+    {
+      "title_en": "Sleep Temple",
+      "title_zh": "睡眠神殿",
+      "summary_en": "In ancient Greece, sleep temples known as Asclepieions were built in honor of Asclepius, the god of medicine. These sacred chambers served as healing centers where patients would be treated through incubation—a practice involving prayers and a trance-like state induced by chanting and meditation. Snakes, symbols of Asclepius, roamed freely within these temples. Patients entered unlit rooms to sleep, hoping their dreams would reveal the path to recovery. The temple priests analyzed their visions and provided guidance for treatment, often combining spiritual practices with physical remedies like baths and sacrifices.",
+      "summary_zh": "古希腊时期，人们在阿斯克勒庇俄斯神的荣耀下建造了睡眠神殿。这些神圣的房间是治疗中心，患者通过祈祷和诱导出类似催眠的状态来接受治疗。阿斯克勒庇俄斯的象征——蛇，在这些神殿中自由游走。病人进入黑暗的房间睡觉，希望梦境能揭示治愈之法。庙中的祭司会分析他们的幻象并提供治疗指导，常常结合精神实践与沐浴、牺牲等身体疗法。",
+      "country": "Greece 希腊",
+      "emoji": "🩺",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "healing",
+        "incubation",
+        "snakes"
+      ],
+      "lat": 36.87583333,
+      "lng": 27.25694444,
+      "wiki_en": "https://en.wikipedia.org/wiki/Sleep_temple"
+    },
+    {
+      "title_en": "South Wind",
+      "title_zh": "南风",
+      "summary_en": "The south wind, known as Notus or Lodos in Greek mythology, was one of the four cardinal winds. In Homer's Odyssey, Odysseus and his crew encountered a fierce storm driven by Notus, which threatened their journey home. The wind symbolized change and sometimes brought misfortune to those it blew upon.",
+      "summary_zh": "南风在希腊神话中被称为诺图斯或洛多斯。在荷马的《奥德赛》中，奥德修斯和他的船员遭遇了一场由诺图斯引发的猛烈风暴，这威胁到了他们回家的旅程。这阵风象征着变化，并且有时会给它吹拂之地带来不幸。",
+      "country": "Greece 希腊",
+      "emoji": "🌬️",
+      "type": "myth",
+      "tags": [
+        "ancient"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/South_wind"
+    },
+    {
+      "title_en": "The Love of the Nightingale",
+      "title_zh": "夜莺之恋",
+      "summary_en": "In ancient Greece, Philomela and her sister Procne were raped by their brother-in-law Tereus. To avenge them, Philomela wove a tapestry revealing the truth, which Tereus discovered. Enraged, he cut out Philomela's tongue to silence her. However, Philomela escaped with her daughter and killed Tereus' son, sewing his head into a garment before fleeing. Procne joined them in their revenge, and together they transformed into nightingales, singing their eternal love for each other.",
+      "summary_zh": "在古希腊，菲洛美拉和她的妹妹普克涅被她们的兄弟夫鲁斯奸污。为了报复他，菲洛美拉织了一幅揭露真相的挂毯，结果被发现。夫鲁斯愤怒之下割掉了菲洛美拉的舌头。然而，菲洛美拉逃了出来，带着她的女儿并杀死了夫鲁斯的儿子，将他的头缝进衣服中后逃离了现场。普克涅加入了她们的复仇行动，并与她们一起化身为夜莺，永远歌唱着彼此之间的爱。",
+      "country": "Greece 希腊",
+      "emoji": "🎶",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "rape",
+        "revenge",
+        "transformation"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/The_Love_of_the_Nightingale_(opera)"
+    },
+    {
+      "title_en": "Sciritae",
+      "title_zh": "斯里提人",
+      "summary_en": "In the medieval bestiaries and Greek mythology, the Sciritae were depicted as an Indian tribe with a peculiar physical appearance: they had snake-like nostrils in place of noses and serpentine legs. These creatures were often portrayed as fearsome and exotic, embodying the mysterious and dangerous qualities associated with distant lands.",
+      "summary_zh": "在中世纪的动物图鉴和希腊神话中，斯里提人被描绘成一个拥有奇特外貌的印度部落：他们长有蛇形鼻孔代替鼻子和蜿蜒的蛇腿。这些生物常常被视为凶猛而神秘的存在，象征着遥远土地上的危险与奇异。",
+      "country": "Greece 希腊",
+      "emoji": "🐍",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythical creatures"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Syrictæ"
+    },
+    {
+      "title_en": "Theandrios",
+      "title_zh": "神人忒亚尼奥斯",
+      "summary_en": "In the pre-Islamic Arabian region around Mount Hermon, Theandrios was worshipped as a 'God-Man' deity, similar to Greek gods like Dionysus and Heracles. A dedication to this god was found at Beit Rime in Syria, suggesting his veneration by North Arabian tribes. The name Theandrios, meaning 'God-Man,' implies he combined divine attributes with human qualities, much like other deities across cultures who embodied the divine nature of man.",
+      "summary_zh": "在希ptonom 希腊神话中，忒亚尼奥斯被奉为‘神人’之神，在叙利亚贝特·里梅周围的北阿拉伯部落中受到崇拜。他的名字意为‘神人’，意味着他兼具神性与人性的特质。忒亚尼奥斯类似于希腊诸神如狄俄尼索斯和赫拉克勒斯，体现了人类与神之间的联系。",
+      "country": "Greece 希腊",
+      "emoji": "男神",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "god-man"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Theandrios"
+    },
+    {
+      "title_en": "Theseus Ring",
+      "title_zh": "忒修斯戒指",
+      "summary_en": "The Theseus Ring is a gold signet ring from the Mycenaean period, dating back to around 1500 BC. It features a vivid depiction of bull-leaping, with a lion and possibly a tree in the background. Found in Athens during building operations in the 1950s, its authenticity was initially questioned but later confirmed by experts. The ring's intricate design and historical significance make it a fascinating artifact from ancient Greece, even though there is no direct evidence linking it to the legendary hero Theseus himself.",
+      "summary_zh": "忒修斯戒指是一件来自迈锡尼时期的金戒指，约在公元前1500年。它描绘了精彩的跳牛场景，并配有狮子和可能的树木背景。该戒指于20世纪50年代在雅典建筑施工中被发现时引起了争议，但后来经过专家鉴定确认其真实性。尽管没有直接证据证明它与传说中的英雄忒修斯有关，但这枚戒指精美的设计和历史意义使其成为古希腊时期引人注目的文物。",
+      "country": "Greece 希腊",
+      "emoji": "👑",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology",
+        "artifacts"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Theseus_Ring"
+    },
+    {
+      "title_en": "Veda Slovena",
+      "title_zh": "斯拉夫吠陀",
+      "summary_en": "Veda Slovena, compiled by Bosnian Croat folklorist Stjepan Verković in the late 19th century, was a collection of songs and legends purported to be ancient Slavic lore. However, it is now known as a forgery, crafted to support nationalist sentiments among Slavs during a time when ethnic identity was being fiercely debated. The work attempted to create a shared cultural heritage for all Slavic peoples by fabricating stories and songs that were claimed to have been passed down through generations.",
+      "summary_zh": "斯拉夫吠陀是由波斯尼亚克罗地亚民俗学家史捷潘·韦尔科维奇在19世纪末编纂的一部歌谣和传说集，声称是古代斯拉夫人的文化遗产。然而，它现在被公认为伪造品，旨在支持斯拉夫人民族主义情绪，在那个时代，民族身份正在激烈辩论中。这部作品试图通过虚构的故事和歌曲来创造一个共同的文化遗产，这些故事和歌曲据称已经代代相传。",
+      "country": "Greece 希腊",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "forgery",
+        "nationalism",
+        "slavic"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Veda_Slovena"
+    },
+    {
+      "title_en": "Velchanos",
+      "title_zh": "韦尔克哈诺斯 (Welkhános)",
+      "summary_en": "Velchanos, an ancient Minoan god of vegetation, was central to the Minoan pantheon alongside a Mother Goddess who was both his mother and consort. Their worship involved a sacred marriage, symbolizing the union between earth and sky. As Mycenaean influence grew, Velchanos' cult merged with that of Zeus and Hephaestus, reflecting the complex interplay of deities in ancient Crete.",
+      "summary_zh": "韦尔克哈诺斯是米诺安神话中的植物之神，与一位母亲女神一同构成了米诺安神系的核心。这位母亲女神既是他的母亲也是他的伴侣，他们的崇拜涉及神圣的婚姻仪式，象征着大地和天空之间的结合。随着迈锡尼文明的影响增强，韦尔克哈诺斯的信仰逐渐融合了宙斯和赫菲斯托斯的崇拜，反映了古克里特时期神祇复杂的互动。",
+      "country": "Greece 希腊",
+      "emoji": "🌱",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "vegetation",
+        "mother goddess",
+        "sacred marriage"
+      ],
+      "lat": 37.98,
+      "lng": 23.73,
+      "wiki_en": "https://en.wikipedia.org/wiki/Velchanos"
+    },
+    {
+      "title_en": "Cape Matapan",
+      "title_zh": "马塔潘角",
+      "summary_en": "At the southernmost tip of the Peloponnese, Cape Matapan marks a place steeped in ancient Greek mythology and history. In classical times, it was known as Cape Taenarum, home to the city of Taenarum and its famous temple dedicated to Poseidon. The story goes that Taenarus, the founder-hero, established this sacred site. However, the temple's sanctity was once violated when Spartans killed Helots who had sought refuge there, turning the place into a symbol of great evil for Greeks.",
+      "summary_zh": "马塔潘角是伯罗奔尼撒半岛最南端的地方，这里充满了古希腊的神话和历史。在古典时期，它被称为塔纳罗斯角，那里曾有著名的泰纳鲁姆城和献给波塞冬的神庙。传说中，塔纳鲁斯作为创始人英雄建立了这个圣地。然而，当斯巴达人杀害了寻求庇护的赫洛特人后，这个地方成为了希腊人心中的巨大邪恶之地。",
+      "country": "Greece 希腊",
+      "emoji": "🔥",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 36.385,
+      "lng": 22.48277778,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cape_Matapan",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/泰納龍角"
+    }
+  ]
+}

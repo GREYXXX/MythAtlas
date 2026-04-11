@@ -1,0 +1,970 @@
+{
+  "meta": {
+    "region": "Chinese",
+    "count": 56,
+    "generated": "2026-04-11",
+    "note": "Scraped from Wikipedia, summarized with a local Qwen model via Ollama."
+  },
+  "stories": [
+    {
+      "title_en": "Agriculture in Chinese Mythology",
+      "title_zh": "中国神话中的农业",
+      "summary_en": "In ancient China, agriculture was not only a practical necessity but also a subject of rich mythology. The most famous deity associated with this is Shennong, the Divine Farmer, who taught people how to cultivate crops and use tools. Houji, another agricultural hero, introduced new farming techniques that increased yields. These myths often depict these figures as benevolent deities who brought prosperity through their wisdom and ingenuity. Other tales involve the invention of various implements, the domestication of plants like ginger and radishes, and even events such as the destruction of excessive suns to ensure a balanced climate for farming.",
+      "summary_zh": "在中国古代，农业不仅是生存的必需品，也是丰富的神话主题。最著名的神祇是神农氏，他教导人们耕种作物和使用工具。后稷作为另一位农业英雄，引入了新的耕作技术，提高了产量。这些神话经常描绘这些人物为仁慈的神祇，通过智慧和巧思带来了繁荣。其他故事涉及各种农具的发明、植物如姜和萝卜的驯化以及为了确保适宜的气候而摧毁过多太阳等事件。",
+      "country": "China 中国",
+      "emoji": "🌾",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "agriculture"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Agriculture_in_Chinese_mythology"
+    },
+    {
+      "title_en": "Records of Diverse Matters",
+      "title_zh": "博物志",
+      "summary_en": "The Records of Diverse Matters, compiled by Zhang Hua in the Jin Dynasty (c. 290 CE), is a compendium of Chinese stories about natural wonders and supernatural phenomena. It includes tales from various sources such as early classics, mythology, history, geography, and folklore. One notable myth recorded here involves wild women living south of China without men, adding to the rich tapestry of ancient Chinese legends.",
+      "summary_zh": "《博物志》由晋代张华编撰，汇集了关于自然奇观和超自然现象的中国故事。这些故事来自多种来源，包括早期经典、神话、历史、地理和民间传说。书中记载了一个引人注目的神话：在中国南部，一群没有男人的社会中的野女生活着。这部作品是古代中国文化中不可或缺的一部分。",
+      "country": "China 中国",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "supernatural",
+        "classical"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Bowuzhi"
+    },
+    {
+      "title_en": "Cancong",
+      "title_zh": "蚕叢",
+      "summary_en": "Cancong, with bulging eyes, was a legendary king who founded the ancient Shu kingdom in Sichuan, China. He is revered for his role in establishing Shu culture and civilization, despite the scarcity of historical records about him. Cancong’s legacy lives on through folklore that celebrates his wisdom and leadership.",
+      "summary_zh": "蚕叢，以其突出的眼睛而闻名，是古代蜀国的开国君主。他被尊为建立蜀文化和文明的关键人物，尽管关于他的历史记录很少。蚕叢的故事在民间流传，颂扬了他的智慧和领导能力。",
+      "country": "China 中国",
+      "emoji": "👑",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "kingdom",
+        "culture"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cancong"
+    },
+    {
+      "title_en": "Chinese Creation Myths",
+      "title_zh": "中国创世神话",
+      "summary_en": "In Chinese creation myths, the universe was not created by a single divine entity but through the transformation of qi, an essential life force. The primordial chaos gave way to dual elements of yin and yang, which further divided into various forms of matter and energy. Stories like Pangu, who emerged from chaos and separated heaven and earth, or Fuxi and Nüwa, who created humans after a great flood, illustrate the complex interplay of cosmic forces shaping the world. These myths reflect the Chinese belief in the cyclical nature of existence and the harmonious balance between opposing forces.",
+      "summary_zh": "在中国创世神话中，宇宙并非由单一的神祇创造，而是通过一种基本的生命力——“气”的转化而形成。混沌初开后，阴阳二元对立元素逐渐分化为各种物质和能量。例如，盘古从混沌中诞生并分开了天地；伏羲与女娲在洪荒之后创造了人类，这些故事展示了宇宙间复杂的力量相互作用，塑造了世界。这些神话反映了中国人对存在循环以及对立力量和谐共存的信仰。",
+      "country": "China 中国",
+      "emoji": "🌟",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "dualistic cosmology",
+        "yin and yang",
+        "creation from chaos"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Chinese_creation_myths"
+    },
+    {
+      "title_en": "Chinese Spirit Possession",
+      "title_zh": "中国神灵附体",
+      "summary_en": "In China and Taiwan, spirit possession is a practice where specialists invite Chinese deities to take control of their bodies. These practitioners, known as jitong or shentong, undergo dramatic changes in behavior and physical functions. Notably, during the Boxer Rebellion in the early 1900s, some possessed individuals claimed invulnerability to weapons, showcasing extraordinary feats that captivated both supporters and opponents alike.",
+      "summary_zh": "在中国和台湾，神灵附体是一种让中国神祇控制人体的仪式。这些被称为jitong或shentong的专业人士会经历显著的行为和生理变化。在20世纪初的义和团运动中，一些被附体的人声称自己刀枪不入，展示了令人惊叹的能力，吸引了众多支持者和反对者的关注。",
+      "country": "China 中国",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "ritual",
+        "shamanism",
+        "modern"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Chinese_spirit_possession"
+    },
+    {
+      "title_en": "Chronomancy",
+      "title_zh": "时术",
+      "summary_en": "In ancient China, chronomancers would divine the luckiness or unluckiness of days by consulting calendars and other temporal data. This practice was integral to daily life, guiding when one should embark on ventures or celebrate festivals. The term 'chronomancy' also appears in fiction as a form of magic that allows for supernatural manipulation of time itself.",
+      "summary_zh": "在古代中国，时术师会通过查阅日历来预测某一天的吉凶，并据此指导人们何时出行或庆祝节日。这一实践对于日常生活至关重要。而在虚构作品中，“时术”则被描述为一种能够操控时间本身的魔法。",
+      "country": "China 中国",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "divination"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Chronomancy"
+    },
+    {
+      "title_en": "Chu Silk Manuscript",
+      "title_zh": "楚帛书",
+      "summary_en": "The Chu Silk Manuscript, discovered in a Warring States period tomb in Changsha, China, around 300 BCE, is an ancient text that reveals insights into the astrological and astronomical knowledge of the Chu state. The manuscript, written on silk, provides a glimpse into the spiritual beliefs and practices of this era, offering scholars valuable information about the cultural and intellectual life of the Chu people.",
+      "summary_zh": "楚帛书出土于中国长沙战国时期的楚国墓葬，约公元前300年。这是一份记载了楚国天文学和占星学知识的古文，用丝织品书写而成。该手稿为研究楚国的精神信仰和习俗提供了宝贵的资料，揭示了这一时期楚文化的智慧与思想。",
+      "country": "China 中国",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "astronomy",
+        "astrology"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Chu_Silk_Manuscript"
+    },
+    {
+      "title_en": "Cihang Zhenren",
+      "title_zh": "慈航真人",
+      "summary_en": "Cihang Zhenren is a revered Daoist deity and one of the Three Great Immortals, closely associated with Guanyin. In ancient Chinese folklore, he is depicted as navigating the seas of compassion, often riding on a dragon or a giant turtle. His origins trace back to the Lingbao Sutra and later appear in Fengshen Yanyi, where his male form gradually evolved into the female Guanyin during the Northern and Southern Dynasties period. The merging of Taoist beliefs with Buddhism under the 'Three Religions in One' concept further solidified Cihang Zhenren's role as a compassionate protector.",
+      "summary_zh": "慈航真人是道教三大仙之一，与观世音菩萨密切相关。在古代中国传说中，他航行于慈悲之海上，常骑乘龙或巨龟。他的起源可追溯至《灵宝经》，并在《封神演义》中出现，其男性形象逐渐演变成为南北朝时期的女性观音菩萨。随着‘三教合一’思想的发展，慈航真人的角色进一步巩固为一位慈悲的守护者。",
+      "country": "China 中国",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "buddhism",
+        "taoism",
+        "compassion"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Cihang_Zhenren"
+    },
+    {
+      "title_en": "Enzhugong",
+      "title_zh": "恩主公",
+      "summary_en": "Enzhugong is an honorary title given to various Chinese deities worshipped in Taiwan, particularly within the Fuji Traditions. The most revered deity associated with this title is Guan Sheng Di Jun, known for his benevolence and martial prowess. Temples dedicated to Enzhugong often house multiple deities, celebrating their collective virtues of righteousness and protection.",
+      "summary_zh": "恩主公是台灣民間宗教和道教徒，特別是在福聚道派中供奉的諸神尊榮稱。最受尊敬的是關聖帝君，他以仁慈和武勇聞名。恩主公廟通常供奉多位神祇，慶祝他們共同的正義與保護精神。",
+      "country": "China 中国",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "taiwanese"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Enzhugong"
+    },
+    {
+      "title_en": "Epic of Darkness",
+      "title_zh": "黑暗传",
+      "summary_en": "The Epic of Darkness is a collection of ancient Chinese myths, narrating the creation and history of the world from the birth of Pangu until the historical era. It tells tales of primordial gods and heroes, their struggles against darkness and chaos, and the establishment of order in the universe. Passed down orally for centuries before being written during the Tang dynasty, this epic poem reflects the rich mythology and cultural heritage of ancient China.",
+      "summary_zh": "《黑暗传》是一部记载从盘古开天地到历史时代的古代中国神话集。它讲述了原始神祇和英雄们与黑暗混沌的斗争，以及宇宙秩序的建立。这部史诗在唐代之前以口头形式流传了数个世纪后才被记录下来，反映了中国古代丰富的神话文化和文化遗产。",
+      "country": "China 中国",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "mythology",
+        "creation",
+        "order"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Epic_of_Darkness"
+    },
+    {
+      "title_en": "Fengxi",
+      "title_zh": "封狶",
+      "summary_en": "In Chinese mythology, Fengxi is a fearsome boar-like creature with two heads that roams through dense Morus forests. Legend has it that this monstrous being can summon rain, making him both feared and revered by ancient peoples who sought his favor during droughts.",
+      "summary_zh": "封狶是中国神话中的野猪怪，拥有两个头，栖息在茂密的桑树林中。传说封狶能够召雨，因此既被人们畏惧也受到尊敬，在干旱时期，人们祈求他的恩赐。",
+      "country": "China 中国",
+      "emoji": "🌳",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "monster",
+        "rain deity"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Fengxi_(mythology)"
+    },
+    {
+      "title_en": "Five Grains",
+      "title_zh": "五穀",
+      "summary_en": "In ancient China, the Five Grains—rice, wheat, foxtail millet, proso millet, and soybeans—were considered essential for sustaining life. These crops were not only vital for nourishment but also held significant cultural and spiritual importance. Farmers revered these grains as gifts from the heavens, believing that their successful cultivation ensured prosperity and good fortune for the community.",
+      "summary_zh": "在古代中国，五穀（稻、麦、黍、稷和豆）被视为维持生命的重要作物。这些谷物不仅是人们赖以生存的必需品，还具有重要的文化和精神意义。农民们将这些谷物视为天赐之物，相信它们的成功种植能为社区带来繁荣和好运。",
+      "country": "China 中国",
+      "emoji": "🌾",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "agriculture"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Five_Grains"
+    },
+    {
+      "title_en": "Flood Mythology of China",
+      "title_zh": "大洪水",
+      "summary_en": "In ancient China, a great flood threatened to destroy all life. The myth focuses on heroes who control and tame the waters. One version tells of a hero named Gun, who was tasked by Emperor Yao to build dams and levees but was executed for failing to completely subdue the flood. His son, Yu, took over the mission and successfully managed the floodwaters through a combination of engineering and diplomacy, bringing prosperity to the land. Another narrative involves brother-sister marriages, where a brother and sister repopulate the world after surviving the flood together. These stories reflect the resilience and ingenuity of ancient Chinese people in the face of natural disasters.",
+      "summary_zh": "古代中国，一场大洪水威胁着所有生命。神话讲述了英雄们控制和驯服水的故事。一个版本讲述了一个名叫鲧的英雄，他受尧帝之命建造堤坝但未能完全制服洪水而被处决。他的儿子禹接过任务，并通过工程与外交成功管理了洪水，为土地带来了繁荣。另一个叙述涉及兄妹婚姻，在洪水后他们一起生存下来并重新繁衍世界。这些故事反映了古代中国人面对自然灾害时的坚韧和智慧。",
+      "country": "China 中国",
+      "emoji": "🌊",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "flood",
+        "engineering",
+        "resilience"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Flood_Mythology_of_China"
+    },
+    {
+      "title_en": "Four Symbols",
+      "title_zh": "四象",
+      "summary_en": "In ancient Chinese mythology, the Four Symbols represent the guardians of the cardinal directions: Azure Dragon (east), Vermilion Bird (south), White Tiger (west), and Black Warrior (north). Each symbolizes a season, an emotion, a virtue, and one of the five elements. The Azure Dragon embodies spring and vitality; the Vermilion Bird, summer and passion; the White Tiger, autumn and courage; and the Black Warrior, winter and wisdom. These mythical creatures were believed to protect the heavens and earthly realms, ensuring balance and harmony in the cosmos.",
+      "summary_zh": "中国古代神话中的四象分别是东方的青龙、南方的朱雀、西方的白虎和北方的玄武。青龙象征春天与生机，朱雀代表夏天与热情，白虎寓意秋天与勇气，而玄武则象征冬天与智慧。这些神话生物被认为是守护天界和人间的使者，维持天地间的和谐与平衡。",
+      "country": "China 中国",
+      "emoji": "🐉🔥VERRIDE⚡️❄️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology",
+        "guardians",
+        "seasons"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Four_Symbols"
+    },
+    {
+      "title_en": "Fuji (planchette writing)",
+      "title_zh": "扶乩",
+      "summary_en": "Fuji, a practice in Chinese religions, involves communicating with deities, ancestors, or spirits through a planchette—a wooden or metal stylus. Participants gather around an altar and use a sieve filled with sand to write messages. The deity descends into the medium's body and dictates responses using various writing tools. These messages are shared and printed, fostering community connections and spiritual guidance. Fuji has been practiced since the Song dynasty and is integral in Daoist, folk Chinese, and Buddhist traditions.",
+      "summary_zh": "扶乩是一种在中国宗教中通过一个称为‘扶乩’的木制或金属笔来与神灵、祖先或精灵沟通的实践。参与者围绕着祭坛聚集，使用装满沙子的托盘写字。神灵降入主持者的身体，并利用各种书写工具传达信息。这些信息会被分享和印刷，以促进社区联系并提供精神指导。扶乩自宋朝以来就存在，并在道教、民间中国宗教和佛教传统中发挥着重要作用。",
+      "country": "China 中国",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "ritual",
+        "communication",
+        "spirituality"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Fuji_(planchette_writing)"
+    },
+    {
+      "title_en": "Gate of the Ghosts",
+      "title_zh": "鬼门关",
+      "summary_en": "In Chinese mythology, the Gate of the Ghosts is a fearsome entrance in the Underworld that all souls must traverse on their journey to the realm of the dead. The gate is marked by an imposing pailou with the ominous words 'Gate of the Ghosts' inscribed upon it. As spirits approach, they pause at this threshold, knowing that passage through here marks the end of their mortal lives and the beginning of an eternal existence in the shadowy lands beyond.",
+      "summary_zh": "在中国神话中，鬼门关是通往阴间的恐怖入口。所有亡灵在前往阴间之路时都必须经过这个关口。门口立着一块牌坊，上面刻有“鬼门关”三个大字。当魂魄们接近时，它们会在这一门槛前停下脚步，知道穿过这里就意味着结束了他们的凡人生涯，并开始了永生的阴间生活。",
+      "country": "China 中国",
+      "emoji": "👻",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "ghosts"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Gate_of_the_Ghosts"
+    },
+    {
+      "title_en": "Niaoke Daolin",
+      "title_zh": "鸟窠道林",
+      "summary_en": "Niaoke Daolin, a Tang dynasty Chan Buddhist monk, lived from 741 to 824 CE. Known for his unique practice of meditating on the branches of a coniferous tree, he earned the nickname 'Master Bird's Nest.' His devotion and simplicity in living inspired many followers. A disciple of Jingshan Daoqin, Niaoke Daolin exemplified the austere lifestyle and spiritual quest central to Chan Buddhism.",
+      "summary_zh": "鸟窠道林是唐代的一位禅宗僧人，生于741年，卒于824年。他以在松树上盘腿打坐而闻名，因此被称为‘鸟窠大师’。他的虔诚和简朴生活方式激励了许多追随者。作为尼首座的弟子，鸟窠道林体现了禅宗中苦修与精神追求的核心价值。",
+      "country": "China 中国",
+      "emoji": "🙏",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "meditation",
+        "Chan Buddhism",
+        "Tang dynasty"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Niaoke_Daolin"
+    },
+    {
+      "title_en": "The Eye of the Dragon Princess",
+      "title_zh": "龙无目",
+      "summary_en": "In ancient China, during a severe drought in Xinzhou, a dragon princess named Long Wu Mu fell in love with Lu Haisheng, a government official. To bring rain to her people and save them from famine, she agreed to sacrifice one of her eyes to the heavens. Her act of selflessness brought much-needed rainfall but left her with only one eye. The story celebrates themes of love, sacrifice, and the power of nature.",
+      "summary_zh": "古代中国，新州遭遇严重旱灾。龙公主长无目爱上了官员鲁海生。为了拯救人民免于饥荒，她同意牺牲一只眼睛以求降雨。她的无私奉献带来了急需的雨水，但也使她只剩下了一只眼睛。这个故事颂扬了爱情、牺牲和自然力量的主题。",
+      "country": "China 中国",
+      "emoji": "🐉",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "love",
+        "sacrifice",
+        "nature"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/The_Eye_of_the_Dragon_Princess"
+    },
+    {
+      "title_en": "The Foolish Old Man Removes the Mountains",
+      "title_zh": "愚公移山",
+      "summary_en": "In ancient China, there lived an old man named Yu Gong who was frustrated by two towering mountains blocking his path to the sea. Despite being mocked for his foolishness, Yu Gong resolved to remove the mountains with his bare hands. He began digging day and night, inspiring his family and neighbors to join him in this monumental task. Over many years, their perseverance moved the gods, who were impressed by their unwavering willpower. The gods then sent two strong spirits to clear away the mountains, revealing a path that connected Yu Gong’s village to the sea. This fable teaches us about the power of persistence and determination.",
+      "summary_zh": "古代中国，愚公面对两座高山阻隔了他的去路而感到沮丧。尽管受到嘲笑，他决心用自己的双手移山。他日复一日地挖掘，激励家人和邻居加入他的行列。经过许多年，他们的坚持感动了神灵，被他们坚定不移的决心所打动。于是，神灵派来两位大力士将两座大山移走，开辟了一条通往大海的道路。这个故事告诉我们坚持不懈的力量。",
+      "country": "China 中国",
+      "emoji": "💪",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "perseverance",
+        "determination"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/The_Foolish_Old_Man_Removes_the_Mountains"
+    },
+    {
+      "title_en": "Great Flood (China)",
+      "title_zh": "大禹治水",
+      "summary_en": "In ancient China, a great flood plagued the land for generations, displacing people and causing famine and storms. Emperor Yao tasked Gun with controlling the waters but his efforts failed, leading to his execution. His son Yu took up the challenge and spent years building canals and dams, eventually taming the floods and restoring order. This heroic tale is central to Chinese culture and history, symbolizing perseverance and leadership.",
+      "summary_zh": "古代中国，大水肆虐大地数十年，人们流离失所，饥荒和风暴接踵而至。尧帝命鲧治水但失败被处决，其子禹继任治水重任，历经数年修建河渠堤坝，最终平息了洪水，恢复了秩序。这个英雄故事是中华文化和历史的核心，象征着坚韧与领导力。",
+      "country": "China 中国",
+      "emoji": "🌊",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "flood",
+        "perseverance",
+        "leadership"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Great_Flood_(China)"
+    },
+    {
+      "title_en": "Great Flood and Procreation",
+      "title_zh": "大洪水与繁衍",
+      "summary_en": "In ancient China, a great flood almost wiped out all of humanity. Only a brother and sister survived. They were forced to marry each other in order to repopulate the earth. In one version, their children emerged from a lump of meat; in another, they came from a gourd or melon that was cut open. This myth is told by more than 40 ethnic groups across China, and its oral tradition may be much older than written records.",
+      "summary_zh": "古代中国，一场大洪水几乎毁灭了整个人类。只有兄妹二人幸存下来。他们被迫结婚以繁衍后代。在一种版本中，他们的孩子是从一块肉里长出来的；而在另一种版本中，则是通过切开葫芦或瓜而诞生的。这个神话在中国超过40个民族中流传，并且其口头传统可能比书面记录要古老得多。",
+      "country": "China 中国",
+      "emoji": "🌊👨‍👩‍👧‍👦🌱",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Great_flood_and_procreation"
+    },
+    {
+      "title_en": "Great Book of Marvels",
+      "title_zh": "广异记",
+      "summary_en": "The Great Book of Marvels is a collection of fantastical tales compiled by Dai Fu during the Tang dynasty. It recounts a myriad of extraordinary events and supernatural occurrences, blending historical anecdotes with mythological elements. One story tells of a wise old man who predicts the future through dreams, while another describes a magical journey to an otherworldly realm where one encounters talking animals and enchanted landscapes. These tales offer insights into the cultural beliefs and societal values of 8th-century China.",
+      "summary_zh": "《广异记》是唐代诗人戴孚所著的一部传奇故事集。书中记载了众多奇异事件和超自然现象，将历史轶事与神话元素巧妙结合。其中一则讲述了通过梦境预知未来的智者的故事；另一则描述了一次神奇的旅行，主人公进入了一个充满会说话的动物和仙境般景观的异世界。这些故事反映了8世纪中国社会的文化信仰和价值观念。",
+      "country": "China 中国",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Guang_yi_ji"
+    },
+    {
+      "title_en": "Guhuoniao",
+      "title_zh": "姑獲鳥",
+      "summary_en": "In Chinese folklore, the Guhuoniao is a mysterious bird that appears during late summer and early autumn. It is said to prey on children, particularly those who are sick or weak. The bird's name translates to 'wench bird,' hinting at its predatory nature towards young girls. People would often place bowls of rice outside their doors to lure the Guhuoniao away from their homes, believing that by doing so, they could protect their children from harm.",
+      "summary_zh": "姑獲鳥是中國民間傳說中出現在夏末秋初的神秘鳥類，據說它會捕食兒童，特別是那些病弱的孩子。它的名字意為‘wench bird’，暗示了它對年輕女孩的掠奪性。人們常常在門外放置碗米來引誘姑獲鳥離開家園，相信這樣可以保護自己的孩子免受傷害。",
+      "country": "China 中国",
+      "emoji": "✍️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "children",
+        "protection"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Guhuoniao"
+    },
+    {
+      "title_en": "Huangmei Dawang",
+      "title_zh": "黃眉大王",
+      "summary_en": "In the epic Chinese novel 'Journey to the West,' Huangmei Dawang, a celestial being turned demon, poses a formidable challenge to Sun Wukong and his companions. Once Maitreya Buddha's pageboy, he stole two powerful treasures and fled to the mortal world. With immense power, he defeats many heavenly beings before facing off against the Monkey King. His story is a tale of rebellion and the consequences of overstepping one’s bounds.",
+      "summary_zh": "在《西游记》这部中国古典小说中，黄眉大王原本是弥勒佛的侍者，因厌倦天界的职责而偷走两件神器逃到人间。他拥有强大的力量，击败了许多天神，最终与孙悟空展开对决。他的故事讲述了叛逆和逾越界限所要付出的代价。",
+      "country": "China 中国",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Huangmei_Dawang"
+    },
+    {
+      "title_en": "Imperial Examination",
+      "title_zh": "科举",
+      "summary_en": "In ancient China, the imperial examination was a rigorous test designed to select the most talented individuals for government service. Candidates from all social classes could participate, and success led to prestigious positions in the bureaucracy. This system, deeply rooted in Confucian philosophy, aimed to create an ideal meritocratic society where only the wisest and most learned were chosen to govern. The examination process was so revered that it became a central myth of Chinese culture, symbolizing fairness and opportunity.",
+      "summary_zh": "古代中国，科举制度是一种严格的考试，旨在选拔最有才华的人担任政府职务。来自各个阶层的候选人可以参加，成功者将获得显赫的官职。这一系统深深植根于儒家哲学中，旨在创建一个理想中的公平社会，在这里只有最智慧和最有学问的人才能被选为管理者。科举制度因此成为了中国文化的核心神话，象征着公正与机遇。",
+      "country": "China 中国",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "classical",
+        "education",
+        "philosophy"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Imperial_examination_in_Chinese_mythology"
+    },
+    {
+      "title_en": "In Search of the Supernatural",
+      "title_zh": "搜神记",
+      "summary_en": "In Search of the Supernatural, compiled by Gan Bao in the 4th century, is a collection of tales about gods, ghosts, and other supernatural phenomena. The stories, written in the zhiguai and chuanqi styles, offer a glimpse into ancient Chinese beliefs and legends. These narratives, passed down through generations, paint vivid pictures of a world where the boundaries between the natural and the supernatural are blurred.",
+      "summary_zh": "《搜神记》由东晋时期的干宝编纂，是一部记载神仙鬼怪故事的著作。这些故事以志异和传奇的形式呈现，反映了古代中国关于神灵、鬼怪及其他超自然现象的信仰与传说。这些叙述生动地描绘了一个世界，在那里自然与超自然之间的界限模糊不清。",
+      "country": "China 中国",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "supernatural",
+        "ghosts"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/In_Search_of_the_Supernatural"
+    },
+    {
+      "title_en": "Jade Books in Heaven",
+      "title_zh": "玉书在天宫",
+      "summary_en": "In ancient China, the Jade Books were believed to exist in the divine heavens, playing a crucial role in the creation and maintenance of the universe. These mystical texts, including the 'Five-Ancients Jade Chapters' and the 'Jade Tablets of Wisdom Manuscript,' contained esoteric knowledge about spirits and destiny. The tablets in the Azure palace recorded the names of those destined to ascend to the heavens, reflecting a complex cosmology where divine wisdom was preserved and passed down through generations.",
+      "summary_zh": "在中国古代传说中，玉书存在于诸天神宫之中，对宇宙的创造与维持起着至关重要的作用。这些神秘的文本包括‘五老玉篇’和‘智慧手稿玉简’，记载了关于灵体与命运的秘密知识。紫霄宫中的玉简记录了那些注定升天者的姓名，反映了这样一个复杂的宇宙观：神圣的知识被保存并代代相传。",
+      "country": "China 中国",
+      "emoji": "📖✨",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "cosmology",
+        "esoteric",
+        "divine"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Jade_Books_in_Heaven"
+    },
+    {
+      "title_en": "Jiuli Tribe",
+      "title_zh": "九黎",
+      "summary_en": "The Jiuli tribe, a mythical group of 81 clans in ancient China, lived on the fertile plains of the Yellow and Yangtze rivers around 2500 BC. Led by Chiyou, they engaged in fierce battles with their neighbors over farming disputes and territorial claims. The most famous conflict was at Zhuolu, where Chiyou was defeated and killed by the combined forces of the Yan Emperor and the Yellow Emperor. This battle marked a turning point for the Jiuli tribe, leading to their eventual downfall.",
+      "summary_zh": "九黎是约公元前2500年活跃在中国黄河流域和长江流域的一个由81个氏族组成的部落。他们与邻近部落因农耕争端和领土纠纷而展开激烈战斗。最著名的战役发生在涿鹿，九黎的首领蚩尤被炎帝和黄帝联军击败并杀身亡。这场战斗标志着九黎部落的衰落。",
+      "country": "China 中国",
+      "emoji": "✍️",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "tribal",
+        "conflict"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Jiuli_tribe"
+    },
+    {
+      "title_en": "LGBTQ themes in Chinese mythology",
+      "title_zh": "中国神话中的同性恋主题",
+      "summary_en": "Chinese mythology is rich with stories reflecting ancient perspectives on sexual and gender variance, rather than modern views. Tales often involve characters changing their gender or engaging in same-sex relationships. For instance, the goddess Nüwa and the immortal Xi Wangmu are said to have had a romantic relationship, while the legendary figure Huo Yi transformed into a woman and married another man. These stories highlight the acceptance of diverse sexual orientations and gender identities within traditional Chinese culture.",
+      "summary_zh": "中国神话中充满了反映古代对性取向和性别认同多样性的故事，而不是现代观点。这些传说经常涉及角色改变性别或进行同性关系。例如，女娲娘娘与西王母之间据说有过一段浪漫的关系，而传奇人物霍伊则化身女子并娶了另一男子为妻。这些故事展示了传统中国文化中对多元性取向和性别认同的接纳。",
+      "country": "China 中国",
+      "emoji": "젠더 👨‍👩‍👧‍👦",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "gender",
+        "homosexuality",
+        "mythology"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/LGBTQ_themes_in_Chinese_mythology"
+    },
+    {
+      "title_en": "Langgan",
+      "title_zh": "琅玕",
+      "summary_en": "In ancient Chinese mythology, the Langgan is a gemstone of mystery and magic. It is said to grow on the mythical Langgan Tree of Immortality at Kunlun Mountain in the western paradise. This tree bears fruits that grant eternal life to those who consume them. The Langgan also refers to an alchemical elixir used by Taoist practitioners seeking immortality, symbolizing the quest for longevity and spiritual perfection.",
+      "summary_zh": "在中国古代神话中，琅玕是一种充满神秘与魔力的宝石。据说它生长在昆仑山西方极乐世界的琅玕树上，这棵树结出的果实能赋予食用者永生。此外，琅玕还指代一种道教炼丹家用来寻求长生不老的丹药，象征着追求长寿和精神完美的旅程。",
+      "country": "China 中国",
+      "emoji": "💎🌱✨",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "immortality",
+        "alchemy",
+        "Taoism"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Langgan"
+    },
+    {
+      "title_en": "Lanke",
+      "title_zh": "爛柯(山)",
+      "summary_en": "In the misty mountains of ancient China, there lived a woodcutter named Lanke who was known for his skill in playing board games. One day, while tending to his duties on Mount Hua, he stumbled upon two immortal Xians engaged in a game of Go. Fascinated by their play, Lanke watched for hours until he lost track of time. When he finally returned home, centuries had passed and the world around him was unrecognizable. His family and friends were long gone, and his axe handle had rotted away. Lanke's tale became a legend, symbolizing the passage of time and the transient nature of life.",
+      "summary_zh": "古代中国，有一位樵夫名叫爛柯。他以擅长弈棋著称。一天，他在華山砍柴时，遇见两位仙人正在下围棋。被棋局吸引的爛柯，一坐就是數小時，竟忘了時間。當他回到家中時，發現周圍的一切都已改變，家人和朋友都不見了，他的斧柄也早已腐朽。爛柯的故事傳開後，成為一個寓言，表達著時間的流逝和生命的瞬息萬變。",
+      "country": "China 中国",
+      "emoji": "传奇游戏",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "board game",
+        "immortal",
+        "time"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Lanke_(legend)"
+    },
+    {
+      "title_en": "Li A",
+      "title_zh": "李阿",
+      "summary_en": "In ancient China, Li A was a revered Daoist immortal and diviner whose extraordinary longevity earned him the title 'Sir Eight-Hundred-Years-Old.' He founded the Way of the Li Family, a religious sect that thrived in southern China during the Six Dynasties period. His wisdom and supernatural abilities made him a central figure in local folklore, though his identity became muddled with other immortals like Li Babai and Li Tuo. Legends tell of his miraculous powers and profound knowledge, making him an enduring symbol of longevity and spiritual prowess.",
+      "summary_zh": "在古代中国，李阿是一位受人尊敬的道教仙人和占卜师，因其非凡的长寿而获得了‘八百歲公’的称号。他创立了李氏道派，在六朝时期的南方地区广为流传。他的智慧和超自然的能力使他在当地民间传说中成为中心人物，尽管他的身份与另一位仙人李八百以及骗子李脱混淆在一起。关于他的奇迹般的力量和深厚的学识的故事代代相传，使他成为了长寿和精神力量的象征。",
+      "country": "China 中国",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "immortal",
+        "divination",
+        "longevity"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Li_A"
+    },
+    {
+      "title_en": "Li Babai",
+      "title_zh": "李八百",
+      "summary_en": "Li Babai, also known as Li A or Babaisui Gong, was a legendary Daoist elixir master who supposedly lived for over eight hundred years. He founded the Way of the Li Family school of religious Daoism and became a revered figure in Chinese folklore. However, his name was later adopted by two unscrupulous practitioners: Li Kuan, an early 4th-century faith healer who died from the plague, and Li Tuo, a sorcerer executed for plotting against the Jin dynasty in 324 CE. Despite their dubious intentions, the name Li Babai persisted as a symbol of longevity and spiritual prowess.",
+      "summary_zh": "李八百，也被称为李阿或八百歲公，是一位传说中活了超过八百年之久的道家炼丹师。他创立了李氏宗派的宗教道教，并成为中国的民间传说中的一个崇敬人物。然而，他的名字后来被两个不诚实的修行者所使用：李寬，一位在4世纪初因瘟疫而死的信仰治疗者；以及李脫，在324年因密谋反对晋朝而被处决的巫师。尽管他们的意图可疑，但“李八百”这个名字仍然象征着长寿和精神上的成就。",
+      "country": "China 中国",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "legendary",
+        "immortality",
+        "Daoism"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Li_Babai"
+    },
+    {
+      "title_en": "Marquis of Sui's Pearl",
+      "title_zh": "隨侯珠",
+      "summary_en": "In ancient China during the Warring States period, the Marquis of Sui saved a snake from a hunter. Grateful for his life, the snake presented him with a luminous pearl that glowed even in darkness. This gem became a symbol of undervalued treasures and was often paired with another precious artifact called the Heshibi. The story of the Marquis of Sui's Pearl is an early example of the 'Grateful Animals' motif in Chinese folklore, illustrating how kindness can be rewarded with extraordinary gifts.",
+      "summary_zh": "春秋战国时期，随侯救了一条蛇。蛇感激不已，赠予随侯一颗发光的珍珠，即使在黑暗中也能闪烁光芒。这颗珍珠后来成为低估珍宝的象征，并经常与另一件珍贵文物——和氏璧一起出现。随侯珠的故事是早期中国民间传说中的‘感恩动物’主题的一个例子，展示了善行可以得到非凡回报。",
+      "country": "China 中国",
+      "emoji": "💎🐍",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "grateful animals"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Marquis_of_Sui's_pearl"
+    },
+    {
+      "title_en": "Miscellaneous Morsels from Youyang",
+      "title_zh": "酉陽雜俎",
+      "summary_en": "In the 9th century during the Tang Dynasty, Duan Chengshi compiled 'Miscellaneous Morsels from Youyang,' a collection of tales and anecdotes. One of the most famous stories within is that of Ye Xian, a Cinderella-like tale set in the late 3rd century BC. A poor girl named Ye Xian loses her shoe at a festival, which eventually leads to her meeting a king on an island. The story, told by Duan's servant Li Shiyuan from Nanning, is a testament to the rich oral tradition of Chinese folklore.",
+      "summary_zh": "'酉陽雜俎' 是唐代段成式所編纂的一部叢錄，內容包羅萬象。其中最著名的便是葉仙的故事，這是一個與灰姑娘類似的傳說，發生在公元前3世紀末。貧困的女孩葉仙參加了一個節日，在那裡她遺失了鞋子，最終這個鞋找到了一個島上的國王。這個故事由段成式的僕人李士元從南寧口述而來，是中國民間傳奇的豐富傳統之一。",
+      "country": "China 中国",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "folklore"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Miscellaneous_Morsels_from_Youyang",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/酉阳杂俎"
+    },
+    {
+      "title_en": "Money Tree",
+      "title_zh": "搖錢樹",
+      "summary_en": "In ancient China, the Money Tree was believed to be a sacred tree that could grant wealth and prosperity. Originating from primitive societies where trees were revered, this myth connects paradise with earthly fortune through coins. The concept emerged as early as the Han Dynasty, with cast-bronze money trees found in Sichuan tombs symbolizing the link between heaven and earth.",
+      "summary_zh": "在中国古代，搖錢樹被认为是一种神圣的树，能够带来财富和繁荣。这一神话源自远古时期人们崇拜树木的时代，通过将天堂与人间财富联系起来，摇钱树将天界与人间相连。该概念最早可以追溯到汉代，在四川的墓葬中发现了铸铜摇钱树，象征着天地之间的联系。",
+      "country": "China 中国",
+      "emoji": "💰🌳",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "fortune",
+        "tree",
+        "Han Dynasty"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Money_tree_(myth)"
+    },
+    {
+      "title_en": "Nieh-ching-t'ai",
+      "title_zh": "孽镜台",
+      "summary_en": "In Chinese mythology, Nieh-ching-t'ai is a mystical mirror located in Diyu, the realm of the dead. This reflective surface reveals the true nature and past lives of souls, exposing their wicked deeds and ensuring they face retribution for their sins. It serves as a grim reminder of karma's unyielding justice.",
+      "summary_zh": "孽镜台是中國民間傳說中位於地獄的一面魔鏡，能映照出靈魂的真實本性及其過去的生命，揭露他們的罪行並使其受到報應。它提醒著因果不虛的道理。",
+      "country": "China 中国",
+      "emoji": "👻",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "karma",
+        "hell"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Nieh-ching-t'ai"
+    },
+    {
+      "title_en": "Notes of the Thatched Abode of Close Observations",
+      "title_zh": "閱微草堂筆記",
+      "summary_en": "In the Qing Dynasty, scholar Ji Yun compiled a collection of supernatural stories from friends and colleagues, as well as his own experiences. One tale recounts how he once encountered a mysterious old man who could predict future events with uncanny accuracy. Another story tells of a haunted house that would only appear to those who were lost or in despair. These tales, recorded in the Notes of the Thatched Abode of Close Observations, offer a glimpse into the cultural beliefs and superstitions of 18th-century China.",
+      "summary_zh": "清代学者纪昀编纂了《阅微草堂笔记》，收录了许多奇闻异事。其中一则讲述他偶遇一位能预知未来的老者，另一则描述了一座只有迷路或绝望的人才能见到的鬼屋。这些故事反映了18世纪中国社会的信仰和迷信。",
+      "country": "China 中国",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "supernatural"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Notes_of_the_Thatched_Abode_of_Close_Observations"
+    },
+    {
+      "title_en": "Red Thread of Fate",
+      "title_zh": "姻缘红线",
+      "summary_en": "In Chinese folklore, the red thread of fate connects two souls destined for each other, regardless of time and circumstance. According to legend, this invisible red cord is tied around both parties' ankles by the lunar matchmaker god Yue Lao. The thread ensures that despite any obstacles, these lovers will find their way back to one another. In modern times, it often symbolizes a special bond between romantic partners, though its origins remain rooted in ancient beliefs of destiny and marriage.",
+      "summary_zh": "在中国的传说中，姻缘红线将注定成为情侣的灵魂相连。据传，这条看不见的红色细线由月老神在月下系在两人的脚踝上。无论时间和环境如何变化，这条神奇的绳索都不会断裂，确保这对恋人最终会相遇。尽管现代常将其视为浪漫伴侣之间特殊纽带的象征，但其根源仍根植于古代关于命运和婚姻的信仰。",
+      "country": "China 中国",
+      "emoji": "❤️🔗",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "love",
+        "destiny",
+        "marriage"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Red_thread_of_fate"
+    },
+    {
+      "title_en": "Battle of Zhuolu",
+      "title_zh": "涿鹿之战",
+      "summary_en": "The Battle of Zhuolu was a legendary conflict in ancient China, fought between the Yanhuang tribes led by the Yellow Emperor and the Jiuli tribes under Chiyou. The battle took place near present-day Hebei and Shanxi provinces around 2500 BC. Despite its mythical status, it is often cited as one of the earliest recorded battles in Chinese history. The Yellow Emperor emerged victorious, a victory that solidified his leadership and marked a pivotal moment in early Chinese mythology.",
+      "summary_zh": "涿鹿之战是传说中发生在约公元前2500年的古代中国的一场战斗，由黄帝领导的炎黄部落与蚩尤领导的九黎部落交战。这场战斗发生在现今河北省和山西省附近地区。尽管其具有神话色彩，但常被视为最早有记录的中国历史之一。黄帝在这场战斗中获胜，巩固了他的领导地位，并标志着早期中国神话中的一个重要时刻。",
+      "country": "China 中国",
+      "emoji": "⚔️",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Battle_of_Zhuolu"
+    },
+    {
+      "title_en": "Record of Gleanings",
+      "title_zh": "拾遺記",
+      "summary_en": "Shi Yi Ji is a collection of myths and legends compiled by Wang Jia, a Taoist scholar from the Eastern Jin dynasty. It includes tales about ancient Chinese history that are not found in official records. One notable story tells of Yu the Great, who with the help of a yellow dragon and a black turtle, shaped the landscape of China and named its geographical features. These stories offer insights into early Chinese mythology and folklore.",
+      "summary_zh": "《拾遺記》是东晋道士王嘉编撰的一部神话与传说集。其中记载了许多未见于正史的古代中国历史故事，如大禹治水的故事中，他借助黄色龙和黑色龟的帮助，塑造了中国的地貌并为其命名。这些故事为早期中国神话与民间传说提供了宝贵的见解。",
+      "country": "China 中国",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythology"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Shi_Yi_Ji"
+    },
+    {
+      "title_en": "Sinking City Myth",
+      "title_zh": "沉城传说",
+      "summary_en": "In ancient China, when floods threatened entire cities, the gods would often send a sign of hope: one or two survivors who were saved due to their benevolent acts. Among these stories is that of an old lady or a devoted son who was spared by divine intervention. The city itself would sink, with a blood-crying statue—often a stone lion or tortoise—weeping as the waters rose. These tales serve as warnings and reminders of the power of virtue in the face of nature’s wrath.",
+      "summary_zh": "在中国古代，当洪水威胁到整个城市时，诸神常常会派送希望的信号：因善行而获救的一位或两位幸存者。其中有一个故事讲述了一位老妇人或孝子因善行被神明所拯救。这座城市沉入水中，血泪石狮或龟雕像在水面上哭泣，见证着洪水的威力与人性的光辉。",
+      "country": "China 中国",
+      "emoji": "🌊",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "flood",
+        "survival",
+        "virtue"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Sinking_city_myth"
+    },
+    {
+      "title_en": "South-pointing Chariot",
+      "title_zh": "指南車",
+      "summary_en": "In ancient China, the south-pointing chariot was a remarkable invention that guided warriors and travelers with its unerring compass-like arm. The earliest reliable version was crafted by Ma Jun during the Three Kingdoms period. This two-wheeled cart featured a figure with an outstretched arm that always pointed south, no matter how the vehicle turned. It worked through a complex mechanism that adjusted the pointer to counteract any turns, ensuring it remained true to its course. The chariot was not only used for navigation but also as a mobile fortress on battlefields, providing protection for sappers working beneath city walls.",
+      "summary_zh": "古代中國的指南車是一種精妙的發明，能夠引導戰士和旅行者。最早可靠的版本由三国时期的马钧制造。这种两轮车配备了一个伸出的手臂，无论车辆如何转弯，手臂始终指向南方。它通过复杂的机制调整指针来抵消任何转向，确保其始终保持正确的方向。指南車不仅用于导航，还在战场上用作移动堡垒，为挖掘城墙下方的士兵提供保护。",
+      "country": "China 中国",
+      "emoji": "🚗",
+      "type": "legend",
+      "tags": [
+        "ancient",
+        "mechanical",
+        "navigation"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/South-pointing_chariot"
+    },
+    {
+      "title_en": "Strange Tales from a Chinese Studio",
+      "title_zh": "聊斋志异",
+      "summary_en": "Strange Tales from a Chinese Studio is a collection of over 500 stories written by Pu Songling during the Qing dynasty. These tales, blending reality and fantasy, explore themes of love, revenge, and moral dilemmas. Through vivid narratives, Pu critiqued societal issues with subtle humor and wit, making his work both entertaining and thought-provoking.",
+      "summary_zh": "《聊斋志异》是清代蒲松龄所著的一部短篇小说集，共收录了五百多篇故事。这些故事将现实与幻想巧妙结合，探讨爱情、复仇和道德困境等主题。通过生动的叙述，蒲松龄以含蓄幽默的方式批判社会问题，使作品既引人入胜又发人深省。",
+      "country": "China 中国",
+      "emoji": "📖",
+      "type": "epic",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Strange_Tales_from_a_Chinese_Studio"
+    },
+    {
+      "title_en": "The Broken Mirror Restored",
+      "title_zh": "破镜重圆",
+      "summary_en": "In the late 6th century, during the transition from Northern and Southern dynasties to the Sui dynasty, an aristocratic couple was separated. Legend has it that their love was so pure that even a broken mirror could be magically restored, symbolizing their reunion. The story spread widely in Chinese literature and became an idiom for happy reunions of separated lovers.",
+      "summary_zh": "在南北朝向隋朝过渡的晚6世纪，一位贵族夫妇被分离。传说他们的爱情如此纯洁，以至于即使破碎的镜子也能神奇地修复，象征着他们的重逢。这个故事广泛流传于中国文学中，并成为描述分离后幸福重聚恋人的成语。",
+      "country": "China 中国",
+      "emoji": "💔✨",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "romance"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/The_Broken_Mirror_Restored"
+    },
+    {
+      "title_en": "Three Sovereigns and Five Emperors",
+      "title_zh": "三皇五帝",
+      "summary_en": "The Three Sovereigns and Five Emperors are revered figures in Chinese mythology, representing the earliest era of civilization. The three sovereigns, including Fuxi, Nüwa, and Shennong, were demigods who taught humans essential skills like agriculture and medicine. The five emperors, such as Huangdi (the Yellow Emperor), were moral exemplars whose rule was characterized by harmony between humans and the divine. These figures are seen as the founders of Chinese culture and ethics, their wisdom and virtue shaping the early history of China.",
+      "summary_zh": "三皇五帝是中国神话中最早文明时期的代表人物。三位始祖，包括伏羲、女娲和神农，是半神半人的存在，他们教授人类农业和医药等基本技能。五位帝王，如黄帝，都是道德的典范，在他们的统治下，人与神之间保持着和谐的关系。这些人物被视为中华文化的创始人，他们的智慧和美德塑造了中国早期的历史。",
+      "country": "China 中国",
+      "emoji": "📖",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "sage",
+        "legendary",
+        "agriculture",
+        "medicine"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Three_Sovereigns_and_Five_Emperors",
+      "wiki_zh": "https://zh.wikipedia.org/wiki/三皇五帝"
+    },
+    {
+      "title_en": "Timeline of Chinese Mythology",
+      "title_zh": "中国神话时间轴",
+      "summary_en": "Chinese mythology begins with P'an-Ku, who created the world from chaos. This timeline spans over 36,000 years until around 2000 BC when Yu the Great successfully controlled a great flood. Later myths include those of the Eight Immortals, born during the Tang or Song dynasties.",
+      "summary_zh": "中国神话从盘古开天辟地开始，历经36,000年，直到约公元前2000年大禹治水成功。后来的传说包括八仙的故事，他们多生于唐朝或宋朝。",
+      "country": "China 中国",
+      "emoji": "🔥",
+      "type": "myth",
+      "tags": [
+        "ancient"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Timeline_of_Chinese_mythology"
+    },
+    {
+      "title_en": "Tubo",
+      "title_zh": "土伯",
+      "summary_en": "In Chinese mythology, Tubo serves as the warden of Youdu, the capital city of Hell. His role is to oversee and manage the underworld, ensuring that souls follow their proper paths after death. Although he is a vassal under Houtu, some scholars believe he may have been the primordial ruler of the netherworld before his subjugation.",
+      "summary_zh": "在中国神话中，土伯是阴曹地府都城有都的看守者。他的职责是管理冥界，确保亡魂遵循正确的道路。尽管他是后土的臣子，但有些学者认为，在被征服之前，他可能是冥界的原始统治者。",
+      "country": "China 中国",
+      "emoji": "👻",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "hell",
+        "underworld"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Tubo_(mythology)"
+    },
+    {
+      "title_en": "Twelve Ornaments",
+      "title_zh": "十二章",
+      "summary_en": "The Twelve Ornaments are a set of ancient Chinese symbols that adorned the imperial robes of China's emperors, signifying their authority and power. These ornate designs included motifs like dragons, phoenixes, and suns, each with its own profound meaning. Embroidered on the emperor’s ceremonial garments, these symbols not only reflected his divine right to rule but also served as a visual representation of the harmony between heaven and earth.",
+      "summary_zh": "十二章是中国古代皇帝服饰上的装饰图案，象征着皇权和权力。这些精美的图案包括龙、凤、日等元素，每个都有其深刻的含义。绣在皇帝的朝服上，这些符号不仅反映了他统治的神圣权利，还体现了天地之间的和谐。",
+      "country": "China 中国",
+      "emoji": "👑",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "symbols",
+        "imperial"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Twelve_Ornaments"
+    },
+    {
+      "title_en": "Ulkāmukha Pretarāja",
+      "title_zh": "焰口鬼王",
+      "summary_en": "In the Buddhist pantheon, Ulkāmukha Pretarāja is a fierce manifestation of Avalokiteśvara, the Bodhisattva of compassion. He appears to alleviate the suffering of beings trapped in the preta realm, where hunger and thirst are constant companions. With his fiery face and wrathful expression, he commands respect and fear, yet his purpose is to deliver salvation and ease the torments of those souls. His presence is a reminder that even in the most dire circumstances, there is hope for redemption.",
+      "summary_zh": "焰口鬼王是大慈大悲观世音菩萨的忿怒化身，出现在饿鬼道中的众生面前，以解除他们的饥渴之苦。他面目如火，表情威严，令人敬畏，但其目的是为了拯救这些灵魂，给予他们解脱与安慰。他的存在提醒人们，在最艰难的情况下，仍然有获得救赎的希望。",
+      "country": "China 中国",
+      "emoji": "🔥🙏",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "buddhism"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ulkāmukha_Pretarāja"
+    },
+    {
+      "title_en": "Wen Wang Gua",
+      "title_zh": "文王卦",
+      "summary_en": "The Wen Wang Gua is an ancient Chinese divination method that dates back to the Han dynasty. It uses trigrams and their correlation with the Celestial Stems and Earthly Branches of the Chinese calendar to interpret the lines of hexagrams in the I Ching. This technique, known by various names such as Liu Yao or Wu Xing Yi, was developed by Jing Fang and remains popular in Southeast Asia today.",
+      "summary_zh": "文王卦是汉代的一种占卜方法，它通过将三画卦与中国的天干地支相结合来解释《易经》中的六爻。这一技术由京房发展而来，并以其五行变化的逻辑为基础，在东南亚广为流传。",
+      "country": "China 中国",
+      "emoji": "📖",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "classical"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Wenwanggua"
+    },
+    {
+      "title_en": "Xirang",
+      "title_zh": "息壤",
+      "summary_en": "In ancient China, Xirang was a miraculous soil capable of expanding endlessly. During the Great Flood, Gun and Yu the Great sought to control the rising waters. With the help of Xirang, they were able to build levees that grew as needed, eventually containing the floodwaters and saving countless lives. The legend speaks of Xirang's divine power and its crucial role in one of China’s most significant mythical battles against nature.",
+      "summary_zh": "在中国古代，息壤是一种神奇的土壤，能够不断生长扩大。在大洪水时期，Gun和大禹试图控制不断上涨的水位。借助息壤的帮助，他们建造了可以自动增长的堤坝，最终成功遏制了洪水，拯救了无数生命。这个传说讲述了息壤的神力及其在中国历史上最为重要的与自然抗争之战中的关键作用。",
+      "country": "China 中国",
+      "emoji": "🌊",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "flood",
+        "legend"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Xirang"
+    },
+    {
+      "title_en": "Descendants of Yan and Huang",
+      "title_zh": "炎黃子孫",
+      "summary_en": "The term 'Descendants of Yan and Huang' refers to the Chinese people, tracing their ancestry back to two legendary figures: Yandi (the Flame Emperor) and Huangdi (the Yellow Emperor). These ancient rulers are revered as the founders of the Huaxia people, who later became known as the Han. Their stories, though mythical, have deeply influenced Chinese culture and identity, symbolizing a shared heritage that binds the nation together.",
+      "summary_zh": "‘炎黃子孫’一詞代表中國人，追溯其血統至兩位傳說中的君主：炎帝（火神）和黃帝（黃帝）。這兩位古代君主被視為華夏民族的創始者，後來成為漢族。雖然這些故事是傳說性的，但它們深深影響著中國的文化和身份認同，象征著一個共同的遺產將國家團結在一起。",
+      "country": "China 中国",
+      "emoji": "🔥✍️",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "mythology",
+        "ethnicity",
+        "identity"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Yan_Huang_Zisun"
+    },
+    {
+      "title_en": "Yao Grass",
+      "title_zh": "瑶草",
+      "summary_en": "In ancient China, the mystical Yao Grass was a legendary plant believed to possess miraculous healing properties. According to myth, it could restore vitality and prolong life. This magical herb was said to be found in remote mountains, guarded by spirits. Only those pure of heart and mind could find and harvest it, making its discovery a rare and coveted event among the people.",
+      "summary_zh": "在中国古代神话中，瑶草是一种传说中的神奇植物，据说它拥有神奇的药效，能够恢复活力并延长寿命。这种神秘的草本植物生长在遥远的山中，并被灵异之物守护着。只有心地纯洁的人才能发现和采摘它，因此其发现被视为罕见而珍贵的事情。",
+      "country": "China 中国",
+      "emoji": "🌿",
+      "type": "myth",
+      "tags": [
+        "ancient",
+        "mythical plants"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Yao_Grass"
+    },
+    {
+      "title_en": "Ye Xian",
+      "title_zh": "叶限",
+      "summary_en": "In the ancient land of China, there lived a poor girl named Ye Xian. Her stepmother and stepsisters treated her cruelly, forcing her to do all the hard work while they enjoyed themselves. One day, the Fairy Queen invited all young women to a grand ball to choose a bride for the prince. With the help of a magical fish, Ye Xian was transformed into a beautiful woman who attended the ball. She left behind a glass shoe that matched one of her feet. The prince traced it back to its owner and married Ye Xian, bringing an end to the cruelty of her stepfamily.",
+      "summary_zh": "在中国古代，有一个名叫叶限的女孩。她的继母和继姐妹对她非常苛刻，让她做所有繁重的家务活，而她们则尽情享乐。有一天，仙女王邀请所有年轻女子参加盛大的舞会，为王子挑选新娘。在一条神奇鱼的帮助下，叶限被变成了一个美丽的女人，并出席了舞会。她留下了一只玻璃鞋，与她的脚完美匹配。王子通过这只鞋子找到了她的主人，最终娶了叶限，结束了她继母和继姐妹的残忍。",
+      "country": "China 中国",
+      "emoji": "💎",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "cinderella"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Ye_Xian"
+    },
+    {
+      "title_en": "Youjiao Clan",
+      "title_zh": "有蟜氏",
+      "summary_en": "The Youjiao clan, a lineage from the ancient period of China, was known for their bee totem and residence in Pingfeng Mountain near Luoyang. Their most notable figure was Fubao, who became the mother of the legendary Yellow Emperor. The clan's legacy is preserved in early texts like the Classic of Mountains and Seas, linking them to the origins of Chinese civilization.",
+      "summary_zh": "有蟜氏是中國古代的一個氏族，以蜂為圖騰並居住在洛陽附近的平逢山。他們最著名的成員是傅寶，她是黃帝的母親。有蟜氏的傳說保存在《山海經》等早期文獻中，與中國文明的起源密切相關。",
+      "country": "China 中国",
+      "emoji": "🐝",
+      "type": "folklore",
+      "tags": [
+        "ancient",
+        "legendary",
+        "totem",
+        "mythology"
+      ],
+      "lat": 35.86,
+      "lng": 104.19,
+      "wiki_en": "https://en.wikipedia.org/wiki/Youjiao_clan"
+    }
+  ]
+}
